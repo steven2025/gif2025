@@ -1,0 +1,3548 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HSK单词连连看</title>
+    <style>
+        /* 基础样式 - 保持不变 */
+        :root {
+            --primary-color: #3498db;
+            --secondary-color: #2ecc71;
+            --accent-color: #e74c3c;
+            --dark-color: #2c3e50;
+            --light-color: #ecf0f1;
+            --chinese-color: #e74c3c;
+            --pinyin-color: #3498db;
+            --translation-color: #2ecc71;
+            --tech-blue: #2980b9;
+            --tech-purple: #9b59b6;
+            --tech-green: #27ae60;
+            --tech-orange: #e67e22;
+            --tech-red: #c0392b;
+            --tech-cyan: #1abc9c;
+            --hint-color: #f1c40f;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Microsoft YaHei', sans-serif;
+        }
+
+        body {
+            background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+            color: var(--light-color);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 15px;
+            overflow-x: hidden;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1100px;
+            background-color: rgba(44, 62, 80, 0.9);
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+            padding: 15px;
+            margin: 15px 0;
+            position: relative;
+        }
+
+        /* 加载指示器 */
+        .loading-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 9999;
+            flex-direction: column;
+        }
+
+        .loading-spinner {
+            width: 50px;
+            height: 50px;
+            border: 5px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            border-top-color: #3498db;
+            animation: spin 1s ease-in-out infinite;
+            margin-bottom: 20px;
+        }
+
+        .loading-text {
+            color: white;
+            font-size: 1.2rem;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--tech-cyan);
+        }
+
+        .subtitle {
+            font-size: 1.6rem;
+            margin-bottom: 5px;
+            color: #f1c40f;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-weight: bold;
+            background: linear-gradient(90deg, #ff8a00, #e52e71, #9b59b6, #3498db);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            animation: titleGlow 3s ease-in-out infinite alternate;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            margin-bottom: 8px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            color: #fff;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            position: relative;
+            text-shadow: 
+                0 1px 0 #ccc,
+                0 2px 0 #c9c9c9,
+                0 3px 0 #bbb,
+                0 4px 0 #b9b9b9,
+                0 5px 0 #aaa,
+                0 6px 1px rgba(0,0,0,.1),
+                0 0 5px rgba(0,0,0,.1),
+                0 1px 3px rgba(0,0,0,.3),
+                0 3px 5px rgba(0,0,0,.2),
+                0 5px 10px rgba(0,0,0,.25),
+                0 10px 10px rgba(0,0,0,.2),
+                0 20px 20px rgba(0,0,0,.15);
+            background: linear-gradient(90deg, #ff8a00, #e52e71, #9b59b6, #3498db);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            animation: titleGlow 3s ease-in-out infinite alternate;
+        }
+
+        @keyframes titleGlow {
+            0% {
+                filter: hue-rotate(0deg);
+                text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+            }
+            100% {
+                filter: hue-rotate(360deg);
+                text-shadow: 0 0 20px rgba(255, 255, 255, 0.8), 0 0 30px rgba(255, 255, 255, 0.6);
+            }
+        }
+
+        .user-info {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            padding: 8px 12px;
+            background: linear-gradient(90deg, rgba(52, 152, 219, 0.3), rgba(155, 89, 182, 0.3));
+            border-radius: 10px;
+        }
+
+        .menu {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 15px;
+            justify-content: center;
+        }
+
+        .btn {
+            padding: 10px 16px;
+            background: linear-gradient(145deg, var(--tech-blue), var(--tech-purple));
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+            transition: 0.5s;
+        }
+
+        .btn:hover::before {
+            left: 100%;
+        }
+
+        .btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        .btn-secondary {
+            background: linear-gradient(145deg, var(--tech-green), var(--tech-cyan));
+        }
+
+        .btn-accent {
+            background: linear-gradient(145deg, var(--tech-orange), var(--tech-red));
+        }
+
+        .game-area {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin-bottom: 15px;
+            position: relative;
+            min-height: 400px;
+        }
+
+        .column {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .tile {
+            height: 80px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 8px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            cursor: pointer;
+            box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
+            transition: all 0.3s ease;
+            text-align: center;
+            padding: 8px;
+            perspective: 1000px;
+            transform-style: preserve-3d;
+        }
+
+        .tile.chinese {
+            background: linear-gradient(145deg, var(--chinese-color), #c0392b);
+            transform: rotateY(5deg);
+        }
+
+        .tile.pinyin {
+            background: linear-gradient(145deg, var(--pinyin-color), #2980b9);
+            transform: rotateY(0deg);
+        }
+
+        .tile.translation {
+            background: linear-gradient(145deg, var(--translation-color), #27ae60);
+            transform: rotateY(-5deg);
+        }
+
+        .tile.selected {
+            box-shadow: 0 0 15px 5px rgba(255, 255, 255, 0.8);
+            transform: scale(1.05) translateY(-5px);
+        }
+
+        .tile.correct {
+            animation: correct 0.5s forwards;
+        }
+
+        .tile.wrong {
+            animation: wrong 0.5s;
+        }
+
+        .tile.hint {
+            box-shadow: 0 0 20px 5px var(--hint-color);
+            transform: scale(1.1);
+            z-index: 10;
+            transition: all 0.3s ease;
+        }
+        
+        .hint-group {
+            animation: hintPulse 1.5s ease-in-out 3;
+        }
+        
+        @keyframes hintPulse {
+            0%, 100% { 
+                box-shadow: 0 0 10px 3px var(--hint-color);
+                transform: scale(1);
+            }
+            50% { 
+                box-shadow: 0 0 25px 8px var(--hint-color);
+                transform: scale(1.05);
+            }
+        }
+        
+        .hint-count {
+            display: inline-block;
+            background: rgba(241, 196, 15, 0.2);
+            padding: 2px 8px;
+            border-radius: 10px;
+            margin-left: 5px;
+            font-size: 0.8rem;
+        }
+
+        @keyframes correct {
+            0% { transform: scale(1); opacity: 1; }
+            50% { transform: scale(1.2); opacity: 0.7; }
+            100% { transform: scale(0); opacity: 0; }
+        }
+
+        @keyframes wrong {
+            0%, 100% { transform: translateX(0); }
+            25% { transform: translateX(-8px); }
+            75% { transform: translateX(8px); }
+        }
+
+        .game-controls {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 15px;
+            padding-top: 12px;
+            border-top: 2px solid var(--tech-cyan);
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .progress {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 12px;
+            padding: 8px;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 8px;
+            font-size: 0.9rem;
+        }
+
+        .progress-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .progress-value {
+            font-weight: bold;
+            color: var(--tech-cyan);
+            font-size: 1.1rem;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.7);
+            z-index: 100;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal-content {
+            background-color: var(--dark-color);
+            padding: 25px;
+            border-radius: 15px;
+            width: 90%;
+            max-width: 450px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+        }
+
+        .form-group {
+            margin-bottom: 12px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .form-group input {
+            width: 100%;
+            padding: 8px;
+            border-radius: 5px;
+            border: 1px solid #555;
+            background-color: rgba(255, 255, 255, 0.1);
+            color: white;
+        }
+
+        .hsk-levels {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 8px;
+            margin: 15px 0;
+        }
+
+        .level-btn {
+            padding: 12px;
+            background: linear-gradient(145deg, var(--tech-blue), var(--tech-purple));
+            border-radius: 8px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .level-btn:hover {
+            background: linear-gradient(145deg, var(--tech-purple), var(--tech-blue));
+            transform: translateY(-3px);
+        }
+
+        .upload-info {
+            margin: 12px 0;
+            padding: 8px;
+            background: rgba(52, 152, 219, 0.2);
+            border-radius: 8px;
+        }
+
+        .word-count {
+            font-weight: bold;
+            color: var(--tech-cyan);
+        }
+
+        .next-level {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 15px;
+        }
+
+        .error-book {
+            max-height: 50vh;
+            overflow-y: auto;
+            margin-bottom: 15px;
+            padding: 10px;
+            background: rgba(231, 76, 60, 0.1);
+            border-radius: 8px;
+        }
+
+        .error-item {
+            padding: 10px;
+            margin: 8px 0;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 5px;
+            border-left: 4px solid #e74c3c;
+        }
+        
+        .main-menu {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 15px;
+        }
+        
+        .file-format-info {
+            margin-top: 8px;
+            padding: 8px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 5px;
+            font-size: 0.85rem;
+        }
+        
+        .language-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            justify-content: center;
+            margin-bottom: 12px;
+        }
+        
+        .copyright {
+            text-align: center;
+            margin-top: 20px;
+            padding-top: 12px;
+            border-top: 1px solid rgba(255, 255, 255, 0.2);
+            font-size: 0.7rem;
+            color: rgba(255, 255, 255, 0.7);
+            line-height: 1.4;
+        }
+        
+        .bilingual {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 3px;
+        }
+        
+        .chinese-text {
+            font-size: 0.9rem;
+        }
+        
+        .language-text {
+            font-size: 0.75rem;
+            opacity: 0.8;
+        }
+        
+        .exit-message {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.9);
+            z-index: 200;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            color: white;
+        }
+        
+        .exit-text {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            background: linear-gradient(90deg, #ff8a00, #e52e71, #9b59b6, #3498db);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            animation: exitGlow 2s ease-in-out infinite alternate;
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+        }
+        
+        .exit-subtext {
+            font-size: 1.5rem;
+            background: linear-gradient(90deg, #ff8a00, #e52e71, #9b59b6, #3498db);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            animation: exitGlow 2s ease-in-out infinite alternate;
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+        }
+        
+        @keyframes exitGlow {
+            0% {
+                filter: hue-rotate(0deg);
+                text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+            }
+            100% {
+                filter: hue-rotate(360deg);
+                text-shadow: 0 0 20px rgba(255, 255, 255, 0.8), 0 0 30px rgba(255, 255, 255, 0.6);
+            }
+        }
+        
+        .game-screen-container {
+            max-height: 80vh;
+            overflow-y: auto;
+        }
+        
+        .language-btn {
+            position: relative;
+            width: 120px;
+            height: 70px;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 
+                0 6px 10px rgba(0, 0, 0, 0.3),
+                inset 0 1px 0 rgba(255, 255, 255, 0.2),
+                inset 0 -1px 0 rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            perspective: 1000px;
+            transform-style: preserve-3d;
+            cursor: pointer;
+        }
+        
+        .language-btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+            transition: 0.5s;
+        }
+        
+        .language-btn:hover::before {
+            left: 100%;
+        }
+        
+        .language-btn:hover {
+            transform: translateY(-5px) rotateX(5deg) rotateY(5deg);
+            box-shadow: 
+                0 10px 15px rgba(0, 0, 0, 0.4),
+                inset 0 1px 0 rgba(255, 255, 255, 0.3),
+                inset 0 -1px 0 rgba(0, 0, 0, 0.3);
+        }
+        
+        .language-btn:active {
+            transform: translateY(-2px) rotateX(2deg) rotateY(2deg);
+            box-shadow: 
+                0 4px 8px rgba(0, 0, 0, 0.3),
+                inset 0 1px 0 rgba(255, 255, 255, 0.2),
+                inset 0 -1px 0 rgba(0, 0, 0, 0.2);
+        }
+        
+        .language-text {
+            position: relative;
+            z-index: 2;
+            color: white;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
+            font-weight: bold;
+            text-align: center;
+        }
+        
+        .language-english { 
+            background: linear-gradient(145deg, #3498db, #2980b9);
+            transform: rotateY(5deg);
+        }
+        
+        .language-spanish { 
+            background: linear-gradient(145deg, #e74c3c, #c0392b);
+            transform: rotateY(3deg);
+        }
+        
+        .language-french { 
+            background: linear-gradient(145deg, #9b59b6, #8e44ad);
+            transform: rotateY(1deg);
+        }
+        
+        .language-german { 
+            background: linear-gradient(145deg, #34495e, #2c3e50);
+            transform: rotateY(-1deg);
+        }
+        
+        .language-japanese { 
+            background: linear-gradient(145deg, #e67e22, #d35400);
+            transform: rotateY(-3deg);
+        }
+        
+        .language-thai { 
+            background: linear-gradient(145deg, #f1c40f, #f39c12);
+            transform: rotateY(-5deg);
+        }
+        
+        .language-vietnamese { 
+            background: linear-gradient(145deg, #2ecc71, #27ae60);
+            transform: rotateY(4deg);
+        }
+        
+        .language-korean { 
+            background: linear-gradient(145deg, #1abc9c, #16a085);
+            transform: rotateY(2deg);
+        }
+        
+        .language-russian { 
+            background: linear-gradient(145deg, #e74c3c, #c0392b);
+            transform: rotateY(0deg);
+        }
+        
+        .language-laos { 
+            background: linear-gradient(145deg, #3498db, #2980b9);
+            transform: rotateY(-2deg);
+        }
+        
+        .game-screen header {
+            display: none;
+        }
+        
+        .game-screen .copyright {
+            display: none;
+        }
+        
+        .game-screen .user-info {
+            display: none;
+        }
+        
+        .panda-gif {
+            display: none;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 25vw;
+            height: 25vw;
+            z-index: 50;
+            pointer-events: none;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+        }
+        
+        .panda-gif img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 15px;
+        }
+        
+        .panda-btn-container {
+            display: none;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 40;
+            text-align: center;
+        }
+        
+        .panda-btn {
+            padding: 15px 30px;
+            font-size: 1.2rem;
+            background: linear-gradient(145deg, #f1c40f, #f39c12);
+            color: #2c3e50;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
+            transition: all 0.3s ease;
+            font-weight: bold;
+        }
+        
+        .panda-btn:hover {
+            transform: translateY(-5px) scale(1.05);
+            box-shadow: 0 10px 15px rgba(0, 0, 0, 0.4);
+        }
+        
+        .close-panda-btn {
+            display: none;
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: rgba(0, 0, 0, 0.7);
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            font-size: 1.2rem;
+            cursor: pointer;
+            z-index: 60;
+        }
+        
+        .close-panda-btn:hover {
+            background: rgba(0, 0, 0, 0.9);
+        }
+        
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        .btn:disabled:hover {
+            transform: none;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+        }
+        
+        #error-book-modal .modal-content {
+            max-height: 80vh;
+            overflow-y: auto;
+            width: 90%;
+            max-width: 600px;
+        }
+        
+        .error-book-title {
+            text-align: center;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #e74c3c;
+            color: #f1c40f;
+        }
+        
+        .no-errors {
+            text-align: center;
+            padding: 20px;
+            color: #bdc3c7;
+            font-style: italic;
+        }
+        
+        .error-item strong {
+            color: #f1c40f;
+        }
+        
+        .error-item small {
+            color: #bdc3c7;
+            font-size: 0.8rem;
+        }
+        
+        #error-book-modal .modal-content .btn {
+            position: sticky;
+            bottom: 0;
+            background: #3498db;
+            margin-top: 10px;
+            width: 100%;
+        }
+
+        /* 新增样式：单词库请求部分 */
+        .wordbank-request {
+            background: rgba(241, 196, 15, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 4px solid #f1c40f;
+            margin-bottom: 20px;
+            text-align: left;
+            line-height: 1.6;
+        }
+        
+        .wordbank-request h3 {
+            color: #f1c40f;
+            margin-bottom: 15px;
+            text-align: center;
+        }
+        
+        .email-template {
+            background: rgba(0,0,0,0.3);
+            padding: 15px;
+            border-radius: 5px;
+            font-family: monospace;
+            font-size: 0.85rem;
+            color: #ecf0f1;
+            line-height: 1.8;
+            margin: 10px 0;
+        }
+        
+        .wechat-card {
+            display: inline-block;
+            background: white;
+            padding: 8px;
+            border-radius: 8px;
+            margin-bottom: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+            transition: transform 0.3s ease;
+            width: 120px;
+            height: 120px;
+            margin-right: 15px;
+            vertical-align: top;
+        }
+        
+        .wechat-card:hover {
+            transform: scale(1.03);
+        }
+        
+        .wechat-card img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            display: block;
+        }
+        
+        .wechat-note {
+            color: #f39c12;
+            font-size: 0.85rem;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+        
+        .process-guide {
+            background: rgba(52, 152, 219, 0.2);
+            padding: 12px;
+            border-radius: 8px;
+            margin-top: 15px;
+            text-align: left;
+        }
+        
+        .process-steps {
+            color: #ecf0f1;
+            font-size: 0.8rem;
+            margin: 5px 0;
+            padding-left: 20px;
+            line-height: 1.5;
+        }
+        
+        .process-steps li {
+            margin-bottom: 8px;
+        }
+        
+        /* 新增样式：级别菜单布局 */
+        .level-menu-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 20px;
+            gap: 20px;
+        }
+        
+        .level-menu-left {
+            flex: 1;
+        }
+        
+        .level-menu-right {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+        }
+        
+        .level-menu-upload {
+            background: rgba(52, 152, 219, 0.2);
+            padding: 15px;
+            border-radius: 8px;
+            width: 100%;
+            max-width: 300px;
+        }
+        
+        .upload-bilingual {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 5px;
+            margin-bottom: 10px;
+        }
+        
+        .file-input-container {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            margin-top: 10px;
+        }
+        
+        .file-input-label {
+            font-size: 0.9rem;
+            color: #ecf0f1;
+            text-align: center;
+        }
+        
+        .file-input-wrapper {
+            position: relative;
+            display: inline-block;
+            width: 100%;
+        }
+        
+        .file-input-wrapper input[type="file"] {
+            width: 100%;
+            padding: 8px;
+            border-radius: 5px;
+            border: 1px solid #555;
+            background-color: rgba(255, 255, 255, 0.1);
+            color: white;
+            cursor: pointer;
+        }
+        
+        .wechat-row {
+            display: flex;
+            align-items: flex-start;
+            margin-top: 15px;
+        }
+        
+        .wechat-text {
+            flex: 1;
+            padding-left: 10px;
+        }
+        
+        /* 简化文件上传样式 */
+        .simple-file-upload {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-top: 15px;
+        }
+        
+        .file-input-simple {
+            width: 100%;
+            padding: 8px;
+            border-radius: 5px;
+            border: 1px solid #555;
+            background-color: rgba(255, 255, 255, 0.1);
+            color: white;
+            cursor: pointer;
+        }
+        
+        @media (max-width: 768px) {
+            .game-area {
+                grid-template-columns: 1fr;
+                gap: 10px;
+            }
+            
+            .column {
+                flex-direction: row;
+                justify-content: space-between;
+            }
+            
+            .tile {
+                height: 65px;
+                font-size: 1.1rem;
+                flex: 1;
+                margin: 0 3px;
+            }
+            
+            .game-controls {
+                flex-direction: column;
+            }
+            
+            .exit-text {
+                font-size: 1.8rem;
+            }
+            
+            .exit-subtext {
+                font-size: 1.2rem;
+            }
+            
+            .language-btn {
+                width: 100px;
+                height: 60px;
+            }
+            
+            .panda-gif {
+                width: 50vw;
+                height: 50vw;
+            }
+            
+            .panda-btn {
+                padding: 12px 24px;
+                font-size: 1rem;
+            }
+            
+            .wordbank-request {
+                padding: 15px;
+            }
+            
+            .wechat-card {
+                width: 100px;
+                height: 100px;
+                margin-right: 10px;
+            }
+            
+            .email-template {
+                padding: 10px;
+                font-size: 0.8rem;
+            }
+            
+            .level-menu-top {
+                flex-direction: column;
+            }
+            
+            .level-menu-right {
+                align-items: center;
+                width: 100%;
+            }
+            
+            .level-menu-upload {
+                max-width: 100%;
+            }
+            
+            .wechat-row {
+                flex-direction: column;
+            }
+            
+            .wechat-text {
+                padding-left: 0;
+                margin-top: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- 加载指示器 -->
+    <div id="loading-overlay" class="loading-overlay">
+        <div class="loading-spinner"></div>
+        <div class="loading-text">加载中，请稍候...</div>
+    </div>
+
+    <div class="container">
+        <header id="main-header">
+            <div class="subtitle">HSK Word Matching Game</div>
+            <h1>汉语水平考试（HSK）单词连连看</h1>
+            <p id="game-description">连接中文、拼音和翻译，学习汉语词汇</p>
+        </header>
+
+        <div class="user-info">
+            <div id="user-display">未登录 / Not logged in</div>
+            <div class="menu">
+                <button id="login-btn" class="btn">
+                    <div class="bilingual">
+                        <span class="chinese-text">登录</span>
+                        <span class="language-text" id="login-text">Login</span>
+                    </div>
+                </button>
+                <button id="register-btn" class="btn btn-secondary">
+                    <div class="bilingual">
+                        <span class="chinese-text">注册</span>
+                        <span class="language-text" id="register-text">Register</span>
+                    </div>
+                </button>
+                <button id="demo-btn" class="btn btn-accent">
+                    <div class="bilingual">
+                        <span class="chinese-text">试玩</span>
+                        <span class="language-text">Demo</span>
+                    </div>
+                </button>
+                <button id="save-btn" class="btn">
+                    <div class="bilingual">
+                        <span class="chinese-text">保存</span>
+                        <span class="language-text">Save</span>
+                    </div>
+                </button>
+                <button id="logout-btn" class="btn btn-accent" style="display: none;">
+                    <div class="bilingual">
+                        <span class="chinese-text">退出登录</span>
+                        <span class="language-text">Logout</span>
+                    </div>
+                </button>
+                <!-- 已移除退出按钮 -->
+            </div>
+        </div>
+
+        <div id="main-menu" class="main-menu">
+            <div class="language-row">
+                <button id="english-btn" class="language-btn language-english">
+                    <div class="language-text">
+                        <div class="chinese-text">英语</div>
+                        <div class="language-text">English</div>
+                    </div>
+                </button>
+                <button id="spanish-btn" class="language-btn language-spanish">
+                    <div class="language-text">
+                        <div class="chinese-text">西班牙语</div>
+                        <div class="language-text">Español</div>
+                    </div>
+                </button>
+                <button id="french-btn" class="language-btn language-french">
+                    <div class="language-text">
+                        <div class="chinese-text">法语</div>
+                        <div class="language-text">Français</div>
+                    </div>
+                </button>
+                <button id="german-btn" class="language-btn language-german">
+                    <div class="language-text">
+                        <div class="chinese-text">德语</div>
+                        <div class="language-text">Deutsch</div>
+                    </div>
+                </button>
+                <button id="japanese-btn" class="language-btn language-japanese">
+                    <div class="language-text">
+                        <div class="chinese-text">日语</div>
+                        <div class="language-text">日本語</div>
+                    </div>
+                </button>
+            </div>
+            <div class="language-row">
+                <button id="thai-btn" class="language-btn language-thai">
+                    <div class="language-text">
+                        <div class="chinese-text">泰语</div>
+                        <div class="language-text">ไทย</div>
+                    </div>
+                </button>
+                <button id="vietnamese-btn" class="language-btn language-vietnamese">
+                    <div class="language-text">
+                        <div class="chinese-text">越南语</div>
+                        <div class="language-text">Tiếng Việt</div>
+                    </div>
+                </button>
+                <button id="korean-btn" class="language-btn language-korean">
+                    <div class="language-text">
+                        <div class="chinese-text">韩语</div>
+                        <div class="language-text">한국어</div>
+                    </div>
+                </button>
+                <button id="russian-btn" class="language-btn language-russian">
+                    <div class="language-text">
+                        <div class="chinese-text">俄语</div>
+                        <div class="language-text">Русский</div>
+                    </div>
+                </button>
+                <button id="laos-btn" class="language-btn language-laos">
+                    <div class="language-text">
+                        <div class="chinese-text">老挝语</div>
+                        <div class="language-text">ພາສາລາວ</div>
+                    </div>
+                </button>
+            </div>
+        </div>
+
+        <div id="hsk-menu" class="menu" style="display: none;">
+            <button id="hsk1-btn" class="btn">HSK 1</button>
+            <button id="hsk2-btn" class="btn">HSK 2</button>
+            <button id="hsk3-btn" class="btn">HSK 3</button>
+            <button id="hsk4-btn" class="btn">HSK 4</button>
+            <button id="hsk5-btn" class="btn">HSK 5</button>
+            <button id="hsk6-btn" class="btn">HSK 6</button>
+            <button id="demo-btn-hsk" class="btn btn-accent">
+                <div class="bilingual">
+                    <span class="chinese-text">试玩</span>
+                    <span class="language-text">Demo</span>
+                </div>
+            </button>
+            <button id="back-to-main" class="btn btn-accent">
+                <div class="bilingual">
+                    <span class="chinese-text">返回主菜单</span>
+                    <span class="language-text" id="back-to-main-text">Back to Main Menu</span>
+                </div>
+            </button>
+        </div>
+
+        <div id="level-menu" class="menu" style="display: none;">
+            <!-- 顶部按钮布局 -->
+            <div class="level-menu-top">
+                <div class="level-menu-left">
+                    <button id="start-game" class="btn btn-secondary">
+                        <div class="bilingual">
+                            <span class="chinese-text">开始游戏</span>
+                            <span class="language-text" id="start-game-text">Start Game</span>
+                        </div>
+                    </button>
+                    <button id="back-to-hsk" class="btn btn-accent">
+                        <div class="bilingual">
+                            <span class="chinese-text">返回HSK菜单</span>
+                            <span class="language-text" id="back-to-hsk-text">Back to HSK Menu</span>
+                        </div>
+                    </button>
+                </div>
+                
+                <div class="level-menu-right">
+                    <div class="level-menu-upload">
+                        <div class="upload-bilingual">
+                            <span class="chinese-text">上传单词库</span>
+                            <span class="language-text">Upload Word Bank</span>
+                        </div>
+                        <div class="simple-file-upload">
+                            <input type="file" id="word-file" accept=".txt" class="file-input-simple">
+                            <button id="upload-btn" class="btn">
+                                <div class="bilingual">
+                                    <span class="chinese-text">上传单词库</span>
+                                    <span class="language-text" id="upload-btn-text">Upload Word List</span>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- 单词库请求内容 -->
+            <div id="wordbank-request-content"></div>
+        </div>
+
+        <div id="game-screen" style="display: none;">
+            <header id="game-header">
+                <div class="subtitle">HSK Word Matching Game</div>
+                <h1>汉语水平考试（HSK）单词连连看</h1>
+                <p id="game-description-2">连接中文、拼音和翻译，学习汉语词汇</p>
+            </header>
+            
+            <div class="game-screen-container">
+                <div class="progress">
+                    <div class="progress-item">
+                        <div id="level-progress">关卡进度</div>
+                        <div class="progress-value"><span id="level-display">1</span>/<span id="total-levels">3</span></div>
+                    </div>
+                    <div class="progress-item">
+                        <div id="word-progress-text">单词进度</div>
+                        <div class="progress-value"><span id="word-progress">0</span>/<span id="total-words">18</span></div>
+                    </div>
+                </div>
+
+                <div class="game-area" id="game-board">
+                    <!-- 熊猫点赞按钮容器 -->
+                    <div id="panda-btn-container" class="panda-btn-container">
+                        <button id="panda-btn" class="panda-btn">
+                            <div class="bilingual">
+                                <span class="chinese-text">熊猫的点赞</span>
+                                <span class="language-text">Panda's Like</span>
+                            </div>
+                        </button>
+                    </div>
+                    
+                    <!-- 功夫熊猫GIF容器 -->
+                    <div id="panda-animation" class="panda-gif">
+                        <img src="https://github.com/steven2025/gif2025/raw/main/10%E6%9C%8812%E6%97%A5%20(1)(1).gif" alt="功夫熊猫庆祝动画">
+                    </div>
+                    
+                    <!-- 关闭熊猫动画按钮 -->
+                    <button id="close-panda-btn" class="close-panda-btn">×</button>
+                    
+                    <!-- 游戏列将由JavaScript动态生成 -->
+                </div>
+
+                <div class="next-level" id="next-level-btns" style="display: none;">
+                    <button id="prev-level" class="btn" disabled>
+                        <div class="bilingual">
+                            <span class="chinese-text">上一关</span>
+                            <span class="language-text" id="prev-level-text">Previous Level</span>
+                        </div>
+                    </button>
+                    <button id="next-level" class="btn btn-secondary" disabled>
+                        <div class="bilingual">
+                            <span class="chinese-text">下一关</span>
+                            <span class="language-text" id="next-level-text">Next Level</span>
+                        </div>
+                    </button>
+                </div>
+
+                <div class="game-controls">
+                    <button id="hint-btn" class="btn">
+                        <div class="bilingual">
+                            <span class="chinese-text">提示</span>
+                            <span class="language-text" id="hint-text">Hint (3/3)</span>
+                        </div>
+                    </button>
+                    <button id="reshuffle-btn" class="btn">
+                        <div class="bilingual">
+                            <span class="chinese-text">重排序</span>
+                            <span class="language-text" id="reshuffle-text">Reshuffle</span>
+                        </div>
+                    </button>
+                    <button id="pause-btn" class="btn">
+                        <div class="bilingual">
+                            <span class="chinese-text">暂停</span>
+                            <span class="language-text" id="pause-text">Pause</span>
+                        </div>
+                    </button>
+                    <button id="back-to-level" class="btn">
+                        <div class="bilingual">
+                            <span class="chinese-text">返回</span>
+                            <span class="language-text" id="back-to-level-text">Back</span>
+                        </div>
+                    </button>
+                    <button id="error-book-btn" class="btn btn-accent">
+                        <div class="bilingual">
+                            <span class="chinese-text">错词本</span>
+                            <span class="language-text" id="error-book-text">Error Book</span>
+                        </div>
+                    </button>
+                </div>
+            </div>
+        </div>
+        
+        <div class="copyright">
+            <div>Copyright Held by: Mr. Yan Qinghua, Chongqing Technology and Business University (CTBU)</div>
+            <div>Support by: Teaching and Research Section of TCFL, CTBU</div>
+            <div>游戏版权所有，重庆工商大学 鄢清华</div>
+            <div>感谢重庆工商大学对外汉语教研室的支持</div>
+        </div>
+    </div>
+
+    <!-- 退出消息 -->
+    <div id="exit-message" class="exit-message">
+        <div class="exit-text">谢谢您的参与</div>
+        <div class="exit-subtext">Thank you for your participation</div>
+        <div class="exit-text">祝您成功通过HSK考试</div>
+        <div class="exit-subtext">Wish you success in passing the HSK exam</div>
+        <button id="close-exit" class="btn" style="margin-top: 30px;">
+            <div class="bilingual">
+                <span class="chinese-text">关闭</span>
+                <span class="language-text">Close</span>
+            </div>
+        </button>
+    </div>
+
+    <!-- 登录模态框 -->
+    <div id="login-modal" class="modal">
+        <div class="modal-content">
+            <h2 id="login-modal-title">登录 / Login</h2>
+            <div class="form-group">
+                <label for="login-username" id="username-label">用户名 / Username</label>
+                <input type="text" id="login-username">
+            </div>
+            <div class="form-group">
+                <label for="login-password" id="password-label">密码 / Password</label>
+                <input type="password" id="login-password">
+            </div>
+            <button id="login-submit" class="btn">
+                <div class="bilingual">
+                    <span class="chinese-text">登录</span>
+                    <span class="language-text">Login</span>
+                </div>
+            </button>
+            <button id="login-cancel" class="btn btn-accent">
+                <div class="bilingual">
+                    <span class="chinese-text">取消</span>
+                    <span class="language-text">Cancel</span>
+                </div>
+            </button>
+        </div>
+    </div>
+
+    <!-- 注册模态框 -->
+    <div id="register-modal" class="modal">
+        <div class="modal-content">
+            <h2 id="register-modal-title">注册 / Register</h2>
+            <div class="form-group">
+                <label for="register-username" id="reg-username-label">用户名 / Username</label>
+                <input type="text" id="register-username">
+            </div>
+            <div class="form-group">
+                <label for="register-password" id="reg-password-label">密码 / Password</label>
+                <input type="password" id="register-password">
+            </div>
+            <div class="form-group">
+                <label for="register-confirm" id="confirm-password-label">确认密码 / Confirm Password</label>
+                <input type="password" id="register-confirm">
+            </div>
+            <button id="register-submit" class="btn">
+                <div class="bilingual">
+                    <span class="chinese-text">注册</span>
+                    <span class="language-text">Register</span>
+                </div>
+            </button>
+            <button id="register-cancel" class="btn btn-accent">
+                <div class="bilingual">
+                    <span class="chinese-text">取消</span>
+                    <span class="language-text">Cancel</span>
+                </div>
+            </button>
+        </div>
+    </div>
+
+    <!-- 错词本模态框 -->
+    <div id="error-book-modal" class="modal">
+        <div class="modal-content">
+            <h2 id="error-book-title" class="error-book-title">错词本 / Error Book</h2>
+            <div id="error-list" class="error-book">
+                <!-- 错词列表将由JavaScript动态生成 -->
+            </div>
+            <button id="close-error-book" class="btn">
+                <div class="bilingual">
+                    <span class="chinese-text">关闭</span>
+                    <span class="language-text">Close</span>
+                </div>
+            </button>
+            <button id="clear-error-book" class="btn btn-accent" style="margin-top: 10px;">
+                <div class="bilingual">
+                    <span class="chinese-text">清空错词本</span>
+                    <span class="language-text">Clear Error Book</span>
+                </div>
+            </button>
+        </div>
+    </div>
+
+    <script>
+        // 游戏状态管理
+        const gameState = {
+            currentLanguage: 'english',
+            currentHSKLevel: null,
+            isLoggedIn: false,
+            username: '',
+            demoMode: false,
+            demoPlayed: 0,
+            currentLevel: 1,
+            totalLevels: 3,
+            totalWords: 18,
+            completedWords: 0,
+            selectedTiles: [],
+            errorWords: [],
+            wordData: {
+                chinese: [],
+                pinyin: [],
+                translation: []
+            },
+            userProgress: {},
+            currentWordBank: [],
+            usedWordIndices: new Set(),
+            wordMapping: [],
+            hintCount: 3,
+            maxHints: 3,
+            hintUsed: false,
+            pandaAnimationPlaying: false
+        };
+
+        // 完整语言包
+        const languagePack = {
+            english: {
+                login: "Login",
+                register: "Register",
+                demo: "Demo",
+                backToMain: "Back to Main Menu",
+                uploadBtn: "Upload Word List",
+                startGame: "Start Game",
+                backToHsk: "Back to HSK Menu",
+                levelProgress: "Level Progress",
+                wordProgress: "Word Progress",
+                prevLevel: "Previous Level",
+                nextLevel: "Next Level",
+                hint: "Hint",
+                reshuffle: "Reshuffle",
+                pause: "Pause",
+                back: "Back",
+                errorBook: "Error Book",
+                loginModalTitle: "Login",
+                username: "Username",
+                password: "Password",
+                registerModalTitle: "Register",
+                confirmPassword: "Confirm Password",
+                errorBookTitle: "Error Book",
+                close: "Close",
+                gameDescription: "Connect Chinese, Pinyin and translations to learn Chinese vocabulary",
+                save: "Save",
+                exit: "Exit",
+                pandaLike: "Panda's Like",
+                watchAnimation: "Watch the panda animation to continue",
+                closeAnimation: "Close Animation",
+                wordbankRequestTitle: "获取完整HSK单词库 | Get Complete HSK Word Banks",
+                wordbankRequestIntro: "如果你想获得{language}版的{level}单词库文件，我们提供两种途径： | If you want to get the {level} word bank file in {language}, we provide two ways:",
+                emailMethod: "1. 请发送邮件至 yanqinghua@ctbu.edu.cn | Please send email to yanqinghua@ctbu.edu.cn",
+                emailTemplate: "邮件模板主题：HSK单词库索取 - [语言] - [级别] | Email template subject: HSK Word Bank Request - [Language] - [Level]",
+                emailFields: `Your Name:
+Language version:
+HSK level：`,
+                wechatMethod: "2. 微信扫描二维码添加作者好友 | Scan WeChat QR code to add the author",
+                wechatBenefits: "获取HSK学习资源、加入学习社区、交流学习心得 | Get HSK learning resources, join learning community, exchange learning experiences",
+                wechatProcess: "添加流程： | Adding process:",
+                wechatSteps: [
+                    "微信扫描上方二维码 | Scan the QR code above with WeChat",
+                    "在添加好友页面点击\"添加到通讯录\" | Click 'Add to Contacts' on the friend adding page", 
+                    "在验证信息中填写\"HSK游戏\" | Fill in 'HSK Game' in the verification message",
+                    "通过后发送需要的HSK级别和语言版本 | After approval, send the required HSK level and language version"
+                ]
+            },
+            spanish: {
+                login: "Iniciar sesión",
+                register: "Registrarse",
+                demo: "Demo",
+                backToMain: "Volver al menú principal",
+                uploadBtn: "Subir lista de palabras",
+                startGame: "Comenzar juego",
+                backToHsk: "Volver al menú HSK",
+                levelProgress: "Progreso de nivel",
+                wordProgress: "Progreso de palabras",
+                prevLevel: "Nivel anterior",
+                nextLevel: "Siguiente nivel",
+                hint: "Pista",
+                reshuffle: "Reordenar",
+                pause: "Pausa",
+                back: "Atrás",
+                errorBook: "Libro de errores",
+                loginModalTitle: "Iniciar sesión",
+                username: "Nombre de usuario",
+                password: "Contraseña",
+                registerModalTitle: "Registrarse",
+                confirmPassword: "Confirmar contraseña",
+                errorBookTitle: "Libro de errores",
+                close: "Cerrar",
+                gameDescription: "Conecta chino, Pinyin y traducciones para aprender vocabulario chino",
+                save: "Guardar",
+                exit: "Salir",
+                pandaLike: "Me gusta del panda",
+                watchAnimation: "Mira la animación del panda para continuar",
+                closeAnimation: "Cerrar animación",
+                wordbankRequestTitle: "获取完整HSK单词库 | Obtener bancos de palabras HSK completos",
+                wordbankRequestIntro: "如果你想获得{language}版的{level}单词库文件，我们提供两种途径： | Si desea obtener el archivo del banco de palabras {level} en {language}, ofrecemos dos formas:",
+                emailMethod: "1. 请发送邮件至 yanqinghua@ctbu.edu.cn | Envíe un correo electrónico a yanqinghua@ctbu.edu.cn",
+                emailTemplate: "邮件模板主题：HSK单词库索取 - [语言] - [级别] | Asunto del correo electrónico: Solicitud de banco de palabras HSK - [Idioma] - [Nivel]",
+                emailFields: `Your Name:
+Language version:
+HSK level：`,
+                wechatMethod: "2. 微信扫描二维码添加作者好友 | Escanee el código QR de WeChat para agregar al autor",
+                wechatBenefits: "获取HSK学习资源、加入学习社区、交流学习心得 | Obtenga recursos de aprendizaje HSK, únase a la comunidad de aprendizaje, intercambie experiencias de aprendizaje",
+                wechatProcess: "添加流程： | Proceso de agregación:",
+                wechatSteps: [
+                    "微信扫描上方二维码 | Escanee el código QR anterior con WeChat",
+                    "在添加好友页面点击\"添加到通讯录\" | Haga clic en 'Agregar a contactos' en la página de agregar amigos", 
+                    "在验证信息中填写\"HSK游戏\" | Complete 'Juego HSK' en el mensaje de verificación",
+                    "通过后发送需要的HSK级别和语言版本 | Después de la aprobación, envíe el nivel HSK y la versión de idioma requeridos"
+                ]
+            },
+            french: {
+                login: "Se connecter",
+                register: "S'inscrire",
+                demo: "Démo",
+                backToMain: "Retour au menu principal",
+                uploadBtn: "Télécharger la liste de mots",
+                startGame: "Commencer le jeu",
+                backToHsk: "Retour au menu HSK",
+                levelProgress: "Progression du nivel",
+                wordProgress: "Progression des mots",
+                prevLevel: "Nivel précédent",
+                nextLevel: "Nivel suivant",
+                hint: "Indice",
+                reshuffle: "Réorganiser",
+                pause: "Pause",
+                back: "Retour",
+                errorBook: "Carnet d'erreurs",
+                loginModalTitle: "Se connecter",
+                username: "Nom d'utilisateur",
+                password: "Mot de passe",
+                registerModalTitle: "S'inscrire",
+                confirmPassword: "Confirmer le mot de passe",
+                errorBookTitle: "Carnet d'erreurs",
+                close: "Fermer",
+                gameDescription: "Connectez le chinois, le Pinyin et les traductions pour apprendre le vocabulaire chinois",
+                save: "Sauvegarder",
+                exit: "Quitter",
+                pandaLike: "J'aime du panda",
+                watchAnimation: "Regardez l'animation du panda para continuer",
+                closeAnimation: "Fermer l'animation",
+                wordbankRequestTitle: "获取完整HSK单词库 | Obtenir des banques de mots HSK complètes",
+                wordbankRequestIntro: "如果你想获得{language}版的{level}单词库文件，我们提供两种途径： | Si vous souhaitez obtenir le fichier de banque de mots {level} en {language}, nous proposons deux méthodes :",
+                emailMethod: "1. 请发送邮件至 yanqinghua@ctbu.edu.cn | Veuillez envoyer un e-mail à yanqinghua@ctbu.edu.cn",
+                emailTemplate: "邮件模板主题：HSK单词库索取 - [语言] - [级别] | Objet de l'e-mail : Demande de banque de mots HSK - [Langue] - [Nivel]",
+                emailFields: `Your Name:
+Language version:
+HSK level：`,
+                wechatMethod: "2. 微信扫描二维码添加作者好友 | Scannez le code QR WeChat pour ajouter l'auteur",
+                wechatBenefits: "获取HSK学习资源、加入学习社区、交流学习心得 | Obtenez des ressources d'apprentissage HSK, rejoignez la communauté d'apprentissage, échangez des expériences d'apprentissage",
+                wechatProcess: "添加流程： | Processus d'ajout :",
+                wechatSteps: [
+                    "微信扫描上方二维码 | Scannez le code QR ci-dessus avec WeChat",
+                    "在添加好友页面点击\"添加到通讯录\" | Cliquez sur 'Ajouter aux contacts' sur la page d'ajout d'ami", 
+                    "在验证信息中填写\"HSK游戏\" | Remplissez 'Jeu HSK' dans le message de vérification",
+                    "通过后发送需要的HSK级别和语言版本 | Après approbation, envoyez le nivel HSK et la version linguistique requis"
+                ]
+            },
+            german: {
+                login: "Anmelden",
+                register: "Registrieren",
+                demo: "Demo",
+                backToMain: "Zurück zum Hauptmenü",
+                uploadBtn: "Wörterliste hochladen",
+                startGame: "Spiel starten",
+                backToHsk: "Zurück zum HSK-Menü",
+                levelProgress: "Level-Fortschritt",
+                wordProgress: "Wort-Fortschritt",
+                prevLevel: "Vorheriges Level",
+                nextLevel: "Nächstes Level",
+                hint: "Hinweis",
+                reshuffle: "Neu mischen",
+                pause: "Pause",
+                back: "Zurück",
+                errorBook: "Fehlerbuch",
+                loginModalTitle: "Anmelden",
+                username: "Benutzername",
+                password: "Passwort",
+                registerModalTitle: "Registrieren",
+                confirmPassword: "Passwort bestätigen",
+                errorBookTitle: "Fehlerbuch",
+                close: "Schließen",
+                gameDescription: "Verbinde Chinesisch, Pinyin und Übersetzungen, um chinesischen Wortschatz zu lernen",
+                save: "Speichern",
+                exit: "Beenden",
+                pandaLike: "Pandas Like",
+                watchAnimation: "Schauen Sie sich die Panda-Animation an, um fortzufahren",
+                closeAnimation: "Animation schließen",
+                wordbankRequestTitle: "获取完整HSK单词库 | Vollständige HSK-Wortbänke erhalten",
+                wordbankRequestIntro: "如果你想获得{language}版的{level}单词库文件，我们提供两种途径： | Wenn Sie die {level}-Wortbank-Datei in {language} erhalten möchten, bieten wir zwei Wege an:",
+                emailMethod: "1. 请发送邮件至 yanqinghua@ctbu.edu.cn | Bitte senden Sie eine E-Mail an yanqinghua@ctbu.edu.cn",
+                emailTemplate: "邮件模板主题：HSK单词库索取 - [语言] - [级别] | E-Mail-Vorlage Betreff: HSK-Wortbank-Anforderung - [Sprache] - [Level]",
+                emailFields: `Your Name:
+Language version:
+HSK level：`,
+                wechatMethod: "2. 微信扫描二维码添加作者好友 | Scannen Sie den WeChat-QR-Code, um den Autor hinzuzufügen",
+                wechatBenefits: "获取HSK学习资源、加入学习社区、交流学习心得 | Erhalten Sie HSK-Lernressourcen, treten Sie der Lerncommunity bei, tauschen Sie Lernerfahrungen aus",
+                wechatProcess: "添加流程： | Hinzufügungsprozess:",
+                wechatSteps: [
+                    "微信扫描上方二维码 | Scannen Sie den obigen QR-Code mit WeChat",
+                    "在添加好友页面点击\"添加到通讯录\" | Klicken Sie auf der Freundehinzufügen-Seite auf 'Zu Kontakten hinzufügen'", 
+                    "在验证信息中填写\"HSK游戏\" | Geben Sie 'HSK-Spiel' in die Verifizierungsnachricht ein",
+                    "通过后发送需要的HSK级别和语言版本 | Nach der Genehmigung senden Sie das benötigte HSK-Level und die Sprachversion"
+                ]
+            },
+            japanese: {
+                login: "ログイン",
+                register: "登録",
+                demo: "デモ",
+                backToMain: "メインメニューに戻る",
+                uploadBtn: "単語リストをアップロード",
+                startGame: "ゲーム開始",
+                backToHsk: "HSKメニューに戻る",
+                levelProgress: "レベル進行状況",
+                wordProgress: "単語進行状況",
+                prevLevel: "前のレベル",
+                nextLevel: "次のレベル",
+                hint: "ヒント",
+                reshuffle: "シャッフル",
+                pause: "一時停止",
+                back: "戻る",
+                errorBook: "誤答帳",
+                loginModalTitle: "ログイン",
+                username: "ユーザー名",
+                password: "パスワード",
+                registerModalTitle: "登録",
+                confirmPassword: "パスワード確認",
+                errorBookTitle: "誤答帳",
+                close: "閉じる",
+                gameDescription: "中国語、拼音、翻訳を結びつけて中国語の語彙を学びましょう",
+                save: "保存",
+                exit: "終了",
+                pandaLike: "パンダのいいね",
+                watchAnimation: "パンダのアニメーションを見て続行してください",
+                closeAnimation: "アニメーションを閉じる",
+                wordbankRequestTitle: "获取完整HSK单词库 | 完全なHSK単語バンクを取得",
+                wordbankRequestIntro: "如果你想获得{language}版的{level}单词库文件，我们提供两种途径： | {language}版の{level}単語バンクファイルを取得したい場合、2つの方法を提供します：",
+                emailMethod: "1. 请发送邮件至 yanqinghua@ctbu.edu.cn | yanqinghua@ctbu.edu.cn にメールを送信してください",
+                emailTemplate: "邮件模板主题：HSK单词库索取 - [语言] - [级别] | メールテンプレート件名：HSK単語バンクリクエスト - [言語] - [レベル]",
+                emailFields: `Your Name:
+Language version:
+HSK level：`,
+                wechatMethod: "2. 微信扫描二维码添加作者好友 | WeChat QRコードをスキャンして著者を追加",
+                wechatBenefits: "获取HSK学习资源、加入学习社区、交流学习心得 | HSK学習リソースを取得、学習コミュニティに参加、学習経験を交換",
+                wechatProcess: "添加流程： | 追加プロセス：",
+                wechatSteps: [
+                    "微信扫描上方二维码 | WeChatで上記のQRコードをスキャン",
+                    "在添加好友页面点击\"添加到通讯录\" | 友達追加ページで「連絡先に追加」をクリック", 
+                    "在验证信息中填写\"HSK游戏\" | 確認メッセージに「HSKゲーム」と入力",
+                    "通过后发送需要的HSK级别和语言版本 | 承認後、必要なHSKレベルと言語バージョンを送信"
+                ]
+            },
+            thai: {
+                login: "เข้าสู่ระบบ",
+                register: "ลงทะเบียน",
+                demo: "เดโม",
+                backToMain: "กลับไปที่เมนูหลัก",
+                uploadBtn: "อัปโหลดรายการคำ",
+                startGame: "เริ่มเกม",
+                backToHsk: "กลับไปที่เมนู HSK",
+                levelProgress: "ความคืบหน้าของระดับ",
+                wordProgress: "ความคืบหน้าของคำ",
+                prevLevel: "ระดับก่อนหน้า",
+                nextLevel: "ระดับถัดไป",
+                hint: "คำใบ้",
+                reshuffle: "สับเปลี่ยนใหม่",
+                pause: "หยุดชั่วคราว",
+                back: "กลับ",
+                errorBook: "สมุดบันทึกข้อผิดพลาด",
+                loginModalTitle: "เข้าสู่ระบบ",
+                username: "ชื่อผู้ใช้",
+                password: "รหัสผ่าน",
+                registerModalTitle: "ลงทะเบียน",
+                confirmPassword: "ยืนยันรหัสผ่าน",
+                errorBookTitle: "สมุดบันทึกข้อผิดพลาด",
+                close: "ปิด",
+                gameDescription: "เชื่อมต่อภาษาจีน พินอิน และคำแปลเพื่อเรียนรู้คำศัพท์ภาษาจีน",
+                save: "บันทึก",
+                exit: "ออก",
+                pandaLike: "การกดไลค์ของแพนด้า",
+                watchAnimation: "ดูอนิเมชันแพนด้าเพื่อดำเนินการต่อ",
+                closeAnimation: "ปิดอนิเมชัน",
+                wordbankRequestTitle: "获取完整HSK单词库 | รับคลังคำศัพท์ HSK ที่สมบูรณ์",
+                wordbankRequestIntro: "如果你想获得{language}版的{level}单词库文件，我们提供两种途径： | หากคุณต้องการได้รับไฟล์คลังคำศัพท์ {level} ในภาษา {language} เรามีสองวิธี:",
+                emailMethod: "1. 请发送邮件至 yanqinghua@ctbu.edu.cn | กรุณาส่งอีเมลถึง yanqinghua@ctbu.edu.cn",
+                emailTemplate: "邮件模板主题：HSK单词库索取 - [语言] - [级别] | ชื่อเทมเพลตอีเมล: คำขอคลังคำศัพท์ HSK - [ภาษา] - [ระดับ]",
+                emailFields: `Your Name:
+Language version:
+HSK level：`,
+                wechatMethod: "2. 微信扫描二维码添加作者好友 | สแกนรหัส QR WeChat เพื่อเพิ่มผู้เขียน",
+                wechatBenefits: "获取HSK学习资源、加入学习社区、交流学习心得 | รับทรัพยากรการเรียนรู้ HSK เข้าร่วมชุมชนการเรียนรู้ แลกเปลี่ยนประสบการณ์การเรียนรู้",
+                wechatProcess: "添加流程： | กระบวนการเพิ่ม:",
+                wechatSteps: [
+                    "微信扫描上方二维码 | สแกนรหัส QR ด้านบนด้วย WeChat",
+                    "在添加好友页面点击\"添加到通讯录\" | คลิก 'เพิ่มไปยังรายชื่อติดต่อ' ในหน้าเพิ่มเพื่อน", 
+                    "在验证信息中填写\"HSK游戏\" | กรอก 'เกม HSK' ในข้อความยืนยัน",
+                    "通过后发送需要的HSK级别和语言版本 | หลังจากอนุมัติ ส่งระดับ HSK และรุ่นภาษาที่ต้องการ"
+                ]
+            },
+            vietnamese: {
+                login: "Đăng nhập",
+                register: "Đăng ký",
+                demo: "Bản demo",
+                backToMain: "Quay lại menu chính",
+                uploadBtn: "Tải lên danh sách từ",
+                startGame: "Bắt đầu trò chơi",
+                backToHsk: "Quay lại menu HSK",
+                levelProgress: "Tiến trình cấp độ",
+                wordProgress: "Tiến trình từ",
+                prevLevel: "Cấp độ trước",
+                nextLevel: "Cấp độ tiếp theo",
+                hint: "Gợi ý",
+                reshuffle: "Xáo trộn lại",
+                pause: "Tạm dừng",
+                back: "Quay lại",
+                errorBook: "Sổ lỗi",
+                loginModalTitle: "Đăng nhập",
+                username: "Tên người dùng",
+                password: "Mật khẩu",
+                registerModalTitle: "Đăng ký",
+                confirmPassword: "Xác nhận mật khẩu",
+                errorBookTitle: "Sổ lỗi",
+                close: "Đóng",
+                gameDescription: "Kết nối tiếng Trung, Pinyin và bản dịch để học từ vựng tiếng Trung",
+                save: "Lưu",
+                exit: "Thoát",
+                pandaLike: "Thích của gấu trúc",
+                watchAnimation: "Xem hoạt hình gấu trúc để tiếp tục",
+                closeAnimation: "Đóng hoạt hình",
+                wordbankRequestTitle: "获取完整HSK单词库 | Nhận Ngân hàng Từ HSK Hoàn chỉnh",
+                wordbankRequestIntro: "如果你想获得{language}版的{level}单词库文件，我们提供两种途径： | Nếu bạn muốn nhận tệp ngân hàng từ {level} bằng {language}, chúng tôi cung cấp hai cách:",
+                emailMethod: "1. 请发送邮件至 yanqinghua@ctbu.edu.cn | Vui lòng gửi email đến yanqinghua@ctbu.edu.cn",
+                emailTemplate: "邮件模板主题：HSK单词库索取 - [语言] - [级别] | Chủ đề mẫu email: Yêu cầu Ngân hàng Từ HSK - [Ngôn ngữ] - [Cấp độ]",
+                emailFields: `Your Name:
+Language version:
+HSK level：`,
+                wechatMethod: "2. 微信扫描二维码添加作者好友 | Quét mã QR WeChat để thêm tác giả",
+                wechatBenefits: "获取HSK学习资源、加入学习社区、交流学习心得 | Nhận tài nguyên học tập HSK, tham gia cộng đồng học tập, trao đổi kinh nghiệm học tập",
+                wechatProcess: "添加流程： | Quy trình thêm:",
+                wechatSteps: [
+                    "微信扫描上方二维码 | Quét mã QR trên bằng WeChat",
+                    "在添加好友页面点击\"添加到通讯录\" | Nhấp vào 'Thêm vào Danh bạ' trên trang thêm bạn", 
+                    "在验证信息中填写\"HSK游戏\" | Điền 'Trò chơi HSK' trong tin nhắn xác minh",
+                    "通过后发送需要的HSK级别和语言版本 | Sau khi được chấp nhận, gửi cấp độ HSK và phiên bản ngôn ngữ cần thiết"
+                ]
+            },
+            korean: {
+                login: "로그인",
+                register: "회원가입",
+                demo: "데모",
+                backToMain: "메인 메뉴로 돌아가기",
+                uploadBtn: "단어 목록 업로드",
+                startGame: "게임 시작",
+                backToHsk: "HSK 메뉴로 돌아가기",
+                levelProgress: "레벨 진행률",
+                wordProgress: "단어 진행률",
+                prevLevel: "이전 레벨",
+                nextLevel: "다음 레벨",
+                hint: "힌트",
+                reshuffle: "다시 섞기",
+                pause: "일시정지",
+                back: "뒤로",
+                errorBook: "오답 노트",
+                loginModalTitle: "로그인",
+                username: "사용자 이름",
+                password: "비밀번호",
+                registerModalTitle: "회원가입",
+                confirmPassword: "비밀번호 확인",
+                errorBookTitle: "오답 노트",
+                close: "닫기",
+                gameDescription: "중국어, 병음, 번역을 연결하여 중국어 어휘를 배우세요",
+                save: "저장",
+                exit: "종료",
+                pandaLike: "판다의 좋아요",
+                watchAnimation: "판다 애니메이션을 보고 계속하세요",
+                closeAnimation: "애니메이션 닫기",
+                wordbankRequestTitle: "获取完整HSK单词库 | 완전한 HSK 단어 뱅크 받기",
+                wordbankRequestIntro: "如果你想获得{language}版的{level}单词库文件，我们提供两种途径： | {language} 버전의 {level} 단어 뱅크 파일을 얻고 싶다면 두 가지 방법을 제공합니다:",
+                emailMethod: "1. 请发送邮件至 yanqinghua@ctbu.edu.cn | yanqinghua@ctbu.edu.cn으로 이메일을 보내주세요",
+                emailTemplate: "邮件模板主题：HSK单词库索取 - [语言] - [级别] | 이메일 템플릿 제목: HSK 단어 뱅크 요청 - [언어] - [레벨]",
+                emailFields: `Your Name:
+Language version:
+HSK level：`,
+                wechatMethod: "2. 微信扫描二维码添加作者好友 | WeChat QR 코드를 스캔하여 작성자 추가",
+                wechatBenefits: "获取HSK学习资源、加入学习社区、交流学习心得 | HSK 학습 리소스 얻기, 학습 커뮤니티 가입, 학습 경험 교환",
+                wechatProcess: "添加流程： | 추가 프로세스:",
+                wechatSteps: [
+                    "微信扫描上方二维码 | WeChat으로 위 QR 코드 스캔",
+                    "在添加好友页面点击\"添加到通讯录\" | 친구 추가 페이지에서 '연락처에 추가' 클릭", 
+                    "在验证信息中填写\"HSK游戏\" | 확인 메시지에 'HSK 게임' 입력",
+                    "通过后发送需要的HSK级别和语言版本 | 승인 후 필요한 HSK 레벨과 언어 버전 전송"
+                ]
+            },
+            russian: {
+                login: "Войти",
+                register: "Зарегистрироваться",
+                demo: "Демо",
+                backToMain: "Вернуться в главное меню",
+                uploadBtn: "Загрузить список слов",
+                startGame: "Начать игру",
+                backToHsk: "Вернуться в меню HSK",
+                levelProgress: "Прогресс уровня",
+                wordProgress: "Прогресс слов",
+                prevLevel: "Предыдущий уровень",
+                nextLevel: "Следующий уровень",
+                hint: "Подсказка",
+                reshuffle: "Перемешать",
+                pause: "Пауза",
+                back: "Назад",
+                errorBook: "Книга ошибок",
+                loginModalTitle: "Войти",
+                username: "Имя пользователя",
+                password: "Пароль",
+                registerModalTitle: "Зарегистрироваться",
+                confirmPassword: "Подтвердить пароль",
+                errorBookTitle: "Книга ошибок",
+                close: "Закрыть",
+                gameDescription: "Соедините китайский, пиньинь и перевод, чтобы изучать китайскую лексику",
+                save: "Сохранить",
+                exit: "Выход",
+                pandaLike: "Лайк панды",
+                watchAnimation: "Посмотрите анимацию панды, чтобы продолжить",
+                closeAnimation: "Закрыть анимацию",
+                wordbankRequestTitle: "获取完整HSK单词库 | Получить полные банки слов HSK",
+                wordbankRequestIntro: "如果你想获得{language}版的{level}单词库文件，我们提供两种途径： | Если вы хотите получить файл банка слов {level} на {language}, мы предлагаем два способа:",
+                emailMethod: "1. 请发送邮件至 yanqinghua@ctbu.edu.cn | Пожалуйста, отправьте электронное письмо на yanqinghua@ctbu.edu.cn",
+                emailTemplate: "邮件模板主题：HSK单词库索取 - [语言] - [级别] | Тема шаблона электронной почты: Запрос банка слов HSK - [Язык] - [Уровень]",
+                emailFields: `Your Name:
+Language version:
+HSK level：`,
+                wechatMethod: "2. 微信扫描二维码添加作者好友 | Отсканируйте QR-код WeChat, чтобы добавить автора",
+                wechatBenefits: "获取HSK学习资源、加入学习社区、交流学习心得 | Получите ресурсы для изучения HSK, присоединитесь к учебному сообществу, обменивайтесь учебным опытом",
+                wechatProcess: "添加流程： | Процесс добавления:",
+                wechatSteps: [
+                    "微信扫描上方二维码 | Отсканируйте QR-код выше с помощью WeChat",
+                    "在添加好友页面点击\"添加到通讯录\" | На странице добавления друга нажмите 'Добавить в контакты'", 
+                    "在验证信息中填写\"HSK游戏\" | Заполните 'HSK игра' в проверочном сообщении",
+                    "通过后发送需要的HSK级别和语言版本 | После одобрения отправьте требуемый уровень HSK и версию языка"
+                ]
+            },
+            laos: {
+                login: "ເຂົ້າສູ່ລະບົບ",
+                register: "ລົງທະບຽນ",
+                demo: "ຕົວຢ່າງ",
+                backToMain: "ກັບໄປທີ່ເມນູຫຼັກ",
+                uploadBtn: "ອັບໂຫລດບັນຊີຄຳສັບ",
+                startGame: "ເລີ່ມເກມ",
+                backToHsk: "ກັບໄປທີ່ເມນູ HSK",
+                levelProgress: "ຄວາມຄືບໜ້າລະດັບ",
+                wordProgress: "ຄວາມຄືບໜ້າຄຳສັບ",
+                prevLevel: "ລະດັບກ່ອນໜ້າ",
+                nextLevel: "ລະດັບຕໍ່ໄປ",
+                hint: "ຄຳແນະນຳ",
+                reshuffle: "ຈັດລຽງໃໝ່",
+                pause: "ຢຸດຊົ່ວຄາວ",
+                back: "ກັບຄືນ",
+                errorBook: "ປື້ມບັນທຶກຄຳຜິດ",
+                loginModalTitle: "ເຂົ້າສູ່ລະບົບ",
+                username: "ຊື່ຜູ້ໃຊ້",
+                password: "ລະຫັດຜ່ານ",
+                registerModalTitle: "ລົງທະບຽນ",
+                confirmPassword: "ຢືນຢັນລະຫັດຜ່ານ",
+                errorBookTitle: "ປື້ມບັນທຶກຄຳຜິດ",
+                close: "ປິດ",
+                gameDescription: "ເຊື່ອມຕໍ່ພາສາຈີນ, ພິນອິນ ແລະ ຄຳແປເພື່ອຮຽນຮູ້ຄຳສັບພາສາຈີນ",
+                save: "ບັນທຶກ",
+                exit: "ອອກ",
+                pandaLike: "ການກົດມັກຂອງແພນດ້າ",
+                watchAnimation: "ເບິ່ງພາບເຄື່ອນໄຫວແພນດ້າເພື່ອດຳເນີນການຕໍ່",
+                closeAnimation: "ປິດພາບເຄື່ອນໄຫວ",
+                wordbankRequestTitle: "获取完整HSK单词库 | ຮັບບັນຊີຄຳສັບ HSK ເຕັມຮູບແບບ",
+                wordbankRequestIntro: "如果你想获得{language}版的{level}单词库文件，我们提供两种途径： | ຖ້າທ່ານຕ້ອງການໄດ້ຮັບໄຟລ໌ບັນຊີຄຳສັບ {level} ໃນ {language}, ພວກເຮົາມີສອງວິທີ:",
+                emailMethod: "1. 请发送邮件至 yanqinghua@ctbu.edu.cn | ກະລຸນາສົ່ງອີເມວໄປຫາ yanqinghua@ctbu.edu.cn",
+                emailTemplate: "邮件模板主题：HSK单词库索取 - [语言] - [级别] | ຫົວຂໍ້ແມ່ແບບອີເມວ: ການຂໍບັນຊີຄຳສັບ HSK - [ພາສາ] - [ລະດັບ]",
+                emailFields: `Your Name:
+Language version:
+HSK level：`,
+                wechatMethod: "2. 微信扫描二维码添加作者好友 | ສະແກນ QR Code WeChat ເພື່ອເພີ່ມຜູ້ຂຽນ",
+                wechatBenefits: "获取HSK学习资源、加入学习社区、交流学习心得 | ຮັບແຫຼ່ງຂໍ້ມູນການຮຽນ HSK, ເຂົ້າຮ່ວມຊຸມຊົນການຮຽນ, ແລກປ່ຽນປະສົບການການຮຽນ",
+                wechatProcess: "添加流程： | ຂັ້ນຕອນການເພີ່ມ:",
+                wechatSteps: [
+                    "微信扫描上方二维码 | ສະແກນ QR Code ຂ້າງເທິງດ້ວຍ WeChat",
+                    "在添加好友页面点击\"添加到通讯录\" | ຄລິກ 'ເພີ່ມໃສ່ບັນຊີຜູ້ຕິດຕໍ່' ໃນໜ້າເພີ່ມເພື່ອນ", 
+                    "在验证信息中填写\"HSK游戏\" | ພິມ 'ເກມ HSK' ໃນຂໍ້ຄວາມຢືນຢັນ",
+                    "通过后发送需要的HSK级别和语言版本 | ຫຼັງຈາກອະນຸມັດ, ສົ່ງລະດັບ HSK ແລະ ລຸ້ນພາສາທີ່ຕ້ອງການ"
+                ]
+            }
+        };
+
+        // 内置单词库 - 多语言版本
+        const builtInWords = {
+            english: [
+                { chinese: '你好', pinyin: 'nǐ hǎo', translation: 'Hello' },
+                { chinese: '谢谢', pinyin: 'xiè xiè', translation: 'Thank you' },
+                { chinese: '再见', pinyin: 'zài jiàn', translation: 'Goodbye' },
+                { chinese: '是', pinyin: 'shì', translation: 'Yes' },
+                { chinese: '不', pinyin: 'bù', translation: 'No' },
+                { chinese: '我', pinyin: 'wǒ', translation: 'I/Me' },
+                { chinese: '你', pinyin: 'nǐ', translation: 'You' },
+                { chinese: '他', pinyin: 'tā', translation: 'He/Him' },
+                { chinese: '她', pinyin: 'tā', translation: 'She/Her' },
+                { chinese: '我们', pinyin: 'wǒ men', translation: 'We/Us' },
+                { chinese: '这', pinyin: 'zhè', translation: 'This' },
+                { chinese: '那', pinyin: 'nà', translation: 'That' },
+                { chinese: '什么', pinyin: 'shén me', translation: 'What' },
+                { chinese: '哪里', pinyin: 'nǎ lǐ', translation: 'Where' },
+                { chinese: '谁', pinyin: 'shéi', translation: 'Who' },
+                { chinese: '为什么', pinyin: 'wèi shén me', translation: 'Why' },
+                { chinese: '怎么', pinyin: 'zěn me', translation: 'How' },
+                { chinese: '多少', pinyin: 'duō shǎo', translation: 'How many/much' }
+            ],
+            spanish: [
+                { chinese: '你好', pinyin: 'nǐ hǎo', translation: 'Hola' },
+                { chinese: '谢谢', pinyin: 'xiè xiè', translation: 'Gracias' },
+                { chinese: '再见', pinyin: 'zài jiàn', translation: 'Adiós' },
+                { chinese: '是', pinyin: 'shì', translation: 'Sí' },
+                { chinese: '不', pinyin: 'bù', translation: 'No' },
+                { chinese: '我', pinyin: 'wǒ', translation: 'Yo' },
+                { chinese: '你', pinyin: 'nǐ', translation: 'Tú' },
+                { chinese: '他', pinyin: 'tā', translation: 'Él' },
+                { chinese: '她', pinyin: 'tā', translation: 'Ella' },
+                { chinese: '我们', pinyin: 'wǒ men', translation: 'Nosotros' },
+                { chinese: '这', pinyin: 'zhè', translation: 'Esto' },
+                { chinese: '那', pinyin: 'nà', translation: 'Eso' },
+                { chinese: '什么', pinyin: 'shén me', translation: 'Qué' },
+                { chinese: '哪里', pinyin: 'nǎ lǐ', translation: 'Dónde' },
+                { chinese: '谁', pinyin: 'shéi', translation: 'Quién' },
+                { chinese: '为什么', pinyin: 'wèi shén me', translation: 'Por qué' },
+                { chinese: '怎么', pinyin: 'zěn me', translation: 'Cómo' },
+                { chinese: '多少', pinyin: 'duō shǎo', translation: 'Cuánto/Cuántos' }
+            ],
+            // 为其他语言添加默认单词库
+            french: [
+                { chinese: '你好', pinyin: 'nǐ hǎo', translation: 'Bonjour' },
+                { chinese: '谢谢', pinyin: 'xiè xiè', translation: 'Merci' },
+                { chinese: '再见', pinyin: 'zài jiàn', translation: 'Au revoir' },
+                { chinese: '是', pinyin: 'shì', translation: 'Oui' },
+                { chinese: '不', pinyin: 'bù', translation: 'Non' },
+                { chinese: '我', pinyin: 'wǒ', translation: 'Je/Moi' },
+                { chinese: '你', pinyin: 'nǐ', translation: 'Tu' },
+                { chinese: '他', pinyin: 'tā', translation: 'Il' },
+                { chinese: '她', pinyin: 'tā', translation: 'Elle' },
+                { chinese: '我们', pinyin: 'wǒ men', translation: 'Nous' },
+                { chinese: '这', pinyin: 'zhè', translation: 'Ceci' },
+                { chinese: '那', pinyin: 'nà', translation: 'Cela' },
+                { chinese: '什么', pinyin: 'shén me', translation: 'Quoi' },
+                { chinese: '哪里', pinyin: 'nǎ lǐ', translation: 'Où' },
+                { chinese: '谁', pinyin: 'shéi', translation: 'Qui' },
+                { chinese: '为什么', pinyin: 'wèi shén me', translation: 'Pourquoi' },
+                { chinese: '怎么', pinyin: 'zěn me', translation: 'Comment' },
+                { chinese: '多少', pinyin: 'duō shǎo', translation: 'Combien' }
+            ],
+            german: [
+                { chinese: '你好', pinyin: 'nǐ hǎo', translation: 'Hallo' },
+                { chinese: '谢谢', pinyin: 'xiè xiè', translation: 'Danke' },
+                { chinese: '再见', pinyin: 'zài jiàn', translation: 'Auf Wiedersehen' },
+                { chinese: '是', pinyin: 'shì', translation: 'Ja' },
+                { chinese: '不', pinyin: 'bù', translation: 'Nein' },
+                { chinese: '我', pinyin: 'wǒ', translation: 'Ich/Mir' },
+                { chinese: '你', pinyin: 'nǐ', translation: 'Du' },
+                { chinese: '他', pinyin: 'tā', translation: 'Er' },
+                { chinese: '她', pinyin: 'tā', translation: 'Sie' },
+                { chinese: '我们', pinyin: 'wǒ men', translation: 'Wir/Uns' },
+                { chinese: '这', pinyin: 'zhè', translation: 'Dies' },
+                { chinese: '那', pinyin: 'nà', translation: 'Das' },
+                { chinese: '什么', pinyin: 'shén me', translation: 'Was' },
+                { chinese: '哪里', pinyin: 'nǎ lǐ', translation: 'Wo' },
+                { chinese: '谁', pinyin: 'shéi', translation: 'Wer' },
+                { chinese: '为什么', pinyin: 'wèi shén me', translation: 'Warum' },
+                { chinese: '怎么', pinyin: 'zěn me', translation: 'Wie' },
+                { chinese: '多少', pinyin: 'duō shǎo', translation: 'Wie viel' }
+            ],
+            // 为其他语言添加类似的单词库...
+            japanese: builtInWords.english.map(word => ({...word, translation: '翻訳'})),
+            thai: builtInWords.english.map(word => ({...word, translation: 'คำแปล'})),
+            vietnamese: builtInWords.english.map(word => ({...word, translation: 'Bản dịch'})),
+            korean: builtInWords.english.map(word => ({...word, translation: '번역'})),
+            russian: builtInWords.english.map(word => ({...word, translation: 'Перевод'})),
+            laos: builtInWords.english.map(word => ({...word, translation: 'ການແປ'})),
+        };
+
+        // 初始化游戏
+        function initGame() {
+            try {
+                // 隐藏加载指示器
+                document.getElementById('loading-overlay').style.display = 'none';
+                
+                // 初始化事件监听器
+                setupEventListeners();
+                
+                // 检查是否有已登录的用户
+                checkAutoLogin();
+                
+                // 更新UI
+                updateUI();
+                updateLanguageTexts('english');
+                updateHintButton();
+                
+                console.log('游戏初始化成功');
+            } catch (error) {
+                console.error('游戏初始化失败:', error);
+                // 显示错误信息
+                document.getElementById('loading-overlay').style.display = 'none';
+                alert('游戏初始化失败，请刷新页面重试。错误信息: ' + error.message);
+            }
+        }
+
+        // 检查自动登录
+        function checkAutoLogin() {
+            const currentUser = localStorage.getItem('currentUser');
+            if (currentUser) {
+                const users = JSON.parse(localStorage.getItem('chineseGameUsers') || '{}');
+                if (users[currentUser]) {
+                    gameState.isLoggedIn = true;
+                    gameState.username = currentUser;
+                    loadUserProgress();
+                }
+            }
+        }
+
+        // 设置事件监听器
+        function setupEventListeners() {
+            try {
+                // 语言按钮
+                const languageButtons = {
+                    'english-btn': 'english',
+                    'spanish-btn': 'spanish',
+                    'french-btn': 'french',
+                    'german-btn': 'german',
+                    'japanese-btn': 'japanese',
+                    'thai-btn': 'thai',
+                    'vietnamese-btn': 'vietnamese',
+                    'korean-btn': 'korean',
+                    'russian-btn': 'russian',
+                    'laos-btn': 'laos'
+                };
+
+                Object.entries(languageButtons).forEach(([buttonId, language]) => {
+                    const button = document.getElementById(buttonId);
+                    if (button) {
+                        button.addEventListener('click', () => {
+                            console.log(`Language button clicked: ${language}`);
+                            setLanguage(language);
+                        });
+                    } else {
+                        console.error(`Button not found: ${buttonId}`);
+                    }
+                });
+
+                // 用户按钮
+                document.getElementById('login-btn').addEventListener('click', showLoginModal);
+                document.getElementById('register-btn').addEventListener('click', showRegisterModal);
+                document.getElementById('demo-btn').addEventListener('click', startDemo);
+                document.getElementById('demo-btn-hsk').addEventListener('click', startDemo);
+                document.getElementById('save-btn').addEventListener('click', saveProgress);
+                document.getElementById('logout-btn').addEventListener('click', logout);
+                // 已移除退出按钮
+
+                // HSK级别按钮
+                const hskButtons = ['hsk1-btn', 'hsk2-btn', 'hsk3-btn', 'hsk4-btn', 'hsk5-btn', 'hsk6-btn'];
+                hskButtons.forEach((buttonId, index) => {
+                    const button = document.getElementById(buttonId);
+                    if (button) {
+                        button.addEventListener('click', () => {
+                            console.log(`HSK button clicked: HSK${index + 1}`);
+                            showLevelMenu(`HSK${index + 1}`);
+                        });
+                    } else {
+                        console.error(`HSK button not found: ${buttonId}`);
+                    }
+                });
+                
+                document.getElementById('back-to-main').addEventListener('click', backToMain);
+
+                // 级别菜单按钮
+                document.getElementById('upload-btn').addEventListener('click', uploadWordFile);
+                document.getElementById('start-game').addEventListener('click', startGame);
+                document.getElementById('back-to-hsk').addEventListener('click', backToHSK);
+
+                // 游戏控制按钮
+                document.getElementById('hint-btn').addEventListener('click', giveHint);
+                document.getElementById('reshuffle-btn').addEventListener('click', reshuffleTiles);
+                document.getElementById('pause-btn').addEventListener('click', pauseGame);
+                document.getElementById('back-to-level').addEventListener('click', backToLevelMenu);
+                document.getElementById('error-book-btn').addEventListener('click', showErrorBook);
+                document.getElementById('prev-level').addEventListener('click', prevLevel);
+                document.getElementById('next-level').addEventListener('click', nextLevel);
+
+                // 模态框按钮
+                document.getElementById('login-submit').addEventListener('click', login);
+                document.getElementById('login-cancel').addEventListener('click', hideLoginModal);
+                document.getElementById('register-submit').addEventListener('click', register);
+                document.getElementById('register-cancel').addEventListener('click', hideRegisterModal);
+                document.getElementById('close-error-book').addEventListener('click', hideErrorBook);
+                document.getElementById('clear-error-book').addEventListener('click', clearErrorBook);
+
+                // 熊猫相关按钮
+                document.getElementById('panda-btn').addEventListener('click', showPandaAnimation);
+                document.getElementById('close-panda-btn').addEventListener('click', hidePandaAnimation);
+                
+                console.log('所有事件监听器设置成功');
+            } catch (error) {
+                console.error('设置事件监听器时出错:', error);
+            }
+        }
+
+        // 设置语言
+        function setLanguage(language) {
+            console.log(`Setting language to: ${language}`);
+            gameState.currentLanguage = language;
+            updateUI();
+            updateLanguageTexts(language);
+            updateHintButton();
+            showHSKMenu();
+        }
+
+        // 更新语言文本
+        function updateLanguageTexts(language) {
+            const texts = languagePack[language];
+            if (!texts) {
+                console.error(`Language pack not found for: ${language}`);
+                return;
+            }
+            
+            // 更新按钮和文本
+            const elementsToUpdate = {
+                'login-text': texts.login,
+                'register-text': texts.register,
+                'back-to-main-text': texts.backToMain,
+                'upload-btn-text': texts.uploadBtn,
+                'start-game-text': texts.startGame,
+                'back-to-hsk-text': texts.backToHsk,
+                'level-progress': texts.levelProgress,
+                'word-progress-text': texts.wordProgress,
+                'prev-level-text': texts.prevLevel,
+                'next-level-text': texts.nextLevel,
+                'hint-text': `${texts.hint} (${gameState.hintCount}/${gameState.maxHints})`,
+                'reshuffle-text': texts.reshuffle,
+                'pause-text': texts.pause,
+                'back-to-level-text': texts.back,
+                'error-book-text': texts.errorBook
+            };
+            
+            for (const [id, text] of Object.entries(elementsToUpdate)) {
+                const element = document.getElementById(id);
+                if (element) element.textContent = text;
+            }
+            
+            // 更新模态框标题
+            const modalTitles = {
+                'login-modal-title': `登录 / ${texts.loginModalTitle}`,
+                'username-label': `用户名 / ${texts.username}`,
+                'password-label': `密码 / ${texts.password}`,
+                'register-modal-title': `注册 / ${texts.registerModalTitle}`,
+                'reg-username-label': `用户名 / ${texts.username}`,
+                'reg-password-label': `密码 / ${texts.password}`,
+                'confirm-password-label': `确认密码 / ${texts.confirmPassword}`,
+                'error-book-title': `错词本 / ${texts.errorBookTitle}`
+            };
+            
+            for (const [id, text] of Object.entries(modalTitles)) {
+                const element = document.getElementById(id);
+                if (element) element.textContent = text;
+            }
+            
+            // 更新游戏描述
+            const gameDescElements = document.querySelectorAll('#game-description, #game-description-2');
+            gameDescElements.forEach(el => {
+                if (el) el.textContent = texts.gameDescription;
+            });
+            
+            // 更新熊猫按钮文本
+            const pandaBtn = document.getElementById('panda-btn');
+            if (pandaBtn) {
+                const pandaLanguageText = pandaBtn.querySelector('.language-text');
+                if (pandaLanguageText) pandaLanguageText.textContent = texts.pandaLike;
+            }
+        }
+
+        // 更新单词库请求内容
+        function updateWordbankRequestContent() {
+            const container = document.getElementById('wordbank-request-content');
+            const texts = languagePack[gameState.currentLanguage];
+            const level = gameState.currentHSKLevel;
+            
+            if (!texts) {
+                console.error(`Language pack not found for: ${gameState.currentLanguage}`);
+                return;
+            }
+            
+            // 获取当前语言的中文名称
+            const languageNames = {
+                english: '英语',
+                spanish: '西班牙语', 
+                french: '法语',
+                german: '德语',
+                japanese: '日语',
+                thai: '泰语',
+                vietnamese: '越南语',
+                korean: '韩语',
+                russian: '俄语',
+                laos: '老挝语'
+            };
+            
+            const languageName = languageNames[gameState.currentLanguage] || gameState.currentLanguage;
+            
+            // 生成步骤列表
+            const stepsHTML = texts.wechatSteps.map(step => {
+                const [chinese, english] = step.split(' | ');
+                return `<li>${chinese}<br><span style="color: #bdc3c7;">${english}</span></li>`;
+            }).join('');
+            
+            container.innerHTML = `
+                <div class="wordbank-request">
+                    <h3>${texts.wordbankRequestTitle}</h3>
+                    
+                    <p style="margin-bottom: 20px; color: white;">
+                        ${texts.wordbankRequestIntro.replace('{language}', languageName).replace('{level}', level)}
+                    </p>
+                    
+                    <div style="margin-bottom: 20px;">
+                        <p style="color: #2ecc71; font-weight: bold; margin-bottom: 10px;">
+                            ${texts.emailMethod}
+                        </p>
+                        <p style="color: #bdc3c7; font-size: 0.9rem; margin-bottom: 10px;">
+                            ${texts.emailTemplate}
+                        </p>
+                        <div class="email-template">
+                            ${texts.emailFields.split('\n').map(line => {
+                                return `<div>${line}</div>`;
+                            }).join('')}
+                        </div>
+                    </div>
+                    
+                    <div style="margin-top: 25px;">
+                        <p style="color: #2ecc71; font-weight: bold; margin-bottom: 15px;">
+                            ${texts.wechatMethod}
+                        </p>
+                        <div class="wechat-row">
+                            <div class="wechat-card">
+                                <img src="https://raw.githubusercontent.com/steven2025/gif2025/main/yanqinghua-wechat-qr.png" 
+                                     alt="个人微信二维码">
+                            </div>
+                            <div class="wechat-text">
+                                <p style="color: #bdc3c7; margin-bottom: 15px; font-size: 0.9rem;">
+                                    ${texts.wechatBenefits}
+                                </p>
+                                
+                                <p class="wechat-note">
+                                    👋 添加时请备注"HSK游戏" | Please note "HSK Game" when adding
+                                </p>
+                                
+                                <!-- 使用说明 -->
+                                <div class="process-guide">
+                                    <p style="color: #3498db; font-size: 0.85rem; margin: 5px 0;">
+                                        📱 <strong>${texts.wechatProcess}</strong>
+                                    </p>
+                                    <ol class="process-steps">
+                                        ${stepsHTML}
+                                    </ol>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        // 显示级别菜单
+        function showLevelMenu(level) {
+            console.log(`Showing level menu for: ${level}`);
+            gameState.currentHSKLevel = level;
+            
+            // 隐藏用户信息
+            document.querySelector('.user-info').style.display = 'none';
+            
+            document.getElementById('hsk-menu').style.display = 'none';
+            document.getElementById('level-menu').style.display = 'block';
+            
+            // 隐藏版权声明
+            document.querySelector('.copyright').style.display = 'none';
+            
+            // 更新单词库请求内容
+            updateWordbankRequestContent();
+        }
+
+        // 显示HSK菜单
+        function showHSKMenu() {
+            console.log('Showing HSK menu');
+            
+            // 隐藏主菜单
+            document.getElementById('main-menu').style.display = 'none';
+            
+            // 隐藏主标题
+            document.getElementById('main-header').style.display = 'none';
+            
+            // 显示HSK菜单
+            document.getElementById('hsk-menu').style.display = 'flex';
+            
+            // 显示版权声明
+            document.querySelector('.copyright').style.display = 'block';
+        }
+
+        // 返回主菜单
+        function backToMain() {
+            document.getElementById('hsk-menu').style.display = 'none';
+            document.getElementById('level-menu').style.display = 'none';
+            document.getElementById('game-screen').style.display = 'none';
+            document.getElementById('main-menu').style.display = 'flex';
+            document.getElementById('main-header').style.display = 'block';
+            
+            // 显示用户信息
+            document.querySelector('.user-info').style.display = 'flex';
+            
+            // 显示版权声明
+            document.querySelector('.copyright').style.display = 'block';
+            
+            // 重置试玩模式
+            gameState.demoMode = false;
+        }
+
+        // 返回HSK菜单
+        function backToHSK() {
+            document.getElementById('level-menu').style.display = 'none';
+            document.getElementById('hsk-menu').style.display = 'flex';
+            
+            // 显示用户信息
+            document.querySelector('.user-info').style.display = 'flex';
+            
+            // 显示版权声明
+            document.querySelector('.copyright').style.display = 'block';
+        }
+
+        // 返回级别菜单
+        function backToLevelMenu() {
+            document.getElementById('game-screen').style.display = 'none';
+            document.getElementById('level-menu').style.display = 'block';
+            document.getElementById('main-header').style.display = 'block';
+            
+            // 隐藏用户信息
+            document.querySelector('.user-info').style.display = 'none';
+            
+            // 隐藏版权声明
+            document.querySelector('.copyright').style.display = 'none';
+        }
+
+        // 上传单词文件
+        function uploadWordFile() {
+            const fileInput = document.getElementById('word-file');
+            const file = fileInput.files[0];
+            
+            if (!file) {
+                alert('请选择文件 / Please select a file');
+                return;
+            }
+            
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    const content = e.target.result;
+                    const words = parseWordFile(content, file.name);
+                    
+                    if (words.length === 0) {
+                        alert('文件格式不正确或没有找到单词 / File format incorrect or no words found');
+                        return;
+                    }
+                    
+                    // 保存单词到用户进度
+                    if (!gameState.userProgress[gameState.currentHSKLevel]) {
+                        gameState.userProgress[gameState.currentHSKLevel] = {};
+                    }
+                    
+                    gameState.userProgress[gameState.currentHSKLevel].words = words;
+                    
+                    // 计算关卡数
+                    const levels = Math.ceil(words.length / 6);
+                    gameState.userProgress[gameState.currentHSKLevel].totalLevels = levels;
+                    
+                    // 保存进度
+                    saveUserProgress();
+                    
+                    alert(`成功上传 ${words.length} 个单词，共 ${levels} 关 / Successfully uploaded ${words.length} words, ${levels} levels in total`);
+                    
+                    // 重置文件输入
+                    fileInput.value = '';
+                } catch (error) {
+                    console.error('解析文件时出错 / Error parsing file:', error);
+                    alert('解析文件时出错，请检查文件格式 / Error parsing file, please check file format');
+                }
+            };
+            
+            reader.readAsText(file);
+        }
+
+        // 解析单词文件 - 支持多语言TXT格式
+        function parseWordFile(content, filename) {
+            const words = [];
+            const lines = content.split('\n');
+            
+            for (let i = 0; i < lines.length; i++) {
+                const line = lines[i].trim();
+                if (!line) continue;
+                
+                let parts = [];
+                
+                // 使用逗号分隔
+                if (line.includes(',')) {
+                    parts = line.split(',').map(part => part.trim());
+                } else {
+                    // 如果文件不是逗号分隔，跳过
+                    continue;
+                }
+                
+                // 确保有足够的部分（至少3列：中文,拼音,翻译）
+                if (parts.length >= 3) {
+                    words.push({
+                        chinese: parts[0],
+                        pinyin: parts[1],
+                        translation: parts[2] // 只使用第一个翻译
+                    });
+                }
+            }
+            
+            return words;
+        }
+
+        // 开始游戏 - 修复后的版本
+        function startGame() {
+            console.log("开始游戏按钮被点击");
+            
+            // 检查是否有上传的单词 - 优先使用用户保存的单词
+            const userProgress = gameState.userProgress[gameState.currentHSKLevel];
+            let words = [];
+            
+            if (userProgress && userProgress.words && userProgress.words.length > 0) {
+                console.log("使用上传的单词库");
+                words = [...userProgress.words];
+                gameState.totalLevels = userProgress.totalLevels || Math.ceil(words.length / 6);
+                gameState.totalWords = words.length;
+            } else {
+                console.log("使用默认单词库");
+                // 使用当前语言的单词库
+                words = builtInWords[gameState.currentLanguage] || builtInWords.english;
+                gameState.totalLevels = 3;
+                gameState.totalWords = 18;
+            }
+            
+            console.log(`单词数量: ${words.length}, 总关卡数: ${gameState.totalLevels}`);
+            
+            gameState.currentLevel = 1;
+            gameState.completedWords = 0;
+            
+            // 重置已使用的单词索引
+            gameState.usedWordIndices.clear();
+            
+            // 设置当前单词库
+            gameState.currentWordBank = words;
+            loadWordsForGame();
+            resetHints();
+            showGameScreen();
+        }
+
+        // 开始试玩 - 修复后的版本
+        function startDemo() {
+            console.log('Starting demo');
+            if (gameState.demoPlayed >= 3) {
+                alert('试玩已结束，请注册登录后继续游戏 / Demo ended, please register and login to continue');
+                return;
+            }
+            
+            gameState.demoMode = true;
+            gameState.demoPlayed++;
+            gameState.currentLevel = 1;
+            gameState.totalLevels = 3;
+            gameState.totalWords = 18;
+            gameState.completedWords = 0;
+            
+            // 重置已使用的单词索引
+            gameState.usedWordIndices.clear();
+            
+            // 使用当前语言的单词库
+            const demoWords = builtInWords[gameState.currentLanguage] || builtInWords.english;
+            gameState.currentWordBank = [...demoWords];
+            loadWordsForGame();
+            resetHints();
+            showGameScreen();
+        }
+
+        // 为游戏加载单词
+        function loadWordsForGame() {
+            // 重置游戏数据
+            gameState.wordData = {
+                chinese: [],
+                pinyin: [],
+                translation: []
+            };
+            
+            // 根据当前关卡计算起始索引
+            const startIndex = (gameState.currentLevel - 1) * 6;
+            let levelWords = [];
+            
+            // 从当前单词库中按顺序选取6个单词
+            for (let i = startIndex; i < startIndex + 6 && i < gameState.currentWordBank.length; i++) {
+                levelWords.push(gameState.currentWordBank[i]);
+                gameState.usedWordIndices.add(i);
+            }
+            
+            // 如果单词不足6个，从单词库中随机选择补足（但不重复）
+            if (levelWords.length < 6) {
+                const needed = 6 - levelWords.length;
+                const randomWords = getRandomWords(gameState.currentWordBank, needed, levelWords);
+                levelWords = levelWords.concat(randomWords);
+            }
+            
+            // 打乱顺序
+            const shuffledChinese = [...levelWords].sort(() => Math.random() - 0.5);
+            const shuffledPinyin = [...levelWords].sort(() => Math.random() - 0.5);
+            const shuffledTranslation = [...levelWords].sort(() => Math.random() - 0.5);
+            
+            gameState.wordData = {
+                chinese: shuffledChinese.map(w => w.chinese),
+                pinyin: shuffledPinyin.map(w => w.pinyin),
+                translation: shuffledTranslation.map(w => w.translation)
+            };
+            
+            gameState.wordMapping = levelWords;
+            renderGameBoard();
+        }
+
+        // 获取随机单词（不重复）
+        function getRandomWords(words, count, exclude) {
+            const available = words.filter((w, index) => 
+                !exclude.some(ew => ew.chinese === w.chinese) && 
+                !gameState.usedWordIndices.has(index)
+            );
+            
+            const result = [];
+            
+            for (let i = 0; i < count && i < available.length; i++) {
+                const randomIndex = Math.floor(Math.random() * available.length);
+                result.push(available[randomIndex]);
+                // 记录已使用的单词索引
+                const wordIndex = words.findIndex(w => w.chinese === available[randomIndex].chinese);
+                if (wordIndex !== -1) {
+                    gameState.usedWordIndices.add(wordIndex);
+                }
+                available.splice(randomIndex, 1);
+            }
+            
+            return result;
+        }
+
+        // 渲染游戏板
+        function renderGameBoard() {
+            const gameBoard = document.getElementById('game-board');
+            gameBoard.innerHTML = '';
+            
+            // 创建三列
+            const columns = ['chinese', 'pinyin', 'translation'];
+            
+            columns.forEach((column, colIndex) => {
+                const columnDiv = document.createElement('div');
+                columnDiv.className = 'column';
+                
+                gameState.wordData[column].forEach((word, index) => {
+                    const tile = document.createElement('div');
+                    tile.className = `tile ${column}`;
+                    tile.textContent = word;
+                    tile.dataset.column = column;
+                    tile.dataset.index = index;
+                    tile.addEventListener('click', () => selectTile(tile));
+                    columnDiv.appendChild(tile);
+                });
+                
+                gameBoard.appendChild(columnDiv);
+            });
+            
+            // 添加熊猫按钮容器和动画容器
+            gameBoard.appendChild(document.getElementById('panda-btn-container'));
+            gameBoard.appendChild(document.getElementById('panda-animation'));
+            gameBoard.appendChild(document.getElementById('close-panda-btn'));
+            
+            // 更新进度显示
+            document.getElementById('level-display').textContent = gameState.currentLevel;
+            document.getElementById('total-levels').textContent = gameState.totalLevels;
+            document.getElementById('word-progress').textContent = gameState.completedWords;
+            document.getElementById('total-words').textContent = gameState.totalWords;
+            
+            // 更新提示按钮
+            updateHintButton();
+            
+            // 隐藏下一关按钮和熊猫相关元素
+            document.getElementById('next-level-btns').style.display = 'none';
+            document.getElementById('panda-btn-container').style.display = 'none';
+            document.getElementById('panda-animation').style.display = 'none';
+            document.getElementById('close-panda-btn').style.display = 'none';
+            
+            // 启用上一关和下一关按钮
+            document.getElementById('prev-level').disabled = false;
+            document.getElementById('next-level').disabled = false;
+        }
+
+        // 选择瓷砖
+        function selectTile(tile) {
+            // 如果已经选中，取消选择
+            if (tile.classList.contains('selected')) {
+                tile.classList.remove('selected');
+                gameState.selectedTiles = gameState.selectedTiles.filter(t => t !== tile);
+                return;
+            }
+            
+            // 如果已经选择了三个，先清除
+            if (gameState.selectedTiles.length >= 3) {
+                gameState.selectedTiles.forEach(t => t.classList.remove('selected'));
+                gameState.selectedTiles = [];
+            }
+            
+            // 选择当前瓷砖
+            tile.classList.add('selected');
+            gameState.selectedTiles.push(tile);
+            
+            // 如果选择了三个，检查是否正确
+            if (gameState.selectedTiles.length === 3) {
+                checkSelection();
+            }
+        }
+
+        // 检查选择是否正确
+        function checkSelection() {
+            const [tile1, tile2, tile3] = gameState.selectedTiles;
+            const col1 = tile1.dataset.column;
+            const idx1 = parseInt(tile1.dataset.index);
+            const col2 = tile2.dataset.column;
+            const idx2 = parseInt(tile2.dataset.index);
+            const col3 = tile3.dataset.column;
+            const idx3 = parseInt(tile3.dataset.index);
+            
+            // 获取选中的单词
+            const word1 = gameState.wordData[col1][idx1];
+            const word2 = gameState.wordData[col2][idx2];
+            const word3 = gameState.wordData[col3][idx3];
+            
+            // 找到对应的原始单词
+            const originalWord = gameState.wordMapping.find(w => 
+                w.chinese === word1 || w.chinese === word2 || w.chinese === word3
+            );
+            
+            // 检查是否匹配
+            if (originalWord && 
+                [word1, word2, word3].includes(originalWord.chinese) &&
+                [word1, word2, word3].includes(originalWord.pinyin) &&
+                [word1, word2, word3].includes(originalWord.translation)) {
+                
+                // 正确匹配
+                gameState.selectedTiles.forEach(tile => {
+                    tile.classList.add('correct');
+                    setTimeout(() => {
+                        tile.style.visibility = 'hidden';
+                    }, 500);
+                });
+                
+                gameState.completedWords += 1;
+                document.getElementById('word-progress').textContent = gameState.completedWords;
+                
+                // 检查是否完成当前关卡
+                setTimeout(() => {
+                    checkLevelCompletion();
+                }, 600);
+            } else {
+                // 错误匹配
+                gameState.selectedTiles.forEach(tile => {
+                    tile.classList.add('wrong');
+                    setTimeout(() => {
+                        tile.classList.remove('wrong');
+                    }, 500);
+                });
+                
+                // 添加到错词本
+                if (originalWord) {
+                    const errorWord = {
+                        chinese: originalWord.chinese,
+                        pinyin: originalWord.pinyin,
+                        translation: originalWord.translation,
+                        timestamp: new Date().toLocaleString()
+                    };
+                    
+                    if (!gameState.errorWords.some(w => w.chinese === errorWord.chinese)) {
+                        gameState.errorWords.push(errorWord);
+                        saveUserProgress(); // 保存错词本
+                    }
+                }
+            }
+            
+            // 清除选择
+            setTimeout(() => {
+                gameState.selectedTiles.forEach(t => t.classList.remove('selected'));
+                gameState.selectedTiles = [];
+            }, 500);
+        }
+
+        // 检查关卡完成
+        function checkLevelCompletion() {
+            const allTiles = document.querySelectorAll('.tile');
+            const visibleTiles = Array.from(allTiles).filter(tile => tile.style.visibility !== 'hidden');
+            
+            if (visibleTiles.length === 0) {
+                // 完成当前关卡
+                document.getElementById('next-level-btns').style.display = 'flex';
+                
+                // 显示熊猫点赞按钮
+                document.getElementById('panda-btn-container').style.display = 'block';
+                
+                // 禁用上一关和下一关按钮
+                document.getElementById('prev-level').disabled = true;
+                document.getElementById('next-level').disabled = true;
+                
+                // 保存进度
+                if (!gameState.demoMode) {
+                    saveUserProgress();
+                }
+                
+                // 如果是试玩模式且完成所有关卡，提醒注册
+                if (gameState.demoMode && gameState.currentLevel === gameState.totalLevels) {
+                    setTimeout(() => {
+                        alert('试玩结束！请注册登录以获得完整游戏体验。 / Demo ended! Please register and login for full game experience.');
+                    }, 1000);
+                }
+            }
+        }
+
+        // 显示游戏屏幕
+        function showGameScreen() {
+            document.getElementById('level-menu').style.display = 'none';
+            document.getElementById('game-screen').style.display = 'block';
+            document.getElementById('next-level-btns').style.display = 'none';
+            document.getElementById('main-header').style.display = 'none';
+            document.getElementById('game-header').style.display = 'none';
+            
+            // 隐藏用户信息
+            document.querySelector('.user-info').style.display = 'none';
+            
+            // 隐藏版权声明
+            document.querySelector('.copyright').style.display = 'none';
+        }
+
+        // 显示熊猫动画
+        function showPandaAnimation() {
+            gameState.pandaAnimationPlaying = true;
+            
+            // 隐藏熊猫按钮
+            document.getElementById('panda-btn-container').style.display = 'none';
+            
+            // 显示熊猫动画
+            document.getElementById('panda-animation').style.display = 'block';
+            
+            // 显示关闭按钮
+            document.getElementById('close-panda-btn').style.display = 'block';
+            
+            // 禁用上一关和下一关按钮
+            document.getElementById('prev-level').disabled = true;
+            document.getElementById('next-level').disabled = true;
+        }
+
+        // 隐藏熊猫动画
+        function hidePandaAnimation() {
+            gameState.pandaAnimationPlaying = false;
+            
+            // 隐藏熊猫动画
+            document.getElementById('panda-animation').style.display = 'none';
+            
+            // 隐藏关闭按钮
+            document.getElementById('close-panda-btn').style.display = 'none';
+            
+            // 隐藏熊猫按钮容器
+            document.getElementById('panda-btn-container').style.display = 'none';
+            
+            // 启用上一关和下一关按钮
+            document.getElementById('prev-level').disabled = false;
+            document.getElementById('next-level').disabled = false;
+        }
+
+        // 下一关
+        function nextLevel() {
+            if (gameState.pandaAnimationPlaying) {
+                alert(languagePack[gameState.currentLanguage].watchAnimation);
+                return;
+            }
+            
+            if (gameState.currentLevel < gameState.totalLevels) {
+                gameState.currentLevel++;
+                loadWordsForGame();
+                resetHints();
+            } else {
+                alert('恭喜！您已完成所有关卡！ / Congratulations! You have completed all levels!');
+                backToLevelMenu();
+            }
+        }
+
+        // 上一关
+        function prevLevel() {
+            if (gameState.pandaAnimationPlaying) {
+                alert(languagePack[gameState.currentLanguage].watchAnimation);
+                return;
+            }
+            
+            if (gameState.currentLevel > 1) {
+                gameState.currentLevel--;
+                loadWordsForGame();
+                resetHints();
+            }
+        }
+
+        // 提示功能
+        function giveHint() {
+            // 检查提示次数
+            if (gameState.hintCount <= 0) {
+                alert('提示次数已用完 / No hints remaining');
+                return;
+            }
+            
+            // 找到一组尚未匹配的正确单词
+            const visibleTiles = Array.from(document.querySelectorAll('.tile')).filter(tile => 
+                tile.style.visibility !== 'hidden'
+            );
+            
+            let foundHint = false;
+            
+            // 遍历单词映射，寻找一组完整的单词
+            for (const word of gameState.wordMapping) {
+                // 找到对应的三个瓷砖
+                const chineseTile = visibleTiles.find(tile => 
+                    tile.textContent === word.chinese && tile.classList.contains('chinese')
+                );
+                const pinyinTile = visibleTiles.find(tile => 
+                    tile.textContent === word.pinyin && tile.classList.contains('pinyin')
+                );
+                const translationTile = visibleTiles.find(tile => 
+                    tile.textContent === word.translation && tile.classList.contains('translation')
+                );
+                
+                // 如果三个瓷砖都存在且都可见，则显示提示
+                if (chineseTile && pinyinTile && translationTile && 
+                    chineseTile.style.visibility !== 'hidden' && 
+                    pinyinTile.style.visibility !== 'hidden' && 
+                    translationTile.style.visibility !== 'hidden') {
+                    
+                    // 高亮显示这三个瓷砖
+                    [chineseTile, pinyinTile, translationTile].forEach(tile => {
+                        tile.classList.add('hint', 'hint-group');
+                    });
+                    
+                    // 3秒后取消高亮
+                    setTimeout(() => {
+                        [chineseTile, pinyinTile, translationTile].forEach(tile => {
+                            tile.classList.remove('hint', 'hint-group');
+                        });
+                    }, 3000);
+                    
+                    // 减少提示次数
+                    gameState.hintCount--;
+                    gameState.hintUsed = true;
+                    
+                    // 更新提示按钮显示
+                    updateHintButton();
+                    
+                    foundHint = true;
+                    break;
+                }
+            }
+            
+            if (!foundHint) {
+                alert('没有找到可提示的单词组合 / No word combinations available for hint');
+            }
+        }
+        
+        // 更新提示按钮显示
+        function updateHintButton() {
+            const hintBtn = document.getElementById('hint-btn');
+            const hintText = document.querySelector('#hint-btn .language-text');
+            const currentLanguage = gameState.currentLanguage;
+            const texts = languagePack[currentLanguage];
+            
+            if (!texts) return;
+            
+            // 更新提示按钮文本，显示剩余提示次数
+            hintText.textContent = `${texts.hint} (${gameState.hintCount}/${gameState.maxHints})`;
+            
+            // 如果提示次数为0，禁用按钮
+            if (gameState.hintCount <= 0) {
+                hintBtn.disabled = true;
+                hintBtn.style.opacity = '0.6';
+                hintBtn.style.cursor = 'not-allowed';
+            } else {
+                hintBtn.disabled = false;
+                hintBtn.style.opacity = '1';
+                hintBtn.style.cursor = 'pointer';
+            }
+        }
+        
+        // 重置提示
+        function resetHints() {
+            gameState.hintCount = gameState.maxHints;
+            gameState.hintUsed = false;
+            updateHintButton();
+        }
+
+        // 重新排序
+        function reshuffleTiles() {
+            // 重新打乱当前关卡的单词
+            const shuffledChinese = [...gameState.wordMapping].sort(() => Math.random() - 0.5);
+            const shuffledPinyin = [...gameState.wordMapping].sort(() => Math.random() - 0.5);
+            const shuffledTranslation = [...gameState.wordMapping].sort(() => Math.random() - 0.5);
+            
+            gameState.wordData = {
+                chinese: shuffledChinese.map(w => w.chinese),
+                pinyin: shuffledPinyin.map(w => w.pinyin),
+                translation: shuffledTranslation.map(w => w.translation)
+            };
+            
+            renderGameBoard();
+        }
+
+        // 暂停游戏
+        function pauseGame() {
+            alert('游戏已暂停 / Game paused');
+        }
+
+        // 显示错词本
+        function showErrorBook() {
+            const errorList = document.getElementById('error-list');
+            errorList.innerHTML = '';
+            
+            if (gameState.errorWords.length === 0) {
+                errorList.innerHTML = '<div class="no-errors">暂无错词 / No errors yet</div>';
+            } else {
+                // 添加错词数量统计
+                const errorCount = document.createElement('div');
+                errorCount.className = 'error-count';
+                errorCount.style.marginBottom = '10px';
+                errorCount.style.textAlign = 'center';
+                errorCount.style.color = '#f1c40f';
+                errorCount.textContent = `共 ${gameState.errorWords.length} 个错词 / Total ${gameState.errorWords.length} errors`;
+                errorList.appendChild(errorCount);
+                
+                // 显示错词列表
+                gameState.errorWords.forEach((word, index) => {
+                    const errorItem = document.createElement('div');
+                    errorItem.className = 'error-item';
+                    errorItem.innerHTML = `
+                        <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+                            <div style="flex: 1;">
+                                <strong>${word.chinese}</strong> (${word.pinyin}) - ${word.translation}
+                                <br><small>错误时间 / Error time: ${word.timestamp}</small>
+                            </div>
+                            <button class="remove-error-btn" data-index="${index}" style="background: #e74c3c; color: white; border: none; border-radius: 4px; padding: 4px 8px; cursor: pointer; margin-left: 10px;">×</button>
+                        </div>
+                    `;
+                    errorList.appendChild(errorItem);
+                });
+                
+                // 为每个删除按钮添加事件监听器
+                document.querySelectorAll('.remove-error-btn').forEach(btn => {
+                    btn.addEventListener('click', function() {
+                        const index = parseInt(this.getAttribute('data-index'));
+                        removeErrorWord(index);
+                    });
+                });
+            }
+            
+            document.getElementById('error-book-modal').style.display = 'flex';
+        }
+
+        // 隐藏错词本
+        function hideErrorBook() {
+            document.getElementById('error-book-modal').style.display = 'none';
+        }
+
+        // 清空错词本
+        function clearErrorBook() {
+            if (gameState.errorWords.length === 0) {
+                alert('错词本已为空 / Error book is already empty');
+                return;
+            }
+            
+            if (confirm('确定要清空错词本吗？此操作不可撤销。\nAre you sure you want to clear the error book? This action cannot be undone.')) {
+                gameState.errorWords = [];
+                saveUserProgress();
+                hideErrorBook();
+                alert('错词本已清空 / Error book has been cleared');
+            }
+        }
+
+        // 删除单个错词
+        function removeErrorWord(index) {
+            if (index >= 0 && index < gameState.errorWords.length) {
+                gameState.errorWords.splice(index, 1);
+                saveUserProgress();
+                showErrorBook(); // 重新显示更新后的错词本
+            }
+        }
+
+        // 加载用户进度
+        function loadUserProgress() {
+            if (gameState.isLoggedIn) {
+                const users = JSON.parse(localStorage.getItem('chineseGameUsers') || '{}');
+                const userData = users[gameState.username];
+                
+                if (userData) {
+                    // 加载用户进度
+                    if (userData.progress) {
+                        gameState.userProgress = userData.progress;
+                    } else {
+                        gameState.userProgress = {};
+                    }
+                    
+                    // 加载错词本
+                    if (userData.errorWords) {
+                        gameState.errorWords = userData.errorWords;
+                    } else {
+                        gameState.errorWords = [];
+                    }
+                    
+                    // 加载用户设置
+                    if (userData.settings) {
+                        if (userData.settings.currentLanguage) {
+                            gameState.currentLanguage = userData.settings.currentLanguage;
+                            updateLanguageTexts(gameState.currentLanguage);
+                        }
+                    }
+                } else {
+                    // 创建新用户数据
+                    users[gameState.username] = {
+                        password: '', // 密码在注册时已保存
+                        progress: {},
+                        errorWords: [],
+                        settings: {
+                            currentLanguage: 'english'
+                        }
+                    };
+                    localStorage.setItem('chineseGameUsers', JSON.stringify(users));
+                    gameState.userProgress = {};
+                    gameState.errorWords = [];
+                }
+            } else {
+                // 未登录时清空进度
+                gameState.userProgress = {};
+                gameState.errorWords = [];
+            }
+        }
+
+        // 保存用户进度
+        function saveUserProgress() {
+            if (gameState.isLoggedIn) {
+                const users = JSON.parse(localStorage.getItem('chineseGameUsers') || '{}');
+                
+                if (!users[gameState.username]) {
+                    users[gameState.username] = {};
+                }
+                
+                // 保存用户进度
+                users[gameState.username].progress = gameState.userProgress;
+                
+                // 保存错词本
+                users[gameState.username].errorWords = gameState.errorWords;
+                
+                // 保存用户设置
+                if (!users[gameState.username].settings) {
+                    users[gameState.username].settings = {};
+                }
+                users[gameState.username].settings.currentLanguage = gameState.currentLanguage;
+                
+                localStorage.setItem('chineseGameUsers', JSON.stringify(users));
+                localStorage.setItem('currentUser', gameState.username); // 保存当前用户
+            }
+        }
+
+        // 显示登录模态框
+        function showLoginModal() {
+            document.getElementById('login-modal').style.display = 'flex';
+        }
+
+        // 隐藏登录模态框
+        function hideLoginModal() {
+            document.getElementById('login-modal').style.display = 'none';
+        }
+
+        // 显示注册模态框
+        function showRegisterModal() {
+            document.getElementById('register-modal').style.display = 'flex';
+        }
+
+        // 隐藏注册模态框
+        function hideRegisterModal() {
+            document.getElementById('register-modal').style.display = 'none';
+        }
+
+        // 保存进度
+        function saveProgress() {
+            saveUserProgress();
+            alert('游戏进度已保存 / Game progress saved');
+        }
+
+        // 登录
+        function login() {
+            const username = document.getElementById('login-username').value;
+            const password = document.getElementById('login-password').value;
+            
+            // 简单的验证
+            if (!username || !password) {
+                alert('请输入用户名和密码 / Please enter username and password');
+                return;
+            }
+            
+            const users = JSON.parse(localStorage.getItem('chineseGameUsers') || '{}');
+            
+            if (users[username] && users[username].password === password) {
+                gameState.isLoggedIn = true;
+                gameState.username = username;
+                hideLoginModal();
+                updateUI();
+                loadUserProgress(); // 加载用户进度
+                
+                // 如果当前在级别菜单，刷新显示
+                if (document.getElementById('level-menu').style.display === 'block' && gameState.currentHSKLevel) {
+                    const userProgress = gameState.userProgress[gameState.currentHSKLevel] || {};
+                    if (userProgress.words && userProgress.words.length > 0) {
+                        document.getElementById('word-count').textContent = userProgress.words.length;
+                    } else {
+                        document.getElementById('word-count').textContent = '0';
+                    }
+                }
+                
+                alert(`欢迎回来，${username}！ / Welcome back, ${username}!`);
+            } else {
+                alert('用户名或密码错误 / Incorrect username or password');
+            }
+        }
+
+        // 注册
+        function register() {
+            const username = document.getElementById('register-username').value;
+            const password = document.getElementById('register-password').value;
+            const confirm = document.getElementById('register-confirm').value;
+            
+            // 验证
+            if (!username || !password) {
+                alert('请输入用户名和密码 / Please enter username and password');
+                return;
+            }
+            
+            if (password !== confirm) {
+                alert('密码不匹配 / Passwords do not match');
+                return;
+            }
+            
+            const users = JSON.parse(localStorage.getItem('chineseGameUsers') || '{}');
+            
+            if (users[username]) {
+                alert('用户名已存在 / Username already exists');
+                return;
+            }
+            
+            // 创建新用户数据
+            users[username] = { 
+                password: password,
+                progress: {},
+                errorWords: [],
+                settings: {
+                    currentLanguage: 'english'
+                }
+            };
+            localStorage.setItem('chineseGameUsers', JSON.stringify(users));
+            
+            gameState.isLoggedIn = true;
+            gameState.username = username;
+            hideRegisterModal();
+            updateUI();
+            loadUserProgress(); // 加载用户进度（空进度）
+            
+            alert(`注册成功！欢迎，${username}！ / Registration successful! Welcome, ${username}!`);
+        }
+
+        // 退出登录
+        function logout() {
+            if (gameState.isLoggedIn) {
+                const username = gameState.username;
+                gameState.isLoggedIn = false;
+                gameState.username = '';
+                gameState.userProgress = {};
+                gameState.errorWords = [];
+                localStorage.removeItem('currentUser');
+                updateUI();
+                alert(`已退出登录，${username} / Logged out, ${username}`);
+            }
+        }
+
+        // 更新UI - 修复后的版本
+        function updateUI() {
+            const userDisplay = document.getElementById('user-display');
+            const loginBtn = document.getElementById('login-btn');
+            const registerBtn = document.getElementById('register-btn');
+            const logoutBtn = document.getElementById('logout-btn');
+            const demoBtn = document.getElementById('demo-btn');
+            const saveBtn = document.getElementById('save-btn');
+            
+            // 更新用户显示
+            if (gameState.isLoggedIn) {
+                userDisplay.textContent = `欢迎, ${gameState.username} / Welcome, ${gameState.username}`;
+                loginBtn.style.display = 'none';
+                registerBtn.style.display = 'none';
+                logoutBtn.style.display = 'block';
+                saveBtn.style.display = 'block';
+                demoBtn.style.display = 'block';
+            } else {
+                userDisplay.textContent = '未登录 / Not logged in';
+                loginBtn.style.display = 'block';
+                registerBtn.style.display = 'block';
+                logoutBtn.style.display = 'none';
+                saveBtn.style.display = 'none';
+                demoBtn.style.display = 'block';
+            }
+        }
+
+        // 页面加载完成后初始化游戏
+        document.addEventListener('DOMContentLoaded', initGame);
+    </script>
+
+<script>
+
+// ====== 修复后的：获取随机单词（不重复） ======
+function getRandomWords(words, count, exclude = []) {
+    const available = words.filter((w, index) =>
+        !exclude.some(ew => ew.chinese === w.chinese) &&
+        !gameState.usedWordIndices.has(index)
+    );
+
+    const result = [];
+    const pool = [...available];
+
+    while (result.length < count && pool.length > 0) {
+        const randomIndex = Math.floor(Math.random() * pool.length);
+        const chosen = pool.splice(randomIndex, 1)[0];
+        result.push(chosen);
+
+        // 记录在原始 words 中的索引，避免重复使用
+        const wordIndex = words.findIndex(w => w.chinese === chosen.chinese);
+        if (wordIndex !== -1) {
+            gameState.usedWordIndices.add(wordIndex);
+        }
+    }
+
+    return result;
+}
+
+// ====== 修复后的：为游戏加载单词 ======
+function loadWordsForGame() {
+    // 重置游戏数据
+    gameState.wordData = {
+        chinese: [],
+        pinyin: [],
+        translation: []
+    };
+
+    // 根据当前关卡计算起始索引
+    const startIndex = (gameState.currentLevel - 1) * 6;
+    let levelWords = [];
+
+    // 从当前单词库中按顺序选取6个单词（或用随机补齐）
+    for (let i = startIndex; i < startIndex + 6 && i < gameState.currentWordBank.length; i++) {
+        levelWords.push(gameState.currentWordBank[i]);
+        gameState.usedWordIndices.add(i);
+    }
+
+    // 如果不足6个，则用随机不重复单词补齐
+    if (levelWords.length < 6 && gameState.currentWordBank.length > levelWords.length) {
+        const needed = 6 - levelWords.length;
+        const extras = getRandomWords(gameState.currentWordBank, needed, levelWords);
+        levelWords = levelWords.concat(extras);
+    }
+
+    // 打乱并生成三列显示内容（中文 / 拼音 / 翻译）
+    const shuffledChinese = [...levelWords].sort(() => Math.random() - 0.5);
+    const shuffledPinyin = [...levelWords].sort(() => Math.random() - 0.5);
+    const shuffledTranslation = [...levelWords].sort(() => Math.random() - 0.5);
+
+    gameState.wordData = {
+        chinese: shuffledChinese.map(w => w.chinese),
+        pinyin: shuffledPinyin.map(w => w.pinyin),
+        translation: shuffledTranslation.map(w => w.translation)
+    };
+
+    gameState.wordMapping = levelWords;
+    renderGameBoard();
+}
+
+// ====== 修复后的：渲染游戏板 ======
+function renderGameBoard() {
+    const gameBoard = document.getElementById('game-board');
+    if (!gameBoard) return;
+    gameBoard.innerHTML = '';
+
+    // 创建三列
+    const columns = ['chinese', 'pinyin', 'translation'];
+
+    columns.forEach((column) => {
+        const columnDiv = document.createElement('div');
+        columnDiv.className = 'column';
+
+        gameState.wordData[column].forEach((word, index) => {
+            const tile = document.createElement('div');
+            tile.className = `tile ${column}`;
+            tile.textContent = word;
+            tile.dataset.column = column;
+            tile.dataset.index = index;
+            tile.addEventListener('click', () => selectTile(tile));
+            columnDiv.appendChild(tile);
+        });
+
+        gameBoard.appendChild(columnDiv);
+    });
+
+    // 把熊猫容器和关闭按钮重新附回游戏板（如果存在）
+    const pandaBtnContainer = document.getElementById('panda-btn-container');
+    const pandaAnimation = document.getElementById('panda-animation');
+    const closePandaBtn = document.getElementById('close-panda-btn');
+    if (pandaBtnContainer) gameBoard.appendChild(pandaBtnContainer);
+    if (pandaAnimation) gameBoard.appendChild(pandaAnimation);
+    if (closePandaBtn) gameBoard.appendChild(closePandaBtn);
+
+    // 更新进度显示
+    const levelDisplay = document.getElementById('level-display');
+    if (levelDisplay) levelDisplay.textContent = gameState.currentLevel;
+    const totalLevels = document.getElementById('total-levels');
+    if (totalLevels) totalLevels.textContent = gameState.totalLevels;
+    const wordProgress = document.getElementById('word-progress');
+    if (wordProgress) wordProgress.textContent = gameState.completedWords;
+    const totalWords = document.getElementById('total-words');
+    if (totalWords) totalWords.textContent = gameState.totalWords;
+
+    // 更新提示按钮显示
+    if (typeof updateHintButton === 'function') updateHintButton();
+
+    // 隐藏下一关按钮和熊猫相关元素（初始状态）
+    const nextLevelBtns = document.getElementById('next-level-btns');
+    if (nextLevelBtns) nextLevelBtns.style.display = 'none';
+    if (pandaBtnContainer) pandaBtnContainer.style.display = 'none';
+    if (pandaAnimation) pandaAnimation.style.display = 'none';
+    if (closePandaBtn) closePandaBtn.style.display = 'none';
+
+    // 启用上一关和下一关按钮（根据需要）
+    const prevBtn = document.getElementById('prev-level');
+    const nextBtn = document.getElementById('next-level');
+    if (prevBtn) prevBtn.disabled = (gameState.currentLevel <= 1);
+    if (nextBtn) nextBtn.disabled = false;
+}
+
+// ====== 修复后的：开始游戏 ======
+function startGame() {
+    console.log("开始游戏按钮被点击");
+
+    const userProgress = (gameState.userProgress && gameState.userProgress[gameState.currentHSKLevel]) ? gameState.userProgress[gameState.currentHSKLevel] : null;
+    let words = [];
+
+    if (userProgress && Array.isArray(userProgress.words) && userProgress.words.length > 0) {
+        console.log("使用上传的单词库");
+        words = userProgress.words;
+        gameState.totalLevels = userProgress.totalLevels || Math.ceil(words.length / 6);
+        gameState.totalWords = words.length;
+    } else {
+        console.log("使用默认单词库");
+        words = (builtInWords && builtInWords[gameState.currentLanguage]) ? builtInWords[gameState.currentLanguage] : (builtInWords ? builtInWords.english : []);
+        gameState.totalLevels = 3;
+        gameState.totalWords = Array.isArray(words) ? words.length : 0;
+    }
+
+    console.log(`单词数量: ${words.length}, 总关卡数: ${gameState.totalLevels}`);
+
+    gameState.currentLevel = 1;
+    gameState.completedWords = 0;
+    if (gameState.usedWordIndices && typeof gameState.usedWordIndices.clear === 'function') {
+        gameState.usedWordIndices.clear();
+    } else {
+        gameState.usedWordIndices = new Set();
+    }
+
+    gameState.currentWordBank = words;
+    loadWordsForGame();
+    if (typeof resetHints === 'function') resetHints();
+    if (typeof showGameScreen === 'function') showGameScreen();
+}
+
+// ====== 修复后的：开始试玩 ======
+function startDemo() {
+    console.log('Starting demo');
+    if (!gameState.demoPlayed) gameState.demoPlayed = 0;
+    if (gameState.demoPlayed >= 3) {
+        alert('试玩已结束，请注册登录后继续游戏 / Demo ended, please register and login to continue');
+        return;
+    }
+
+    gameState.demoMode = true;
+    gameState.demoPlayed++;
+    gameState.currentLevel = 1;
+    gameState.totalLevels = 3;
+    gameState.completedWords = 0;
+    gameState.usedWordIndices = new Set();
+
+    const demoWords = (builtInWords && builtInWords[gameState.currentLanguage]) ? builtInWords[gameState.currentLanguage] : (builtInWords ? builtInWords.english : []);
+    gameState.currentWordBank = demoWords;
+    gameState.totalWords = Array.isArray(demoWords) ? demoWords.length : 0;
+
+    loadWordsForGame();
+    if (typeof resetHints === 'function') resetHints();
+    if (typeof showGameScreen === 'function') showGameScreen();
+}
+
+// 重新绑定 DOMContentLoaded 初始化，防止原脚本未注册
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initGame);
+} else { initGame(); }
+</script>
+
+<script>
+// Helper: run after DOM ready
+(function(){
+  function onReady(fn){ if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',fn); else fn(); }
+
+  onReady(function(){
+    try{
+      // 1) Remove/hide "试玩" buttons inside common main menu containers (non-destructive: remove element)
+      const mainMenuSelectors = ['#main-menu', '.main-menu', '#menu', '.menu', '#mainMenu', '.mainMenu'];
+      mainMenuSelectors.forEach(sel => {
+        document.querySelectorAll(sel).forEach(menu => {
+          menu.querySelectorAll('button, a').forEach(el => {
+            if(el.textContent && el.textContent.trim().includes('试玩')) {
+              // remove the element from DOM so layout has no empty gap
+              el.remove();
+            }
+          });
+        });
+      });
+
+      // 2) For any remaining visible "试玩" buttons that are direct children of header or top-level nav, remove them too
+      document.querySelectorAll('button, a').forEach(el => {
+        if(el.textContent && el.textContent.trim().includes('试玩')) {
+          // keep ones that are inside language-selection panels or inside game screens (heuristic)
+          const keepContainers = ['.language-selection', '#language-select', '.lang-options', '#game-screen', '.game-screen'];
+          let keep = false;
+          for(const k of keepContainers){
+            if(el.closest(k)) { keep = true; break; }
+          }
+          if(!keep){
+            el.remove();
+          }
+        }
+      });
+
+      // 3) Ensure per-language demo buttons call startDemo with the correct language
+      // Buttons with attributes: data-demo, data-language, data-lang, or inside language-option elements with data-language
+      function bindLangDemoButtons(){
+        const candidates = Array.from(document.querySelectorAll('button[data-demo], button.demo, .language-option button, .lang-option button'));
+        candidates.forEach(btn => {
+          try{
+            const text = btn.textContent || '';
+            if(!text.includes('试玩')) return; // only handle demo-labelled buttons
+            // find language via dataset or ancestor
+            let lang = btn.dataset.language || btn.dataset.lang || btn.dataset.langcode;
+            if(!lang){
+              const ancestor = btn.closest('[data-language], [data-lang], [data-langcode], .language-option, .lang-option');
+              if(ancestor){
+                lang = ancestor.dataset.language || ancestor.dataset.lang || ancestor.dataset.langcode;
+              }
+            }
+            // fallback: try to parse visible language label near button
+            if(!lang){
+              const sib = btn.previousElementSibling || btn.parentElement && btn.parentElement.querySelector('label, span');
+              if(sib) lang = (sib.dataset && (sib.dataset.language||sib.dataset.lang)) || (sib.textContent||'').trim().toLowerCase().split(/\s+/)[0];
+            }
+            // attach event: set gameState.currentLanguage if available, then call startDemo
+            btn.addEventListener('click', function(e){
+              if(typeof gameState !== 'undefined' && lang) {
+                gameState.currentLanguage = lang;
+              }
+              if(typeof startDemo === 'function') {
+                startDemo();
+              } else {
+                console.warn('startDemo not ready yet');
+              }
+            });
+          }catch(err){ console.warn('bindLangDemoButtons inner', err) }
+        });
+      }
+
+      // bind now and also bind after potential dynamic language panel shows
+      bindLangDemoButtons();
+      // observe DOM for added language panels (in case they are generated later)
+      const obs = new MutationObserver((mutations)=>{
+        bindLangDemoButtons();
+      });
+      obs.observe(document.body, {childList:true, subtree:true});
+
+    }catch(e){
+      console.error('Error applying demo-button adjustments:', e);
+    }
+  });
+})();
+<script>
+document.querySelectorAll('.language-btn').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    const lang = btn.getAttribute('data-lang');
+    // 此处补充进入下一级菜单的逻辑，如切换界面、加载数据等
+    alert('您选择了：' + lang);
+    // TODO: 进入下一级菜单
+  });
+});
+</script>
+</body>
+</html>
