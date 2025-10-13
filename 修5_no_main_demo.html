@@ -1165,12 +1165,8 @@
             <button id="hsk4-btn" class="btn">HSK 4</button>
             <button id="hsk5-btn" class="btn">HSK 5</button>
             <button id="hsk6-btn" class="btn">HSK 6</button>
-            <button id="demo-btn-hsk" class="btn btn-accent">
-                <div class="bilingual">
-                    <span class="chinese-text">试玩</span>
-                    <span class="language-text">Demo</span>
-                </div>
-            </button>
+           
+        </button>
             <button id="back-to-main" class="btn btn-accent">
                 <div class="bilingual">
                     <span class="chinese-text">返回主菜单</span>
@@ -2491,6 +2487,13 @@ HSK level：`,
         }
 
         // 开始试玩 - 修复后的版本
+        function startDemo() {        
+       // 这里应有试玩模式数据初始化和页面切换        
+            document.getElementById('language-menu').style.display = 'none';        
+            document.getElementById('game-area').style.display = 'block';        
+     // 初始化试玩数据，如：        
+     // initGame({mode: 'demo', language: currentLanguage});    
+       }
         function startDemo() {
             console.log('Starting demo');
             if (gameState.demoPlayed >= 3) {
