@@ -3534,7 +3534,15 @@ if (document.readyState === 'loading') {
     }
   });
 })();
+<script>
+document.querySelectorAll('.language-btn').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    const lang = btn.getAttribute('data-lang');
+    // 此处补充进入下一级菜单的逻辑，如切换界面、加载数据等
+    alert('您选择了：' + lang);
+    // TODO: 进入下一级菜单
+  });
+});
 </script>
-
 </body>
 </html>
