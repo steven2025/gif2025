@@ -1,0 +1,40 @@
+你,nǐ,you (singular),คุณ,bạn,ເຈົ້າ,toi,あなた,당신,ты,du,tú
+好,hǎo,good/fine/nice,ดี,tốt,ດີ,bon,良い,좋은,хороший,gut,bueno
+你们,nǐmen,you (plural),พวกคุณ,các bạn,ພວກເຈົ້າ,vous,あなたたち,여러분,вы (мн.),ihr,vosotros
+老师,lǎoshī,teacher,ครู,giáo viên,ຄູສອນ,professeur,先生,선생님,учитель,Lehrer,maestro
+早上,zǎoshang,morning/early morning,เช้า,buổi sáng,ເຊົ້າ,matin,朝,아침,утро,Morgen,mañana
+是,shì,be,เป็น,là,ແມ່ນ,être,である,이다,быть,sein,ser
+哪,nǎ,which/what,อะไร,gì,ຫຍັງ,quoi,何,무엇,что,was,qué
+国,guó,country/state/nation,ประเทศ,quốc gia,ປະເທດ,pays,国,나라,страна,Land,país
+人,rén,people/human being,คน,người,ຄົນ,personne,人,사람,человек,Mensch,persona
+我,wǒ,I/me,ฉัน,tôi,ຂ້ອຍ,moi,私,나,я,ich,yo
+呢,ne,used at the end of an interrogative sentence,ไหม,không,ບໍ່,fin interrogative,か,인가,ли,Frageendung,¿no?
+他,tā,he/him,เขา,anh ấy,ລາວ,il,彼,그,он,er,él
+中国,Zhōngguó,China,จีน,Trung Quốc,ຈີນ,Chine,中国,중국,Китай,China,China
+中国人,Zhōngguó rén,Chinese (people),คนจีน,người Trung Quốc,ຄົນຈີນ,Chinois,中国人,중국인,китаец,Chinese,chino
+德国,Déguó,Germany,เยอรมนี,Đức,ເຢຍລະມັນ,Allemagne,ドイツ,독일,Германия,Deutschland,Alemania
+德国人,Déguó rén,German (people),คนเยอรมัน,người Đức,ຄົນເຢຍລະມັນ,Allemand,ドイツ人,독일인,немец,Deutscher,alemán
+英国,Yīngguó,Britain,อังกฤษ,Anh,ອັງກິດ,Angleterre,イギリス,영국,Британия,Großbritannien,Gran Bretaña
+英国人,Yīngguó rén,British (people),คนอังกฤษ,người Anh,ຄົນອັງກິດ,Anglais,イギリス人,영국인,англичанин,Brite,británico
+印度,Yìndù,India,อินเดีย,Ấn Độ,ອິນເດຍ,Inde,インド,인도,Индия,Indien,India
+印度人,Yìndù rén,Indian (people),คนอินเดีย,người Ấn Độ,ຄົນອິນເດຍ,Indien,インド人,인도인,индиец,Inder,indio
+请,qǐng,please,กรุณา,xin vui lòng,ກະລຸນາ,s'il vous plaît,お願いします,부탁합니다,пожалуйста,bitte,por favor
+问,wèn,ask,ถาม,hỏi,ຖາມ,demander,尋ねる,묻다,спросить,fragen,preguntar
+叫,jiào,call/name,เรียก,gọi,ເອີ້ນ,appeler,呼ぶ,부르다,называть,nennen,llamar
+什么,shénme,what,อะไร,gì,ຫຍັງ,quoi,何,무엇,что,was,qué
+名字,míngzi,name/given or personal name,ชื่อ,tên,ຊື່,nom,名前,이름,имя,Name,nombre
+姓,xìng,be surnamed,แซ่,họ,ນາມສະກຸນ,s'appeler,姓,성씨이다,фамилия,heißen,apellidarse
+认识,rènshi,know/recognize,รู้จัก,biết,ຮູ້ຈັກ,connaître,知る,알다,знать,kennen,conocer
+很,hěn,very/very much,มาก,rất,ຫຼາຍ,très,とても,매우,очень,sehr,muy
+高兴,gāoxìng,glad/happy,ดีใจ,vui mừng,ດີໃຈ,content/heureux,嬉しい,기쁘다,рад,froh,feliz
+也,yě,also/too/as well,ก็,cũng,ກໍ,aussi,も,또한,тоже,auch,también
+李,Lǐ,Li-a Chinese surname,หลี่,Lý,ລີ,Li,リー,이,Ли,Li,Li
+王,Wáng,Wang-a Chinese surname,หวัง,Vương,ວັງ,Wang,ワン,왕,Ван,Wang,Wang
+张,Zhāng,Zhang-a Chinese surname,จาง,Trương,ຈ້າງ,Zhang,チャン,장,Чжан,Zhang,Zhang
+刘,Liú,Liu-a Chinese surname,หลิว,Lưu,ລິວ,Liu,リウ,류,Лю,Liu,Liu
+赵,Zhào,Zhao-a Chinese surname,เจ้า,Triệu,ຈາວ,Zhao,ジャオ,자오,Чжао,Zhao,Zhao
+马,Mǎ,Ma-a Chinese surname,หม่า,Mã,ມາ,Ma,マー,마,Ма,Ma,Ma
+陈,Chén,Chen-a Chinese surname,เฉิน,Trần,ເຉີນ,Chen,チェン,천,Чэнь,Chen,Chen
+孙,Sūn,Sun-a Chinese surname,ซุน,Tôn,ຊູນ,Sun,スン,손,Сунь,Sun,Sun
+黄,Huáng,Huang-a Chinese surname,หวง,Hoàng,ຮວງ,Huang,ホアン,황,Хуан,Huang,Huang
+高,Gāo,Gao-a Chinese surname,เกา,Cao,ກາວ,Gao,ガオ,가오,Гао,Gao,Gao
