@@ -1,0 +1,150 @@
+我,wǒ,I/me,ฉัน/ผม,tôi,ຂ້ອຍ,je/moi,私/わたし,나/저,я,ich,yo
+你,nǐ,you,คุณ,bạn,ເຈົ້າ,tu/vous,あなた,너/당신,ты/вы,du/Sie,tú/usted
+他,tā,he/him,เขา(ผู้ชาย),anh ấy,ລາວ(ຜູ້ຊາຍ),il/lui,彼,그,он,er,él
+她,tā,she/her,เธอ(ผู้หญิง),cô ấy,ນາງ,elle,彼女,그녀,она,sie,ella
+是,shì,be (am/is/are),เป็น/คือ,là,ແມ່ນ,être,です/である,이다,быть,sein,ser/estar
+吗,ma,(interrogative particle for yes/no questions),ไหม (คำเสริมถาม),trợ từ nghi vấn,ບໍ? (ຄຳສອບ),particule interrogative,か (疑問),까/니? (의문),ли? (вопросит.),Fragepartikel,¿…? (partícula)
+不,bù,no,ไม่/ไม่ใช่,không,ບໍ່,non/pas,不/いいえ,아니/아니요,не,nicht/kein,no
+好,hǎo,good,ดี,tốt,ດີ,bien/bon,良い,좋다,хорошо/добрый,gut,bien
+很,hěn,quite/very,มาก/ค่อนข้าง,rất/khá,ຫຼາຍ/ເຂັ້ມ,très/assez,とても/かなり,매우/꽤,очень/довольно,sehr/ziemlich,muy/bastante
+什么,shén me,what/why,อะไร/ทำไม,gì/tại sao,ຫຍັງ/ເປັນຫຍັງ,quoi/pourquoi,何/なぜ,무엇/왜,что/почему,was/warum,qué/por qué
+名字,míng zi,name,ชื่อ,tên,ຊື່,nom,名前,이름,имя,Name,nombre
+叫,jiào,call,เรียก/ชื่อ,gọi,ເອີ້ນ/ຊື່,appeler/s’appeler,呼ぶ/と言う,부르다/라고 하다,звать/называться,nennen/heißen,llamar/llamarse
+谢谢,xiè xie,thank you,ขอบคุณ,cảm ơn,ຂອບໃຈ,merci,ありがとう,감사합니다/고마워요,спасибо,danke,gracias
+再见,zài jiàn,good-bye,ลาก่อน,tạm biệt,ລາກ່ອນ,au revoir,さようなら,안녕히 가세요/계세요,до свидания,auf Wiedersehen,adiós/hasta luego
+喂,wèi,hello,ฮัลโหล,alo,ໂຮ້ຍ/ຮີ້ (โทร),allô,もしもし,여보세요,алло,hallo,aló/¿diga?
+请,qǐng,please,กรุณา/เชิญ,xin vui lòng/mời,ກະລຸນາ/ເຊີນ,s’il vous plaît/priez de,お願いします/どうぞ,부탁/제발/초대,пожалуйста/приглашать,bitte/bitten,por favor/invitar
+一,yī,one,หนึ่ง,một,ໜຶ່ງ,un,一,하나,один,eins,uno
+二,èr,two,สอง,hai,ສອງ,deux,二,둘,два,zwei,dos
+三,sān,three,สาม,ba,ສາມ,trois,三,셋,три,drei,tres
+四,sì,four,สี่,bốn,ສີ່,quatre,四,넷,четыре,vier,cuatro
+五,wǔ,five,ห้า,năm,ຫ້າ,cinq,五,다섯,пять,fünf,cinco
+六,liù,six,หก,sáu,ຫົກ,six,六,여섯,шесть,sechs,seis
+七,qī,seven,เจ็ด,bảy,ເຈັດ,sept,七,일곱,семь,sieben,siete
+八,bā,eight,แปด,tám,ແປດ,huit,八,여덟,восемь,acht,ocho
+九,jiǔ,nine,เก้า,chín,ເກົ້າ,neuf,九,아홉,девять,neun,nueve
+十,shí,ten,สิบ,mười,ສິບ,dix,十,열,десять,zehn,diez
+这 (这儿),zhè (zhèr),this (here),นี่/ตรงนี้,này/đây,ນີ້/ທີ່ນີ້,ceci/ici,これ/ここ,이것/여기,это/здесь,dies/dieser/hier,esto/aquí
+那 (那儿),nà (nàr),that (there),นั่น/ตรงนั้น,kia/đó,ນັ້ນ/ທີ່ນັ້ນ,cela/là-bas,それ/あそこ,저것/거기/저기,то/там,das dort/dort,eso/allí
+哪,nǎ,which,ไหน/อันไหน,nào,ໃສ/ອັນໃດ,quel/lequel,どれ/どの,어느/어떤,какой/который,welcher,cuál/qué
+哪儿,nǎr,where,ที่ไหน,ở đâu,ຢູ່ໃສ,où,どこ,어디,где,wo,dónde
+谁,shéi,who,ใคร,ai,ໃຜ,qui,だれ,누구,кто,wer,quién
+多少,duō shǎo,how many/how much,เท่าไร/กี่,bao nhiêu,ເທົ່າໃດ/ຫຼາຍເທົ່າໃດ,combien,いくつ/どのくらい,얼마/몇,сколько,wieviel/wie viele,cuánto/cuántos
+个,gè,(for normal objects),อัน/ชิ้น,cái (lượng từ),ອັນ (ລວມ),classificateur générique,個 (量詞),개 (양사),сч. сл. (штук),Stück/Zählwort,clasificador general
+钱,qián,money,เงิน,tiền,ເງິນ,argent,お金,돈,деньги,Geld,dinero
+块,kuài,piece/chunk,ชิ้น/ก้อน/หยวน,khối/miếng/nhân dân tệ,ກ້ອນ/ຊິ້ນ/ຢວນ,morceau/unité yuán,塊/元,덩어리/위안,кусок/юань,Stück/Yuan,trozo/yuan
+爸爸,bà ba,father,พ่อ,bố/cha,ພໍ່,papa/père,お父さん/父,아빠/아버지,папа/отец,Papa/Vater,papá/padre
+妈妈,mā ma,mother,แม่,mẹ,ແມ່,maman/mère,お母さん/母,엄마/어머니,мама/мать,Mama/Mutter,mamá/madre
+家,jiā,home,บ้าน/ครอบครัว,nhà/gia đình,ບ້ານ/ຄອບຄົວ,maison/famille,家/家庭,집/가정,дом/семья,Haus/Familie,casa/familia
+有,yǒu,have,มี,có,ມີ,avoir/il y a,ある/持つ,있다,иметь/есть,haben/es gibt,tener/haber
+和,hé,and,และ/กับ,và,ແລະ/ກັບ,et/avec,と/そして,그리고/와,и/с,und/mit,y/con
+人,rén,person,คน,người,ຄົນ,personne/gens,人,사람,человек,Mensch/Leute,persona/gente
+老师,lǎo shī,teacher,ครู,giáo viên/thầy/cô,ຄູ/ອາຈານ,professeur,先生/教師,선생님/교사,учитель/преподаватель,Lehrer/Lehrerin,profesor/a
+学生,xué shēng,student,นักเรียน/นักศึกษา,học sinh/sinh viên,ນັກຮຽນ/ນັກສຶກສາ,élève/étudiant,学生,학생/대학생,ученик/студент,Schüler/Student,estudiante/alumno
+同学,tóng xué,classmate,เพื่อนร่วมชั้น,bạn cùng lớp,ເພື່ອນຮ່ວມຊັ້ນ,camarade de classe,同級生,반친구/동급생,одноклассник/сокурсник,Klassenkamerad,compañero de clase
+朋友,péng you,friend,เพื่อน,bạn,ໝູ່/ເພື່ອນ,ami(e),友達,친구,друг/подруга,Freund/Freundin,amigo/a
+医生,yī shēng,doctor,หมอ/แพทย์,bác sĩ,ທ່ານໝໍ,médecin,医者/医師,의사,врач,Arzt/Ärztin,médico/a
+工作,gōng zuò,work,งาน/ทำงาน,công việc/làm việc,ວຽກ/ເຮັດວຽກ,travail/travailler,仕事/働く,일/일하다,работа/работать,Arbeit/arbeiten,trabajo/trabajar
+吃,chī,eat,กิน,ăn,ກິນ,manger,食べる,먹다,есть,essen,comer
+喝,hē,drink,ดื่ม,uống,ດື່ມ,boire,飲む,마시다,пить,trinken,beber
+水,shuǐ,water,น้ำ,nước,ນ້ຳ,eau,水,물,вода,Wasser,agua
+茶,chá,tea,ชา,trà,ນ້ຳຊາ,thé,お茶,차,чай,Tee,té
+菜,cài,dish,ผัก/อาหาร,món ăn/rau,ອາຫານ/ຜັກ,plat/légumes,料理/野菜,요리/채소,блюдо/овощи,Gericht/Gemüse,plato/verduras
+米饭,mǐ fàn,rice,ข้าวสวย,cơm,ເຂົ້າສາຍ/ເຂົ້າສຸກ,riz cuit,ご飯,밥,варёный рис,gekochter Reis,arroz (cocido)
+水果,shuǐ guǒ,fruit,ผลไม้,trái cây,ໝາກໄມ້,fruit(s),果物,과일,фрукты,Obst,fruta
+苹果,píng guǒ,apple,แอปเปิ้ล,táo,ໝາກແອັບເປີ້ນ,pomme,りんご,사과,яблоко,Apfel,manzana
+杯子,bēi zi,cup,แก้ว/ถ้วย,cốc/ly,ຖ້ວຍ/ແກ້ວ,tasse/verre,コップ/カップ,컵,чашка/стакан,Tasse/Becher/Glas,taza/vaso
+饭店,fàn diàn,restaurant,ร้านอาหาร/โรงแรม,nhà hàng/khách sạn,ຮ້ານອາຫານ/ໂຮງແຮມ,restaurant/hôtel,レストラン/ホテル,식당/호텔,ресторан/отель,Restaurant/Hotel,restaurante/hotel
+商店,shāng diàn,store,ร้านค้า,cửa hàng,ຮ້ານຄ້າ,magasin,店/ショップ,가게/상점,магазин,Laden/Geschäft,tienda
+买,mǎi,buy,ซื้อ,mua,ຊື້,acheter,買う,사다,покупать,kaufen,comprar
+今天,jīn tiān,today,วันนี้,hôm nay,ມື້ນີ້,aujourd’hui,今日,오늘,сегодня,heute,hoy
+明天,míng tiān,tomorrow,พรุ่งนี้,ngày mai,ມື້ອື່ນ,demain,明日,내일,завтра,morgen,mañana
+昨天,zuó tiān,yesterday,เมื่อวาน,hôm qua,ມື້ກ່ອນ,hier,昨日,어제,вчера,gestern,ayer
+上午,shàng wǔ,morning,ตอนเช้า,buổi sáng,ເຊົ້າ,matin,午前,오전,утро,Morgen/Vormittag,mañana (temprano)
+中午,zhōng wǔ,noon,เที่ยง,buổi trưa,ທ່ຽງ,midi,正午,정오/한낮,полдень,Mittag,mediodía
+下午,xià wǔ,afternoon,บ่าย,buổi chiều,ຕອນບ່າຍ,après-midi,午後,오후,после полудня,Nachmittag,tarde
+点,diǎn,o'clock,นาฬิกา/โมง,giờ (điểm),ໂມງ,heure/point,時/時刻,시/시각,час/время,Uhr/Stunde,en punto/hora
+分钟,fēn zhōng,minute,นาที,phút,ນາທີ,minute,分,분,минута,Minute,minuto
+现在,xiàn zài,now,ตอนนี้/ขณะนี้,bây giờ,ຕອນນີ້,maintenant,今/いま,지금,сейчас,jetzt,ahora
+年,nián,year,ปี,năm,ປີ,année/an,年,년,год,Jahr,año
+月,yuè,month,เดือน/พระจันทร์,tháng,ເດືອນ,mois,月,월,месяц,Monat,mes
+号,hào,number/date,หมายเลข/วันที่,số/ngày,ເລກ/ວັນທີ,numéro/date,号/日付,번호/날짜,номер/число/дата,Nummer/Datum,número/fecha
+星期,xīng qī,week,สัปดาห์/วันในสัปดาห์,tuần/thứ,ອາທິດ/ວັນທີ່,semaine/jour de la semaine,週/曜日,주/요일,неделя/день недели,Woche/Wochentag,semana/día de la semana
+时候,shí hou,time,เวลา/เมื่อไร,lúc/khi,ເວລາ/ເມື່ອໃດ,moment/temps,時/とき,때/시기,время/когда,Zeit/zeitpunkt,cuándo/tiempo
+睡觉,shuì jiào,sleep,นอนหลับ,ngủ,ນອນ,dormir,寝る/就寝する,잠자다,спать,schlafen,dormir
+学校,xué xiào,school,โรงเรียน,trường học,ໂຮງຮຽນ,école,学校,학교,школа,Schule,escuela
+学习,xué xí,study,เรียน/ศึกษา,học/tự học,ຮຽນ,étudier/apprendre,学ぶ/勉強する,공부하다/배우다,учиться/изучать,lernen/studieren,estudiar/aprender
+书,shū,book,หนังสือ,sách,ປຶ້ມ,livre,本/書籍,책,книга,Buch,libro
+字,zì,character,ตัวอักษร/อักษรจีน,chữ/ký tự,ຕົວອັກສອນ,caractère/lettre,字/文字,글자/문자,иероглиф/буква,Zeichen/Buchstabe,carácter/letra
+汉语,hàn yǔ,Mandarin Chinese,ภาษาจีนกลาง,tiếng Hán/tiếng Trung,ພາສາຈີນ,chinois (mandarin),中国語/漢語,중국어,китайский язык,Chinesisch,chino (mandarín)
+写,xiě,write,เขียน,viết,ຂຽນ,écrire,書く,쓰다/작성하다,писать,schreiben,escribir
+读,dú,read,อ่านออกเสียง/อ่าน,đọc,ອ່ານ,lire,読む,읽다,читать,lesen,leer
+看,kàn,look,ดู/มอง/อ่าน,xem/nhìn/đọc,ເບິ່ງ/ເບິ່ງເບິ່ງ,regarder/voir/lire,見る/読む,보다/읽다,смотреть/видеть/читать,sehen/lesen,ver/leer
+我们,wǒ men,we/us,พวกเรา,chúng tôi/chúng ta,ພວກເຮົາ,nous,私たち,우리(들),мы,wir,nosotros/as
+他们,tā men,they/them (male),พวกเขา (ผู้ชาย),họ (nam),ພວກເຂົາ (ຊາຍ),ils/eux,彼ら,그들(남),они (муж.),"sie (Plural, männl.)",ellos
+她们,tā men,they/them (female),พวกเธอ (ผู้หญิง),họ (nữ),ພວກນາງ,elles,彼女たち,그녀들,они (жен.),"sie (Plural, weibl.)",ellas
+衣服,yī fu,clothes,เสื้อผ้า,quần áo,ເສື້ອຜ້າ,vêtements,服,옷,одежда,Kleidung,ropa
+大,dà,big,ใหญ่,to/lớn,ໃຫຍ່,grand,大きい,크다,большой,groß,grande
+小,xiǎo,small,เล็ก,nhỏ,ນ້ອຍ,petit,小さい,작다,маленький,klein,pequeño
+多,duō,many/much,มาก/หลาย,nhiều,ຫຼາຍ,beaucoup,多い,많다,много,viel,mucho
+少,shǎo,"few,little",น้อย/เล็กน้อย,ít/thiếu,ນ້ອຍ,peu/moins,少ない,적다/모자라다,мало/меньше,wenig/weniger,poco/menos
+颜色,yán sè,color,สีสัน,màu sắc,ສີ,couleur,色,색/색깔,цвет,Farbe,color
+红,hóng,red,สีแดง,đỏ,ແດງ,rouge,赤/紅,빨간색,красный,rot,rojo
+白,bái,white,สีขาว,trắng,ຂາວ,blanc,白,하얀색/흰색,белый,weiß,blanco
+喜欢,xǐ huan,love/like,ชอบ/รัก,thích,ມັກ/ຮັກ,aimer/adorer,好き,좋아하다/사랑하다,нравиться/любить,mögen/lieben,gustar/amar
+太,tài,too,เกินไป/มาก,quá,ເກີນໄປ/ຫຼາຍ,trop,とても/過度に,너무,слишком,zu/sehr,demasiado
+漂亮,piào liang,beautiful,สวยงาม,đẹp,ງາມ/ສວຍ,joli/beau,きれい/美しい,예쁘다/아름답다,красивый,schön/hübsch,bonito/hermoso
+怎么样,zěn me yàng,how about,เป็นอย่างไร,thế nào,ເປັນແນວໃດ,comment/ça va,どうですか,어때요,как/как насчёт,wie ist es,¿qué tal?
+去,qù,go,ไป,đi,ໄປ,aller,行く,가다,идти/ехать,gehen/fahren,ir
+来,lái,come,มา,đến/tới,ມາ,venir,来る,오다,приходить,kommen,venir
+在,zài,"in,at",อยู่/ที่,ở/tại,ຢູ່/ທີ່,être à/chez,にある/で,에 있다,в/на/быть,in/bei,en/en
+上,shàng,up,ข้างบน/ขึ้น,trên/lên,ເທິງ/ຂຶ້ນ,sur/au-dessus,上/上がる,위/올라가다,наверху/вверх,oben/auf,arriba/subir
+下,xià,down,ข้างล่าง/ลง,dưới/xuống,ລຸ່ມ/ລົງ,sous/en bas,下/下がる,아래/내려가다,внизу/вниз,unten/herunter,abajo/bajar
+前面,qián miàn,front,ข้างหน้า,phía trước,ດ້ານໜ້າ,devant/devanture,前(の方),앞쪽/앞면,впереди/перед,vorne/vorderseite,delante/frente
+后面,hòu miàn,behind,ข้างหลัง,phía sau,ຂ້າງຫຼັງ,derrière,後ろ,뒤쪽/뒷면,сзади/за,hinten/hinter,detrás
+里面,lǐ miàn,inside,ข้างใน,bên trong,ຂ້າງໃນ,à l’intérieur,中/内側,안/안쪽,внутри,innen/drinnen,dentro
+飞机,fēi jī,airplane,เครื่องบิน,máy bay,ຍົນ,avion,飛行機,비행기,самолёт,Flugzeug,avión
+出租车,chū zū chē,taxi,แท็กซี่,taxi/xe taxi,ແທັກຊີ່,taxi,タクシー,택시,такси,Taxi,taxi
+中国,Zhōng guó,China,ประเทศจีน,Trung Quốc,ປະເທດຈີນ,Chine,中国,중국,Китай,China,China
+北京,Běi jīng,Beijing,ปักกิ่ง,Bắc Kinh,ເປກກິ່ງ,Pékin/Beijing,北京,베이징,Пекин,Peking/Beijing,Pekín/Beijing
+怎么,zěn me,how,อย่างไร/ทำยังไง,làm thế nào,ແນວໃດ,comment/fais comment,どうやって,어떻게,как/каким образом,wie,cómo
+坐,zuò,sit/take (transport),นั่ง/โดยสาร,ngồi/đi (phương tiện),ນັ່ງ/ໂດຍສານ,s’asseoir/prendre (transport),座る/乗る,앉다/타다,сидеть/ездить (на),sitzen/fahren (mit),sentarse/tomar (transporte)
+医院,yī yuàn,hospital,โรงพยาบาล,bệnh viện,ໂຮງໝໍ,hôpital,病院,병원,больница,Krankenhaus,hospital
+儿子,ér zi,son,ลูกชาย,con trai,ລູກຊາຍ,fils,息子,아들,сын,Sohn,hijo
+女儿,nǚ ér,daughter,ลูกสาว,con gái,ລູກສາວ,fille,娘/娘さん,딸,дочь,Tochter,hija
+先生,xiān sheng,sir,คุณผู้ชาย/นาย,ông/tiên sinh,ທ່ານ/ທ່ານຊາຍ,monsieur,～さん/先生,선생/씨/남성 호칭,господин/сэр,Herr,señor
+小姐,xiǎo jiě,Miss,คุณผู้หญิง/นางสาว,cô/tiểu thư,ທ່ານຍິງ/ນາງສາວ,mademoiselle,お嬢さん/小姐,아가씨,мисс/ барышня,Fräulein,señorita
+爱,ài,love,รัก,yêu,ຮັກ,aimer,愛,사랑하다,любить,lieben,amar
+认识,rèn shi,know,รู้จัก,biết/quen,ຮູ້ຈັກ,connaître,知り合う/知る,알다/알게 되다,знать/быть знакомым,kennen,conocer
+能,néng,can/be able to,สามารถ/ทำได้,có thể,ສາມາດ,pouvoir,できる,할 수 있다,мочь,können,poder
+会,huì,can,เป็น/เป็นได้/เป็นไปได้,biết (kỹ năng)/sẽ,ເປັນ/ເຮັດເປັນ/ຈະ,savoir (capacité)/va,〜できる/〜するつもり,할 줄 알다/할 것이다,уметь/будет,können/werden,saber (hacer)/ir a
+高兴,gāo xìng,happy,ดีใจ/มีความสุข,vui/hoan hỉ,ດີໃຈ,content/heureux,嬉しい,기쁘다,рад/доволен,froh/glücklich,contento/feliz
+开,kāi,open,เปิด/ขับ/เริ่ม,mở/lái/khai mạc,ເປີດ/ຂັບ/ເລີ່ມ,ouvrir/conduire/démarrer,開ける/運転する/始める,열다/운전하다/시작하다,открыть/вести/начать,öffnen/fahren/beginnen,abrir/conducir/empezar
+电视,diàn shì,television,โทรทัศน์,tivi,ໂທລະທັດ,télévision,テレビ,텔레비전,телевизор,Fernseher,televisión
+电脑,diàn nǎo,computer,คอมพิวเตอร์,máy tính,ຄອມພິວເຕີ,ordinateur,パソコン,컴퓨터,компьютер,Computer,computadora/ordenador
+电影,diàn yǐng,movie,ภาพยนตร์,phim,ຮູບເງົາ,film,映画,영화,фильм,Film,película
+打电话,dǎ diàn huà,make phone call,โทรศัพท์หา,gọi điện thoại,ໂທລະສັບ,téléphoner,電話をかける,전화하다,звонить,telefonieren,llamar por teléfono
+听,tīng,listen,ฟัง,nghe,ຟັງ,écouter,聞く,듣다,слушать,hören,escuchar
+说,shuō,speak,พูด/บอก,nói,ເວົ້າ,parler/dire,話す/言う,말하다,говорить/сказать,sprechen/sagen,hablar/decir
+天气,tiān qì,weather,อากาศ/สภาพอากาศ,thời tiết,ອາກາດ,temps (météo),天気,날씨,погода,Wetter,tiempo (clima)
+冷,lěng,cold,หนาว/เย็น,lạnh,ໜາວ/ເຢັນ,froid,寒い,춥다,холодный,kalt,frío
+热,rè,hot,ร้อน,nóng,ຮ້ອນ,chaud,暑い/熱い,덥다/뜨겁다,жаркий/горячий,heiß,caliente
+下雨,xià yǔ,rain,ฝนตก,mưa,ຝົນຕົກ,pleuvoir,雨が降る,비가 오다,идёт дождь,regnen,llover
+猫,māo,cat,แมว,mèo,ແມວ,chat,猫,고양이,кот/кошка,Katze,gato
+狗,gǒu,dog,สุนัข,chó,ຫມາ,chien,犬,개,собака,Hund,perro
+东西,dōng xi,thing,สิ่งของ/ของ,đồ đạc/vật,ຂອງ/ສິ່ງຂອງ,chose/objet,物/もの,물건/것,вещь,Ding/Sache,cosa
+桌子,zhuō zi,desk,โต๊ะ,bàn,ໂຕະ,table,机/テーブル,탁자/테이블,стол,Tisch,mesa
+椅子,yǐ zi,chair,เก้าอี้,ghế,ເກົ້າອີ້,chaise,椅子,의자,стул,Stuhl,silla
+几,jǐ,a few/how many,กี่/ไม่กี่,mấy/vài,ກີ່/ບໍ່ກີ່,combien/quelques,いくつ/いくばくか,몇/몇몇,сколько/несколько,wie viele/wenige,cuántos/unos
+些,xiē,some,บ้าง/บางส่วน,một số/vài,ບາງ/ຫຼາຍໜ່ອຍ,quelques/plusieurs,いくつか,몇몇/약간,несколько/некоторые,einige/etliche,algunos/unas
+岁,suì,(for age),ปี (อายุ),tuổi,ອາຍຸ…ປີ,ans (âge),歳/才,세 (나이),…лет (возраст),Jahre (Alter),años (edad)
+本,běn,(for books),เล่ม (ลน.),quyển/cuốn (lượng từ),ເລ່ມ (ລວມ),classif. pour livres,冊 (量詞),권 (양사),сч. сл. для книг,Band/Buch (Zählwort),clasificador de libros
+都,dōu,all,ทั้งหมด/ล้วน,đều,ທັງໝົດ,tous/toutes,みんな/すべて,모두,все,alle,todos/as
+一点儿,yī diǎn er,a little bit,นิดหน่อย,một chút,ນ້ອຍໜ່ອຍ,un peu,少し,조금/약간,немного/чуть-чуть,ein bisschen,un poco
+没,méi,no,ไม่/ไม่มี,không/không có,ບໍ່/ບໍ່ມີ,ne pas/pas de,ない/ありません,없다/아니다,не/нет,nicht/kein,no
+的,de,(possessive particle),ของ/ที่ (助詞),"trợ từ ""de""",ຄຳຊ່ວຍ de,particule de (的),の (助詞),의 (조사),частица 的,Partikel „de“,partícula de
+了,le,(perfective aspect particle),แล้ว/เสร็จ (助詞),rồi/đã (trợ từ),ແລ້ວ (ອາການ),particule d’aspect (accompli),了 (アスペクト),~했다/완료 (조사),частица соверш. вида (了),Aspektpartikel (Perfekt),partícula de aspecto (ya)
+呢,ne,(interrogative/modal particle),ล่ะ/ละ (คำเสริม),thì sao/đấy (trợ từ),ເນະ/ນະ (ຄຳເສີມ),particule modale (呢),ね/の (終助詞),는/요? (문말),частица (не),Modalpartikel (ne),partícula modal (ne)
+不客气,bú kè qì,you are welcome,ไม่เป็นไร,không có gì,ບໍ່ເປັນຫຍັງ,de rien/je vous en prie,どういたしまして,천만에요/별말씀을,не за что/пожалуйста,gern geschehen,de nada
+对不起,duì bu qǐ,sorry,ขอโทษ,xin lỗi,ຂໍໂທດ,désolé/pardon,ごめんなさい,미안합니다,извините/простите,Entschuldigung,lo siento/perdón
+没关系,méi guān xi,It doesn't matter,ไม่เป็นไร,không sao,ບໍ່ເປັນຫຍັງ,ce n’est pas grave,大丈夫です,괜찮아요,ничего страшного,macht nichts,no pasa nada

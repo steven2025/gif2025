@@ -1,0 +1,299 @@
+阿姨,ā yí,aunt,ป้า/น้า/อา,dì/cô,ປ້າ/ນ້າ/ອາ,tante,おばさん/おば,이모/고모,тётя,Tante,tía
+啊,a,ah,อา/อ๊ะ (อุทาน),à/á (thán từ),ອາ/ອ້າ (ອຸທານ),ah (interj.),あ/ああ（感嘆）,아/아아 (감탄사),ах/а (межд.),ach/ah (Interj.),ah/¡ay! (interj.)
+矮,ǎi,short,เตี้ย/ต่ำ,thấp/lùn,ຕໍ່າ/ເຕັ້ຍ,petit (de taille),背が低い,키가 작다,низкий (рост),klein (Körpergröße),bajo (de estatura)
+爱好,ài hào,hobby,งานอดิเรก/ความชอบ,sở thích,ງານອົດິເລກ/ຄວາມມັກ,loisir/passion,趣味,취미,хобби/увлечение,Hobby/Leidenschaft,afición/pasatiempo
+安静,ān jìng,Be quiet,เงียบสงบ/เงียบๆ,yên tĩnh/im lặng,ງຽບໆ/ສງົບ,calme/silencieux,静か/静かに,조용하다/조용히,тихо/спокойный,ruhig/leise,tranquilo/silencio
+把,bǎ,hold,จับ/ถือ,cầm/nắm,ຈັບ/ຖື,tenir,持つ,잡다/들다,держать,halten,sostener/sujetar
+班,bān,class,ชั้น/ห้อง/กะ,lớp/ban/ca,ຫ້ອງ/ກະ/ກຸ່ມ,classe/équipe,クラス/班,반/조/근무조,класс/смена,Klasse/Schicht,clase/turno
+搬,bān,move,ขนย้าย/ย้าย,chuyển/dọn,ຍ້າຍ/ຂົນຍ້າຍ,déménager/porter,運ぶ/引っ越す,옮기다/이사하다,переезжать/переносить,umziehen/tragen,mudar/trasladar
+半,bàn,half,ครึ่ง,một nửa,ເຄິ່ງ,moitié/demi,半分,절반/반,половина,Hälfte,mitad
+办法,bàn fǎ,Way,วิธี/วิธีการ,cách/biện pháp,ວິທີ/ວິທີການ,méthode/moyen,方法/やり方,방법/해결책,способ/метод,Methode/Lösung,método/forma
+办公室,bàn gōng shì,Office,สำนักงาน,văn phòng,ຫ້ອງການ,bureau,オフィス/事務室,사무실,офис,Büro,oficina
+帮忙,bāng máng,Help,ช่วย/ช่วยเหลือ,giúp (đỡ),ຊ່ວຍ,aider,手伝う,도와주다,помочь,helfen,ayudar
+包,bāo,package,ห่อ/พัสดุ,gói/bưu kiện,ພັດສະດຸ/ຫໍ່,paquet/colis,包み/パッケージ,꾸러미/포장,пакет/посылка,Paket,paquete
+饱,bǎo,full,อิ่ม,no/đầy bụng,ອີ່ມ,rassasié,おなかいっぱい,배부르다,сыт,satt,lleno/satisfecho
+北方,běi fāng,north,ทิศเหนือ/ภาคเหนือ,miền bắc,ທາງເໜືອ,nord,北方/北,북쪽/북방,север/северные регионы,Norden,norte
+被,bèi,cover,ปกคลุม/คลุม,che/đậy,ປົກຄຸມ,couvrir,覆う,덮다,покрывать/накрывать,bedecken,cubrir
+鼻子,bí zi,nose,จมูก,mũi,ດັງ/ຈົມກູກ,nez,鼻,코,нос,Nase,nariz
+比较,bǐ jiào,compare,ค่อนข้าง/เปรียบเทียบ,khá/so sánh,ຄ່ອນຂ້າງ/ປຽບທຽບ,plutôt/comparer,比較的/比べる,비교적/비교하다,сравнительно/сравнивать,vergleichsweise/vergleichen,bastante/comparar
+比赛,bǐ sài,Match,การแข่งขัน/แข่ง,trận đấu/thi đấu,ການແຂ່ງຂັນ,match/compétition,試合/競技,경기/시합,матч/соревнование,Wettkampf/Spiel,partido/competición
+笔记本,bǐ jì běn,notebook,สมุดบันทึก/โน้ตบุ๊ก,sổ tay/máy tính xách tay,ສົ່ງບັນທຶກ/ໂນດບຸກ,carnet/ordinateur portable,ノート/ノートPC,노트/노트북,блокнот/ноутбук,Notizbuch/Laptop,cuaderno/portátil
+必须,bì xū,Must,ต้อง/จำเป็น,phải/bắt buộc,ຈຳເປັນ/ຕ້ອງ,devoir/il faut,必ず/〜ねばならない,반드시/해야 하다,должен/необходимо,müssen,deber/tener que
+变化,biàn huà,change,การเปลี่ยนแปลง,thay đổi/biến hóa,ການປ່ຽນແປງ,changement,変化,변화,изменение,Veränderung,cambio
+别人,bié ren,Others,คนอื่น,người khác,ຄົນອື່ນ,autre(s),他の人,다른 사람,другие/кто-то другой,andere/anderer,otra gente/los demás
+冰箱,bīng xiāng,Refrigerator,ตู้เย็น,tủ lạnh,ຕູ້ເຢັນ,réfrigérateur,冷蔵庫,냉장고,холодильник,Kühlschrank,refrigerador
+菜单,cài dān,menu,เมนู,thực đơn/menu,ເມນູ,menu/carte,メニュー,메뉴,меню,Speisekarte/Menü,menú/carta
+参加,cān jiā,participate in,เข้าร่วม/ร่วม,tham gia,ເຂົ້າຮ່ວມ,participer/prendre part,参加する,참가하다/참여하다,участвовать,teilnehmen,participar
+草,cǎo,grass,หญ้า,cỏ,ຫຍ້າ,herbe/gazon,草,풀/잔디,трава,Gras,hierba/césped
+层,céng,layer,ชั้น/ชั้นที่,tầng/lớp,ຊັ້ນ/ຊັ້ນຊອນ,étage/couche,階/層,층/겹,этаж/слой,Etage/Schicht,piso/capa
+差,chà,bad,แย่/ไม่ดี,kém/tệ,ບໍ່ດີ,mauvais/médiocre,悪い/劣る,나쁘다/부족하다,плохой/хуже,schlecht/minder,malo/deficiente
+超市,chāo shì,Supermarket,ซูเปอร์มาร์เก็ต,siêu thị,ຊູເປີມາເກັດ,supermarché,スーパー,슈퍼마켓,супермаркет,Supermarkt,supermercado
+衬衫,chèn shān,shirt,เสื้อเชิ้ต,áo sơ mi,ເສື້ອເຊີ້ດ,chemise,シャツ,셔츠,рубашка,Hemd,camisa
+成绩,chéng jì,achievement,ผลการเรียน/ผลงาน,thành tích/điểm số,ຜົນສຳເລັດ/ຄະແນນ,résultat/réussite,成績/成果,성적/성과,успех/оценка,Leistung/Ergebnis,resultado/calificación
+城市,chéng shì,City,เมือง,thành phố,ນະຄອນ/ເມືອງ,ville,都市/市,도시,город,Stadt,ciudad
+迟到,chí dào,Late,มาสาย,đến muộn,ມາຊ້າ,être en retard,遅刻する,지각하다,опоздать,zu spät kommen,llegar tarde
+除了,chú le,except/besides,ยกเว้น/นอกจาก,ngoài ra/ngoại trừ,ຍົກເວັ້ນ/ນອກຈາກ,sauf/hormis/en plus de,〜を除いて/ほかに,제외하고/뿐 아니라,кроме/помимо,außer/zusätzlich zu,excepto/además de
+船,chuán,ship,เรือ,thuyền/tàu,ເຮືອ,bateau/navire,船,배/선박,корабль/лодка,Schiff/Boot,barco
+春,chūn,spring,ฤดูใบไม้ผลิ,mùa xuân,ລະດູໃບໄມ້ຜຸດ,printemps,春,春/봄,весна,Frühling,primavera
+词典,cí diǎn,Dictionaries,พจนานุกรม,từ điển,ພົດຈະນານຸກົມ,dictionnaire,辞書,사전,словарь,Wörterbuch,diccionario
+聪明,cōng ming,clever,ฉลาด,thông minh,ສະຫລາດ,intelligent/malin,賢い/頭がいい,똑똑하다,умный,klug,inteligente
+打扫,dǎ sǎo,Clean,ทำความสะอาด,dọn dẹp/lau chùi,ກວາດເກັບ/ທຳຄວາມສະອາດ,nettoyer,掃除する,청소하다,убирать/чистить,aufräumen/putzen,limpiar
+打算,dǎ suàn,Plan,วางแผน/ตั้งใจ,dự định/kế hoạch,ວາງແຜນ/ຕັ້ງໃຈ,compter/avoir l’intention,つもり/計画する,할 생각이다/계획하다,собираться/планировать,vorhaben/planen,pensar/planear
+带,dài,belt,เข็มขัด/สาย/พกพา,dây/nịt; mang theo,ສາຍ/ແອວ; ພາໄປ,ceinture/sangle; apporter,帯/ベルト; 持つ,벨트/띠; 가지고 가다,ремень/полоса; приносить,Gürtel/Riemen; mitbringen,cinturón/correa; llevar
+担心,dān xīn,Worry,กังวล,lo lắng,ກັງວົນ,s’inquiéter,心配する,걱정하다,беспокоиться,sich sorgen,preocuparse
+蛋糕,dàn gāo,Cake,เค้ก,bánh kem,ເຄກ,gâteau,ケーキ,케이크,торт/пирожное,Kuchen/Torte,pastel/torta
+当然,dāng rán,Of course,แน่นอน/ก็แน่สิ,đương nhiên/tất nhiên,ແນ່ນອນ,bien sûr/évidemment,当然/もちろん,당연히,конечно/разумеется,natürlich,claro/por supuesto
+灯,dēng,lamp,โคมไฟ/หลอดไฟ,đèn,ໂຄມໄຟ,lampe,ランプ/灯り,등/램프,лампа/светильник,Lampe,lámpara
+地方,dì fang,local,ที่/ท้องถิ่น,nơi/chỗ; địa phương,ສະຖານທີ່/ທ້ອງຖິ່ນ,endroit/lieu; local,場所/地域,곳/지역,место; местный,Ort/Gegend,lugar; local
+地铁,dì tiě,metro,รถไฟใต้ดิน,tàu điện ngầm,ລົດໄຟໃຕ້ດິນ,métro,地下鉄,지하철,метро,U‑Bahn,metro/subterráneo
+地图,dì tú,Map,แผนที่,bản đồ,ແຜນທີ່,carte/plan,地図,지도,карта,Karte/Landkarte,mapa
+电梯,diàn tī,Elevator,ลิฟต์,thang máy,ລິດ/ລິຟດ,ascenseur,エレベーター,엘리베이터,лифт,Aufzug/Fahrstuhl,ascensor
+电子邮件,diàn zǐ yóu jiàn,E-mail,อีเมล,email/thư điện tử,ອີເມວ/ຈົດໝາຍອີເລັກ,courriel/e‑mail,電子メール,이메일,электронная почта,E‑Mail,correo electrónico
+东,dōng,east,ตะวันออก,đông,ຕາເວັນອອກ,est,東,東/동쪽,восток,Osten,este
+冬,dōng,winter,ฤดูหนาว,mùa đông,ລະດູໜາວ,hiver,冬,冬/겨울,зима,Winter,invierno
+动物,dòng wù,Animal,สัตว์,động vật,ສັດ,animal,動物,동물,животное,Tier,animal
+短,duǎn,short,สั้น,ngắn,ສັ້ນ,court,短い,짧다,короткий,kurz,corto
+段,duàn,paragraph,ช่วง/ตอน/ย่อหน้า,đoạn/khúc,ຕອນ/ຊ່ວງ/ຍໍ້າໜ້າ,section/segment/paragraphe,段/区切り,단락/구간,отрезок/абзац,Abschnitt/Absatz,tramo/párrafo
+锻炼,duàn liàn,Physical exercise,ออกกำลังกาย,luyện tập (thể dục),ອອກກຳລັງກາຍ,s’entraîner,鍛える/運動する,단련/운동하다,тренироваться,trainieren,hacer ejercicio
+多么,duō me,such,ช่าง…จริง/แค่ไหน,biết bao/nhiêu,ຊ່າງ…ແທ້/ປານໃດ,que/combien (excl.),なんて/どれほど,얼마나/정말,как/насколько (воскл.),wie/so (Ausruf),¡qué/tan…!
+饿,è,hungry,หิว,đói,ຫິວ,affamé,お腹がすいた,배고프다,голодный,hungrig,hambriento
+不但…… 而且……,bú dàn...ér qiě…,not only…but also…,ไม่เพียง…แต่ยัง…,không những… mà còn…,ບໍ່ພຽງແຕ່… ແຕ່ຍັງ…,non seulement… mais aussi…,…だけでなく…も,…뿐만 아니라 …도,не только… но и…,nicht nur… sondern auch…,no solo… sino también…
+耳朵,ěr duo,Ears,หู,tai,ຫູ,oreille,耳,귀,ухо/уши,Ohr/Ohren,oreja/oídos
+发,fā,send out,ส่ง/ปล่อย,gửi/ phát,ສົ່ງ/ອອກ,envoyer/émettre,送る/発する,보내다/발하다,посылать/издавать,senden/ausgeben,enviar/emitir
+发烧,fā shāo,Have a fever,มีไข้,sốt,ໄຂ້ຂຶ້ນ,avoir de la fièvre,熱がある,열이 나다,жар/повыш. температура,Fieber haben,tener fiebre
+发现,fā xiàn,find/discover,ค้นพบ/พบว่า,phát hiện/tìm ra,ຄົ້ນພົບ/ພົບເຫັນ,découvrir/constater,発見する/気づく,발견하다/알아차리다,обнаружить/заметить,entdecken/feststellen,descubrir/darse cuenta
+方便,fāng biàn,convenient,สะดวก,thuận tiện,ສະດວກ,pratique/commode,便利/都合がよい,편리하다,удобный,praktisch,cómodo
+放,fàng,discharge,ปล่อย/วาง/ใส่,thả/đặt/bỏ,ປ່ອຍ/ວາງ/ໃສ່,poser/mettre/laisser,置く/入れる/放す,놓다/두다,класть/пускать/ставить,legen/stellen/lassen,poner/dejar
+放心,fàng xīn,Don't worry,วางใจ/ไม่ต้องห่วง,yên tâm/đừng lo,ວາງໃຈ/ຢ່າກັງວົນ,rassurer/se rassurer,安心する,안심하다,успокоиться/не волнуйся,beruhigt sein,tranquilo/no te preocupes
+分,fēn,minute,นาที/แบ่ง,phút/chia,ນາທີ/ແບ່ງ,minute/partager,分/分ける,분/나누다,минута/делить,Minute/teilen,minuto/dividir
+附近,fù jìn,nearby,บริเวณใกล้เคียง,gần đây/khu vực lân cận,ແຖວໃກ້ໆ,à proximité,近く/付近,근처/부근,по соседству/рядом,in der Nähe,cerca/los alrededores
+复习,fù xí,Review,ทบทวน,ôn tập,ທົບທວນ,réviser,復習する,복습하다,повторять (учёбу),wiederholen,repasar
+干净,gān jìng,clean,สะอาด,sạch sẽ,ສະອາດ,propre,きれい/清潔,깨끗하다,чистый,sauber,limpio
+感兴趣,gǎn xìng qù,be intretested in,สนใจ,quan tâm/hứng thú,ສົນໃຈ,s’intéresser à,興味がある,관심이 있다,интересоваться,sich interessieren,interesarse
+感冒,gǎn mào,get a cold,เป็นหวัด,bị cảm,ເປັນຫວັດ,attraper un rhume,風邪をひく,감기에 걸리다,простудиться,sich erkälten,resfriarse
+刚才,gāng cái,just,เมื่อกี้/เมื่อตะกี้,vừa rồi,ເມື່ອກີ້,à l’instant,さっき/たった今,방금,только что,gerade eben,hace un momento
+个子,gè zi,height,ส่วนสูง/รูปร่าง,chiều cao/vóc dáng,ຄວາມສູງ/ຮູບຮ່າງ,taille (stature),背丈/体格,키/체격,рост/фигура,Körpergröße/Statur,estatura/complexión
+跟,gēn,with,กับ/ตาม,với/theo,ກັບ/ຕາມ,avec/suivre,と/について/従う,와/를 따라,с/следовать,mit/nach/folgen,con/seguir
+根据,gēn jù,according to,ตาม/อิงจาก,theo/căn cứ vào,ຕາມ/ອີງຕາມ,selon/d’après,〜に基づいて,에 근거하여,согласно/на основании,gemäß/basierend auf,según/con base en
+更,gèng,more,ยิ่ง/กว่าเดิม,càng/hơn nữa,ຍິ່ງ/ຫຼາຍຂຶ້ນ,encore/plus,さらに/より,더/한층,ещё/больше,noch/mehr,más/aún
+公斤,gōng jīn,Kg,กิโลกรัม,kilôgam (kg),ກິໂລກຣາມ,kilogramme,キログラム,킬로그램,килограмм,Kilogramm,kilogramo
+公园,gōng yuán,Park,สวนสาธารณะ,công viên,ສວນສາທາລະນະ,parc,公園,공원,парк,Park,parque
+故事,gù shi,Story,เรื่องเล่า/นิทาน,câu chuyện/truyện,ນິທານ/ເລື່ອງລາວ,histoire/récit,物語/話,이야기/스토리,история/рассказ,Geschichte/Erzählung,historia/cuento
+刮风,guā fēng,Windy,ลมพัด/มีลมแรง,gió thổi,ລົມພັດ,venteux/il vente,風が吹く,바람이 불다,ветрено/дует ветер,windig/es weht,hace viento
+关,guān,shut,ปิด/ดับ,tắt/đóng,ປິດ,fermer/éteindre,閉める/消す,닫다/끄다,закрыть/выключить,schließen/ausschalten,cerrar/apagar
+关系,guān xì,relationship,ความสัมพันธ์,quan hệ/liên quan,ຄວາມສຳພັນ,relation/rapport,関係,관계,отношение/связь,Beziehung/Relation,relación/vínculo
+关心,guān xīn,Care for,เอาใจใส่/ห่วงใย,quan tâm,ເປັນຫ່ວງ/ໃສ່ໃຈ,se soucier de,気にかける/関心を持つ,관심을 갖다/돌보다,заботиться/интересоваться,sich kümmern/Interesse zeigen,cuidar/preocuparse por
+关于,guān yú,about,เกี่ยวกับ/ว่าด้วย,về/liên quan đến,ກ່ຽວກັບ,à propos de/au sujet de,…について,관하여/대하여,о/касательно,über/bezüglich,sobre/acerca de
+国家,guó jiā,Country,ประเทศ/รัฐ,quốc gia/đất nước,ປະເທດ/ລັດ,pays/État,国家,국가/나라,страна/государство,Land/Staat,país/Estado
+过去,guò qù,Past times,อดีต/ที่ผ่านมา,quá khứ/trước đây,ອະດີດ/ກ່ອນນີ້,passé/autrefois,過去/以前,과거/예전,прошлое/прежде,Vergangenheit/früher,pasado/antes
+过 (动词),guò(v),pass,ผ่าน/ข้าม,qua/đi qua,ຜ່ານ/ໄປຜ່ານ,passer/traverser,通る/過ぎる,지나가다/건너다,проходить/проезжать,vorbeigehen/durchgehen,pasar/atravesar
+还是,hái shì,still,ยัง/ก็ยัง,vẫn/cứ,ຍັງ/ກໍຍັງ,toujours/encore,やはり/まだ,아직도/역시,всё ещё/по‑прежнему,immer noch,todavía/aún
+害怕,hài pà,Fear,กลัว,sợ/hãi,ກົວ,avoir peur,怖がる/恐れる,무서워하다/두려워하다,бояться/пугаться,Angst haben,temer/tener miedo
+黑板,hēi bǎn,blackboard,กระดานดำ,bảng đen,ກະດານດຳ,tableau noir,黒板,칠판,доска (школьная),Tafel,pizarra
+后来,hòu lái,later,ต่อมา/ภายหลัง,sau đó/về sau,ຕໍ່ມາ,plus tard/ensuite,後で/その後,후에/그 뒤에,позже/впоследствии,später,luego/después
+护照,hù zhào,passport,หนังสือเดินทาง,hộ chiếu,ຫນັງສືເດີນທາງ,passeport,パスポート,여권,паспорт,Reisepass,pasaporte
+花 (动词),huā（v）,spend,ใช้ (เงิน/เวลา),tiêu (tiền)/tốn,ໃຊ້ (ເງິນ/ເວລາ),dépenser/passer (du temps),費やす/使う,쓰다/들다,тратить/проводить (время),ausgeben/zeit verbringen,gastar/pasar (tiempo)
+花 (名词),huā(n),flower,ดอกไม้,hoa,ດອກໄມ້,fleur,花,꽃,цветок,Blume,flor
+画,huà,painting,ภาพวาด/วาดรูป,bức tranh/vẽ,ຮູບວາດ/ວາດ,peinture/dessiner,絵/描く,그림/그리다,картина/рисовать,Bild/zeichnen,pintura/dibujar
+坏,huài,bad,เสีย/ไม่ดี,hỏng/xấu,ເສຍ/ບໍ່ດີ,mauvais/cassé,悪い/壊れた,나쁘다/망가지다,плохой/сломанный,schlecht/kaputt,malo/roto
+欢迎,huān yíng,Welcome,ยินดีต้อนรับ,chào mừng/hoan nghênh,ຍິນດີຕ້ອນຮັບ,bienvenue,ようこそ/歓迎する,환영합니다,добро пожаловать,willkommen,bienvenido
+还 (动词),huán(v),Return,คืน/ส่งคืน,trả/lại,ຄືນ/ສົ່ງຄືນ,rendre,返す/返却する,돌려주다,возвращать,zurückgeben,devolver
+环境,huán jìng,Environment,สิ่งแวดล้อม/บรรยากาศ,môi trường,ສິ່ງແວດລ້ອມ,environnement,環境,환경,окружение/среда,Umwelt/Umgebung,medio ambiente/entorno
+换,huàn,change,เปลี่ยน/แลก,đổi/thay,ປ່ຽນ/ແລກ,changer,換える/替える,바꾸다/갈아입다,менять/обменивать,wechseln/tauschen,cambiar
+黄河,huáng hé,Yellow River,แม่น้ำหวงเหอ,Hoàng Hà,ແມ່ນ້ຳຮົວງເຮີ,fleuve Jaune,黄河,황허,Хуанхэ,Gelber Fluss,río Amarillo
+回答,huí dá,Answer,ตอบ/คำตอบ,trả lời/câu trả lời,ຕອບ,répondre/réponse,答える/返答,대답하다/답변,отвечать/ответ,ответить/ответ,responder/respuesta
+会议,huì yì,Meeting,การประชุม,cuộc họp/hội nghị,ການປະຊຸມ,réunion/conférence,会議,회의,совещание/конференция,Sitzung/Konferenz,reunión/conferencia
+或者,huò zhě,perhaps,หรือว่า/หรือ,hoặc/là,ຫຼື/ຫຼືວ່າ,ou/peut‑être,または/あるいは,혹은/아니면,или/возможно,oder/etwa,o/tal vez
+几乎,jī hū,almost,เกือบจะ,hầu như/gần như,ເກືອບຈະ,presque,ほとんど/ほぼ,거의,почти,fast/beinahe,casi
+机会,jī huì,Opportunity,โอกาส,cơ hội,ໂອກາດ,occasion/opportunité,機会/チャンス,기회,возможность/шанс,Gelegenheit/Chance,oportunidad
+极,jí,extremely,สุดๆ/อย่างยิ่ง,cực kỳ/rất,ຫຼາຍຫຼາຍ/ສຸດໆ,extrêmement/très,極めて/とても,아주/극히,крайне/очень,äußerst/sehr,extrem/muy
+记得,jì de,remember,จำได้,nhớ/ghi nhớ,ຈຳໄດ້,se souvenir de,覚えている,기억하다,помнить,sich erinnern,recordar
+季节,jì jié,Season,ฤดูกาล,mùa,ລະດູການ,saison,季節,계절,сезон/время года,Jahreszeit/Saison,estación (del año)
+检查,jiǎn chá,inspect,ตรวจ/ตรวจสอบ,kiểm tra,ກວດ/ກວດກາ,examiner/vérifier,検査/点検,검사하다/점검하다,проверять/осматривать,prüfen/untersuchen,revisar/examinar
+简单,jiǎn dān,simple,ง่าย/ไม่ซับซ้อน,đơn giản,ງ່າຍ/ງ່າຍດາຍ,simple,簡単,간단하다,простой,einfach,simple
+健康,jiàn kāng,Healthy,สุขภาพดี,khỏe mạnh,ສຸຂະພາບດີ,en bonne santé,健康だ/健やか,건강하다,здоровый,gesund,saludable
+见面,jiàn miàn,meet,พบกัน/เจอ,gặp mặt/gặp nhau,ພົບກັນ,se rencontrer,会う/面会する,만나다,встречаться,sich treffen,verse/reunirse
+讲,jiǎng,speak,พูด/บรรยาย,giảng/nói,ເວົ້າ/ບັນຍາຍ,parler/expliquer,話す/講義する,말하다/강의하다,говорить/рассказывать,sprechen/erzählen,hablar/explicar
+教,jiāo,teach,สอน/ถ่ายทอด,dạy,ສອນ,enseigner,教える,가르치다,учить/преподавать,unterrichten,enseñar
+角,jiǎo,horn,มุม/เขา(สัตว์)/หน่วยเงินเก่า,góc/sừng/giác,ມຸມ/ເຂົາ,coin/angle; corne,角/かど; つの,각/뿔/모서리,угол; рог,Ecke/Winkel; Horn,esquina/ángulo; cuerno
+脚,jiǎo,foot,เท้า/ปลายขา,chân/bàn chân,ຕີນ/ຂາທ້າຍ,pied,足,발,нога/ступня,Fuß,pie
+接,jiē,pick/get,รับ/ไปรับ,đón/nhận,ຮັບ/ໄປຮັບ,aller chercher/recevoir,迎える/受け取る,마중하다/받다,встречать/получать,abholen/empfangen,recoger/recibir
+街道,jiē dào,Street,ถนน/ถนนสายย่อย,đường phố,ຖະໜົນ/ຖະໜົນນ້ອຍ,rue,街道,거리/가도,улица,Straße,calle
+结婚,jié hūn,marry,แต่งงาน,kết hôn/cưới,ແຕ່ງງານ,se marier,結婚する,결혼하다,жениться/выйти замуж,heiraten,casarse
+结束,jié shù,End,จบ/สิ้นสุด,kết thúc,ສິ້ນສຸດ,terminer/finir,終わる/終了する,끝나다/마치다,закончить/завершить,beenden/enden,terminar
+节目,jié mù,program,รายการ,chương trình,ລາຍການ,émission/programme,番組,프로그램,передача/программа,Sendung/Programm,programa
+节日,jié rì,festival,เทศกาล/วันสำคัญ,lễ hội/ngày lễ,ວັນພິເສດ/ງານບຸນ,fête/jour férié,祝日/祭日,명절/축일,праздник,Feiertag/Fest,fiesta/día festivo
+解决,jiě jué,Solve,แก้ปัญหา,giải quyết,ແກ້ໄຂ,résoudre,解決する,해결하다,решать (проблему),lösen,resolver
+借,jiè,borrow,ยืม,mượn,ຢືມ,emprunter,借りる,빌리다,одолжить/взять взаймы,leihen/ausleihen,tomar prestado
+经常,jīng cháng,Often,บ่อยๆ,thường xuyên,ເລື້ອຍໆ,souvent/régulièrement,よく/しょっちゅう,자주/늘,часто,oft/häufig,a menudo
+经过,jīng guò,After/through,ผ่าน/ตามทาง; หลังจาก,đi qua; sau khi,ຜ່ານ; ຫຼັງຈາກ,passer par; après,通って; 経て,지나서; ~한 후,проходить через; после,vorbeigehen; nach,pasar por; tras
+经理,jīng lǐ,manager,ผู้จัดการ,giám đốc/quản lý,ຜູ້ຈັດການ,directeur/gérant,マネージャー/経理,매니저/경리,менеджер/директор,Manager/Leiter,gerente/director
+久,jiǔ,long,นาน,lâu,ດົນນານ,longtemps,長い間,오래,долго,lange (Zeit),mucho tiempo
+旧,jiù,old/used,เก่า/ใช้แล้ว,cũ,ເກົ່າ,vieux/usagé,古い/中古の,헌/낡은,старый/подержанный,alt/gebraucht,viejo/usado
+句子,jù zi,sentence,ประโยค,câu,ປະໂຫຍກ,phrase,文/文（ぶん）,문장,предложение,Satz,oración
+决定,jué dìng,Decision,ตัดสินใจ/การตัดสินใจ,quyết định,ຕັດສິນໃຈ,décider/décision,決める/決定,결정하다/결정,решить/решение,entscheiden/Entscheidung,decidir/decisión
+渴,kě,thirsty,กระหายน้ำ,khát,ຫິວນ້ຳ,assoiffé,喉が渇いた,목이 마르다,жажда/хочется пить,durstig,sediento
+可爱,kě ài,Lovely,น่ารัก,đáng yêu,ນ່າຮັກ,mignon,かわいい,귀엽다,милый/славный,niedlich,lindo/tierno
+刻,kè,moment,นาที (15 นาที)/ขณะ,khắc/khoảnh khắc,ຂະນະ/ຂັນຫນ່ວຍວິນາທີ,quart d’heure/instant,刻/瞬間,(시간) 15분/순간,четверть часа/мгновение,Viertelstunde/Moment,cuarto de hora/momento
+客人,kè rén,Guest,แขก/ลูกค้า,khách,ແຂກ/ລູກຄ້າ,invité/client,客/客人,손님,гость/клиент,Gast/Kunde,invitado/cliente
+空调,kōng tiáo,Air conditioner,เครื่องปรับอากาศ,máy điều hoà,ແອຣ໌ (ເຄື່ອງປັບອາກາດ),climatisation,エアコン,에어컨,кондиционер,Klimaanlage,aire acondicionado
+口,kǒu,mouth,ปาก/ช่องปาก,miệng,ປາກ,bouche,口,입/구강,рот,Mund,boca
+哭,kū,cry,ร้องไห้,khóc,ຮ້ອງໄຫ້,pleurer,泣く,울다,плакать,weinen,llorar
+裤子,kù zi,trousers,กางเกง,quần,ກາງເກງ,pantalon,ズボン/パンツ,바지,брюки/штаны,Hose,pantalones
+筷子,kuài zi,chopsticks,ตะเกียบ,đũa,ຕະແກົບ,baguettes (chinois),箸/はし,젓가락,палочки (для еды),Essstäbchen,palillos (chinos)
+蓝,lán,blue,สีน้ำเงิน/สีฟ้า,xanh lam,ຟ້າ/ນ້ຳເງິນ,bleu,青/青色/ブルー,파란색/남색,синий/голубой,blau,azul
+老,lǎo,old,แก่/เก่า,già/lão,ແກ່/ເກົ່າ,vieux/âgé,老い/古い,늙다/오래되다,старый/пожилой,alt,viejo
+离开,lí kāi,leave,จากไป/ออกจาก,rời/đi khỏi,ອອກຈາກ/ຈາກໄປ,quitter/partir,離れる/去る,떠나다/떠나가다,покидать/уходить,verlassen/weggehen,irse/dejar
+礼物,lǐ wù,gift,ของขวัญ,quà tặng,ຂອງຂວັນ,cadeau,プレゼント/贈り物,선물,подарок,Geschenk,regalo
+历史,lì shǐ,History,ประวัติศาสตร์,lịch sử,ປະຫວັດສາດ,histoire,歴史,역사,история,Geschichte,historia
+脸,liǎn,face,หน้า/ใบหน้า,mặt,ໃບໜ້າ,visage,顔,얼굴,лицо,Gesicht,cara
+聊天,liáo tiān,chat,คุยเล่น/แชท,tán gẫu/chat,ຄຸຍເລັ່ນ/ແຊັດ,bavarder/ discuter,おしゃべり/チャットする,수다 떨다/채팅하다,болтать/чатиться,plaudern/chatten,charlar/chatear
+练习,liàn xí,Practice,ฝึกหัด/แบบฝึก,luyện tập/bài tập,ຝຶກ/ແບບຝຶກ,s’exercer/exercice,練習/練習問題,연습/연습문제,упражняться/упражнение,üben/Übung,practicar/ejercicio
+辆,liàng,Car,คัน (ลน. รถ),chiếc (xe),ຄັນ (ລວມລົດ),classif. véhicules,台/台数 (量詞),"대 (양사, 차량)",сч. сл. для машин,Zählwort für Fahrzeuge,clasificador de vehículos
+了解,liǎo jiě,understand,เข้าใจ/ทราบดี,hiểu rõ/tìm hiểu,ເຂົ້າໃຈດີ/ຮູ້ຈັກ,comprendre/mieux connaître,理解する/把握する,이해하다/파악하다,понимать/узнать,verstehen/sich informieren,entender/conocer bien
+邻居,lín jū,neighbor,เพื่อนบ้าน,hàng xóm,ເພື່ອນບ້ານ,voisin/voisine,隣人/近所の人,이웃,сосед/соседка,Nachbar/in,vecino/a
+留学,liú xué,Overseas Study,เรียนต่อต่างประเทศ,du học,ຮຽນຕ່າງປະເທດ,étudier à l’étranger,留学する,유학하다,учиться за границей,im Ausland studieren,estudiar en el extranjero
+楼,lóu,floor,ชั้น/อาคาร,tầng/lầu; toà nhà,ຊັ້ນ/ຕຶກ,étage/bâtiment,階/建物,층/건물,этаж/здание,Etage/Gebäude,piso/edificio
+绿,lǜ,green,สีเขียว,xanh lá,ຂຽວ,vert,緑/グリーン,초록색/녹색,зелёный,grün,verde
+马,mǎ,Horse,ม้า,ngựa,ມ້າ,cheval,馬,말,лошадь,Pferd,caballo
+马上,mǎ shàng,Right off,เดี๋ยวนี้/ทันที,ngay/ ngay lập tức,ທັນທີ,tout de suite,すぐに/ただちに,곧/바로,сразу/немедленно,sofort/gleich,enseguida/de inmediato
+满意,mǎn yì,Satisfied,พอใจ,hài lòng,ພໍໃຈ,satisfait,満足する,만족하다,доволен,zufrieden,satisfecho
+帽子,mào zi,Hat,หมวก,mũ/nón,ໝວກ,chapeau,帽子,모자,шляпа/головной убор,Hut/Mütze,sombrero/gorra
+米,mǐ,rice,ข้าวสาร/เมตร(ลติน),gạo; mét,ເຂົ້າສານ; ແມັດ,riz; mètre (m),米/メートル,쌀; 미터,рис; метр,Reis; Meter,arroz; metro
+面包,miàn bāo,Bread,ขนมปัง,bánh mì,ເຂົ້າຈີ່,pain,パン,빵,хлеб (булка),Brot/Brötchen,pan
+明白,míng bai,clear,เข้าใจ/ชัดเจน,hiểu rõ/rõ ràng,ເຂົ້າໃຈ/ຊັດເຈນ,comprendre/clair,分かる/明らか,이해하다/분명하다,понимать/ясный,verstehen/klar,entender/claro
+拿,ná,take,หยิบ/ถือ/เอา,cầm/lấy,ຖື/ເອົາ,prendre/tenir,取る/持つ,잡다/들다,брать/держать,nehmen/halten,tomar/agarrar
+奶奶,nǎi nai,grandma,คุณย่า/ยาย(ฝ่ายพ่อ),bà nội,ຍ່າ,grand-mère (paternelle),祖母（父方）,할머니(친할머니),бабушка (по отцу),Großmutter (väterl.),abuela (paterna)
+南,nán,south,ทิศใต้/ภาคใต้,phía nam/miền nam,ໃຕ້,sud,南,南/남쪽,юг,Süden,sur
+难,nán,difficult,ยาก,khó,ຍາກ,difficile,難しい,어렵다,трудный,schwierig,difícil
+难过,nán guò,sad,เสียใจ/เศร้า,buồn/đau lòng,ເສົ້າໃຈ,triste/peiné,悲しい/つらい,슬프다/괴롭다,грустный/тяжело,traurig/betrübt,triste
+年级,nián jí,grade,ชั้นปี/ระดับชั้น,khối/lớp (năm),ຊັ້ນປີ/ຊັ້ນຮຽນ,niveau/classe (année),学年/学年の〜年,학년,класс/курс (год),Klassenstufe/Jahrgang,grado (escolar)
+年轻,nián qīng,Young,อายุน้อย/หนุ่มสาว,trẻ/ trẻ tuổi,ໜຸ່ມສາວ/ອາຍຸນ້ອຍ,jeune,若い,젊다,молодой,jung,joven
+鸟,niǎo,bird,นก,chim,ນົກ,oiseau,鳥,새,птица,Vogel,pájaro/ave
+努力,nǔ lì,Strive,พยายาม/ตั้งใจ,nỗ lực/cố gắng,ພະຍາຍາມ,s’efforcer,努力する,노력하다,стараться/усилие,sich bemühen,esforzarse
+爬山,pá shān,Mountain climbing,ปีนเขา,leo núi,ປີນເຂົາ,faire de la montagne,山に登る,등산하다,взбираться на гору,bergsteigen,escalar montañas
+盘子,pán zi,plate,จาน,đĩa,ຈານ,assiette/plat,皿/プレート,접시,тарелка,Teller,plato
+胖,pàng,fat,อ้วน,béo/mập,ອ້ວນ,gros,太っている,뚱뚱하다,толстый,dick,gordo
+啤酒,pí jiǔ,Beer,เบียร์,bia,ເບຍ,bière,ビール,맥주,пиво,Bier,cerveza
+皮鞋,pí xié,leather shoes,รองเท้าหนัง,giày da,ເກີບຫນັງ,chaussures en cuir,革靴,가죽 구두,кожаные туфли,Lederschuhe,zapatos de cuero
+瓶子,píng zi,bottle,ขวด,chai,ຂໍວດ,bouteille,瓶/ボトル,병,бутылка,Flasche,botella
+其实,qí shí,actually,ที่จริง/จริงๆแล้ว,kỳ thực/thực ra,ແທ້ຈິງແລ້ວ,en fait/en réalité,実は/本当は,사실은/실은,на самом деле,eigentlich/tatsächlich,en realidad/la verdad
+其他,qí tā,Other,อื่นๆ/อย่างอื่น,khác/những thứ khác,ອື່ນໆ,autre/d’autres,ほか/その他,기타/다른,другие/иной,andere/weitere,otros
+骑,qí,ride,ขี่ (จักรยาน/ม้า),cưỡi (xe đạp/ngựa),ຂີ່ (ລົດຖີບ/ມ້າ),monter (à vélo/cheval),乗る（自転車/馬）,타다 (자전거/말),ехать верхом,reiten/fahren (Rad),montar (en bici/a caballo)
+奇怪,qí guài,strange,แปลก/ประหลาด,kỳ lạ,ແປກ,étrange/bizarre,変だ/奇妙だ,이상하다,странный,seltsam,extraño/raro
+起来,qǐ lái,get up,ลุกขึ้น/ขึ้น,đứng dậy; (động作)ขึ้น,ລຸກຂຶ້ນ/ຂຶ້ນ,se lever; (mouvement) vers le haut,起き上がる/立ち上がる,일어나다/올라가다,встать/подняться,aufstehen/aufwärts,levantarse/subir
+起飞,qǐ fēi,take off,เครื่องขึ้น,cất cánh,ຂຶ້ນບິນ,décoller,離陸する,이륙하다,взлетать,starten (Flugzeug),despegar
+清楚,qīng chu,clear,ชัดเจน/เข้าใจแจ่ม,rõ ràng/hiểu rõ,ຊັດເຈນ,clair; bien comprendre,はっきりしている/よく分かる,분명하다/또렷하다,ясный/чётко понимать,klar/deutlich,claro/entender bien
+请假,qǐng jià,ask for leave,ลางาน/ลาเรียน,xin nghỉ phép,ຂໍລາ,demander congé,休暇を取る/休みを申し出る,휴가/휴식을 신청하다,просить отпуск/отгул,um Urlaub bitten,pedir permiso/días
+秋,qiū,autumn,ฤดูใบไม้ร่วง,mùa thu,ລະດູໃບໄມ້ຫຼົ່ນ,automne,秋/秋季,가을,осень,Herbst,otoño
+裙子,qún zi,skirt,กระโปรง,váy,ກະໂປ່ງ,jupe,スカート,치마,юбка,Rock,falda
+然后,rán hòu,Then,แล้วก็/จากนั้น,sau đó/rồi thì,ແລ້ວກໍ່/ຕໍ່ມາ,ensuite/puis,それから/そして,그리고 나서,затем/потом,dann/anschließend,luego/después
+热情,rè qíng,Enthusiasm,อบอุ่น/เป็นกันเอง,nhiệt情/niềm nở,ເປັນມິດ/ອົບອຸ່ນ,chaleureux/enthousiaste,親切/熱心,친절하고 따뜻함,тёплый/радушный,herzlich,cálido/amable
+认为,rèn wéi,think,คิดว่า/เห็นว่า,cho rằng/cho là,ເຫັນວ່າ,estimer/penser que,〜と思う/見なす,~라고 여기다/생각하다,считать/полагать,meinen/der Ansicht sein,opinar/considerar
+认真,rèn zhēn,earnest,จริงจัง/ตั้งใจ,nghiêm túc,ຈິງຈັງ,sérieux/sérieusement,まじめ/真剣に,진지하다/성실히,серьёзный,ernsthaft,serio/seriamente
+容易,róng yì,easily,ง่าย/ไม่ยาก,dễ/dễ dàng,ງ່າຍ,facile,易しい,쉽다,лёгкий/простой,leicht/einfach,fácil
+如果,rú guǒ,If,ถ้า/หากว่า,nếu/giả sử,ຖ້າ,si/au cas où,もし/〜なら,만약/만일,если,wenn/falls,si
+伞,sǎn,umbrella,ร่ม,ô/dù,ຮ່ົມ,parapluie,傘,우산,зонт,Regenschirm,paraguas
+上网,shàng wǎng,Surf the Internet,เล่นอินเทอร์เน็ต,lướt web/truy cập mạng,ເຂົ້າອິນເຕີເນັດ,aller sur Internet,ネットをする/オンラインになる,인터넷을 하다,сидеть в интернете,ins Internet gehen,navegar por Internet
+生气,shēng qì,get angry,โกรธ,tức giận,ໂກດ,être en colère,怒る,화내다,злиться,sauer sein,enojarse
+声音,shēng yīn,voice,เสียง (พูด/สิ่งของ),âm thanh/giọng,ສຽງ,son/voix,音/声,소리/목소리,звук/голос,Ton/Stimme,sonido/voz
+试,shì,try,ลอง/ทดลอง,thử,ລອງ,essayer,試す,시험하다/시도하다,пробовать/пытаться,versuchen,probar
+世界,shì jiè,world,โลก/โลกใบนี้,thế giới,ໂລກ,monde,世界,세계,мир,Welt,mundo
+瘦,shòu,thin,ผอม/บาง,gầy/ốm,ຜອມ,maigre/mince,痩せている,마르다/날씬하다,худой,dünn/schlank,delgado
+舒服,shū fu,comfortable,สบาย/รู้สึกดี,thoải mái/dễ chịu,ສະບາຍ,confortable/à l’aise,気持ちがいい/快適,편안하다,удобно/приятно,bequem/angenehm,cómodo/agradable
+叔叔,shū shu,uncle,ลุง/อา (เพื่อนพ่อ),chú/bác (trẻ),ລຸງ/ອາ,oncle (cadet paternel),おじさん,삼촌/아저씨,дядя,Onkel,tío
+树,shù,tree,ต้นไม้,cây,ຕົ້ນໄມ້,arbre,木/木の木,나무,дерево,Baum,árbol
+数学,shù xué,Mathematics,คณิตศาสตร์,toán học,ຄະນິດສາດ,mathématiques,数学,수학,математика,Mathematik,matemáticas
+刷牙,shuā yá,Brush one's teeth,แปรงฟัน,đánh răng,ແປງແຂ້ວ,se brosser les dents,歯を磨く,양치질하다,чистить зубы,Zähne putzen,cepillarse los dientes
+双,shuāng,double/pair,คู่/สอง,đôi/cặp,ຄູ່,paire/double,双/ペア,쌍/짝,пара/двойной,Paar/doppelt,par/pareja
+水平,shuǐ píng,level,ระดับ/ระดับความสามารถ,trình độ/mức độ,ລະດັບ,niveau,レベル/水準,수준,уровень,Niveau,nivel
+司机,sī jī,Driver,คนขับรถ,tài xế,ຄົນຂັບລົດ,chauffeur/conducteur,運転手/ドライバー,기사/운전사,водитель,Fahrer,conductor
+太阳,tài yáng,sun,พระอาทิตย์,mặt trời,ຕາເວັນ,soleil,太陽,태양,солнце,Sonne,sol
+特别,tè bié,Especially,พิเศษ/โดยเฉพาะ,đặc biệt/rất,ພິເສດ/ໂດຍເຉັດ,spécial/particulièrement,特別/とても,특별히/특히,особенный/особенно,besonders,especial/muy
+疼,téng,hurt,เจ็บ/ปวด,đau/đau nhức,ເຈັບ/ປວດ,avoir mal/douleur,痛い/痛む,아프다/통증,болит/боль,schmerzen/Weh tun,doler/dolor
+提高,tí gāo,increase,ยกระดับ/提高,nâng cao/cải thiện,ຍົກລະດັບ/ປັບປຸງ,améliorer/hausser,向上させる/高める,향상시키다/높이다,повышать/улучшать,verbessern/erhöhen,mejorar/aumentar
+体育,tǐ yù,Sports,กีฬา/พลศึกษา,thể thao,ກິລາ,sport (discipline),体育/スポーツ,체육/스포츠,физкультура/спорт,Sport,deporte
+甜,tián,sweet,หวาน,ngọt,ຫວານ,sucré/doux,甘い,달다,сладкий,süß,dulce
+条,tiáo,strip,ตัว/เส้น (ลน.),con/đường/chiếc (dài),ເສັ້ນ/ຕົວ (ລວມ),classif. pour objets longs,本/匹/条 (量詞),가늘고 긴 것의 양사,сч. сл. (длинное),Zählwort längliche Dinge,clasificador (objetos largos)
+同事,tóng shì,Colleague,เพื่อนร่วมงาน,đồng nghiệp,ເພື່ອນຮ່ວມວຽກ,collègue,同僚/同僚,동료,коллега,Kollege/Kollegin,compañero de trabajo
+同意,tóng yì,Agree,เห็นด้วย/ยอมรับ,đồng ý/tán thành,ຍອມຮັບ/ເຫັນດີ,être d’accord,同意する,동의하다,соглашаться,einverstanden sein,estar de acuerdo
+头发,tóu fa,Hair,ผม/เส้นผม,tóc,ຜົມ,cheveux,髪の毛,머리카락,волосы,Haare,pelo
+突然,tū rán,suddenly,ทันใด/กะทันหัน,đột nhiên,ກະທັນຫັນ,soudain,突然,갑자기,вдруг/внезапно,plötzlich,de repente
+图书馆,tú shū guǎn,Library,ห้องสมุด,thư viện,ຫ້ອງສະໝຸດ,bibliothèque,図書館,도서관,библиотека,Bibliothek,biblioteca
+腿,tuǐ,leg,ขา/ต้นขา,chân,ຂາ,jambe,足（脚）/もも,다리,нога,Bein,pierna
+完成,wán chéng,complete,ทำเสร็จ/เสร็จสมบูรณ์,hoàn thành,ສຳເລັດ,achever/terminer,完成する,완성하다/끝내다,завершить,fertigstellen,completar
+碗,wǎn,bowl,ชาม/ถ้วย,bát,ຖ້ວຍ/ຊາມ,bol,椀/おわん,사발/그릇,миска,Schüssel/Schale,cuenco/tazón
+万,wàn,ten thousand,หมื่น,vạn/mười nghìn,ຫມື່ນ,dix-mille,一万,만,десять тысяч,zehntausend,diez mil
+忘记,wàng jì,forget,ลืม,quên,ລືມ,oublier,忘れる,잊다,забыть,vergessen,olvidar
+为,wèi,for,เพื่อ/ต่อ,vì/cho,ເພື່ອ/ໃຫ້,pour/en tant que,〜のために/〜として,위하여/위해,для/за/как,für/als,para/por
+为了,wèi le,in order to,เพื่อที่จะ,để mà,ເພື່ອທີ່ຈະ,afin de/pour,〜するために,…하기 위해,чтобы/для того чтобы,um zu/zwecks,para/para que
+位,wèi,position,ท่าน/ตำแหน่ง (ลน.คน),vị (lượng từ người),ທ່ານ (ລວມຄົນ),classif. personnes,位 (量詞),분 (존칭 양사),сч. сл. для людей (вежл.),Zählwort Personen (höflich),clasificador de personas
+文化,wén huà,Culture,วัฒนธรรม,văn hoá,ວັດທະນະທຳ,culture,文化,문화,культура,Kultur,cultura
+西,xī,west,ทิศตะวันตก,phía tây,ຕາເວັນຕົກ,ouest,西,西/서쪽,запад,Westen,oeste
+习惯,xí guàn,Habit,ความเคยชิน/คุ้นเคย,thói quen; quen,ນິໄສ; ຄຸ້ນຄືນ,habitude; s’habituer,習慣; 慣れる,습관; 익숙하다,привычка; привыкать,Gewohnheit; sich gewöhnen,costumbre; acostumbrarse
+洗手间,xǐ shǒu jiān,Restroom,ห้องน้ำ/ห้องส้วม,nhà vệ sinh,ຫ້ອງນ້ຳ,toilettes/WC,お手洗い,화장실,туалет,Toilette/WC,baño/servicio
+洗澡,xǐ zǎo,Take a shower,อาบน้ำ,tắm,ອາບນ້ຳ,se laver/prendre une douche,お風呂に入る/シャワーする,목욕하다,мыться/принимать душ,baden/duschen,bañarse/ducharse
+夏,xià,summer,ฤดูร้อน,mùa hè,ລະດູຮ້ອນ,été,夏,夏/여름,лето,Sommer,verano
+先,xiān,first,ก่อน/อันดับแรก,trước/đầu tiên,ກ່ອນ,d’abord/avant,まず/先に,먼저/우선,сначала/прежде,zuerst,primero/antes
+香蕉,xiāng jiāo,Banana,กล้วย,chuối,ກ້ວຍ,banane,バナナ,바나나,банан,Banane,plátano/banana
+相信,xiāng xìn,believe,เชื่อ/ไว้ใจ,tin tưởng/tin,ເຊື່ອ/ໄວ້ໃຈ,croire/avoir confiance,信じる/信用する,믿다/신뢰하다,верить/доверять,glauben/vertrauen,creer/confiar
+向,xiàng,towards,ไปยัง/หันไปทาง,hướng về,ຫັນໄປທາງ/ສູ່,vers/en direction de,〜へ/〜に向けて,향하다/…쪽으로,к/по направлению к,nach/zu,hacia
+像,xiàng,image,เหมือน/คล้าย,như/giống như,ຄ້າຍ/ຄື,ressembler à/ comme,〜のようだ/似ている,…같다/닮다,похожий/как,ähnlich/wie,parecido/a como
+小心,xiǎo xīn,watch out,ระวัง/ด้วยความระมัดระวัง,cẩn thận/chú ý,ລະມັດລະວັງ,faire attention/prudemment,気をつける/用心深く,조심하다/조심히,осторожно/остерегаться,vorsichtig/aufpassen,cuidado/ten cuidado
+校长,xiào zhǎng,Principal,ครูใหญ่/ผอ.,hiệu trưởng,ຜູ້ອໍານວຍການໂຮງຮຽນ,proviseur/directeur,校長,교장,директор школы,Schulleiter/in,director/a (de escuela)
+新闻,xīn wén,news,ข่าว/ข่าวสาร,tin tức,ຂ່າວ,nouvelles/informations,ニュース,뉴스/소식,новости,Nachrichten,noticias
+新鲜,xīn xiān,fresh,สดใหม่/สดชื่น,tươi mới,ສົດໃໝ່,frais (aliment)/neuf,新鮮,신선하다,свежий,frisch,fresco
+信用卡,xìn yòng kǎ,Credit card,บัตรเครดิต,thẻ tín dụng,ບັດເຄຣດິດ,carte de crédit,クレジットカード,신용카드,кредитная карта,Kreditkarte,tarjeta de crédito
+行李箱,xíng lǐ xiāng,Trunk,กระเป๋าเดินทางแข็ง,vali/va-li kéo,ກະເປົາເດີນທາງ,valise (à coque)/bagage,スーツケース,캐리어/여행가방,чемодан,Koffer,maleta
+熊猫,xióng māo,Panda,แพนด้า,gấu trúc,ແພນດ້າ,panda,パンダ,판다,панда,Panda,panda
+需要,xū yào,Need,จำเป็น/ต้องการ,cần/nhu cầu,ຈຳເປັນ/ຕ້ອງການ,avoir besoin/besoin,必要/要る,필요하다,нуждаться/необходимо,brauchen/benötigen,necesitar
+选择,xuǎn zé,Choice,เลือก/ตัวเลือก,lựa chọn,ເລືອກ,choisir/choix,選ぶ/選択,선택하다,выбирать/выбор,wählen/Auswahl,elegir/opción
+要求,yāo qiú,Requirement,ขอ/ความต้องการ,yêu cầu/đòi hỏi,ຮ້ອງຂໍ/ຕ້ອງການ,demander/exiger,要求/要望,요구하다/요건,требовать/требование,verlangen/Anforderung,pedir/exigir
+爷爷,yé ye,grandpa,คุณปู่ (ฝ่ายพ่อ),ông nội,ປູ່,grand-père (patern.),祖父（父方）,할아버지(친),дедушка (по отцу),Großvater (väterl.),abuelo (paterno)
+一定,yí dìng,Certain,แน่นอน/ต้อง,nhất định/chắc chắn,ແນ່ນອນ,certainement,きっと/必ず,반드시/틀림없이,обязательно/несомненно,bestimmt/auf jeden Fall,seguro/ciertamente
+一共,yí gòng,Altogether,รวมแล้ว/ทั้งสิ้น,tổng cộng,ລວມແລ້ວ,au total/en tout,全部で/合計で,합계/전부,всего/итого,insgesamt,en total
+一会儿,yí huìr,a while,สักครู่/เดี๋ยว,một lát/chốc lát,ແປບດຽວ,un moment/un peu,ちょっとの間,잠깐/잠시,немного/минутку,kurz/einen Moment,un rato/un momento
+一样,yí yàng,equally,เหมือนกัน/เท่ากัน,giống hệt/như nhau,ເຫມືອນກັນ,pareil/identique,同じだ/同様,같다/똑같다,одинаковый/такой же,gleich/gleichartig,igual/lo mismo
+以前,yǐ qián,before,ก่อนหน้านี้/เมื่อก่อน,trước đây,ກ່ອນນີ້,avant/autrefois,以前/前に,이전에/전에,раньше/прежде,früher/vorher,antes
+一般,yì bān,commonly,ทั่วไป/ธรรมดา,bình thường/thông thường,ທົ່ວໄປ/ທຳມະດາ,en général/ordinaire,一般的/ふつう,보통/일반적으로,обычно/обычный,im Allgemeinen/gewöhnlich,generalmente/normal
+一边,yì biān,One side,ขณะเดียวกัน/ไป…ไป…,vừa … vừa …,ພ້ອມກັນ/ເຮັດ…ຄູ່ກັນ,en même temps/à la fois,〜しながら/〜すると同時に,…하면서,одновременно/…делая…,während/gleichzeitig,mientras…/al mismo tiempo
+一直,yì zhí,always,ตลอด/โดยตลอด,suốt/luôn luôn,ຕະຫຼອດ,toujours/sans cesse,ずっと/絶えず,계속/줄곧,всё время/постоянно,die ganze Zeit/immer,todo el tiempo/siempre
+音乐,yīn yuè,Music,ดนตรี/เพลง,âm nhạc,ດົນຕີ,musique,音楽,음악,музыка,Musik,música
+银行,yín háng,Bank,ธนาคาร,ngân hàng,ທະນາຄານ,banque,銀行,은행,банк,Bank,banco
+饮料,yǐn liào,Drinks,เครื่องดื่ม,đồ uống,ເຄື່ອງດື່ມ,boisson,飲み物,음료,напиток,Getränk,bebida
+应该,yīng gāi,Should,ควรจะ,nên,ຄວນ,devrait/il faut,〜べきだ,~해야 한다,следует/нужно,sollte/soll,debería
+影响,yǐng xiǎng,Influence,มีผลกระทบ/กระทบต่อ,ảnh hưởng/tác động,ມີອິດທິພົນ,influencer/impact,影響する/影響,영향을 미치다,влиять/влияние,beeinflussen/Einfluss,influir/influencia
+用,yòng,use,ใช้/ด้วย,dùng/bằng,ໃຊ້,utiliser/avec,使う/用いて,사용하다/…로,использовать/с,benutzen/mit,usar/con
+游戏,yóu xì,Game,เกม/เล่นเกม,trò chơi,ເກມ/ຫຼິ້ນເກມ,jeu,ゲーム,게임,игра/игры,Spiel,juego
+有名,yǒu míng,Famous,มีชื่อเสียง/ดัง,nổi tiếng,ມີຊື່ສຽງ,célèbre/renommé,有名だ/名高い,유명하다,известный,berühmt,famoso
+又,yòu,again,อีกครั้ง/ทั้ง…และ…,lại; vừa…lại…,ອີກ/ທັງ…ທັງ…,de nouveau; et… et…,また/さらに,또/또한,снова; и… и…,wieder; sowohl…als auch,otra vez; y…y…
+遇到,yù dào,encounter,เจอ/พบกับ,gặp phải/gặp,ພົບ/ເຈີ,rencontrer/se heurter à,出会う/遭遇する,만나다/부딪치다,встретить/столкнуться,begegnen/stoßen auf,encontrarse con/toparse
+元,yuán,element/yuan,หยวน (เงินจีน),nhân dân tệ (nguyên),ຢວນ,yuán (monnaie),元（通貨単位）,위안,юань,Yuan,yuan
+愿意,yuàn yì,Be willing,ยินดี/เต็มใจ,sẵn lòng/bằng lòng,ຍິນດີ/ເຕັມໃຈ,être disposé à,〜する気がある,기꺼이 …하다,быть готовым/хотеть,bereit sein/gern wollen,estar dispuesto a/querer
+月亮,yuè liang,Moon,พระจันทร์/ดวงจันทร์,mặt trăng,ດວງຈັນ,lune,月,月/달,луна,Mond,luna
+越,yuè,the more,ยิ่ง…ยิ่ง…,càng… càng…,ຍິ່ງ… ຍິ່ງ…,plus… plus…,〜すればするほど,…할수록 더…,чем… тем…,je … desto …,cuanto más… más…
+站,zhàn,station,ยืน/สถานี,đứng; ga/trạm,ຢືນ; ສະຖານີ,se tenir debout; station,立つ; 駅/停留所,서다; 역/정류장,стоять; станция,stehen; Station,estar de pie; estación
+张,zhāng,Zhang (surname),แผ่น/ใบ (ลน.),tờ/tấm (lượng từ),ແຜ່ນ/ໃບ (ລວມ),classif. objets plats,枚/一枚 (量詞),"장 (양사, 평평)",сч. сл. для плоских,Zählwort flache Dinge,clasificador para planos
+长 (动词),zhǎng(v),grow,เติบโต/โตขึ้น,lớn lên; mọc,ເຕີບໃຫຍ່; ງອກ,grandir; pousser,成長する; 生える,자라다; 나다,расти; отрастать,wachsen,crecer
+着急,zháo jí,Worry,ร้อนใจ/รีบเร่ง,lo lắng/vội,ຮ້ອນໃຈ/ລົດລ້ຽວ,se presser/s’inquiéter,焦る/慌てる,조급해하다/걱정하다,волноваться/торопиться,in Eile sein/sich sorgen,apresurarse/preocuparse
+照顾,zhào gù,look after,ดูแล/เอาใจใส่,chăm sóc,ດູແລ,s’occuper de/soigner,世話をする,돌보다,заботиться/ухаживать,sich kümmern/versorgen,cuidar/atender
+照片,zhào piàn,Photo,รูปถ่าย,ảnh,ຮູບຖ່າຍ,photo,写真,사진,фотография,Foto,foto
+照相机,zhào xiàng jī,Camera,กล้องถ่ายรูป,máy ảnh,ກ້ອງຖ່າຍຮູບ,appareil photo,カメラ,사진기,фотоаппарат,Fotoapparat/Kamera,cámara (de fotos)
+只 (量词),zhī(m),(measure word),ตัว (สัตว์/นก),con (động vật),ຕົວ (ສັດ/ນົກ),classif. animaux,匹/羽/頭 (量詞),마리 (양사),сч. сл. для животных,Zählwort Tiere,clasificador animales
+只 (副词),zhǐ(adv),only,เพียง/แค่,chỉ/chỉ có,ເພີຍ/ແຕ່,seulement,ただ/～だけ,단지/오직,только/лишь,nur,solo
+只有…… 才……,zhǐ yǒu…cái…,only if,มีแต่…ถึงจะ…,chỉ có… mới…,ມີແຕ່… ຈຶ່ງ…,il faut… pour…,…してこそ…,…해야 …한다,только если… то…,nur wenn … dann …,solo si… entonces…
+中文,zhōng wén,Chinese,ภาษาจีน,tiếng Trung (vănเขียน),ພາສາຈີນ,chinois (langue),中国語/中文,중국어/중문,китайский (письм.),Chinesisch (Sprache),chino (idioma)
+中间,zhōng jiān,Middle,ตรงกลาง,ở giữa,ກາງ/ກາງໆ,au milieu/entre,真ん中/中間,가운데/중간,посередине/середина,in der Mitte,en medio/centro
+终于,zhōng yú,finally,ในที่สุด/ท้ายสุด,cuối cùng,ໃນທີ່ສຸດ,enfin/finalement,ついに/とうとう,마침내,наконец,endlich,por fin/finalmente
+种,zhǒng,species,ชนิด/ประเภท,loại,ປະເພດ,genre/espèce,種類/タイプ,종류,вид/тип,Art/Sorte,tipo/clase
+重要,zhòng yào,important,สำคัญ,quan trọng,ສຳຄັນ,important,重要,중요하다,важный,wichtig,importante
+周末,zhōu mò,Weekend,สุดสัปดาห์,cuối tuần,ທ້າຍອາທິດ,week-end,週末,주말,выходные,Wochenende,fin de semana
+主要,zhǔ yào,main,หลัก/สำคัญ,chủ yếu/chính,ຫຼັກ/ສຳຄັນ,principal,主要な/主に,주요한/주로,главный/основной,hauptsächlich/wichtigste,principal
+注意,zhù yì,Be careful,ระวัง/ใส่ใจ,chú ý/cẩn thận,ລະວັງ/ໃສ່ໃຈ,faire attention,注意する,주의하다/유의하다,обращать внимание/осторожно,achten/Beachtung schenken,prestar atención/cuidado
+自己,zì jǐ,Own/self,ตัวเอง/ด้วยตนเอง,bản thân/tự mình,ຕົວເອງ,soi-même,自分/自身,자기 자신/스스로,сам/собственный,selbst/eigen,uno mismo/propio
+自行车,zì xíng chē,Bicycle,จักรยาน,xe đạp,ລົດຖີບ,vélo/bicyclette,自転車,자전거,велосипед,Fahrrad,bicicleta
+总是,zǒng shì,always,มักจะ/เสมอ,luôn/luôn luôn,ມັກຈະ,toujours,いつも/常に,항상/늘,всегда,immer,siempre
+嘴,zuǐ,mouth,ปาก,miệng,ປາກ,bouche,口/くち,입,рот,Mund,boca
+最后,zuì hòu,Last,สุดท้าย/ท้ายสุด,cuối cùng/sau chót,ສຸດທ້າຍ,dernier/finalement,最後/最終,마지막/최후,последний/в конце,zuletzt/letzte,último/al final
+最近,zuì jìn,lately,เมื่อเร็วๆนี้/ระยะนี้,gần đây/dạo này,ໃນຊ່ວງນີ້/ໃນໄມ່ດົນ,récemment/ces temps-ci,最近/このごろ,최근/요즘,недавно/в последнее время,kürzlich/in letzter Zeit,recientemente/últimamente
+作业,zuò yè,homework,การบ้าน,bài tập về nhà,ວຽກບ້ານ,devoirs (maison),宿題,숙제,домашнее задание,Hausaufgaben,tarea (deberes)

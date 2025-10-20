@@ -1,0 +1,147 @@
+您,nín,you,คุณ(สุภาพ),ngài/ông/bà,ທ່ານ (ສຸພາບ),vous (politesse),あなた（丁寧）,당신/선생님 (존칭),вы (вежл.),Sie (höflich),usted (formal)
+也,yě,also,ก็/ด้วย,cũng,ກໍ່/ດ້ວຍ,aussi,も/もまた,도/또한,тоже/также,auch,también
+还,hái,still,ยัง/ยังคง,vẫn/còn,ຍັງ,encore/toujours,まだ/さらに,아직/더,ещё/кроме того,noch/auch,aún/todavía
+最,zuì,the most,ที่สุด,nhất,ທີ່ສຸດ,le plus,最も,가장/제일,самый/наиболее,am meisten,lo más
+真,zhēn,really,จริงๆ/จริงนะ,thật/sự thật,ແທ້ໆ,vraiment/vrai,本当に/真に,정말/진짜,действительно/правда,wirklich/wahr,de verdad/verdadero
+大家,dà jiā,everyone,ทุกคน,mọi người,ທຸກຄົນ,tout le monde,みんな/皆さん,모두/여러분,все/народ,alle/alle Leute,todos/todas
+它,tā,it,มัน (สิ่งของ/สัตว์),nó (vật/con),ມັນ (ສິ່ງ/ສັດ),il/elle (neutre),それ,그것,оно,es,ello
+每,měi,"every,each",ทุกๆ/แต่ละ,mỗi/đều,ທຸກ/ແຕ່ລະ,chaque,毎/それぞれ,매/각,каждый/каждая,jede(r/s),cada
+为什么,wèi shén me,why,ทำไม/เพราะอะไร,tại sao/vì sao,ເປັນຫຍັງ,pourquoi,なぜ/どうして,왜/어째서,почему/зачем,warum/wieso,por qué
+零,líng,zero,ศูนย์,không/ số 0,ສູນ,zéro,ゼロ/零,영/제로,ноль,null,cero
+两,liǎng,two,สอง (ใช้กับลน.),hai (lượng từ),ສອງ (ໃຊ້ກັບລວມ),deux (devant class.),二/二つ (量詞の前は“二/两”の“両”相当),두 (양사 앞),два (перед сч. сл.),zwei (vor ZW),dos (antes de clas.)
+百,bǎi,hundred,ร้อย,trăm,ຮ້ອຍ,cent,百,백,сто,hundert,cien
+千,qiān,thousand,พัน,nghìn,ພັນ,mille,千,천,тысяча,tausend,mil
+次,cì,times,ครั้ง,lần,ເທື່ອ,fois,回/度,번/차례,раз/случай,Mal,vez/veces
+件,jiàn,piece,ชิ้น/เรื่อง (ลน.),cái/việc (lượng từ),ອັນ/ເລື່ອງ (ລວມ),pièce/affaire (class.),件 (量詞),건 (양사),件/дело (сч. сл.),Stück/Fall (Zahlwort),pieza/caso (clas.)
+别,bié,do not,อย่า/อย่าได้,đừng,ຢ່າ,ne… pas/arrête,～するな/別に,하지 마/다른,не/не надо/другой,nicht/anderer,no/no lo hagas
+非常,fēi cháng,very,อย่างยิ่ง/มากๆ,rất/phi thường,ຫຼາຍຫຼາຍ,très/extrêmement,非常に/とても,매우/대단히,очень/чрезвычайно,sehr/äußerst,muy/extremadamente
+觉得,jué de,think,รู้สึกว่า/คิดว่า,cảm thấy/cho rằng,ຮູ້ສຶກ/ເຫັນວ່າ,trouver/penser,感じる/思う,느끼다/생각하다,чувствовать/считать,finden/denken,sentir/opinar
+知道,zhī dào,know,รู้/ทราบ,biết,ຮູ້,savoir,知っている,알다,знать,wissen,saber
+可以,kě yǐ,can,สามารถ/ได้,có thể/được phép,ສາມາດ/ອະນຸຍາດ,pouvoir/possible,〜してよい/可能,할 수 있다/가능하다,можно/мочь,kann/darf,poder/permitido
+要,yào,want,ต้อง/อยาก/จะ,muốn/cần/sắp,ຕ້ອງ/ຢາກ/ຈະ,vouloir/devoir,要る/〜したい/〜するつもり,원하다/필요하다/하려다,хотеть/нужно/собираться,wollen/müssen/werden,querer/necesitar/ir a
+可能,kě néng,may,อาจจะ/เป็นไปได้,có thể/khả năng,ອາດຈະ/ເປັນໄປໄດ້,possible/peut-être,可能/かもしれない,가능/아마도,возможно/может быть,möglich/vielleicht,posible/quizá
+时间,shí jiān,time,เวลา,thời gian,ເວລາ,temps (temps que),時間,時間/시간,время,Zeit,tiempo
+小时,xiǎo shí,hour,ชั่วโมง,giờ (tiếng),ຊົ່ວໂມງ,heure,時間 (時),시간(시),час (время),Stunde,hora
+早上,zǎo shàng,morning,ตอนเช้า,buổi sáng,ເຊົ້າ,matin (tôt),朝/朝方,아침,утро (рано),früh am Morgen,por la mañana (temprano)
+晚上,wǎn shàng,night,ตอนกลางคืน/ตอนเย็น,buổi tối/đêm,ຕອນແລງ/ກາງຄືນ,soir/nuit,夜/晩,저녁/밤,вечером/ночью,Abend/Nacht,por la tarde/noche
+去年,qù nián,last year,ปีที่แล้ว,năm ngoái,ປີກາຍ,l’année dernière,去年,작년,прошлый год,letztes Jahr,el año pasado
+生日,shēng rì,birthday,วันเกิด,sinh nhật,ວັນເກີດ,anniversaire,誕生日,생일,день рождения,Geburtstag,cumpleaños
+日,rì,date,วันที่/วัน,ngày/nhật,ວັນ/ວັນທີ,jour/date/soleil,日/ひ,일/날짜,день/число,Tag/Datum,día/fecha
+起床,qǐ chuáng,get up,ตื่นนอน,dậy,ຕື່ນນອນ,se lever,起きる,일어나다,вставать (с кровати),aufstehen,levantarse
+休息,xiū xi,rest,พักผ่อน,nghỉ/nghỉ ngơi,ພັກຜ່ອນ,se reposer/pause,休む/休憩する,휴식하다/쉬다,отдыхать/перерыв,sich ausruhen/Pause,descansar
+上班,shàng bān,be on duty,ไปทำงาน/เข้างาน,đi làm,ໄປເຮັດວຽກ,aller au travail,出勤する,출근하다,выходить на работу,zur Arbeit gehen,ir a trabajar
+运动,yùn dòng,exercise,ออกกำลังกาย/กีฬา,vận động/thể thao,ອອກກຳລັງກາຍ/ກິລາ,sport/exercice,運動/スポーツ,운동/스포츠,спорт/двигаться,Sport/Bewegung,deporte/ejercicio
+玩,wán,play,เล่น/เที่ยว,chơi/vui chơi,ຫຼິ້ນ/ເທື່ອ,chouer/s’amuser,遊ぶ,놀다/놀아요,играть/гулять,spielen/sich amüsieren,jugar/pasear
+跑步,pǎo bù,run,วิ่งออกกำลังกาย,chạy bộ,ແລ່ນອອກກຳລັງກາຍ,faire du jogging/courir,走る/ランニングする,조깅하다/달리기,бегать,laufen/joggen,correr
+游泳,yóu yǒng,swim,ว่ายน้ำ,bơi,ວ່າຍນ້ຳ,nager,泳ぐ,수영하다,плавать,schwimmen,nadar
+唱歌,chàng gē,sing,ร้องเพลง,hát,ຮ້ອງເພງ,chanter,歌う,노래하다,петь,singen,cantar
+跳舞,tiào wǔ,dance,เต้นรำ,nhảy múa,ເຕັ້ນຮຳ,danser,踊る,춤추다,танцевать,tanzen,bailar
+踢足球,tī zú qiú,play football,เตะฟุตบอล,đá bóng,ຫຼິ້ນບານເຕະ,jouer au foot,サッカーをする,축구를 하다,играть в футбол,Fußball spielen,jugar al fútbol
+打篮球,dǎ lán qiú,play basketball,เล่นบาสเกตบอล,chơi bóng rổ,ຫຼິ້ນບານບາດ,jouer au basket,バスケットボールをする,농구를 하다,играть в баскетбол,Basketball spielen,jugar al baloncesto
+哥哥,gē ge,older brother,พี่ชาย,anh trai,ພີ່ຊາຍ,grand frère,兄,형/오빠(남성/여성화자),старший брат,älterer Bruder,hermano mayor
+姐姐,jiě jie,older sister,พี่สาว,chị gái,ພີ່ສາວ,grande sœur,姉,누나/언니,старшая сестра,ältere Schwester,hermana mayor
+弟弟,dì di,younger brother,น้องชาย,em trai,ນ້ອງຊາຍ,petit frère,弟,남동생,младший брат,jüngerer Bruder,hermano menor
+妹妹,mèi mei,younger sister,น้องสาว,em gái,ນ້ອງສາວ,petite sœur,妹,여동생,младшая сестра,jüngere Schwester,hermana menor
+丈夫,zhàng fu,husband,สามี,chồng,ສາມີ,mari/époux,夫/旦那,남편,муж,Ehemann,esposo
+妻子,qī zi,wife,ภรรยา,vợ,ພັນລະຍາ/ເມຍ,femme/épouse,妻/奥さん,아내/부인,жена,Ehefrau,esposa
+孩子,hái zi,child,เด็ก/ลูก,con/đứa trẻ,ເດັກ/ລູກ,enfant,子ども,아이/자녀,ребёнок/дети,Kind,niño/a
+男人,nán rén,man,ผู้ชาย,đàn ông,ຜູ້ຊາຍ,homme,男の人,남자,мужчина,Mann,hombre
+女人,nǚ rén,woman,ผู้หญิง,phụ nữ,ແມ່ຍິງ,femme,女の人,여자,женщина,Frau,mujer
+服务员,fú wù yuán,waiter,พนักงานเสิร์ฟ,phục vụ/nhân viên phục vụ,ພະນັກງານບໍລິການ,serveur/serveuse,店員/ウェイター,종업원/서버,официант/официантка,Kellner/in,camarero/a
+手机,shǒu jī,cellphone,มือถือ,điện thoại di động,ໂທລະສັບມືຖື,téléphone portable,携帯電話/スマホ,휴대폰/핸드폰,мобильный телефон,Handy/Mobiltelefon,teléfono móvil
+手表,shǒu biǎo,watch,นาฬิกาข้อมือ,đồng hồ đeo tay,ນາລິກາຂໍ້ມື,montre (bracelet),腕時計,손목시계,наручные часы,Armbanduhr,reloj de pulsera
+电脑,diàn nǎo,computer,คอมพิวเตอร์,máy tính,ຄອມພິວເຕີ,ordinateur,パソコン,컴퓨터,компьютер,Computer,computadora/ordenador
+电视,diàn shì,television,โทรทัศน์,tivi,ທະລະທັດ,télévision,テレビ,텔레비전,телевизор,Fernseher,televisión
+报纸,bào zhǐ,newspaper,หนังสือพิมพ์,báo,ຂ່າວພິມ,journal,新聞,新聞/신문,газета,Zeitung,periódico
+房间,fáng jiān,room,ห้อง (พัก),phòng,ຫ້ອງ,chambre/pièce,部屋/室,방/객실,комната/номер,Zimmer,habitación/cuarto
+教室,jiào shì,classroom,ห้องเรียน,lớp học,ຫ້ອງຮຽນ,salle de classe,教室,교실,класс/аудитория,Klassenzimmer,aula/salón de clase
+门,mén,door,ประตู,cửa,ປະຕູ,porte,ドア/門,문/문짝,дверь,Tür,puerta
+题,tí,"topic,item",ข้อ/หัวข้อ,câu hỏi/đề mục,ຂໍ້/ຫົວຂໍ້,question/sujet,問題/題,문제/제목,вопрос/задача/тема,Frage/Thema,pregunta/tema
+课,kè,lesson,บทเรียน/คาบ,bài học/tiết học,ບົດຮຽນ/ຄາບ,leçon/cours,課/授業,수업/과,수업/과목,Lektion/Kurs,lección/clase
+考试,kǎo shì,exam,สอบ,thi,ສອບເສັງ,examen,試験,시험,экзамен,Prüfung/Examen,examen
+问题,wèn tí,question,คำถาม/ปัญหา,vấn đề/câu hỏi,ຄຳຖາມ/ບັນຫາ,question/problème,問題,문제/질문,вопрос/проблема,Frage/Problem,pregunta/problema
+意思,yì si,meaning,ความหมาย/ตั้งใจ,ý nghĩa/ý,ຄວາມຫມາຍ/ໃຈຄິດ,sens/volonté,意味/つもり,뜻/의미/의도,значение/смысл/намерение,Bedeutung/Absicht,significado/intención
+姓,xìng,surname,นามสกุล/แซ่,họ,ນາມສະກຸນ,nom de famille,名字/姓,성/성씨,фамилия,Nachname,apellido
+事情,shì qing,matter,เรื่อง/เหตุการณ์,sự việc/chuyện,ເລື່ອງ/ເຫດການ,affaire/chose,事/出来事,일/사건/일거리,дело/событие,Angelegenheit/Sache,asunto/cosa
+帮助,bāng zhù,help,ช่วย/ความช่วยเหลือ,giúp/giúp đỡ,ຊ່ວຍເຫຼືອ,aider/aide,助ける/助け,돕다/도움,помогать/помощь,helfen/Hilfe,ayudar/ayuda
+介绍,jiè shào,introduce,แนะนำ,giới thiệu,ແນະນຳ,présenter/présentation,紹介する/紹介,소개하다/소개,представлять/знакомить,vorstellen/Vorstellung,presentar/presentación
+告诉,gào sù,tell,บอก/แจ้ง,nói/cho biết,ບອກ/ແຈ້ງ,dire/informer,告げる/知らせる,말하다/알리다,сказать/сообщить,sagen/mitteilen,decir/informar
+问,wèn,ask,ถาม,hỏi,ຖາມ,demander,聞く/尋ねる,묻다/물어보다,спрашивать,fragen,preguntar
+说话,shuō huà,talk,พูดคุย,nói chuyện,ເວົ້າຈາ,parler/converser,話をする,말을 하다/대화하다,говорить/разговаривать,sprechen/reden,hablar
+懂,dǒng,understand,เข้าใจ,hiểu,ເຂົ້າໃຈ,comprendre,分かる/理解する,이해하다,понимать,verstehen,entender
+笑,xiào,smile,ยิ้ม/หัวเราะ,cười,ຢິ້ມ/ຫົວຮ້າວ,sourire/rire,笑う/微笑む,웃다/미소짓다,смеяться/улыбаться,lachen,reír/sonreír
+准备,zhǔn bèi,prepare,เตรียม/เตรียมตัว,chuẩn bị,ກຽມ/ກຽມຕົວ,préparer/préparation,準備する/用意する,준비하다,готовить/подготовка,vorbereiten,preparar
+开始,kāi shǐ,begin,เริ่ม/เริ่มต้น,bắt đầu/khởi đầu,ເລີ່ມ,commencer/débuter,始める/開始する,시작하다,начинать,beginnen/starten,empezar/iniciar
+完,wán,finish,เสร็จ/จบ,xong/hoàn thành,ສຳເລັດ/ຈົບ,finir/terminer,終わる/終える,끝나다/마치다,закончить/конец,beenden/fertig,terminar
+等,děng,wait,รอ/รอคอย,đợi/chờ,ລໍຖ້າ,attendre,待つ,기다리다,ждать,warten,esperar
+让,ràng,let,ให้/ปล่อยให้,để/cho phép/nhờ,ໃຫ້/ອະນຸຍາດ,laisser/faire faire,〜させる/〜させて,시키다/하게 하다,позволять/заставлять,lassen,dejar/hacer
+给,gěi,give,ให้/มอบให้,cho/tặng,ໃຫ້,donner,与える/あげる,주다/드리다,давать,geben,dar
+找,zhǎo,find,หา/ค้นหา,tìm,ຊອກຫາ,chercher,探す,찾다,искать,suchen,buscar
+卖,mài,sell,ขาย,bán,ຂາຍ,vendre,売る,팔다,продавать,verkaufen,vender
+送,sòng,present,ส่ง/มอบให้,tặng/gửi/tiễn,ສົ່ງ/ມອບໃຫ້,offrir/envoyer/accompagner,贈る/送る/見送る,보내다/선물하다/배웅하다,дарить/посылать/провожать,schenken/senden/begleiten,enviar/regalar/acompañar
+穿,chuān,wear,สวมใส่ (เสื้อผ้า),mặc (quần áo),ໃສ່ (ເຄື່ອງນຸ່ງ),porter (vêtements),着る/身に着ける,입다,носить/надевать,tragen/anziehen,llevar/vestir
+洗,xǐ,wash,ล้าง/ซัก,rửa/giặt,ລ້າງ/ຊັກ,laver,洗う,씻다/빨다,мыть/стирать,waschen,lavar
+进,jìn,enter,เข้า/เข้ามา,vào/tiến vào,ເຂົ້າ,entrer,入る,들어가다/들어오다,входить,eintreten/hinein,entrar
+出,chū,come,ออก/ออกไป,ra/ra ngoài,ອອກ,sortir,出る,나가다/나오다,выходить,hinausgehen,salir
+走,zǒu,walk,เดิน/ไป,đi bộ/đi,ເດີນ/ໄປ,marcher/partir,歩く/行く,걷다/가다,идти/уходить,gehen,caminar/irse
+到,dào,arrive,ถึง/ไปถึง,đến/tới,ເຖິງ/ໄປຮອດ,arriver/à,到着する/〜に至る,도착하다/까지,прибывать/до,ankommen/bis/zu,llegar/a/hasta
+公司,gōng sī,company,บริษัท,công ty,ບໍລິສັດ,entreprise/société,会社,회사,компания/фирма,Firma/Unternehmen,empresa
+宾馆,bīn guǎn,hotel,โรงแรม,khách sạn (nhà khách),ເຮືອນແຮມ,hôtel,ホテル/賓館,빈관/호텔,гостиница,Hotel/Gasthaus,hotel/hostal
+火车站,huǒ chē zhàn,train station,สถานีรถไฟ,ga tàu hoả,ສະຖານີລົດໄຟ,gare (ferroviaire),駅（鉄道）,기차역,ж/д вокзал,Bahnhof,estación de tren
+机场,jī chǎng,airport,สนามบิน,sân bay,ສະຫນາມບິນ,aéroport,空港/空港ターミナル,공항,аэропорт,Flughafen,aeropuerto
+公共汽车,gōng gòng qì chē,bus,รถเมล์,xe buýt,ລົດເມ,autobus/bus,バス,버스,автобус,(Auto)bus,autobús
+路,lù,road,ถนน/ทาง,đường,ຖະໜົນ/ທາງ,route/chemin,道/道路,길/도로,дорога/путь,Straße/Weg,camino/calle
+左边,zuǒ biān,left,ด้านซ้าย,bên trái,ຂ້າງຊ້າຍ,à gauche,左側/左,왼쪽,слева/левая сторона,links/auf der linken Seite,a la izquierda
+右边,yòu biān,right,ด้านขวา,bên phải,ຂ້າງຂວາ,à droite,右側/右,오른쪽,справа/правая сторона,rechts/auf der rechten Seite,a la derecha
+旁边,páng biān,side,ข้างๆ/ด้านข้าง,bên cạnh,ຂ້າງໆ,à côté,そば/横,옆/곁,рядом/сбоку,neben,al lado
+外,wài,outside,ข้างนอก/ภายนอก,ngoài/bên ngoài,ຂ້າງນອກ,dehors/extérieur,外/外側,밖/외부,снаружи/внешний,außen/draußen,fuera
+从,cóng,from,จาก/ตั้งแต่,từ/kể từ,ຈາກ/ເລີ່ມຈາກ,de/depuis,～から/以来,~에서/부터,из/с/от,von/seit,de/desde
+往,wǎng,"toward,to",ไปทาง/มุ่งไป,hướng tới/đi về,ໄປທາງ/ມຸ່ງໄປ,vers/en direction de,〜へ/〜に向かって,향해/…로,к/по направлению к,nach/zu/in Richtung,hacia
+离,lí,indicate the distance between two objects,ห่างจาก/จาก…ถึง…,cách/xa,ຫ່າງຈາກ,à (distance)/loin de,〜から離れて,…에서 떨어져/거리,от/на расстоянии от,entfernt von,lejos de
+比,bǐ,comparing to,เทียบกับ/กว่า,so với/hơn,ທຽບກັບ/ກວ່າ,comparé à/plus… que,～より/比べて,…보다/비교하여,чем/по сравнению с,als/im Vergleich zu,que/más que
+鱼,yú,fish,ปลา,cá,ປາ,poisson,魚,물고기/생선,рыба,Fisch,pez
+羊肉,yáng ròu,mutton,เนื้อแกะ/แพะ (ส่วนมากแกะ),thịt dê/cừu (thg. cừu),ເນື້ອແກະ,viande d’agneau/mouton,羊肉,양고기,баранина,Lamm-/Schaffleisch,carne de cordero
+牛奶,niú nǎi,milk,นมวัว/นม,sữa (bò),ນົມ (ງົວ),lait (de vache),牛乳/ミルク,우유,молоко (коровье),Milch,leche
+鸡蛋,jī dàn,egg,ไข่ไก่/ไข่,trứng (gà),ໄຂ່ (ໄກ່),œuf (de poule),卵/たまご,달걀/계란,яйцо,Ei,huevo
+西瓜,xī guā,watermelon,แตงโม,dưa hấu,ໝາກແຕງໂມ,pastèque,スイカ,수박,арбуз,Wassermelone,sandía
+咖啡,kā fēi,coffee,กาแฟ,cà phê,ກາເຟ,café,コーヒー,커피,кофе,Kaffee,café
+面条,miàn tiáo,noodle,ก๋วยเตี๋ยว/เส้นหมี่,mì/miến,ເສັ້ນກວຍຕຽວ,nouilles,麺/ヌードル,국수/면,лапша,Nudeln,fideos
+雪,xuě,snow,หิมะ,tuyết,ຫິມະ,neige,雪,눈,снег,Schnee,nieve
+药,yào,medicine,ยา/ยารักษาโรค,thuốc,ຢາ,médicament,薬,약,лекарство,Medizin/Arznei,medicina
+颜色,yán sè,color,สีสัน,màu sắc,ສີ,couleur,色,색/색깔,цвет,Farbe,color
+铅笔,qiān bǐ,pencil,ดินสอ,bút chì,ດິນສໍ,crayon (à papier),鉛筆,연필,карандаш,Bleistift,lápiz
+票,piào,ticket,ตั๋ว,vé,ປີ້,billet/ticket,チケット/切符,표,билет,Ticket/Fahrschein,boleto/billete
+贵,guì,expensive,แพง,đắt,ແພງ,cher/coûteux,高い,비싸다,дорогой,teuer,caro
+便宜,pián yi,cheap,ถูก/ราคาถูก,rẻ,ຖືກ,bon marché/pas cher,安い/手頃,싸다,дешёвый,billig/günstig,barato
+高,gāo,tall,สูง/สูงส่ง,cao,ສູງ,grand/haut,高い/背が高い,키가 크다/높다,высокий,hoch/groß,alto
+红,hóng,red,สีแดง,đỏ,ແດງ,rouge,赤/紅,빨강,красный,rot,rojo
+白,bái,white,สีขาว,trắng,ຂາວ,blanc,白,하양,белый,weiß,blanco
+黑,hēi,black,สีดำ,đen,ດຳ,noir,黒,검정/까만,чёрный,schwarz,negro
+长,cháng,long,ยาว/ยืด,dài,ຍາວ,long,長い,길다,длинный,lang,largo
+新,xīn,new,ใหม่,mới,ໃໝ່,nouveau/neuf,新しい,새로운,новый,neu,nuevo
+好吃,hǎo chī,delicious,อร่อย (ของคาวหวาน),ngon,ອົມໃຈ/ແຊບ,délicieux,おいしい,맛있다,вкусный,lecker,rico/delicioso
+忙,máng,busy,ยุ่ง/ไม่ว่าง,bận,ຫຍຸ້ງ/ບໍ່ຫວ່າງ,occupé,忙しい,바쁘다,занятой,beschäftigt,ocupado
+累,lèi,tired,เหนื่อย/ล้า,mệt,ເມື່ອຍ,fatigué,疲れた,피곤하다,уставший,müde,cansado
+快,kuài,fast,เร็ว/ไว,nhanh,ໄວ/ໄວໆ,rapide/vite,速い/早く,빠르다/곧,быстрый/скоро,schnell/bald,rápido/pronto
+慢,màn,slow,ช้า/ช้าลง,chậm,ຊ້າ,lent,遅い/ゆっくり,느리다,медленный,langsam,lento
+远,yuǎn,far,ไกล,xa,ໄກ,loin/éloigné,遠い,멀다,далёкий,weit/fern,lejos
+近,jìn,close,ใกล้,gần,ໃກ້,près/proche,近い,가깝다,близкий,nah,cerca
+眼睛,yǎn jīng,eye,ดวงตา/ตา,mắt,ຕາ,œil/yeux,目/眼,눈/눈동자,глаз/глаза,Auge/Augen,ojo(s)
+身体,shēn tǐ,body,ร่างกาย/สุขภาพ,cơ thể/sức khỏe,ຮ່າງກາຍ/ສຸຂະພາບ,corps/santé,体/身体,몸/건강,тело/здоровье,Körper/Gesundheit,cuerpo/salud
+生病,shēng bìng,"get ill,get sick",ป่วย/ไม่สบาย,bị ốm/đau,ເຈັບໄຂ້,tomber malade/être malade,病気になる/病む,병이 나다/아프다,заболеть/болеть,krank werden/krank sein,enfermar/estar enfermo
+旅游,lǚ yóu,travel,ท่องเที่ยว,du lịch,ທ່ອງທ່ຽວ,voyager/tourisme,旅行/観光,여행하다/관광,путешествовать/туризм,reisen/Tourismus,viajar/turismo
+希望,xī wàng,hope,หวัง/ความหวัง,hy vọng,ຄວາມຫວັງ/ຫວັງ,espérer/espoir,望む/希望,희망하다/바라다,надеяться/надежда,hoffen/Hoffnung,esperar/esperanza
+快乐,kuài lè,happy,มีความสุข/สุขสันต์,vui vẻ/hạnh phúc,ມີຄວາມສຸກ,heureux/joyeux,楽しい/快乐,즐거운/행복한,счастливый/радостный,fröhlich/glücklich,feliz/alegre
+晴,qíng,fine,ท้องฟ้าโปร่ง,nắng ráo/quang,ແຈ້ງ/ຟ້າໂປ່ງ,beau/temps clair,晴れ,晴/맑음,ясно (погода),heiter/klar,despejado
+阴,yīn,cloudy,มีเมฆมาก/ครึ้ม,âm u/nhiều mây,ຄຣຶ້ມ/ມີເມກ,nuageux/couvert,曇り,흐림,пасмурно/облачно,bewölkt,nublado
+错,cuò,wrong,ผิด/ผิดพลาด,sai/lỗi,ຜິດ,faux/erreur,間違い/誤り,틀림/잘못,ошибка/неверно,Fehler/falsch,error/equivocado
+对,duì,to/right,ถูก/ต่อ/สำหรับ,đúng/đối với,ຖືກ/ຕໍ່/ສຳລັບ,juste/à/vers,正しい/〜に対して,맞다/에게/대해,правильный/к,richtig/zu/gegenüber,correcto/a/para
+第一,dì yī,first,ที่หนึ่ง/อันดับหนึ่ง,thứ nhất/đầu tiên,ອັນດັບທີ່ໜຶ່ງ,premier/première,第一/一番目,첫째/제일,первый,erste(r/s),primero/a
+正在,zhèng zài,be being,กำลัง…อยู่,đang (tiếp diễn),ກຳລັງ…ຢູ່,être en train de,〜しているところ,지금 …하는 중,в процессе/в данный момент,gerade/sein im Begriff,estar + gerundio
+已经,yǐ jīng,already,แล้ว/เป็นที่เรียบร้อย,đã,ແລ້ວ,déjà,すでに/もう,이미/벌써,уже,schon/bereits,ya
+一起,yì qǐ,together,ด้วยกัน/พร้อมกัน,cùng nhau,ດ້ວຍກັນ,ensemble,一緒に,함께,вместе,zusammen,juntos
+再,zài,again,อีก/ค่อย/แล้วค่อย,lại/nữa/rồi,ອີກ/ຄ່ອຍ,encore/ensuite,再び/それから,다시/그 다음에,снова/затем,wieder/dann,otra vez/luego
+就,jiù,at once,ก็/ทันที/ก็แล้วแต่,liền/thì/ngay,ກໍ່/ທັນທີ/ກໍ່ແລ້ວ,alors/immédiatement,すぐ/つまり/就,곧/즉/바로,сразу/именно/тогда,sofort/eben/gleich,enseguida/justo/entonces
+一下,yī xià,in a short while,สักหน่อย/แป๊บหนึ่ง,một chút/thử,ແປບນ້ອຍ/ລອງ,un peu/un coup,少し/ちょっと,잠깐/한 번,чуть-чуть/разок,kurz/einmal,un poco/un momento
+因为…… 所以……,yīn wèi...suǒ yǐ…,because…so…,เพราะว่า… ดังนั้น…,vì… nên…,ເນື່ອງຈາກ… ດັ່ງນັ້ນ…,parce que… donc…,…ので/だから…,왜냐하면 … 그래서 …,потому что… поэтому…,weil … deshalb/also …,porque… por eso…
+虽然…… 但是……,suī rán…dàn shì…,although… but…,แม้ว่า… แต่…,tuy… nhưng…,ແມ້ວ່າ… ແຕ່…,bien que… mais…,…けれども/しかし…,비록 … 하지만 …,хотя… но…,obwohl … aber …,aunque… pero…
