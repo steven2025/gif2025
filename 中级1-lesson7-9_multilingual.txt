@@ -1,11 +1,11 @@
-大方,dà fānɡ,"generous,",ใจกว้าง/ไม่งก,hào phóng/rộng rãi,ໃຈກວ້າງ/ບໍ່ງົກ,généreux,気前がいい/太っ腹,통 크다/후하다,щедрый,großzügig,generoso
-期间,qī jiān,"period,",ช่วงเวลา,thời gian/đợt,ໄລຍະເວລາ,période,期間,기간,период,Zeitraum,período
-邀请,yāo qǐnɡ,"invite,",เชิญ/เชื้อเชิญ,mời,ເຊີນ/ເຊີນຊວນ,inviter,招待する/誘う,초대하다,приглашать,einladen,invitar
-新郎,xīn lánɡ,"bridegroom,",เจ้าบ่าว,chú rể,ເຈົ້າບ່າວ,marié,新郎,신랑,жених,Bräutigam,novio (en boda)
-新娘,xīn niánɡ,"bride,",เจ้าสาว,cô dâu,ເຈົ້າສາວ,mariée,新婦/花嫁,신부,невеста,Braut,novia (en boda)
-敬酒,jìnɡ jiǔ,"propose a toast,",ยกแก้วอวยพร/ชนแก้ว,nâng ly chúc/đi mời rượu,ຍົກແກ້ວອວຍພອນ,porter un toast,乾杯のあいさつをする,건배하다/돌잔치식 건배,поднять тост,einen Toast ausbringen,brindar
-贺卡,hè kǎ,"greeting card,",การ์ดอวยพร,thiệp chúc mừng,ບັດອວຍພອນ,carte de vœux,グリーティングカード,축하 카드,поздравительная открытка,Glückwunschkarte,tarjeta de felicitación
-神秘,shén mì,"mysterious,",ลึกลับ,huyền bí/bí ẩn,ລັບລຶກ/ລຶກລັບ,mystérieux,神秘的,신비로운,таинственный,mysteriös,misterioso
+大方,dà fānɡ,generous,ใจกว้าง/ไม่งก,hào phóng/rộng rãi,ໃຈກວ້າງ/ບໍ່ງົກ,généreux,気前がいい/太っ腹,통 크다/후하다,щедрый,großzügig,generoso
+期间,qī jiān,period,ช่วงเวลา,thời gian/đợt,ໄລຍະເວລາ,période,期間,기간,период,Zeitraum,período
+邀请,yāo qǐnɡ,invite,เชิญ/เชื้อเชิญ,mời,ເຊີນ/ເຊີນຊວນ,inviter,招待する/誘う,초대하다,приглашать,einladen,invitar
+新郎,xīn lánɡ,bridegroom,เจ้าบ่าว,chú rể,ເຈົ້າບ່າວ,marié,新郎,신랑,жених,Bräutigam,novio (en boda)
+新娘,xīn niánɡ,bride,เจ้าสาว,cô dâu,ເຈົ້າສາວ,mariée,新婦/花嫁,신부,невеста,Braut,novia (en boda)
+敬酒,jìnɡ jiǔ,propose a toast,ยกแก้วอวยพร/ชนแก้ว,nâng ly chúc/đi mời rượu,ຍົກແກ້ວອວຍພອນ,porter un toast,乾杯のあいさつをする,건배하다/돌잔치식 건배,поднять тост,einen Toast ausbringen,brindar
+贺卡,hè kǎ,greeting card,การ์ดอวยพร,thiệp chúc mừng,ບັດອວຍພອນ,carte de vœux,グリーティングカード,축하 카드,поздравительная открытка,Glückwunschkarte,tarjeta de felicitación
+神秘,shén mì,mysterious,ลึกลับ,huyền bí/bí ẩn,ລັບລຶກ/ລຶກລັບ,mystérieux,神秘的,신비로운,таинственный,mysteriös,misterioso
 护身符,hù shēn fú,"amulet,",เครื่องราง/ของขลัง,bùa hộ mệnh/bùa,ເຄື່ອງລາງ/ຄອງຂັງ,amulette/porte‑bonheur,お守り,부적/호신부,амулет/оберег,Amulett/Talisman,amuleto/talismán
 说明,shuō mínɡ,"show;indicate,",อธิบาย/ชี้แจง/แสดงให้เห็น,giải thích/chứng minh/cho thấy,ອະທິບາຍ/ສະແດງໃຫ້ເຫັນ,expliquer/indiquer,説明する/示す,설명하다/보여 주다,объяснять/показывать,erklären/zeigen,explicar/indicar
 反正,fǎn zhènɡ,"anyway;anyhow,",อย่างไรก็เถอะ/ยังไงซะ,dù sao thì/dù gì thì,ຈັງໃດກໍຕາມ/ຢັງໄງກໍ່ຕາມ,de toute façon,どうせ/いずれにせよ,어차피/아무튼,всё равно/так или иначе,sowieso/ohnehin,de todas formas
