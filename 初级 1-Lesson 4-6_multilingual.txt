@@ -1,5 +1,5 @@
 留学生,liú xué shēng,student studying abroad,นักเรียนต่างชาติ/นักศึกษาต่างชาติ,du học sinh/sinh viên quốc tế,ນັກຮຽນຕ່າງປະເທດ,étudiant(e) étranger(ère),留学生,유학생,иностранный студент,ausländische(r) Studierende(r),estudiante extranjero/a
-她,tā,she/her,她 เธอ/หล่อน,cô ấy/nàng,ນາງ/ນາງຄົນນັ້ນ,elle,彼女,그녀,она,sie (3. Pers. Sg.),ella
+她,tā,she/her,เธอ/หล่อน,cô ấy/nàng,ນາງ/ນາງຄົນນັ້ນ,elle,彼女,그녀,она,sie (3. Pers. Sg.),ella
 学习,xué xí,learn/study,เรียน/ศึกษา,học/tự học,ຮຽນ/ສຶກສາ,étudier/apprendre,学ぶ/勉強する,공부하다/학습하다,учиться/изучать,lernen/studieren,estudiar/aprender
 他们,tā men,they/them,พวกเขา/เขา ๆ,họ,ພວກເຂົາ,ils/eux,彼ら/彼女ら,그들,они,sie (3. Pers. Pl.),ellos/ellas
 们,men,used to form a plural number when added to a personal pronoun or a noun,(คำเติมพหูพจน์),hậu tố số nhiều,ຄຳຕິດທ້າຍພະຫູພົດ,suffixe du pluriel,複数を表す接尾辞,복수를 만드는 접미사,суффикс множественного числа,Plural‑Suffix,sufijo de plural
