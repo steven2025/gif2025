@@ -2,7 +2,7 @@
 她,tā,she/her,เธอ/หล่อน,cô ấy/nàng,ນາງ/ນາງຄົນນັ້ນ,elle,彼女,그녀,она,sie (3. Pers. Sg.),ella
 学习,xué xí,learn/study,เรียน/ศึกษา,học/tự học,ຮຽນ/ສຶກສາ,étudier/apprendre,学ぶ/勉強する,공부하다/학습하다,учиться/изучать,lernen/studieren,estudiar/aprender
 他们,tā men,they/them,พวกเขา/เขา ๆ,họ,ພວກເຂົາ,ils/eux,彼ら/彼女ら,그들,они,sie (3. Pers. Pl.),ellos/ellas
-们,men,used to form a plural number when added to a personal pronoun or a noun,(คำเติมพหูพจน์),hậu tố số nhiều,ຄຳຕິດທ້າຍພະຫູພົດ,suffixe du pluriel,複数を表す接尾辞,복수를 만드는 접미사,суффикс множественного числа,Plural‑Suffix,sufijo de plural
+们,men,used to form a plural number when added to a personal pronoun or a noun,คำเติมพหูพจน์,hậu tố số nhiều,ຄຳຕິດທ້າຍພະຫູພົດ,suffixe du pluriel,複数を表す接尾辞,복수를 만드는 접미사,суффикс множественного числа,Plural‑Suffix,sufijo de plural
 一起,yì qǐ,together,ด้วยกัน/ร่วมกัน,cùng nhau,ດ້ວຍກັນ,ensemble,一緒に,함께,вместе,zusammen,juntos/junt@s
 上课,shàng kè,attend class/go to class/have class,เข้าเรียน/มีคาบเรียน,đi học/có tiết học,ເຂົ້າຮຽນ/ມີຊົ່ວໂມງ,aller en cours/avoir cours,授業を受ける/授業がある,수업에 가다/수업하다,ходить на занятия/идти на урок,zum Unterricht gehen/Unterricht haben,asistir a clase/tener clase
 说,shuō,speak/say/talk,พูด/กล่าว,nói,ເວົ້າ,parler/dire,言う/話す,말하다,говорить/сказать,sprechen/sagen,hablar/decir
