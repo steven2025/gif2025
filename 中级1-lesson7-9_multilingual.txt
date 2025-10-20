@@ -89,33 +89,33 @@
 哲学,zhé xué,philosophy,ปรัชญา,triết học,ປັດຊະຍາ,philosophie,哲学,철학,философия,Philosophie,filosofía
 报刊,bào kān,newspapers and periodicals,หนังสือพิมพ์และนิตยสาร,báo chí/ấn phẩm định kỳ,ຫນັງສືພິມແລະນິຕິຍະສານ,presse écrite/périodiques,新聞・雑誌,신문과 잡지,газеты и журналы,Presse/Periodika,prensa periódica
 文章,wén zhānɡ,article/essay,บทความ/เรียงความ,bài viết/bài luận,ບົດຄວາມ,article/essai,文章/エッセイ,글/논설,статья/эссе,Artikel/Aufsatz,artículo/ensayo
-风格,fēnɡ ɡé,"style,",สไตล์/แนวทาง,phong cách,ສະໄຕລ໌/ຮູບແບບ,style,スタイル/作風,스타일/작풍,стиль,Stil,estilo
-编辑,biān jí,"editor,",บรรณาธิการ/แก้ไข (เอกสาร),biên tập/biên tập viên,ບັນນາທິການ/ແກ້ໄຂ,éditeur/éditer,編集者/編集する,편집자/편집하다,редактор/редактировать,Redakteur/bearbeiten,editor/editar
-散文,sǎn wén,"prose,",ร้อยแก้ว/ความเรียง,tản văn/văn xuôi,ບົດຄວາມຮ້ອຍແກ້ວ,prose,散文,산문,проза,Prosa,prosa
-拉丁文,lā dīnɡ wén,"Latin(language),",ภาษาละติน,tiếng La-tinh,ພາສາລາຕິນ,latin (langue),ラテン語,라틴어,латынь,Latein,latín
-爱丁堡大学,ài dīnɡ bǎo dà xué,"University of Edinburgh,",มหาวิทยาลัยเอดินบะระ,Đại học Edinburgh,ມະຫາວິທະຍາໄລເອດິນບະຣະ,Université d’Édimbourg,エディンバラ大学,에든버러 대학교,Университет Эдинбурга,Universität Edinburgh,Universidad de Edimburgo
-生物钟,shēnɡ wù zhōnɡ,"biological clock,",นาฬิกาชีวภาพ,đồng hồ sinh học,ໂມງຊີວະພາບ,horloge biologique,体内時計,생체시계,биологические часы,biologische Uhr,reloj biológico
-人类,rén lèi,"mankind,",มนุษยชาติ/มวลมนุษย์,nhân loại/con người,ມະນຸດຊາດ,humanité,人類,인류,человечество,Menschheit,humanidad
-生物,shēnɡ wù,"living thing,",สิ่งมีชีวิต/ชีวสิ่ง,sinh vật/sinh học,ສິ່ງມີຊີວິດ,être vivant/biologie,生物/生き物,생물,живое существо/био‑,Lebewesen,ser vivo
-例如,lì rú,"give an example,",เช่น/ยกตัวอย่าง,ví dụ như,ຕົວຢ່າງເຊັ່ນ,par exemple,たとえば,例えば/예를 들어,например,zum Beispiel,por ejemplo
-误差,wù chā,"error,",ค่าคลาดเคลื่อน/ความผิดพลาด,sai số,ຄ່າຄລາດເຄື່ອນ,erreur/marge d’erreur,誤差,오차,погрешность/ошибка,Fehler/Abweichung,margen de error/error
-居民,jū mín,"resident,",ผู้อยู่อาศัย/ประชากรท้องถิ่น,cư dân/dân cư,ຜູ້ອາໄສ,résident/habitant,住民/居住者,주민,жители/резидент,Bewohner/Anwohner,residente/habitante
-虫,chónɡ,"insect,",แมลง,côn trùng/bọ,ແມງ,insecte,虫/昆虫,벌레/곤충,насекомое,Insekt,insecto
-捉,zhuō,"catch,",จับ/ตะครุบ,bắt/chộp,ຈັບ/ຕະຄຸບ,attraper,捕まえる,붙잡다,поймать,fangen,atrapar
-岛,dǎo,"island,",เกาะ,đảo,ເກາະ,île,島,섬,остров,Insel,isla
-驴,lǘ,"donkey,",ลา,lừa,ລາ,âne,ロバ,당나귀,осёл,Esel,burro/asno
-报时,bào shí,"give the correct time,",บอกเวลา,báo giờ,ແຈ້ງເວລາ,donner l’heure,時報する/時刻を告げる,시각을 알리다,сообщать время,Uhrzeit ansagen,dar la hora
-植物,zhí wù,"plant,",พืช,thực vật,ພືດ,plante,植物,식물,растение,Pflanze,planta
-类似,lèi sì,"similar,",คล้ายกัน/ใกล้เคียง,tương tự/na ná,ຄ້າຍຄື/ໃກ້ເຄີຍ,similaire/analogue,類似の/似た,유사한/비슷한,похожий/схожий,ähnlich,similar/parecido
-开放,kāi fànɡ,"come into blossom,",บาน/ผลิบาน/เปิดกว้าง,nở/khai phóng/mở cửa,ບານ/ເປີດກວ້າງ,s’épanouir/ouvrir,開く/開放する/花が咲く,개방하다/꽃이 피다,раскрываться/цвести/открытый,öffnen/erblühen,abrirse/florecer
-科学家,kē xué jiā,"scientist,",นักวิทยาศาสตร์,nhà khoa học,ນັກວິທະຍາສາດ,scientifique,科学者,과학자,учёный,Wissenschaftler,científico
-现象,xiàn xiànɡ,"phenomenon,",ปรากฏการณ์,hiện tượng,ປາກົດການ,phénomène,現象,현상,явление,Phänomen,fenómeno
-心理,xīn lǐ,"psychology,",จิตใจ/ด้านจิตวิทยา,tâm lý,ຈິດໃຈ/ຈິດວິທະຍາ,psychologie/psychique,心理/メンタル,심리/마음,психика/психология,Psyche/Psychologie,psicología/ánimo
-体力,tǐ lì,"physical strength,",แรงกาย/กำลังกาย,thể lực,ແຮງກາຍ,force physique,体力,체력,физическая сила,Körperkraft,fuerza física
-周期性,zhōu qī xìnɡ,"periodicity,",เป็นวัฏจักร/เป็นรอบๆ,tính chu kỳ,ເປັນຮອບ/ເປັນວົງຈອນ,périodicité,周期性,주기성,периодичность,Periodizität,periodicidad
-体温,tǐ wēn,"body temperature,",อุณหภูมิร่างกาย,nhiệt độ cơ thể,ອຸນຫະພູມຮ່າງກາຍ,température corporelle,体温,체온,температура тела,Körpertemperatur,temperatura corporal
-升降,shēnɡ jiànɡ,"rise and fall,",ขึ้นลง/ปรับระดับ,lên xuống,ຂຶ້ນລົງ,montée et descente,昇降/上下する,승강/오르내리다,подъём и спуск,Auf‑ und Abstieg,subida y bajada
-心率,xīn lǜ,"cardiac rate;heart rate,",อัตราการเต้นหัวใจ,nhịp tim,ອັດຕາຫົວໃຈເຕ້ນ,fréquence cardiaque,心拍数/心拍,심박수/심장 박동수,частота сердцебиения,Herzfrequenz,frecuencia cardiaca
+风格,fēnɡ ɡé,style,สไตล์/แนวทาง,phong cách,ສະໄຕລ໌/ຮູບແບບ,style,スタイル/作風,스타일/작풍,стиль,Stil,estilo
+编辑,biān jí,editor,บรรณาธิการ/แก้ไข (เอกสาร),biên tập/biên tập viên,ບັນນາທິການ/ແກ້ໄຂ,éditeur/éditer,編集者/編集する,편집자/편집하다,редактор/редактировать,Redakteur/bearbeiten,editor/editar
+散文,sǎn wén,prose,ร้อยแก้ว/ความเรียง,tản văn/văn xuôi,ບົດຄວາມຮ້ອຍແກ້ວ,prose,散文,산문,проза,Prosa,prosa
+拉丁文,lā dīnɡ wén,Latin(language),ภาษาละติน,tiếng La-tinh,ພາສາລາຕິນ,latin (langue),ラテン語,라틴어,латынь,Latein,latín
+爱丁堡大学,ài dīnɡ bǎo dà xué,University of Edinburgh,มหาวิทยาลัยเอดินบะระ,Đại học Edinburgh,ມະຫາວິທະຍາໄລເອດິນບະຣະ,Université d’Édimbourg,エディンバラ大学,에든버러 대학교,Университет Эдинбурга,Universität Edinburgh,Universidad de Edimburgo
+生物钟,shēnɡ wù zhōnɡ,biological clock,นาฬิกาชีวภาพ,đồng hồ sinh học,ໂມງຊີວະພາບ,horloge biologique,体内時計,생체시계,биологические часы,biologische Uhr,reloj biológico
+人类,rén lèi,mankind,มนุษยชาติ/มวลมนุษย์,nhân loại/con người,ມະນຸດຊາດ,humanité,人類,인류,человечество,Menschheit,humanidad
+生物,shēnɡ wù,living thing,สิ่งมีชีวิต/ชีวสิ่ง,sinh vật/sinh học,ສິ່ງມີຊີວິດ,être vivant/biologie,生物/生き物,생물,живое существо/био‑,Lebewesen,ser vivo
+例如,lì rú,give an example,เช่น/ยกตัวอย่าง,ví dụ như,ຕົວຢ່າງເຊັ່ນ,par exemple,たとえば,例えば/예를 들어,например,zum Beispiel,por ejemplo
+误差,wù chā,error,ค่าคลาดเคลื่อน/ความผิดพลาด,sai số,ຄ່າຄລາດເຄື່ອນ,erreur/marge d’erreur,誤差,오차,погрешность/ошибка,Fehler/Abweichung,margen de error/error
+居民,jū mín,resident,ผู้อยู่อาศัย/ประชากรท้องถิ่น,cư dân/dân cư,ຜູ້ອາໄສ,résident/habitant,住民/居住者,주민,жители/резидент,Bewohner/Anwohner,residente/habitante
+虫,chónɡ,insect,แมลง,côn trùng/bọ,ແມງ,insecte,虫/昆虫,벌레/곤충,насекомое,Insekt,insecto
+捉,zhuō,catch,จับ/ตะครุบ,bắt/chộp,ຈັບ/ຕະຄຸບ,attraper,捕まえる,붙잡다,поймать,fangen,atrapar
+岛,dǎo,island,เกาะ,đảo,ເກາະ,île,島,섬,остров,Insel,isla
+驴,lǘ,donkey,ลา,lừa,ລາ,âne,ロバ,당나귀,осёл,Esel,burro/asno
+报时,bào shí,give the correct time,บอกเวลา,báo giờ,ແຈ້ງເວລາ,donner l’heure,時報する/時刻を告げる,시각을 알리다,сообщать время,Uhrzeit ansagen,dar la hora
+植物,zhí wù,plant,พืช,thực vật,ພືດ,plante,植物,식물,растение,Pflanze,planta
+类似,lèi sì,similar,คล้ายกัน/ใกล้เคียง,tương tự/na ná,ຄ້າຍຄື/ໃກ້ເຄີຍ,similaire/analogue,類似の/似た,유사한/비슷한,похожий/схожий,ähnlich,similar/parecido
+开放,kāi fànɡ,come into blossom,บาน/ผลิบาน/เปิดกว้าง,nở/khai phóng/mở cửa,ບານ/ເປີດກວ້າງ,s’épanouir/ouvrir,開く/開放する/花が咲く,개방하다/꽃이 피다,раскрываться/цвести/открытый,öffnen/erblühen,abrirse/florecer
+科学家,kē xué jiā,scientist,นักวิทยาศาสตร์,nhà khoa học,ນັກວິທະຍາສາດ,scientifique,科学者,과학자,учёный,Wissenschaftler,científico
+现象,xiàn xiànɡ,phenomenon,ปรากฏการณ์,hiện tượng,ປາກົດການ,phénomène,現象,현상,явление,Phänomen,fenómeno
+心理,xīn lǐ,psychology,จิตใจ/ด้านจิตวิทยา,tâm lý,ຈິດໃຈ/ຈິດວິທະຍາ,psychologie/psychique,心理/メンタル,심리/마음,психика/психология,Psyche/Psychologie,psicología/ánimo
+体力,tǐ lì,physical strength,แรงกาย/กำลังกาย,thể lực,ແຮງກາຍ,force physique,体力,체력,физическая сила,Körperkraft,fuerza física
+周期性,zhōu qī xìnɡ,periodicity,เป็นวัฏจักร/เป็นรอบๆ,tính chu kỳ,ເປັນຮອບ/ເປັນວົງຈອນ,périodicité,周期性,주기성,периодичность,Periodizität,periodicidad
+体温,tǐ wēn,body temperature,อุณหภูมิร่างกาย,nhiệt độ cơ thể,ອຸນຫະພູມຮ່າງກາຍ,température corporelle,体温,체온,температура тела,Körpertemperatur,temperatura corporal
+升降,shēnɡ jiànɡ,rise and fall,ขึ้นลง/ปรับระดับ,lên xuống,ຂຶ້ນລົງ,montée et descente,昇降/上下する,승강/오르내리다,подъём и спуск,Auf‑ und Abstieg,subida y bajada
+心率,xīn lǜ,cardiac rate/heart rate,อัตราการเต้นหัวใจ,nhịp tim,ອັດຕາຫົວໃຈເຕ້ນ,fréquence cardiaque,心拍数/心拍,심박수/심장 박동수,частота сердцебиения,Herzfrequenz,frecuencia cardiaca
 血压,xuè yā,"blood pressure,",ความดันโลหิต,huyết áp,ຄວາມດັນເລືອດ,pression artérielle,血圧,혈압,кровяное давление,Blutdruck,presión arterial
 甚至,shèn zhì,"even;(go)so far as to,",ถึงกับ/กระทั่ง,thậm chí/đến cả,ແມ້ກະທັ້ງ,même/jusqu’à,さえ/まして,심지어/까지,даже/вплоть до,sogar/bis hin zu,incluso/hasta
 情绪,qínɡ xù,"emotion;mood,",อารมณ์/อารมณ์ขึ้นลง,cảm xúc/tâm trạng,ອາລົມ,humeur/émotion,気分/感情,기분/감정,настроение/эмоции,Stimmung/Gemüt,ánimo/emoción
