@@ -1,0 +1,81 @@
+留学生,liú xué shēng,student studying abroad,นักเรียนต่างชาติ,du học sinh,ນັກສຶກສາຕ່າງປະເທດ,étudiant étranger,留学生 (ryūgakusei),유학생 (yuhaksaeng),иностранный студент,ausländischer Student,estudiante extranjero
+她,tā,she/her,เธอ/เขา (ผู้หญิง),cô ấy/chị ấy/bà ấy,ລາວ (ຜູ້ຍິງ),elle,彼女 (kanojo),그녀 (geunyeo),она,sie,ella
+学习,xué xí,learn/study,เรียน/เรียนรู้,học/học tập,ຮຽນ/ສຶກສາ,apprendre/étudier,学ぶ (manabu)/勉強する (benkyō suru),배우다 (baeuda)/공부하다 (gongbuhada),учиться/изучать,lernen/studieren,aprender/estudiar
+他们,tā men,they/them,พวกเขา,họ/bọn họ/chúng nó,ພວກເຂົາ,ils/eux,彼ら (karera),그들 (geudeul),они/их,sie,ellos/ellas
+们,men,used to form a plural number when added to a personal pronoun or a noun,พวก,chúng/các,ພວກ,(no direct equivalent),たち (tachi)/ら (ra),들 (deul),(no direct equivalent),(no direct equivalent),(no direct equivalent)
+一起,yì qǐ,together,ด้วยกัน,cùng nhau,ນຳກັນ,ensemble,一緒に (issho ni),함께 (hamkke)/같이 (gachi),вместе,zusammen,juntos
+上课,shàng kè,attend class/go to class/have class,เข้าเรียน,đi học/lên lớp/vào lớp,ເຂົ້າຫ້ອງຮຽນ,assister au cours/aller en cours/avoir cours,授業に出る (jugyō ni deru),수업에 참석하다 (sueobe chamseokada)/수업을 듣다 (sueobeul deutda),ходить на занятия/посещать занятия,am Unterricht teilnehmen/zum Unterricht gehen,asistir a clase/ir a clase/tener clase
+说,shuō,speak/say/talk,พูด,nói,ເວົ້າ,parler/dire,話す (hanasu)/言う (iu),말하다 (malhada),говорить/сказать,sprechen/sagen,hablar/decir
+吗,ma,used at the end of a question,ไหม,không/à/ư,ບໍ່,(indicated by intonation or "est-ce que"),か (ka),습니까 (seumnikka)/ㅂ니까 (mnikka),(indicated by intonation),(indicated by verb position/intonation),(indicated by intonation and question marks)
+不,bù,not/no,ไม่,không,ບໍ່,non/ne...pas,いいえ (iie)/〜ない (~nai),아니요 (aniyo)/안 (an),нет/не,nein/nicht,no
+日语,Rì yǔ,Japanese (language),ภาษาญี่ปุ่น,tiếng Nhật,ພາສາຍີ່ປຸ່ນ,japonais/langue japonaise,日本語 (Nihongo),일본어 (ilboneo),японский язык,Japanisch/japanische Sprache,japonés/idioma japonés
+韩语,Hányǔ,Korean (language),ภาษาเกาหลี,tiếng Hàn,ພາສາເກົາຫຼີ,coréen/langue coréenne,韓国語 (Kankokugo),한국어 (hangugeo),корейский язык,Koreanisch/koreanische Sprache,coreano/idioma coreano
+德语,Dé yǔ,German (language),ภาษาเยอรมัน,tiếng Đức,ພາສາເຢຍລະມັນ,allemand/langue allemande,ドイツ語 (Doitsugo),독일어 (dogireo),немецкий язык,Deutsch/deutsche Sprache,alemán/idioma alemán
+意大利语,Yì dà lì yǔ,Italian (language),ภาษาอิตาลี,tiếng Ý,ພາສາອີຕາລີ,italien/langue italienne,イタリア語 (Itariago),이탈리아어 (italliaeo),итальянский язык,Italienisch/italienische Sprache,italiano/idioma italiano
+西班牙语,Xī bān yá yǔ,Spanish (language),ภาษาสเปน,tiếng Tây Ban Nha,ພາສາສະເປນ,espagnol/langue espagnole,スペイン語 (Supeingo),스페인어 (seupeineo),испанский язык,Spanisch/spanische Sprache,español/idioma español
+家,jiā,family/home,ครอบครัว/บ้าน,gia đình/nhà,ຄອບຄົວ/ເຮືອນ,famille/maison,家族 (kazoku)/家 (ie),가족 (gajok)/집 (jip),семья/дом,Familie/Zuhause,familia/casa/hogar
+有,yǒu,have/possess/there be,มี,có,ມີ,avoir/il y a,持つ (motsu)/ある (aru)/いる (iru),있다 (itda),иметь/есть,haben/es gibt,tener/haber
+口,kǒu,a measure word,คน,nhân khẩu/người,ຄົນ,(no direct equivalent measure word),人 (nin),명 (myeong)/식구 (sikgu),(no direct equivalent measure word),(no direct equivalent measure word),(no direct equivalent measure word)
+爸爸,bà ba,father/dad,พ่อ,bố/ba/cha,ພໍ່,père/papa,お父さん (otōsan)/父 (chichi),아버지 (abeoji)/아빠 (appa),отец/папа,Vater/Papa,padre/papá
+妈妈,mā ma,mother/mom,แม่,mẹ/má,ແມ່,mère/maman,お母さん (okāsan)/母 (haha),어머니 (eomeoni)/엄마 (eomma),мать/мама,Mutter/Mama,madre/mamá
+哥哥,gē ge,elder brother,พี่ชาย,anh trai,ອ້າຍ,frère aîné,お兄さん (onīsan)/兄 (ani),형 (hyeong)/오빠 (oppa),старший брат,älterer Bruder/großer Bruder,hermano mayor
+和,hé,and,และ/กับ,và,ແລະ/ກັບ,et,と (to),와 (wa)/과 (gwa)/하고 (hago),и,und,y
+职员,zhí yuán,office worker/staff member,พนักงานออฟฟิศ/พนักงาน,nhân viên văn phòng,ພະນັກງານຫ້ອງການ,employé de bureau/personnel,会社員 (kaishain)/職員 (shokuin),회사원 (hoesawon)/직원 (jigwon),офисный работник/сотрудник,Büroangestellter/Mitarbeiter,oficinista/empleado
+都,dōu,all/both,ทั้งหมด/ทั้งคู่,đều,ທັງໝົດ/ທັງສອງ,tous/toutes,みんな (minna)/全部 (zenbu),모두 (modu)/다 (da),все/оба,alle/beide,todos/ambos
+大学生,dà xué shēng,college or university student,นักศึกษา,sinh viên đại học,ນັກສຶກສາ,étudiant (à l'université),大学生 (daigakusei),대학생 (daehaksaeng),студент,Student/Studentin,estudiante universitario
+几,jǐ,how many,กี่,mấy,ຈັກ,combien de,いくつ (ikutsu)/何 (nan),몇 (myeot),сколько,wie viele,cuántos/cuántas
+做,zuò,do/engage in,ทำ,làm,ເຮັດ,faire,する (suru),하다 (hada),делать,machen/tun,hacer
+工作,gōng zuò,job/work/task,งาน,công việc,ວຽກ,travail/emploi/tâche,仕事 (shigoto),일 (il)/직업 (jigeop),работа/задание,Arbeit/Job/Aufgabe,trabajo/empleo/tarea
+律师,lǜ shī,lawyer/attorney,ทนายความ,luật sư,ທະນາຍຄວາມ,avocat,弁護士 (bengoshi),변호사 (byeonhosa),адвокат/юрист,Anwalt/Rechtsanwalt,abogado
+医生,yīs hēng,doctor/medical practitioner,หมอ/แพทย์,bác sĩ,ທ່ານໝໍ,médecin,医者 (isha),의사 (uisa),врач/доктор,Arzt/Ärztin,médico/doctor
+你们,nǐ men,you (plural),พวกคุณ,các bạn/các anh/các chị,ພວກເຈົ້າ,vous,あなたたち (anatatachi),너희들 (neohuideul)/여러분 (yeoreobun),вы,ihr/Sie,vosotros/ustedes
+班,bān,class/group/team,ห้องเรียน/กลุ่ม/ทีม,lớp/đội,ຫ້ອງ/ກຸ່ມ,classe/groupe/équipe,クラス (kurasu)/班 (han),반 (ban),класс/группа,Klasse/Gruppe/Team,clase/grupo/equipo
+多少,duō shao,how much/how many,เท่าไหร่,bao nhiêu,ເທົ່າໃດ,combien,いくら (ikura)/どのぐらい (donogurai),얼마 (eolma)/몇 (myeot),сколько,wie viel/wie viele,cuánto/cuántos
+个,gè,used before nouns without a special classifier of their own,อัน/ชิ้น/คน,cái/con/người,ອັນ/ຄົນ,(no direct equivalent),つ (tsu)/個 (ko),개 (gae),(no direct equivalent),(no direct equivalent),(no direct equivalent)
+学生,xué sheng,student,นักเรียน,học sinh,ນັກຮຽນ,élève/étudiant,学生 (gakusei)/生徒 (seito),학생 (haksaeng),студент/ученик,Schüler/Student,estudiante/alumno
+我们,wǒ men,we/us,พวกเรา,chúng tôi/chúng ta,ພວກເຮົາ,nous,私たち (watashitachi),우리 (uri),мы/нас,wir/uns,nosotros/nosotras
+两,liǎng,two,สอง,hai,ສອງ,deux,二つ (futatsu)/両 (ryō),둘 (dul),два/две,zwei,dos
+姐姐,jiě jie,elder sister,พี่สาว,chị gái,ເອື້ອຍ,sœur aînée,お姉さん (onēsan)/姉 (ane),언니 (eonni)/누나 (nuna),старшая сестра,ältere Schwester/große Schwester,hermana mayor
+妹妹,mèi mei,younger sister,น้องสาว,em gái,ນ້ອງສາວ,sœur cadette/petite sœur,妹 (imōto),여동생 (yeodongsaeng),младшая сестра,jüngere Schwester/kleine Schwester,hermana menor
+弟弟,dì di,younger brother,น้องชาย,em trai,ນ້ອງຊາຍ,frère cadet/petit frère,弟 (otōto),남동생 (namdongsaeng),младший брат,jüngerer Bruder/kleiner Bruder,hermano menor
+工人,gōng rén,worker/labourer,คนงาน/กรรมกร,công nhân,ກຳມະກອນ,ouvrier/travailleur,労働者 (rōdōsha),노동자 (nodongja)/근로자 (geunroja),рабочий,Arbeiter,trabajador/obrero
+农民,nóng mín,farmer/peasant,ชาวนา/เกษตรกร,nông dân,ຊາວນາ,agriculteur/paysan,農民 (nōmin)/農家 (nōka),농부 (nongbu),фермер/крестьянин,Bauer,agricultor/campesino
+护士,hù shi,nurse,พยาบาล,y tá,ນາງພະຍາບານ,infirmier/infirmière,看護師 (kangoshi),간호사(ganhosa),медсестра/медбрат,Krankenschwester/Krankenpfleger,enfermero/enfermera
+警察,jǐng chá,police/policeman/policewoman,ตำรวจ,cảnh sát/công an,ຕຳຫຼວດ,police/policier,警察 (keisatsu)/警察官 (keisatsukan),경찰 (gyeongchal),полиция/полицейский,Polizei/Polizist,policía
+想,xiǎng,want to/would like to/be going to,อยาก/คิด,muốn/nghĩ,ຢາກ/ຄິດ,vouloir/penser,〜したい (shitai)/思う (omou),~고 싶다 (go sipda)/생각하다 (saenggakada),хотеть/думать,wollen/möchten/denken,querer/pensar
+买,mǎi,buy/purchase,ซื้อ,mua,ຊື້,acheter,買う (kau),사다 (sada),покупать/купить,kaufen,comprar
+电子词典,diàn zǐ cí diǎn,electronic dictionary,พจนานุกรมอิเล็กทรอนิกส์,từ điển điện tử,ວັດຈະນານຸກົມເອເລັກໂຕຣນິກ,dictionnaire électronique,電子辞書 (denshi jisho),전자사전 (jeonja sajeon),электронный словарь,elektronisches Wörterbuch,diccionario electrónico
+电子,diànzǐ,electron,อิเล็กตรอน,điện tử,ເອເລັກໂຕຣນ,électron,電子 (denshi),전자 (jeonja),электрон,Elektron,electrón
+词典,cí diǎn,dictionary,พจนานุกรม,từ điển,ວັດຈະນານຸກົມ,dictionnaire,辞書 (jisho),사전 (sajeon),словарь,Wörterbuch,diccionario
+电脑,diàn nǎo,computer,คอมพิวเตอร์,máy tính,ຄອມພິວເຕີ,ordinateur,コンピューター (konpyūtā)/パソコン (pasokon),컴퓨터 (keompyuteo),компьютер,Computer/Rechner,ordenador/computadora
+部,bù,used for books/films/machines/vehicles/etc,เครื่อง/คัน/เรื่อง,bộ/chiếc,ເຄື່ອງ/ຄັນ,(no direct equivalent),部 (bu),부 (bu)/대 (dae),(no direct equivalent),(no direct equivalent),(no direct equivalent)
+百,bǎi,hundred,ร้อย,trăm,ຮ້ອຍ,cent,百 (hyaku),백 (baek),сто,hundert,cien/ciento
+块,kuài,unit of money (equivalent to yuan),หยวน,đồng/tệ,ຢວນ,yuan,元 (gen),위안 (wian),юань,Yuan,yuan
+钱,qián,money,เงิน,tiền,ເງິນ,argent,お金 (okane),돈 (don),деньги,Geld,dinero
+台,tái,used for certain machinery or apparatus,เครื่อง,cái/chiếc,ໜ່ວຍ/ເຄື່ອງ,(no direct equivalent),台 (dai),대 (dae),(no direct equivalent),(no direct equivalent),(no direct equivalent)
+千,qiān,thousand,พัน,nghìn/ngàn,ພັນ,mille,千 (sen),천 (cheon),тысяча,tausend,mil
+一共,yí gòng,altogether/in all,ทั้งหมด,tổng cộng,ທັງໝົດ,au total/en tout,合計で (gōkei de),총 (chong)/모두 (modu),всего/итого,insgesamt,en total
+需要,xū yào,need,ต้องการ,cần,ຕ້ອງການ,avoir besoin de,必要 (hitsuyō),필요하다 (piryohada),нуждаться/требоваться,brauchen/benötigen,necesitar
+营业员,yíng yè yuán,attendant/shop assistant,พนักงานขาย,nhân viên bán hàng,ພະນັກງານຂາຍ,vendeur/vendeuse,店員 (ten'in),점원 (jeomwon),продавец/продавщица,Verkäufer/Verkäuferin,dependiente/vendedor
+要,yào,want/need,ต้องการ/เอา,muốn/cần,ຕ້ອງການ/ເອົາ,vouloir/falloir,要る (iru)/欲しい (hoshii),원하다 (wonhada)/필요하다 (piryohada),хотеть/нужно,wollen/brauchen,querer/necesitar
+面包,miàn bāo,bread,ขนมปัง,bánh mì,ເຂົ້າຈີ່,pain,パン (pan),빵 (ppang),хлеб,Brot,pan
+种,zhǒng,kind/sort/type/variety,ชนิด/ประเภท,loại/thứ,ຊະນິດ/ປະເພດ,sorte/type/genre,種類 (shurui),종류 (jongnyu),вид/сорт/тип,Art/Sorte/Typ,tipo/clase/suerte
+这,zhè,this,นี่,đây/này,ນີ້,ce/cet/cette/ceci,これ (kore)/この (kono),이 (i)/이것 (igeot),этот/эта/это,dies/dieser/diese/dieses,este/esta/esto
+谢谢,xiè xie,thank/be grateful,ขอบคุณ,cảm ơn,ຂອບໃຈ,merci,ありがとう (arigatō),감사합니다 (gamsahamnida)/고맙습니다 (gomapseumnida),спасибо,danke,gracias
+不客气,bú kèqi,you're welcome,ไม่เป็นไร,không có gì,ບໍ່ເປັນຫຍັງ,de rien/je vous en prie,どういたしまして (dōitashimashite),천만에요 (cheonmaneyo),пожалуйста/не за что,bitte/gern geschehen,de nada
+客气,kè qi,polite/courteous,สุภาพ/มีมารยาท,khách sáo/lịch sự,ສຸພາບ,poli/courtois,丁寧 (teinei)/遠慮 (enryo),예의 바르다 (yeui bareuda),вежливый/любезный,höflich,cortés/amable
+香蕉,xiāng jiāo,banana,กล้วย,chuối,ກ້ວຍ,banane,バナナ (banana),바나나 (banana),банан,Banane,plátano/banana
+斤,jīn,unit of weight (= 1/2 kilogram),ชั่ง/ครึ่งกิโลกรัม,cân,ກິໂລ,jin (livre chinoise),斤 (kin),근 (geun),цзинь,Jin (chinesisches Pfund),jin (medio kilo)
+苹果,píng guǒ,apple,แอปเปิ้ล,táo,ໝາກແອັບເປິ້ນ,pomme,りんご (ringo),사과 (sagwa),яблоко,Apfel,manzana
+再,zài,once more/again/one more time,อีกครั้ง,lại/nữa,ອີກເທື່ອໜຶ່ງ,encore/de nouveau,また (mata)/もう一度 (mō ichido),다시 (dasi)/또 (tto),ещё раз/снова,wieder/nochmal,otra vez/de nuevo
+毛,máo,a fractional money unit in China (= 1/10 yuan),เหมา,hào,ເມົາ,mao,毛 (mō),마오 (mao),мао/цзяо,Mao,mao
+书,shū,book,หนังสือ,sách,ປຶ້ມ,livre,本 (hon),책 (chaek),книга,Buch,libro
+手机,shǒu jī,cell phone,โทรศัพท์มือถือ,điện thoại di động,ໂທລະສັບມືຖື,téléphone portable,携帯電話 (keitai denwa),휴대폰 (hyudaepon)/핸드폰 (haendeupon),мобильный телефон,Handy,teléfono móvil/celular
+咖啡,kā fēi,coffee,กาแฟ,cà phê,ກາເຟ,café,コーヒー (kōhī),커피 (keopi),кофе,Kaffee,café
+牛奶,niú nǎi,milk,นม,sữa bò,ນົມ,lait,牛乳 (gyūnyū)/ミルク (miruku),우유 (uyu),молоко,Milch,leche
+啤酒,pí jiǔ,beer,เบียร์,bia,ເບຍ,bière,ビール (bīru),맥주 (maekju),пиво,Bier,cerveza
+矿泉水,kuàng quán shuǐ,mineral water,น้ำแร่,nước khoáng,ນ້ຳແຮ່,eau minérale,ミネラルウォーター (mineraru wōtā),광천수 (gwangcheonsu)/생수 (saengsu),минеральная вода,Mineralwasser,agua mineral
+可乐,kě lè,cola/coke,โคล่า/โค้ก,cô-la,ໂຄລາ/ໂຄກ,coca/cola,コーラ (kōra),콜라 (kolla),кола,Cola,cola/coca-cola
+草莓,cǎo méi,strawberry,สตรอเบอร์รี่,dâu tây,ສະຕໍເບີຣີ,fraise,いちご (ichigo),딸기 (ttalgi),клубника,Erdbeere,fresa
+西瓜,xī guā,watermelon,แตงโม,dưa hấu,ໝາກໂມ,pastèque,スイカ (suika),수박 (subak),арбуз,Wassermelone,sandía
+橘子,jú zi,orange/tangerine,ส้ม,quýt,ໝາກກ້ຽງ,orange/mandarine,みかん (mikan),귤 (gyul),мандарин/апельсин,Orange/Mandarine,naranja/mandarina
