@@ -1,0 +1,142 @@
+愚公移山,Yú Gōng yí shān,Foolish Old Man who removed the mountains-spirit of perseverance,ตาเฒ่าย้ายภูเขา/ความเพียรไม่ถอย,Ngụy Công dời núi/ý chí bền bỉ,ຊາຍເຖົ້າຍ້າຍພູ/ຄວາມພາກພຽນ,Le Vieil Homme déplace les montagnes/persévérance,愚公が山を動かす/不屈の精神,우공이산/끈기,«Юй Гун двигает горы»/упорство,Der Greis versetzt Berge/Ausdauer,El viejo tonto que movió las montañas/perseverancia
+移,yí,remove,ย้าย/เคลื่อนย้าย,di chuyển/dời,ຍ້າຍ,déplacer,移す/移動する,옮기다/이동하다,перемещать,verschieben/versetzen,mover/trasladar
+挡,dǎng,get in the way/block the way,ขวาง/กัน/บัง,chắn/cản,ຂວາງ/ກັ້ນ,bloquer/barrer,遮る/塞ぐ,막다/가리다,преграждать/заграждать,blockieren/versperren,bloquear/tapar
+不管,bù guǎn,no matter (what/how,ไม่ว่า…ก็ตาม,bất kể/cho dù,ບໍ່ວ່າ,peu importe/quoi que,たとえ…でも/に関わらず,상관없이/아무리…라도,невзирая на/неважно,ganz gleich/egal,no importa…
+翻,fān,cross/climb over,ข้าม/พลิก/ปีนข้าม,leo qua/lật,ຂ້າມ/ພິກ/ປີນ,franchir/retourner,めくる/越える,뒤집다/넘다,переворачивать/перепрыгнуть,umblättern/überqueren,voltear/cruzar
+方便,fāng biàn,convenient/handy,สะดวก/ง่าย,tiện/thuận tiện,ສະດວກ,pratique/commode,便利/都合がいい,편리하다/편한,удобно/сподручно,praktisch/bequem,cómodo/práctico
+带领,dài lǐng,guide/lead,นำ/พา/นำทีม,dẫn dắt/đưa,ນຳ/ພາ,mener/guider,率いる/導く,이끌다/인솔하다,вести/возглавлять,anführen/führen,guiar/liderar
+孙子,sūn zi,grandson/son's son,หลานชาย (ลูกของลูกชาย),cháu trai (nội),ຫຼານຊາຍ,petit‑fils,孫/孫息子,손자,внук,Enkel,nieto
+赞成,zàn chéng,agree with/approve of,เห็นด้วย/อนุมัติ,tán thành/đồng ý,ເຫັນດີ/ເຫັນດ້ວຍ,approuver/être d’accord,賛成する/賛同,찬성하다/동의하다,одобрять/согласен,zustimmen/befürworten,aprobar/estar de acuerdo
+同意,tóng yì,agree/consent/approve,ตกลง/เห็นด้วย,đồng ý/tán thành,ຕົກລົງ/ເຫັນດີ,être d’accord/consentir,同意する,동의하다/괜찮다,соглашаться,einwilligen/zustimmen,estar de acuerdo
+土,tǔ,soil,ดิน/พื้นดิน,đất,ດິນ,terre/sol,土/土壌,흙/토양,земля/почва,Erde/Boden,tierra/suelo
+石头,shí tou,stone/rock,ก้อนหิน/หิน,hòn đá/đá,ຫີນ,pierre/roche,石/石ころ,돌/바위,камень,Stein,piedra/roca
+商量,shāng liang,discuss/talk over,ปรึกษา/คุยกัน,bàn bạc/thảo luận,ປຶກສາ/ຄຸຍກັນ,discuter,相談する/話し合う,상의하다/의논하다,обсуждать/советоваться,beraten/besprechen,consultar/charlar
+半天,bàn tiān,long time/quite a while,ตั้งนาน/ตั้งครึ่งวัน,lâu/khá lâu,ດົນ/ຄຶ່ງມື້,une éternité/long moment,長いこと/半日,한참/오래/반나절,долго/полдня,ewig/halben Tag,mucho rato/medio día
+运,yùn,carry/transport,ขน/ขนส่ง,vận chuyển/chở,ຂົນສົ່ງ,transporter,運ぶ/運送する,운반하다/수송하다,перевозить,transportieren,transportar
+挖,wā,dig/excavate,ขุด/เจาะ,đào/khoét,ຂຸດ,creuser,掘る,파다,копать,graben,excavar
+帮忙,bāng máng,help/give (or lend) a hand,ช่วย/ช่วยเหลือ,giúp/giúp đỡ,ຊ່ວຍ,aider/donner un coup de main,手伝う,도와주다,помочь,mithelfen,echar una mano/ayudar
+往返,wǎng fǎn,travel to and fro,ไปกลับ,khứ hồi/đi lại,ໄປກັບ,aller‑retour/faire des trajets,往復する,왕복하다,ездить туда‑обратно,hin und her fahren,ir y volver
+春夏秋冬,chūn xià qiū dōng,spring/summer/fall and winter,ฤดูใบไม้ผลิ‑ร้อน‑ใบไม้ร่วง‑หนาว,xuân‑hạ‑thu‑đông,ລະດູບ່ອນ‑ຮ້ອນ‑ໃບໄມ້ຫຼົ່ນ‑ໜາວ,printemps‑été‑automne‑hiver,春夏秋冬,봄‑여름‑가을‑겨울,весна‑лето‑осень‑зима,Frühling‑Sommer‑Herbst‑Winter,primavera‑verano‑otoño‑invierno
+子孙,zǐ sūn,posterity/descendants,ลูกหลาน/ผู้สืบสกุล,con cháu/hậu duệ,ລູກຫຼານ,descendance/postérité,子孫,자손,потомки,Nachkommen,descendientes
+延续,yán xù,continue/last,สืบต่อ/ต่อเนื่อง,tiếp nối/kéo dài,ສືບຕໍ່/ຍາວນານ,se prolonger/perdurer,延びる/続く,연장되다/이어지다,продолжаться/тянуться,andauern/fortsetzen,prolongarse/continuar
+神仙,shén xiān,supernatural being/immortal,เทพ/เซียน/อมตะ,thần tiên/tiên,ເທວະ/ເທບ/ອົມຕະ,immortel/génie (daoïste),仙人,신선/불사,божество/бессмертный,Unsterblicher/Gottheit,inmortal/divinidad
+精神,jīng shén,spirit/mind,จิตใจ/สปิริต/พลังใจ,tinh thần,ຈິດໃຈ/ກຳລັງໃຈ,esprit/énergie,精神/気力,정신/의지,дух/настрой,Geist/Moral,espíritu/ánimo
+感动,gǎn dòng,move/touch/impress,ซึ้งใจ/ประทับใจ,cảm động/xúc động,ປະທັບໃຈ/ຊື່ງໃຈ,ému/touché,感動する,감동하다,растрогаться/тронуть,gerührt sein,emocionarse
+派,pài,send/dispatch,ส่งตัว/ส่งไปทำงาน,cử/phái/điều,ສົ່ງໄປ/ມອບໝາຍ,dépêcher/envoyer,派遣する/送り出す,파견하다/보내다,направить/командировать,entsenden/abordnen,enviar/destinar
+背,bēi,carry on one's back,แบก/หาม/สะพายหลัง,cõng/vác/đeo lưng,ຫາມ/ສະພາຍ,porter sur le dos,背負う/背中に担ぐ,메다/업다,нести на спине,auf dem Rücken tragen,cargar a la espalda
+毅力,yì lì,willpower/perseverance,ความมุ่งมั่น/ความอึด,ý chí/kiên trì,ຄວາມອົດທົນ/ແຂງແກ່ງ,volonté/constance,根気/粘り強さ,끈기/의지력,силa воли/упорство,Willenskraft,fuerza de voluntad
+到底,dào dǐ,till the end/to the end,ให้ถึงที่สุด/ตกลงแล้ว…,rốt cuộc/cuối cùng thì,ທ້າຍທີ່/ຕົກລົງແລ້ວ,au bout du compte/en fin de compte,結局/いったい,도대체/결국,в конце концов/так всё‑таки,letztendlich/в到底,al fin y al cabo/al final
+太行山,Tài Háng Shān,Mount Taihang,ภูเขาไท่หาง,dãy Thái Hành,ພູ ໄທຫາງ,monts Taihang,太行山,태항산,горы Тайханшань,Taihang‑Gebirge,montes Taihang
+王屋山,Wáng Wū Shān,Mount Wangwu,ภูเขาหวางอู้,núi Vương Ốc,ພູວັງອູ,mont Wángwū,王屋山,왕우산,гора Ванвушань,Berg Wangwu,monte Wangwu
+玉帝,Yù Dì,Jade Emperor (the Supreme Deity of Taoism),เง็กเซียนฮ่องเต้/จักรพรรดิหยก,Ngọc Hoàng Thượng Đế,ຈັກກະພັດຫຍວກ,Empereur de Jade,玉帝,옥황상제,Нефритовый император,Jade‑Kaiser,Emperador de Jade
+现金,xiàn jīn,ready money/cash,เงินสด,tiền mặt,ເງິນສົດ,espèces/liquide,現金,현금,наличные,Bargeld,efectivo/dinero en metálico
+不必,bù bì,need not/not have to,ไม่จำเป็น/ไม่ต้อง,không cần/khỏi,ບໍ່ຈຳເປັນ,inutile/pas besoin de,〜する必要はない,굳이 …할 필요 없다,не обязательно/не нужно,nicht nötig/unnötig,no hace falta
+只要,zhǐ yào,so long as,ขอเพียง/ตราบใดที่,chỉ cần/miễn là,ຂໍໃຫ້/ຕາບໃດທີ່,pourvu que/du moment que,〜さえ…なら,…하기만 하면,только бы/лишь бы,solange/sofern,con tal de que/siempre que
+插,chā,insert,เสียบ/ปัก/ใส่เข้า,cắm/chen/đút vào,ສອດ/ປັກ,insérer/planter,差し込む/挿す,꽂다/끼우다,вставить/воткнуть,einstecken/einfügen,insertar/clavar
+自动取款机,zì dòng qǔ kuǎn jī,ATM (Automated Teller Machine),ตู้เอทีเอ็ม,máy ATM,ຕູ້ ATM,distributeur automatique (DAB),ATM/現金自動預け払い機,현금자동인출기/ATM,банкомат,Geldautomat,cajero automático
+如今,rú jīn,today/now,ทุกวันนี้/ตอนนี้,ngày nay/bây giờ,ສະໄໝນີ້/ຕອນນີ້,de nos jours/à présent,今では/近ごろ,요즘/현재,ныне/сегодня,heutzutage/jetzt,hoy en día
+百分之⋯⋯,bǎi fēn zhī,percent/shown by the symbol%,เปอร์เซ็นต์…,phần trăm…,ເປີເຊັນ…,pour cent …,パーセント…,퍼센트…,процентов …,Prozent …,por ciento …
+旅馆,lǚ guǎn,inn/hotel,โรงแรมเล็ก/ที่พัก,lữ quán/nhà trọ,ເຮືອນພັກ/ໂຮງແຮມ,auberge/hôtel,旅館/宿,여관/여인숙,гостиница/постоялый двор,Gasthaus/Herberge,posada/hostal
+钥匙,yào shi,key,กุญแจ,chìa khóa,ກະແຈ,clé,鍵,열쇠,ключ,Schlüssel,llave
+安全,ān quán,safe,ปลอดภัย/ความปลอดภัย,an toàn,ປອດໄພ,sécurité/sûr,安全/安全だ,안전/안전하다,безопасность/надёжный,Sicherheit/sicher,seguridad/seguro
+危险,wēi xiǎn,dangerous,อันตราย/เสี่ยง,nguy hiểm,ອັນຕະລາຍ,dangereux,危険/危ない,위험/위험하다,опасный/опасность,gefährlich/Gefahr,peligroso/peligro
+名片,míng piàn,name card,นามบัตร,danh thiếp,ນາມບັດ,carte de visite,名刺,명함,визитка,Visitenkarte,tarjeta de visita
+将来,jiāng lái,future/aftertime,อนาคต/ภายภาคหน้า,tương lai,ອະນາຄົດ,avenir/dans l’avenir,将来/のちのち,장래/앞으로,в будущем/будущее,Zukunft,futuro
+解决,jiě jué,solve/settle,แก้ปัญหา/จัดการ,giải quyết,ແກ້ໄຂ,régler/résoudre,解決する,해결하다,решать/урегулировать,lösen/klären,resolver/solucionar
+毛病,máo bìng,problem/fault/something wrong,ปัญหา/ข้อบกพร่อง/เสีย,trục trặc/lỗi/tật xấu,ບັນຫາ/ຈຸດບົກພ່ອງ,défaut/panne,故障/欠点,고장/버릇/결점,неполадка/недостаток,Macke/Defekt,fallo/defecto
+计划,jì huà,plan/project,แผนงาน/โครงการ,kế hoạch,ແຜນ/ໂຄງການ,plan/projet,計画/プラン,계획,план/проект,Plan/Projekt,plan/proyecto
+可怕,kě pà,terrible/horrible,น่ากลัว/น่าสยอง,đáng sợ/kinh khủng,ນ່າຢ້ານ,terrible/effrayant,恐ろしい/ひどい,무섭다/끔찍하다,страшный/ужасный,furchtbar/schrecklich,terrible/espantoso
+欠,qiàn,owe/be in debt,ค้าง/เป็นหนี้,nợ/còn thiếu,ຕິດໜີ້/ຂາດ,devoir/être redevable,欠ける/借りがある,빚지다/모자라다,быть должен/недоставать,schulden/fehlen,deber/faltar
+债,zhài,debt,หนี้/หนี้สิน,khoản nợ,ໜີ້,dette,借金/負債,빚/채무,долг,Schuld/Schulden,deuda
+成为,chéng wéi,become,กลายเป็น/เป็น,trở thành,ກາຍເປັນ,devenir,〜になる,~가 되다,стать/становиться,werden/zu … werden,convertirse en
+卡奴,kǎ nú,card slave,ทาสบัตร (ใช้บัตรเครดิตจนเป็นหนี้),nợ thẻ tín dụng nặng/‘nô lệ thẻ’,ທາດບັດເຄຣດິດ,esclave de la carte (crédit),カード奴隷（借金漬け）,카드 노예/카드빚 노예,«раб пластиковой карты»,Karten‑Sklave (Kredit),esclavo de la tarjeta
+时代,shí dài,times/age/era,ยุคสมัย/ช่วงเวลา,thời đại,ຍຸກສະໄໝ,époque/ère,時代,시대,эпоха/время,Epoche/Zeitalter,época
+通行证,tōng xíng zhèng,pass/permit,บัตรผ่าน/ใบอนุญาตผ่าน,giấy thông hành,ໃບຜ່ານທາງ,laisser‑passer,通行証,통행증,пропуск,Passierschein,salvoconducto
+既然,jì rán,since/as,ในเมื่อ/เมื่อ…แล้ว,đã… thì/đã vậy thì,ເມື່ອ…ແລ້ວ,puisque/étant donné que,〜である以上/〜ならば,…인 이상/…인 만큼,раз уж/поскольку,wenn schon/da…,ya que/puesto que
+订,dìng,draw up/work out,จัดทำ/กำหนด/วาง (แผน/ข้อตกลง),soạn/thỏa/đặt (kế hoạch),ຈັດທຳ/ກຳນົດ,établir/arrêter/fixer,取り決める/定める,정하다/책정하다,утверждать/составить,festsetzen/vereinbaren,fijar/redactar
+享受,xiǎng shòu,enjoy,เพลิดเพลิน/ได้รับความสุข,hưởng thụ,ດຳລົງຄວາມສຸກ/ເພີດເພີນ,profiter/savourer,享受する/楽しむ,향유하다/즐기다,наслаждаться/получать удовольствие,genießen,disfrutar
+密码,mì mǎ,password,รหัสผ่าน,mật khẩu,ລະຫັດຜ່ານ,mot de passe,パスワード,비밀번호,пароль,Passwort,contraseña
+低碳,dī tàn,low-carbon,คาร์บอนต่ำ/ปล่อยคาร์บอนน้อย,ít cacbon/thấp thải,ຄາບອນຕ່ຳ,bas carbone,低炭素/ローカーボン,저탄소,низкоуглеродный,kohlenstoffarm,bajo en carbono
+铅笔,qiān bǐ,pencil,ดินสอ,bút chì,ດິນສໍ,crayon (de bois),鉛筆,연필,карандаш,Bleistift,lápiz
+省,shěng,save/economize/be frugal,ประหยัด/อดออม,tiết kiệm,ປະຫຍັດ,économiser,節約する/省く,절약하다/아끼다,экономить/беречь,sparen,ahorrar
+节约,jié yuē,economize/save,ประหยัด/มัธยัสถ์,tiết kiệm,ປະຢັດ,épargner/économiser,節約/倹約,절약/검약,экономия/беречь,Ersparnis/sparsam sein,ahorrar
+小气,xiǎo qì,petty/stingy,ขี้เหนียว/งก,keo kiệt/hà tiện,ຂີ້ຫນີຍວ,radin/avare,ケチだ,인색하다/쪼잔하다,скупой,geizig,tacaño
+公交车,gōng jiāo chē,public transport vehicle/bus,รถเมล์/รถประจำทาง,xe buýt,ລົດເມ/ລົດໂດຍສານ,bus,バス,버스,автобус,Bus,autobús
+节能灯,jié néng dēng,energy-saving light,หลอดไฟประหยัดพลังงาน,đèn tiết kiệm điện,ໄຟປະຢັດພະລັງງານ,lampe basse consommation,省エネ電球,절전 전구,энергосберегающая лампа,Energiesparlampe,bombilla de bajo consumo
+用电量,yòng diàn liàng,electricity consumption,การใช้ไฟฟ้า/ปริมาณไฟฟ้า,lượng điện tiêu thụ,ປະລິມານໄຟຟ້າໃຊ້,consommation d’électricité,電力消費量,전력 사용량,потребление электроэнергии,Stromverbrauch,consumo eléctrico
+使用,shǐ yòng,use/utilize,ใช้/ใช้งาน,sử dụng,ໃຊ້,utiliser,使用する,사용하다,использовать,benutzen/verwenden,usar
+寿命,shòu mìng,life-span/life,อายุการใช้งาน/อายุขัย,tuổi thọ,ອາຍຸການໃຊ້,durée de vie,寿命,수명,срок службы/жизнь,Lebensdauer,vida útil
+倍,bèi,times/-fold,เท่า/คูณ,lần/gấp,ເທົ່າ/ຄູນ,fois/multiplié par,倍,배/곱절,раз(а),fach,veces
+电器,diàn qì,electrical appliance,เครื่องใช้ไฟฟ้า,điện gia dụng/thiết bị điện,ເຄື່ອງໄຟຟ້າ,appareil électrique,電器,전기제품/전자기기,электроприбор,Elektrogerät,electrodoméstico
+不仅,bù jǐn,not only,ไม่เพียงแต่…,không chỉ…,ບໍ່ພຽງແຕ່…,non seulement…,…だけでなく,…뿐만 아니라,не только…,nicht nur…,no sólo…
+拔,bá,pull out/pull up,ดึงออก/ถอนออก,nhổ/kéo ra,ດຶງອອກ/ຖອນ,arracher/tirer,抜く/引き抜く,뽑다/빼다,вытащить/удалить,ziehen/herausziehen,sacar/arrancar
+电源,diàn yuán,power supply/power source,แหล่งจ่ายไฟ/ปลั๊กพาวเวอร์,nguồn điện,ແຫຼ່ງໄຟ/ພາວເວີ,alimentation électrique,電源,전원,источник питания,Stromversorgung/Netzteil,fuente de alimentación
+用来,yòng lái,be used for,ใช้เพื่อ/ไว้สำหรับ,dùng để,ໃຊ້ເພື່ອ,servir à/être utilisé pour,〜に使う/〜用の,…하는 데 쓰다,использоваться для,dienen zu,servir para
+浇,jiāo,water/irrigate,รดน้ำ/พรมน้ำ,tưới nước,ລາດນ້ຳ/ລົງນ້ຳ,arroser/verser,水をやる/注ぐ,물을 주다/붓다,поливать/лить,gießen,regar/verter
+水缸,shuǐ gāng,water vat,โอ่งน้ำ/ถังเก็บน้ำ,chum nước/vại nước,ໂອ່ງນ້ຳ/ຖັງນ້ຳ,jarre d’eau/cuve,水がめ/水槽,물독/물항아리,водяная кадка/жбан,Wasserkrug/Bottich,tinaja de agua
+接,jiē,collect/catch/take hold of,รับ/ต่อ/เชื่อม,nhận/đón/nối,ຮັບ/ຕໍ່,recevoir/relier,受ける/迎える/つなぐ,받다/마중하다/잇다,принять/соединить,empfangen/verbinden,recibir/conectar
+小看,xiǎo kàn,look down upon/despise,ดูถูก/มองข้าม,xem thường/coi nhẹ,ດູຖູກ/ບໍ່ໃຫ້ຄ່າ,mépriser/sous‑estimer,見くびる/侮る,얕보다/깔보다,пренебрегать/недооценивать,unterschätzen/geringschätzen,menospreciar/subestimar
+宝贵,bǎo guì,valuable/precious,มีค่า/ล้ำค่า,quý giá,ມີຄ່າ/ລ້ຳຄ່າ,précieux,貴重な/大切な,귀중한/소중한,ценный/драгоценный,wertvoll/kostbar,valioso/preciado
+电梯,diàn tī,lift/elevator,ลิฟต์,thang máy,ລິຟດ໌,ascenseur,エレベーター,엘리베이터,лифт,Aufzug/Fahrstuhl,ascensor
+一次性,yī cì xìng,disposable/throwaway,ใช้ครั้งเดียว/ใช้แล้วทิ้ง,dùng một lần,ໃຊ້ຄັ້ງດຽວ,à usage unique/jetable,使い捨て,일회용,одноразовый,Einweg/Einmal‑,de un solo uso/desechable
+通风,tōng fēng,ventilate,ระบายอากาศ,thông gió,ລະບາຍອາກາດ,aérer/ventilation,換気,환기,проветривание/вентиляция,lüften/Belüftung,ventilación
+管,guǎn,concern oneself with/bother about,ยุ่ง/ก้าวก่าย/สอดมือ,xen vào/quan tâm đến,ເຂົ້າໄປຍຸ່ງ,se mêler de/s’occuper de,口出しする/関与する,간섭하다/신경 쓰다,вмешиваться/заниматься,sich einmischen/kümmern,meterse en/ocuparse de
+闲事,xián shì,other people's business,เรื่องของคนอื่น/เรื่องไม่เกี่ยว,chuyện người khác/việc không liên quan,ເລື່ອງຄົນອື່ນ,affaires des autres/chose futile,他人事/余計なこと,남의 일/쓸데없는 일,чужие дела/пустяки,fremde Angelegenheiten/Nebensache,asuntos ajenos/cosa sin importancia
+连,lián,even,แม้แต่/จนถึง,ngay cả/đến cả,ແມ້ແຕ່,même/jusqu’à,〜さえ/〜まで,~조차/~까지도,даже/вплоть до,sogar/bis hin zu,incluso/hasta
+笑话,xiào hua,laugh at/ridicule,หัวเราะเยาะ/ล้อ,chế nhạo/cười nhạo,ເຢາະເຢີ້ຍ,se moquer de,笑い者にする/からかう,비웃다/놀리다,высмеивать,auslachen/verspotten,burlarse de
+段,duàn,used to indicate time or distance,ช่วง/ตอน/ท่อน,đoạn/khoảng,ຊ່ວງ/ຕອນ,section/tronçon/période,区間/一段/期間,구간/단락/한동안,отрезок/участок/период,Abschnitt/Strecke/Zeitraum,tramo/sección/período
+遍,biàn,all over/everywhere,ทั่ว/ทั้ง…/ทุกหนแห่ง,khắp/nhiều nơi,ທົ່ວ/ໄປທົ່ວ,partout,いたる所/あちこち,도처에/곳곳에,повсюду/везде,überall,por todas partes
+强壮,qiáng zhuàng,strong,แข็งแรง/กำยำ,khỏe mạnh/vạm vỡ,ແຂງແຮງ,robuste/costaud,たくましい,건장하다/튼튼하다,крепкий/сильный,kräftig/stark,fuerte/robusto
+肩,jiān,shoulder,ไหล่,vai,ໄຫຼ່,épaule,肩,어깨,плечо,Schulter,hombro
+懂事,dǒng shì,sensible/intelligent,รู้ความ/รู้จักกาลเทศะ,biết điều/ngoan,ຮູ້ຄວາມ,raisonnable/sage,物分かりがいい,철든,разумный,vernünftig,sensato
+信任,xìn rèn,trust/have faith in,ไว้วางใจ,tin tưởng/tín nhiệm,ໄວ້ໃຈ,faire confiance,信頼する,신뢰하다,доверять,vertrauen,confiar en
+运动会,yùn dòng huì,sporting event/sporting games,งานกีฬาสี/กีฬาโรงเรียน,đại hội thể thao,ງານກິລາ,rencontre sportive/meeting sportif,運動会,운동회,спортивные соревнования/спартакиада,Sportfest,jornada/competición deportiva
+成绩,chéng jì,result/achievement,ผลการเรียน/ผลงาน,thành tích/điểm,ຜົນການຮຽນ/ຜົນງານ,résultats/notes,成績,성적/성과,успеваемость/результат/оценки,Leistung/Noten,notas/resultados
+不断,bù duàn,continually,อย่างต่อเนื่อง/เรื่อยๆ,không ngừng/liên tục,ຕໍ່ເນື່ອງ,sans cesse/en continu,絶えず/ひっきりなしに,끊임없이/계속,непрерывно/постоянно,ständig/ununterbrochen,continuamente/sin parar
+山顶,shān dǐng,top of a mountain/hilltop,ยอดเขา,đỉnh núi,ຍອດພູ,sommet de la montagne,山頂,산꼭대기/정상,вершина горы,Berggipfel,cima/cumbre
+夕阳,xī yáng,setting sun,พระอาทิตย์อัสดง,hoàng hôn/ánh chiều tà,ຕາເວັນຕົກ,soleil couchant,夕日/夕陽,석양/노을,заходящее солнце,Abendsonne,sol poniente/atardecer
+沿着,yán zhe,along (a certain route),เลียบ/ตามไปตาม,dọc theo/theo,ລຽບຕາມ,le long de/en suivant,〜に沿って,~을 따라,вдоль/следуя,entlang/der … folgend,a lo largo de/por
+差点儿,chà diǎn er,nearly/almost,เกือบจะ/หวิด,suýt nữa,ເກືອບ/ເກືອບຈະ,de justesse/à deux doigts de,危うく/もう少しで,하마터면/거의,чуть не/едва не,beinahe/fast,por poco/casi
+多亏,duō kuī,be lucky/thanks to,โชคดีที่…/ได้อาศัย…,nhờ có…,ຂອບໃຈທີ່…/ໂຊກດີທີ່…,grâce à,おかげで,덕분에,благодаря,dank/zu verdanken,gracias a
+点,diǎn,light/kindle/ignite,จุด/แต้ม/นิดหน่อย,chấm/điểm/chút ít,ຈຸດ/ນ້ອຍໆ,point/un peu,点/ちょっと,점/조금,точка/немного,Punkt/etwas,punto/un poco
+操心,cāo xīn,concern about/worry about,เป็นห่วง/บั่นทอนใจ,lo nghĩ/bận tâm,ກັງວົນ/ເປັນຫ່ວງ,se tracasser/se soucier,気をもむ/心配する,신경 쓰다/걱정하다,беспокоиться/заботиться,sich sorgen/kümmern,preocuparse
+搜集,sōu jí,gather/collect,รวบรวม/สะสม,thu thập/sưu tầm,ລວບລວມ,collecter/recueillir,収集する/集める,수집하다/모으다,собирать/накапливать,sammeln,recopilar/reunir
+有关,yǒu guān,relate to/be about,เกี่ยวกับ/ที่เกี่ยวข้อง,liên quan tới/về,ກ່ຽວກັບ,concernant/lié à,〜に関する,관한/관련된,касающийся/связанный с,bezüglich/zugehörig,relacionado con/sobre
+资料,zī liào,information/data,ข้อมูล/เอกสาร,tư liệu/tài liệu,ຂໍ້ມູນ/ເອກະສານ,données/documents,資料/データ,자료/문서,данные/материалы,Unterlagen/Daten,datos/documentos
+优秀,yōu xiù,outstanding/excellent,ยอดเยี่ยม/โดดเด่น,xuất sắc,ຍອດເຢັ້ຍ,excellent,優秀な,우수한/뛰어난,отличный/выдающийся,hervorragend,excelente
+决心,jué xīn,resolve/determine,ตั้งใจแน่วแน่/มุ่งมั่น,quyết tâm,ຕັ້ງໃຈແນ່ແຟ້ນ,détermination/ferme décision,決心/決意,결심/굳은 마음,решимость,Entschlossenheit,determinación
+专业,zhuān yè,special field of study/major,สาขา/วิชาเอก/มืออาชีพ,chuyên ngành/chuyên nghiệp,ສາຂາ/ມືອາຊີບ,spécialité/professionnel,専攻/プロの,전공/프로의,специальность/профессиональный,Fachrichtung/professionell,especialidad/profesional
+搭车,dā chē,hitchhike/get a ride,ขึ้นรถด้วย/โบกรถ,đi nhờ xe,ນັ່ງລົດຕິດ/ໄປດ້ວຍ,prendre une voiture/faire du stop,車に便乗する/ヒッチハイク,차를 얻어 타다/히치하이크,подвезтись/ехать автостопом,mitfahren/trampen,ir en coche ajeno/hacer autostop
+招手,zhāo shǒu,move one's hand as a signal/beckon/wave,โบกมือ/กวักมือ,vẫy tay/ra hiệu,ໂບກມື/ເຮັດສັນຍາ,faire signe de la main,手を振る/合図する,손짓하다/손을 흔들다,машеть рукой/подзывать,winken/Heranwinken,hacer señas con la mano
+穿越,chuān yuè,pass through,ข้ามผ่าน/ฝ่าไป,băng qua/xuyên qua,ຂ້າມຜ່ານ,traverser/gué,横切る/通り抜ける,가로지르다/통과하다,пересекать/пройти сквозь,durchqueren,atravesar
+行程,xíng chéng,distance of travel,ระยะทาง/กำหนดการเดินทาง,lộ trình/hành trình,ກຳນົດການເດີນທາງ,itinéraire/programme,行程/旅程,일정/여정,маршрут/программа пути,Reiseroute/Programm,itinerario/recorrido
+公里,gōng lǐ,kilometer,กิโลเมตร,kilômét/km,ກິໂລແມັດ,kilomètre,キロメートル,킬로미터,километр,Kilometer,kilómetro
+目的,mù dì,purpose/aim,จุดหมาย/เป้าหมาย,mục đích,ເປົ້າໝາຍ,but/objectif,目的,목적,цель,Ziel,objetivo
+竟然,jìng rán,unexpectedly/to one's surprise,ไม่นึกว่าจะ/ดัน…,hóa ra lại/thật không ngờ,ແບບບໍ່ຄາດຄິດ,contre toute attente,なんと/思いがけず,뜻밖에/놀랍게도,оказалось/вдруг,doch tatsächlich/unerwartet,resulta que/sorprendentemente
+年底,nián dǐ,end of the year,ปลายปี/สิ้นปี,cuối năm,ທ້າຍປີ,fin d’année,年末,연말,конец года,Jahresende,final de año
+舍不得,shě bu de,be loath to part with or give up,เสียดายไม่อยากจาก/ไม่อยากใช้,không nỡ/tiếc không muốn,ສົງສານ/ບໍ່ຢາກປ່ອຍ,avoir du mal à/à regret,惜しくて手放せない,아까워서 못 하다/차마…하지 못하다,жалко/не хочется (расставаться),ungern hergeben/kaum übers Herz bringen,no querer/desprenderse con pena
+便车,biàn chē,car in which one may have a free ride,รถที่ติดไป/รถฟรี,xe quá giang,ລົດຕິດ/ຂຶ້ນຟຣີ,voiture partagée/covoiturage,便乗/ヒッチハイクの車,편승차/카풀,попутная машина,Mitfahrgelegenheit,aventón/coche compartido
+由,yóu,by (sb),โดย/ด้วย…,do/bởi…,ໂດຍ/ເນື່ອງຈາກ,par/de…,〜によって/〜から,…에 의해/…에서,по/через/из,durch/von,por/desde
+摄像机,shè xiàng jī,video camera,กล้องวิดีโอ,máy quay (video),ກ້ອງວິດີໂອ,caméra vidéo,ビデオカメラ,비디오카메라/캠코더,видеокамера,Videokamera,videocámara
+拍,pāi,shoot (a movie)/take (a photo),ถ่าย(รูป/หนัง)/ตบ,chụp/quay/đập,ຖ່າຍ/ຕີ,prendre (photo)/tourner,撮る/撮影する,찍다/촬영하다,снимать/щёлкать,aufnehmen/filmen/fotografieren,grabar/rodar/fotografiar
+旅途,lǚ tú,journey/trip,ระหว่างการเดินทาง/การเดินทาง,hành trình/chuyến đi,ລະຫວ່າງທາງ/ການເດີນທາງ,voyage/en route,旅路/旅の途中,여정/길,путь/в дороге,Reiseweg/unterwegs,viaje/en el camino
+说服,shuō fú,persuade,โน้มน้าว/เกลี้ยกล่อม,thuyết phục,ເຮັດໃຫ້ເຊື່ອ,convaincre/persuader,説得する,설득하다,убеждать,überzeugen,convencer
+签证官,qiān zhèng guān,visa officer,เจ้าหน้าที่วีซ่า/เจ้าหน้าที่กงสุล,viên chức visa/nhân viên lãnh sự,ເຈົ້າໜ້າທີ່ວີຊ່າ,agent des visas/consulaire,ビザ担当官/領事担当,비자 담당관/영사,визовый офицер/консульский сотрудник,Visabeamter/Konsularbeamter,funcionario de visados/consular
+签证,qiān zhèng,visa,วีซ่า/หนังสือผ่านเข้าเมือง,thị thực/visa,ວີຊ່າ,visa,ビザ/査証,비자,виза,Visum,visado/visa
+拒绝,jù jué,refuse/turn down,ปฏิเสธ,từ chối,ປະຕິເສດ,refuser,断る/拒否する,거절하다/거부하다,отказывать/отклонять,ablehnen,rechazar
+想象,xiǎng xiàng,imagine/imagination,จินตนาการ/นึกภาพ,tưởng tượng,ຈິນຕະນາການ,imaginer,想像する,상상하다,воображать/представлять,sich vorstellen,imaginar
+像,xiàng,portrait/photo,ภาพเหมือน/รูป/เหมือนกับ,bức chân dung/ảnh/giống như,ຮູບ/ຄ້າຍກັນ,portrait/photo/comme,肖像/写真/〜のようだ,초상/사진/~같다,портрет/как,Porträt/Foto/wie,retrato/como
+打火机,dǎ huǒ jī,lighter,ไฟแช็ก,bật lửa,ໄຟແຊັກ,briquet,ライター,라이터,зажигалка,Feuerzeug,encendedor/mechero
+浪漫,làng màn,romantic,โรแมนติก,lãng mạn,ໂລແມນຕິກ,romantique,ロマンチック,로맨틱하다,романтичный,romantisch,romántico
+边界,biān jiè,border/boundary,พรมแดน/เส้นเขต,biên giới/ranh giới,ແດນ/ເຂດ,frontière/limite,境界/ボーダー,경계/국경,граница,Grenze,frontera/límite
+落山,luò shān,(the sun) goes down,ตกดิน (ดวงอาทิตย์),lặn xuống (mặt trời),ຕົກດິນ (ຕາເວັນ),se coucher (soleil),（太陽が）沈む,해가 지다,солнце заходит,die Sonne geht unter,ponerse (el sol)
+中央,zhōng yāng,center,ส่วนกลาง/ตรงกลาง,trung ương/trung tâm,ສ່ວນກາງ/ຈຸດກາງ,centre/central,中央/中心,중앙/중심,центр/центральный,Zentrum/zentrale(r),centro/central
+拥抱,yōng bào,embrace/hug,กอด/โอบกอด,ôm/ôm chặt,ກອດ,embrasser/serrer dans ses bras,抱きしめる/ハグする,포옹하다/껴안다,обнимать,umarmen,abrazar
+亲吻,qīn wěn,kiss,จูบ/หอมแก้ม,hôn,ຈູບ,embrasser/faire un baiser,キスする/口づけする,키스하다/입맞춤하다,целовать/поцелуй,küssen/Kuss,besar/beso
+漫长,màn cháng,endless/long,ยาวนาน/แสนนาน,dài dằng dặc,ຍາວນານ,interminable/très long,長い/果てしない,긴/아주 길다,долгий/протяжённый,lang und langwierig,muy largo/interminable
+柏林,Bó lín,Berlin,เบอร์ลิน,Berlin,ເບີລິນ,Berlin,ベルリン,베를린,Берлин,Berlin,Berlín
+俄语,é yǔ,Russian (language),ภาษารัสเซีย,tiếng Nga,ພາສາລັດເຊຍ,russe (langue),ロシア語,러시아어,русский язык,Russisch,ruso
+土耳其,Tǔ ěr qí,Turkey,ตุรกี,Thổ Nhĩ Kỳ,ຕຸລະກີ,Turquie,トルコ,튀르키예/터키,Турция,Türkei,Turquía
+乌兹别克斯坦,Wū zī bié kè sī tǎn,Uzbekistan,อุซเบกิสถาน,Uzbekistan,ອຸສເບກິສະຖານ,Ouzbékistan,ウズベキスタン,우즈베키스탄,Узбекистан,Usbekistan,Uzbekistán
+毛泽东,Máo Zé dōng,Mao Zedong,เหมา เจ๋อตง,Mao Trạch Đông,ເມົາ ເຈີຕົງ,Mao Zedong,毛沢東,마오쩌둥,Мао Цзэдун,Mao Zedong,Mao Zedong
+捷克,jié kè,Czech,เช็ก/สาธารณรัฐเช็ก,Séc/Cộng hòa Séc,ສາທາລະນະລັດເຊັກ,Tchéquie/République tchèque,チェコ,체코,Чехия,Tschechien,Chequia/República Checa

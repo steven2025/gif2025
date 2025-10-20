@@ -1,0 +1,129 @@
+书本,shūběn,book,หนังสือ,sách,ປື້ມ,livre,本/書籍,책,книга,Buch,libro
+蚂蚁,mǎyǐ,ant,มด,kiến,ມົດ,fourmi,アリ,개미,муравей,Ameise,hormiga
+开,kāi,open out,เปิด/แงะ/แยก,mở/khai/ bật,ເປີດ/ແຍກ,ouvrir/allumer,開ける/開く,열다/켜다,открыть/включить,öffnen/einschalten,abrir/encender
+摘,zhāi,pick,เด็ด/เก็บ (ผล/ดอก),hái/ngắt,ເດັດ/ເກັບ,cueillir/ramasser,摘む/取る,따다/땄다,срывать/снять,pflücken,coger/recoger
+朵,duǒ,used of flowers,ดอก (ลักษณนาม),bông (lượng từ),ດອກ (ລັກສະນນາມ),(classif.) fleur,（量）〜輪,(양사) 송이,(сч.) цветок/соцветие,(Zählwort) Blüte,(clas.) flor
+夹,jiā,place or stay in between,หนีบ/คั่น/สอด,kẹp/chen/nhét,ຫນີບ/ສອດ/ຄັ່ນ,coincer/intercaler,挟む/はさむ,끼우다/끼다,зажать/вклинить,klemmen/einlegen,prensar/intercalar
+醒来,xǐng lái,wake up / waken / awaken,ตื่นขึ้นมา,tỉnh dậy,ຕື່ນຂຶ້ນ,se réveiller,目が覚める,깨어나다,проснуться,aufwachen,despertarse
+变成,biànchéng,become,กลายเป็น,trở thành,ກາຍເປັນ,devenir,〜になる,~이/가 되다,стать/превратиться,werden/zu … werden,convertirse en
+从此,cóngcǐ,from then on,จากนั้นเป็นต้นมา,từ đó về sau,ນັບແຕ່ນັ້ນ,dès lors/à partir de là,それ以来/その時から,그때부터/이후로,с тех пор,seitdem/von da an,desde entonces
+页,yè,page,หน้า (กระดาษ),trang,ໜ້າ (ຫນັງສື),page,ページ,쪽,страница,Seite,página
+自由自在,zìyóu zìzài,free and unrestrained / leisurely and carefree,อิสระสบายๆ,tự do thoải mái,ອິດສະຫຼະ/ສະບາຍໆ,libre et détendu,のびのび/自由気まま,자유자재로/마음대로,свободно/непринуждённо,frei und unbeschwert,libre y a gusto
+羡慕,xiànmù,admire / be envious of,อิจฉา/ชื่นชม,ngưỡng mộ/ghen tị,ອິດສາ/ຊົມ,envier/admirer,うらやましい/憧れる,부럽다/동경하다,завидовать/восхищаться,beneiden/bewundern,envidiar/admira
+也许,yěxǔ,perhaps / probably / maybe,อาจจะ/บางที,có lẽ/có thể,ອາດຈະ/ບາງທີ,peut‑être,もしかして/たぶん,어쩌면/아마,возможно/может быть,vielleicht,quizá/tal vez
+一下子,yíxiàzi,in a short while / all at once,ทันทีแว้บเดียว,thoắt cái/ngay tức thì,ໃນພົບຕາ/ທັນໃດ,d’un coup/tout à coup,一気に/急に,갑자기/단번에,вдруг/разом,auf einmal/mit einem Schlag,de golpe/de pronto
+安静,ānjìng,quiet,เงียบ/สงบ,yên tĩnh,ງຽບ,calme/tranquille,静かだ/静かな,조용하다,тихий/спокойный,ruhig/still,tranquilo
+有趣,yǒuqù,interesting,น่าสนุก/น่าสนใจ,thú vị,ນ່າສົນໃຈ,intéressant,面白い,재미있다,интересный,interessant,interesante
+点,diǎn,dot / spot,จุด/แต้ม/นิดหน่อย,chấm/điểm/chút ít,ຈຸດ/ໜ່ວຍ/ນ້ອຍໆ,point/peu,点/ちょっと,점/조금,точка/немного,Punkt/etwas,punto/un poco
+仔细,zǐxì,careful / attentive,ละเอียดรอบคอบ,tỉ mỉ/cẩn thận,ລະອຽດ/ລະມັດລະວັງ,minutieux/attentif,細かい/注意深い,세심하다/자세히,тщательно/внимательно,sorgfältig/genau,detallado/cuidadoso
+终于,zhōngyú,at last / in the end / finally,ในที่สุด,cuối cùng/rốt cuộc,ໃນທ້າຍສຸດ,enfin/finalement,ついに/ようやく,마침내/드디어,наконец‑то,endlich,por fin/finalmente
+迷路,mí lù,lose one's way / get lost,หลงทาง,lạc đường,ຫຼົງທາງ,se perdre,道に迷う,길을 잃다,заблудиться,sich verlaufen,perderse
+送,sòng,send / take,ส่ง/มอบ/ไปส่ง,gửi/đưa/tiễn,ສົ່ງ/ພາໄປສົ່ງ,envoyer/accompagner,送る/見送る,보내다/배웅하다,послать/провожать,schicken/begleiten,enviar/acompañar
+编,biān,compile / write / make up,แต่ง/เรียบเรียง,biên soạn/biên tập,ຮຽບຮຽງ/ແຕ່ງ,composer/rédiger,編む/編集する,엮다/편집하다,составить/редактировать,verfassen/redigieren,compilar/redactar
+枕头,zhěntou,pillow,หมอน,gối,ຫມອນ,oreiller,枕/まくら,베개,подушка,Kopfkissen,almohada
+针头,zhēntóu,pinhead / needle head,ปลายเข็ม/หัวเข็ม,đầu kim,ຫົວເຂັມ,pointe d’aiguille,針先/針の頭,바늘끝/바늘머리,игольное ушко/кончик иглы,Nadelspitze,punta de aguja
+准,zhǔn,correct / accurate,แม่น/เป๊ะ,chuẩn/xác,ແມ່ນຍຳ,précis/exact,正確/ぴったり,정확하다/딱 맞다,точный,genau,preciso
+闹笑话,nào xiàohua,make a fool of oneself,ขายขำ/ปล่อยไก่,nực cười/làm trò cười,ເຮັດໃຫ້ຄົນຂຳ,se rendre ridicule,笑いものになる,웃음거리가 되다,осрамиться/выставить на посмешище,sich blamieren,hacer el ridículo
+被子,bèizi,quilt,ผ้าห่ม/ผ้านวม,chăn/mền,ຜ້າຫ່ົມ/ຜ້ານວມ,couette/couverture,布団/掛け布団,이불,одеяло,Decke/Bettdecke,manta/edredón
+售货员,shòhuòyuán,shop assistant / salesperson,พนักงานขาย,nhân viên bán hàng,ພະນັກງານຂາຍ,vendeur/vendeuse,店員/販売員,판매원,продавец,Verkäufer/in,dependiente/a
+柜台,guìtái,counter / bar,เคาน์เตอร์,quầy,ເຄົາເຕີ,comptoir,カウンター,카ウン터/계산대,прилавок,Ladentheke,mostrador
+误会,wùhuì,misunderstand / misapprehend,เข้าใจผิด,hiểu lầm,ເຂົ້າໃຈຜິດ,malentendu,誤解する/誤解,오해하다/오해,недоразумение/неправильно понять,Missverständnis,malentendido
+发抖,fādǒu,shiver / shake,ตัวสั่น/สั่น,run rẩy,ສັ່ນ,trembler,震える/ぶるぶる,떨다,дрожать,zittern,temblar
+样子,yàngzi,expression / manner,ท่าทาง/รูปลักษณ์,dáng vẻ/bộ dạng,ທ່າທາງ/ຮູບລັກສະນະ,mine/allure,様子/見た目,모습/모양새,вид/видок,Aussehen,aspecto
+硬,yìng,hard / solid / stiff,แข็ง/กระด้าง,cứng,ແຂງ,dur/rigide,硬い,딱딱하다,твёрдый/жёсткий,hart,duro
+软,ruǎn,soft,นุ่ม/อ่อน,mềm,ນຸ່ມ/ອ່ອນ,doux/mou,柔らかい,부드럽다,мягкий,weich,blando
+货架,huòjià,goods shelf,ชั้นวางสินค้า,giá/kệ hàng,ຊັ້ນວາງສິນຄ້າ,étagère de magasin,商品棚/ラック,상품 진열대,товарная полка,Warenregal,estantería (tienda)
+明明,míngmíng,obviously,ชัดๆ/ออกจะ/ก็เห็นๆอยู่,rõ ràng là,ແທ້ໆ/ຊັດໆ,clairement/à l’évidence,明らかに/どう見ても,분명히,явно/ведь,offensichtlich,claramente
+实在,shízài,indeed / really / truly,จริงๆ/แท้จริง/ออกจะ,thực sự/quả thật,ຈິງໆ/ແທ້ໆ,vraiment/réellement,本当に/実に,정말/실로,действительно/по‑настоящему,wirklich/tatsächlich,realmente/de verdad
+可笑,kěxiào,laughable / funny / ridiculous,น่าขัน/ตลกโปกฮา,nực cười/khôi hài,ນ່າຂັນ,ridicule/drôle,おかしい/ばかばかしい,우습다/우스꽝스럽다,смешной/нелепый,lächerlich,ridículo
+理发,lǐ fà,get a haircut,ตัดผม,cắt tóc,ຕັດຜົມ,se faire couper les cheveux,散髪/カットする,머리를 자르다,стричься,Haare schneiden,cortarse el pelo
+理发师,lǐfàshī,barber / hairdresser,ช่างตัดผม,thợ cắt tóc,ຊ່າງຕັດຜົມ,coiffeur/coiffeuse,理容師/美容師,미용사/이발사,парикмахер,Friseur/in,peluquero/a
+剪,jiǎn,cut (with scissors),ตัด (กรรไกร),cắt (kéo),ຕັດ (ກອກ),couper (ciseaux),はさみで切る,가위로 자르다,резать ножницами,mit der Schere schneiden,cortar (tijeras)
+寸,cùn,cun,นิ้วจีน (cun),tấc (đơn vị),ຊັ້ນ/ຕັກ (cun),pouce chinois (cun),寸（中国の長さ）,촌 (길이 단위),цунь (мера),Cun (chines. Zoll),cun (unidad)
+想不到,xiǎng bu dào,unexpected / never expect,คาดไม่ถึง,không ngờ tới,ບໍ່ຄາດຄິດ,inattendu/insoupçonné,思いもよらない,뜻밖이다,неожиданный,unerwartet,inesperado
+自信,zìxìn,self-confident,มั่นใจในตัวเอง,tự tin,ໝັ້ນໃຈ,confiant/e en soi,自信がある,자신감 있다,уверенность в себе,Selbstvertrauen,confianza en sí
+照,zhào,look at oneself (in the mirror) / reflect / mirror,ส่อง (กระจก)/ฉาย,soi/chiếu/ chụp,ສ່ອງ/ສະທ້ອນ,se regarder/éclairer,映す/鏡で見る,비추다/비치다,отражать/снимать,spiegeln/beleuchten,reflejar/mirar(se)
+镜子,jìngzi,mirror,กระจก,gương,ກະຈົກ,miroir,鏡,거울,зеркало,Spiegel,espejo
+吓一跳,xià yí tiào,be startled / get a fright,ตกใจผงะ,giật mình,ຕົກໃຈວິ້ງ,surprendre/faire sursauter,びっくり仰天する,깜짝 놀라다,испугаться/аж подпрыгнуть,einen Schreck bekommen,pegar un susto
+掉,diào,off (used after some verbs,ตก/หล่น/ทำหล่น,rơi/rớt,ຕົກ/ຫຼ່ນ,tomber/落とす,落ちる/落とす,떨어지다/떨구다,упасть/уронить,fallen/verlieren (fallen lassen),caer/dejar caer
+来信,láixìn,incoming letter,จดหมายที่ส่งมา,thư đến,ຈົດໝາຍຂອງມາ,lettre reçue,来信/届いた手紙,온 편지/수신 편지,входящее письмо,eingegangener Brief,carta recibida
+父亲,fùqin,father,พ่อ,cha (bố),ພໍ່,père,父/お父さん,아버지,отец,Vater,padre
+除了,chúle,except / but / besides / in addition to,นอกจาก/ยกเว้น,ngoài/trừ,ນອກຈາກ,sauf/à part,〜を除いて,…을/를 제외하고,кроме/за исключением,außer/abgesehen von,excepto/salvo
+以外,yǐwài,beyond / except,นอกเหนือจาก,ngoài ra/ngoài… ra,ນອກເໜືອຈາກ,en dehors de,以外/〜のほか,이외/그 밖에,помимо/кроме,außerhalb/außer,además de/excepto
+有用,yǒu yòng,valuable / useful,มีประโยชน์,có ích/hữu dụng,ມີປະໂຫຍດ,utile,役に立つ,유용하다,полезный,nützlich,útil
+差不多,chàbuduō,nearly / almost,เกือบจะ/ประมาณ,gần như/xấp xỉ,ເກືອບ/ປະມານ,à peu près/presque,ほとんど/だいたい,거의/대충,почти/примерно,fast/ungefähr,casi/aproximadamente
+由于,yóuyú,because / since,เนื่องจาก/เพราะว่า,do/vì,ເນື່ອງຈາກ,en raison de/du fait que,…によって/ために,…로 인해/때문에,ввиду/из‑за,aufgrund/wegen,debido a/ya que
+请求,qǐngqiú,ask / request / appeal / beg,ขอร้อง/คำร้อง,thỉnh cầu/đề nghị,ຮ້ອງຂໍ,demander/solliciter,お願い/要求する,요청하다/부탁하다,просить/запрос,ersuchen/bitten,solicitar/pedir
+帖子,tiězi,post / message,โพสต์/กระทู้,bài đăng/bài viết,ໂພສ/ກະທູ້,post/publication,投稿/ポスト,게시글,пост/сообщение,Beitrag/Post,publicación/post
+回信,huíxìn,letter in reply / feedback,จดหมายตอบ,thư hồi âm,ຈົດໝາຍຕອບ,lettre de réponse,返事の手紙/返信,답장/회신,ответное письмо,Antwortbrief,carta de respuesta
+封,fēng,used for letters,ฉบับ/ซอง (ลน.),phong (lượng từ thư),ຊອງ/ຉະບັບ,(classif.) lettre,通/封（手紙の助数詞）,통/봉 (편지 양사),письмо (сч. слово),Brief (Zählwort),carta (clas.)
+连忙,liánmáng,hastily / hurriedly,รีบเร่ง/ทันทีทันใด,vội vàng/liền,ຮີບດ່ວນ,se dépêcher/hâtivement,急いで/大急ぎで,급히/서둘러,поспешно/тотчас,eilig/schnell,apresuradamente
+哭,kū,cry / weep,ร้องไห้,khóc,ຮ້ອງໄຫ້,pleurer,泣く,울다,плакать,weinen,llorar
+猜,cāi,guess / suspect,เดา/ทาย,đoán,ຄາດ/ທາຍ,deviner,当てる/推測する,맞히다/추측하다,угадывать/догадываться,raten,adivinar
+愉快,yúkuài,happy / cheerful,เบิกบาน/สดชื่น,vui vẻ/hân hoan,ມ່ວນຊື່ນ,joyeux/agréable,愉快だ/楽しい,유쾌하다/기쁘다,радостный/приятный,vergnüglich/angenehm,alegre/agradable
+学好,xué hǎo,master / learn well,เรียนให้คล่อง/เรียนดี,học cho tốt/thành thạo,ຮຽນໃຫ້ເກັ່ງ,hâbler bien/apprendre à fond,しっかり身につける,잘 배우다/제대로 익히다,хорошо освоить,gut erlernen,aprender bien
+答案,dá'àn,answer / solution / key,คำตอบ,đáp án/đáp số,ຄຳຕອບ,réponse/solution,答え/解答,정답/해답,ответ/решение,Antwort/Lösung,respuesta/solución
+背面,bèimiàn,back / reverse side,ด้านหลัง/ฝั่งหลัง,mặt sau,ດ້ານຫຼັງ,verso/dos,裏面/背面,뒷면,оборотная сторона,Rückseite,reverso
+泪水,lèishuǐ,tear / teardrop,น้ำตา,nước mắt,ນ້ຳຕາ,larmes,涙,눈물,слёзы,Tränen,lágrimas
+并且,bìngqiě,and / also / in addition,และยัง/ยิ่งกว่านั้น,và còn/đồng thời,ແລະຍັງ,et aussi/de plus,しかも/そしてまた,그리고 또한,и к тому же/а также,und außerdem/ sowie,y además
+历史,lìshǐ,history,ประวัติศาสตร์,lịch sử,ປະຫວັດສາດ,histoire,歴史,역사,история,Geschichte,historia
+哥伦比亚,Gēlúnbǐyà,Colombia,โคลอมเบีย,Colombia,ໂຄລົມເບຍ,Colombie,コロンビア,콜롬비아,Колумбия,Kolumbien,Colombia
+打的,dǎ dī,take a taxi,ขึ้นแท็กซี่,bắt taxi/đi taxi,ນັ່ງແທັກຊີ,prendre un taxi,タクシーに乗る,택시 타다,взять такси,ein Taxi nehmen,tomar un taxi
+严重,yánzhòng,serious; grave;severe,ร้ายแรง/หนัก,nghiêm trọng,ຮ້າຍແຮງ,grave/sérieux,深刻な/重大な,심각하다,серьёзный/тяжёлый,ernst/schwer,grave/serio
+必须,bìxū,must/have to,จำเป็นต้อง/ต้อง,phải/bắt buộc,ຈຳເປັນຕ້ອງ,devoir/il faut,必ず/〜ねばならない,반드시/해야 한다,должен/необходимо,müssen,deber/tener que
+借,jiè,borrow/lend,ยืม/ให้ยืม,mượn/cho mượn,ຢືມ/ໃຫ້ຢືມ,emprunter/prêter,借りる/貸す,빌리다/빌려주다,занять/одолжить,leihen/ausleihen,pedir prestado/prestar
+万,wàn,ten thousand,หมื่น,mười nghìn,ໝື່ນ,dix mille,一万,만(一万),десять тысяч,zehntausend,diez mil
+匆忙,cōngmáng,in a hurry/hurriedly,รีบเร่ง/ลนลาน,vội vã/vội vàng,ຮີບຮ້ອນ,pressé/précipité,慌ただしい/急いで,허둥지둥/급히,в спешке/поспешно,eilig/überstürzt,apresurado/de prisa
+夜里,yèli,at night/nighttime,ตอนกลางคืน,ban đêm/đêm khuya,ຕອນກາງຄືນ,la nuit,夜中/夜に,밤에/야밤,ночью,nachts,por la noche
+停,tíng,stop/(of cars) be parked,หยุด/จอด,dừng/đỗ (xe),ຈອດ/ຢຸດ,s’arrêter/se garer,止まる/駐車する,멈추다/주차하다,остановиться/припарковаться,halten/parken,parar/estacionar
+身边,shēnbian,one's side,ข้างกาย/อยู่ใกล้ตัว,bên mình/bên cạnh,ຂ້າງກາຍ,à ses côtés,身の回り/そば,곁/옆,рядом/при себе,bei sich/nahebei,al lado/consigo
+农村,nóngcūn,countryside/rural area,ชนบท/บ้านนอก,nông thôn,ຊົນນະບົດ,campagne/zone rurale,農村/田舎,농촌/시골,деревня/село,Land/Landgebiet,campo/zona rural
+和气,héqi,kind,อัธยาศัยดี/สุภาพ,hoà nhã/nhẹ nhàng,ເອື້ອອ້ອຍ/ອ່ອນໂຍນ,aimable/courtois,穏やか/愛想がいい,온화하다/상냥하다,доброжелательный,freundlich,amable/afable
+看样子,kànyàngzi,it seems that/it looks as if,ดูท่า/ท่าทางว่า,xem ra/có vẻ như,ເບິ່ງທ່າທາງວ່າ,à voir/il semble que,どうやら/見たところ,보아하니/보니,похоже/судя по всему,sieht so aus als ob,por lo visto/parece que
+稍微,shāowei,a little bit,นิดหน่อย/เล็กน้อย,hơi/một chút,ນ້ອຍໆ,un peu/légèrement,少し/ちょっと,조금/약간,немного/чуть‑чуть,etwas/ein wenig,un poco
+提包,tíbāo,handbag,กระเป๋าถือ,túi xách,ກະເປົາຖື,sac à main,ハンドバッグ,핸드백/가방,сумочка/ручная сумка,Handtasche,bolso de mano
+被,bèi,by (marker for passive sentences or clauses),ถูก/โดน (รูปถูกกระทำ),bị/được (bị động),ຖືກ (ຮູບຖືກກະທຳ),par (voix passive),〜に/〜される（受け身）,…에게/…되다 (피동),быть/кем‑то (пассив),von/durch (Passiv),ser/por (pasiva)
+急忙,jímáng,in a hurry/hurriedly/hastily,รีบเร่ง/อย่างด่วน,vội vã/gấp gáp,ຮີບດ່ວນ,à la hâte/à toute vitesse,急いで/あわてて,급히/서둘러,спешно/поскорее,eilig/flink,apresuradamente/de prisa
+追,zhuī,chase,ไล่ตาม/ตามจับ,đuổi theo,ຕາມຕິດ/ໄລ່ຕາມ,poursuivre/courir après,追いかける,쫓다/뒤쫓다,гнаться/преследовать,verfolgen/hinterherlaufen,perseguir
+车牌号,chēpái hào,licence number (of a vehicle),เลขทะเบียนรถ,biển số xe,ໝາຍເລກທະບຽນລົດ,numéro d’immatriculation,ナンバープレート番号,차량 번호,номерной знак,Kfz‑Kennzeichen,matrícula
+记,jì,remember/bear in mind,จำ/จด,nhớ/ghi,ຈື່/ຈົດ,se souvenir/noter,覚える/書き留める,기억하다/적다,помнить/записывать,merken/notieren,recordar/anotar
+弄,nòng,do/manage/handle,ทำ/จัดการ/ทำให้,làm/xử lý/làm cho,ເຮັດ/ຈັດການ,faire/arranger,やる/いじる/〜にする,하다/만지다/~하게 하다,делать/возиться/сделать,machen/herumfummeln,hacer/arreglar
+丢,diū,lose,ทำหาย/หาย,làm mất/bị mất,ເຮັດຫາຍ/ຫາຍ,perdre,失くす/なくなる,잃어버리다,потерять,verlieren,perder
+恨,hèn,hate,เกลียดแค้น,hận/ghét cay ghét đắng,ເກງຊັງ/ເກຽດ,haïr/détester,憎む/恨む,미워하다/원망하다,ненавидеть,hassen,odiar
+果然,guǒrán,as expected/sure enough,จริงตามคาด,quả nhiên/đúng là,ແທ້ໆຕາມຄາດ,comme prévu/en effet,やはり/案の定,역시/과연,действительно/как и ожидалось,tatsächlich/wie erwartet,efectivamente/tal como se esperaba
+幸好,xìnghǎo,luckily/thankfully,โชคดีที่…,may mà,ໂຊກດີທີ່…,heureusement,幸い（にも）,다행히,к счастью,zum Glück,menos mal/por suerte
+谢,xiè,thank,ขอบคุณ/ขอบใจ,cảm ơn,ຂອບໃຈ,remercier/merci,ありがとう/感謝する,감사하다/고마워,благодарить/спасибо,danken/danke,gracias/agradecer
+经历,jīnglì,(countable) experience,ประสบการณ์ (เหตุการณ์),kinh nghiệm (trải qua),ປະສົບການ,expérience (vécu),経験/体験,경험(겪은 일),пережитое/опыт,Erlebnis/Erfahrung,experiencia (vivida)
+印象,yìnxiàng,impression,ความประทับใจ,ấn tượng,ຄວາມປະທັບໃຈ,impression,印象,인상,впечатление,Eindruck,impresión
+天津,Tiānjīn,Tianjin City,เทียนจิน,Thiên Tân,ເທຍນຈິນ,Tianjin,天津,톈진,Тяньцзинь,Tianjin,Tianjin
+信鸽,xìn gē,carrier pigeon/homer,นกพิราบสื่อสาร,bồ câu đưa thư,ນົກພິຮາບສົ່ງຂ່າວ,pigeon voyageur,伝書鳩,전서구/전서비둘기,почтовый голубь,Brieftaube,paloma mensajera
+家庭,jiātíng,family,ครอบครัว/บ้าน,gia đình,ຄອບຄົວ,famille,家庭,家庭/가정,семья,Familie/Haushalt,familia/hogar
+相识,xiāng shí,be acquainted with each other,รู้จักกัน,quen biết nhau,ຮູ້ຈັກກັນ,se connaître,知り合いである,서로 알다,быть знакомыми,miteinander bekannt sein,conocerse
+任何,rènhé,any,อะไรก็ได้/ใดๆ,bất kỳ,ໃດໆ/ຫຍັງກໍໄດ້,n’importe quel/quoi que ce soit,いかなる/どんな,어떠한/아무든지,какой угодно/любой,beliebig/jeder,cualquier
+唯一,wéi yī,only/sole,เพียงหนึ่ง/เพียงผู้เดียว,duy nhất,ພຽງແຕ່ອັນດຽວ,unique/le seul,唯一の,유일한,единственный,einzig/einziger,único
+相同,xiāng tóng,same,เหมือนกัน/เหมือนเดิม,giống nhau,ຄືກັນ,identique/le même,同じ/同一,같은/동일한,одинаковый/тождественный,identisch/gleich,idéntico/igual
+父子,fù zǐ,father and son,พ่อกับลูกชาย,cha và con trai,ພໍ່ກັບລູກຊາຍ,père et fils,父と子,부자(父子),отец и сын,Vater und Sohn,padre e hijo
+养,yǎng,keep/raise,เลี้ยง/ดูแล,nuôi/dưỡng,ລ້ຽງ/ດູແລ,élever/nourrir,飼う/育てる,기르다/키우다,растить/выращивать,aufziehen/züchten,criar/alimentar
+鸽子,gē zi,pigeon/dove,นกพิราบ,chim bồ câu,ນົກພິຮາບ,pigeon,ハト/鳩,비둘기,голубь,Taube,paloma
+心爱,xīn ài,treasured,ที่รัก/สุดโปรด,yêu quý/trân quý,ຮັກທີ່ສຸດ/ທີ່ຮັກ,chéri/préféré,いとしい/大好きな,사랑하는/아끼는,любимый/дорогой,lieb/geliebt,querido/favorito
+雨点,yǔ diǎn,raindrop,หยดฝน,giọt mưa,ຫຍອດຝົນ,goutte de pluie,雨粒/雨だれ,빗방울,капля дождя,Regentropfen,gota de lluvia
+比赛,bǐ sài,match/competition,การแข่งขัน/แข่ง,thi đấu/cuộc thi,ແຂ່ງຂັນ,match/compétition,試合/大会/コンテスト,시합/경기,матч/соревнование,Wettkampf/Spiel,partido/competición
+北上,běi shàng,go north,ขึ้นเหนือ/ไปทางเหนือ,đi lên phía bắc,ໄປທາງເໜືອ,monter vers le nord,北上する,북상하다/북쪽으로 가다,двигаться на север,nach Norden ziehen,ir hacia el norte
+安慰,ān wèi,comfort/console,ปลอบใจ/ปลอบ,an ủi/vỗ về,ປອບໃຈ,consoler/réconforter,慰める/なぐさめる,위로하다,утешать,trösten,consolar
+棒,bàng,great,สุดยอด/เจ๋ง,tuyệt/đỉnh,ເປັນຫຼາຍ/ເຢັ້ຍ,génial/super,すごい/最高,짱이야/최고,классно/отличный,super/toll,genial
+雷雨,léi yǔ,thunderstorm,พายุฝนฟ้าคะนอง,mưa giông/có sấm,ຝົນຄະນອງ/ມີຟ້າຮ້ອງ,orage,雷雨/かみなりを伴う雨,뇌우/천둥번개 비,гроза,Gewitter,tormenta eléctrica
+盼望,pàn wàng,long for,เฝ้ารอ/ตั้งตารอ,mong ngóng/trông đợi,ຄອຍຄອຍ/ຄາດຫວັງ,attendre avec impatience,待ち望む,간절히 기다리다,ждать с нетерпением,herbeisehnen/ersehnen,anhelar/esperar con ganas
+耐心,nài xīn,patient/with patience,ความอดทน/ใจเย็น,nhẫn nại/kiên nhẫn,ອົດທົນ/ໃຈເຢັນ,patience,忍耐/根気,인내심/참을성,терпение/терпеливо,Geduld,paciencia
+几乎,jī hū,almost/nearly,เกือบจะ,hầu như/gần như,ເກືອບຈະ,presque,ほとんど,거의,почти,fast/beinahe,casi
+抱,bào,cherish,กอด/อุ้ม/โอบ,ôm/bế,ກອດ/ອຸ້ມ,serrer dans ses bras/porter,抱く/抱きしめる,안다/껴안다,обнимать/нести на руках,umarmen/tragen,abrazar/cargar
+腿,tuǐ,leg,ขา,chân,ຂາ,jambe,脚（あし）,다리,нога,Bein,pierna
+受伤,shòu shāng,be injured/be wounded,บาดเจ็บ/เจ็บตัว,bị thương,ໄດ້ຮັບບາດເຈັບ,être blessé,けがをする/負傷する,부상당하다,получить травму,sich verletzen/verletzt werden,resultar herido
+受,shòu,suffer,ได้รับ/โดน,chịu/nhận,ໄດ້ຮັບ/ຖືກ,recevoir/subir,受ける/被る,받다/당하다,получать/подвергаться,erhalten/erleiden,recibir/padecer
+伤,shāng,injury,บาดแผล/อาการเจ็บ,vết thương/thương tích,ແຜ/ອາການເຈັບ,blessure,傷/けが,상처/부상,рана/повреждение,Wunde/Verletzung,herida/lesión
+飞落,fēi luò,alight/fly and land,บินลงมา/ร่วงลง,bay xuống/rơi xuống,ບິນລົງ/ຕົກລົງ,tomber en volant,舞い落ちる/飛び降りる,날아 떨어지다,слететь/упасть,herabfliegen/herunterfallen,caer volando
+阳台,yáng tái,balcony,ระเบียง,ban công,ລະເບຽງ,balcon,バルコニー,발코니,балкон,Balkon,balcón
+收养,shōu yǎng,adopt/take in and bring up,รับเลี้ยง/อุปการะ,nhận nuôi,ຮັບອຸປະຖຳ/ຮັບເລີ້ຽງ,adopter/recueillir,養子にする/引き取る,입양하다/거두다,усыновить/удочерить/приютить,adoptieren/aufnehmen,adoptar/acoger
+治,zhì,cure,รักษา/บำบัด,chữa/trị,ຮັກສາ,soigner/guérir,治す/治療する,치료하다/고치다,лечить/исцелять,behandeln/heilen,tratar/curar
+主人,zhǔ rén,owner/master,เจ้าของ/นาย,chủ/ông chủ,ເຈົ້າຂອງ/ນາຍ,propriétaire/maître,主人/持ち主,주인,хозяин,Besitzer/Hausherr,dueño/amo
+日子,rì zi,day/time,วันเวลา/ช่วงชีวิต,ngày tháng/cuộc sống,ວັນເວລາ/ຊ່ວງຊີວິດ,jours/période/vie,日々/暮らし,세월/삶/나날,дни/жизнь/быт,Tage/Lebenszeit,días/vida
+铃,líng,bell/ring,กระดิ่ง/ระฆัง,chuông,ກະດິ່ງ,clochette/sonnette,鈴/ベル,방울/벨,колокольчик/звонок,Glocke/Klingel,campanilla/timbre

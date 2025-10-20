@@ -1,0 +1,115 @@
+拨,bō,set (a clock/watch),ตั้ง/หมุน (นาฬิกา),vặn/chỉnh (đồng hồ),ປັບ/ໝຸນ (ນາລິກາ),régler/ajuster (une montre),（時計を）合わせる/回す,시계를 맞추다/돌리다,поставить/подкрутить (часы),die Uhr stellen,poner/ajustar (un reloj)
+当,dāng,act as/work as,ทำหน้าที่เป็น/เป็น,làm/đảm nhiệm (làm),ເຮັດໜ້າທີ່/ເປັນ,faire/occuper le poste de,務める/〜として働く,~로 일하다/~이 되다,быть/исполнять обязанности,als … sein/tätig sein,actuar como/ser
+经理,jīng lǐ,manager,ผู้จัดการ,quản lý/giám đốc,ຜູ້ຈັດການ,directeur/manager,マネージャー/経理,매니저/경리,менеджер/директор,Manager/Leiter,gerente/director
+秘书,mì shū,secretary,เลขา/เลขานุการ,thư ký,ເລຂາ,secrétaire,秘書,비서,секретарь,Sekretär/in,secretario/a
+优点,yōu diǎn,merit/strong point,ข้อดี/จุดเด่น,ưu điểm/điểm mạnh,ຂໍ້ດີ,qualité/point fort,長所/強み,장점,достоинство/сильная сторона,Stärke/Vorzug,ventaja/punto fuerte
+守时,shǒu shí,be on time/be punctual,ตรงเวลา/รักษาเวลา,đúng giờ,ຕົງເວລາ,ponctuel/tenir l’heure,時間を守る/時間厳守,시간을 잘 지키다,пунктуальный,pünktlich,puntual
+爱惜,ài xī,use sparingly/treasure,ถนอม/ทะนุถนอม/ใช้ประหยัด,quý/giữ gìn/tiết kiệm dùng,ຖະນຸຖະນອມ/ປະຫຍັດໃຊ້,épargner/prendre soin de,大切にする/惜しむ,아끼다/소중히 하다,беречь/ценить,schonen/wertschätzen,cuidar/valorar
+浪费,làng fèi,waste/squander,สิ้นเปลือง/ฟุ่มเฟือย,lãng phí,ເສຍເປົ່າ/ຟຸ່ມເຟືອຍ,gaspiller,無駄にする/浪費,낭비하다,тратить впустую/расточать,verschwenden,malgastar
+取得,qǔ dé,get/achieve,ได้มา/คว้า/บรรลุ,giành được/đạt được,ໄດ້ມາ/ບັນລຸ,obtenir/attendre,取得する/得る,획득하다/거두다,получить/добиться,erlangen/erzielen,obtener/lograr
+成功,chéng gōng,success,ความสำเร็จ/สำเร็จ,thành công,ຄວາມສຳເລັດ/ສຳເລັດ,succès/réussir,成功/うまくいく,성공/성공하다,успех/преуспеть,Erfolg/gelingen,éxito/tener éxito
+酒店,jiǔ diàn,hotel,โรงแรม,khách sạn,ໂຮງແຮມ,hôtel,ホテル,호텔,гостиница/отель,Hotel,hotel
+准时,zhǔn shí,punctual/on time/on schedule,ตรงเวลา,đúng giờ/đúng hẹn,ຕົງເວລາ,à l’heure/ponctuel,時間通り/定刻に,정시에/시간 맞춰,вовремя/пунктуально,pünktlich,puntual/a tiempo
+计算,jì suàn,estimate/calculate,คำนวณ/คิดเลข,tính toán,ຄຳນວນ,calculer,計算する,계산하다,вычислять/рассчитывать,berechnen,calcular
+需要,xū yào,need/want/require/demand/take,ต้องการ/จำเป็นต้อง,cần/cần thiết,ຕ້ອງການ/ຈຳເປັນ,avoir besoin de,必要だ/要る,필요하다/필요로 하다,нужно/требоваться,brauchen/benötigen,necesitar
+提前,tí qián,do (sth) in advance/ahead of time,ทำล่วงหน้า/เลื่อนให้เร็วขึ้น,làm trước/đi sớm hơn,ເຮັດລ່ວງໜ້າ,en avance/anticiper,前倒しする/早める,앞당기다/미리,заранее/перенести на раньше,vorziehen/vorab,anticipar/con antelación
+当时,dāng shí,at that time/then,ตอนนั้น/ในขณะนั้น,lúc đó/khi ấy,ເວລານັ້ນ,à ce moment‑là,当時/そのとき,당시/그때,в то время/тогда,damals/zu der Zeit,en aquel entonces
+下班,xià bān,get off work,เลิกงาน,tan làm,ເລີກວຽກ,rentrer du travail/finir le boulot,退勤する/仕事が終わる,퇴근하다,закончить работу,Feierabend machen,salir del trabajo
+堵车,dǔ chē,traffic jam,รถติด/ติดขัด,kẹt xe/tắc đường,ລົດຕິດ,embouteillage/bouchon,渋滞,교통 체증,пробка (на дороге),Stau,atasco
+放弃,fàng qì,give up,ยอมแพ้/เลิก,từ bỏ/bỏ cuộc,ຖອນຕົວ/ລະທິ້ງ,abandonner/laisser tomber,あきらめる/放棄する,포기하다,отказаться/бросить,aufgeben,renunciar/dejar
+乘,chéng,by (bus/car/train/plane/boat,โดยสาร/นั่ง (รถ/เรือฯ),đi bằng/cưỡi,ໂດຍ/ນັ່ງ (ພາຫະນະ),prendre (un moyen de transport),（乗り物に）乗る,타다,ездить на/плыть на,mit … fahren,ir en/tomar (transporte)
+一路,yī lù,all the way,ตลอดทาง/ตลอดเส้น,suốt dọc đường,ຕະຫຼອດທາງ,tout le long (du trajet),道中ずっと,내내/길 내내,всю дорогу,den ganzen Weg,todo el camino
+不满,bù mǎn,be dissatisfied/be discontented,ไม่พอใจ,bất mãn/không hài lòng,ບໍ່ພໍໃຈ,mécontent,不満だ,불만이다,недоволен,unzufrieden,insatisfecho
+解释,jiě shì,explain/explanation,อธิบาย/คำอธิบาย,giải thích,ອະທິບາຍ,expliquer/explication,説明/解釈,설명/해석,объяснять/объяснение,erklären/Erklärung,explicar/explicación
+难道,nán dào,used in a rhetorical question for emphasis,หรือว่า…(เน้นคำถาม),chẳng lẽ…,ຫຼືວ່າ… (ເນັ້ນຖາມ),est‑ce que… vraiment?,まさか…か,설마 …인가,неужели…,не etwa…?,¿acaso…?
+访问,fǎng wèn,visit,เยี่ยม/เยือน/สัมภาษณ์,thăm/viếng/thăm hỏi,ເຂົ້າໄປເບິ່ງ/ຢ້ຽມ,rendre visite/visiter,訪問する,방문하다,нанести визит,besuchen,visitar
+领导,lǐng dǎo,leader/boss,ผู้นำ/หัวหน้า,lãnh đạo,ຜູ້ນຳ/ຫົວໜ້າ,dirigeant/chef,指導者/リーダー,지도자/리더/상사,руководитель/начальство,Führungskraft/Leitung,líder/jefe
+客户,kè hù,customer/client,ลูกค้า,khách hàng,ລູກຄ້າ,client,顧客/クライアント,고객,клиент,Kunde/Klient,cliente
+好处,hǎo chu,benefit,ประโยชน์/ข้อได้เปรียบ,lợi ích/điểm tốt,ຜົນດີ/ປະໂຫຍດ,avantage/bienfait,利点/メリット,이점/장점,польза/выгода,Vorteil/Nutzen,ventaja/beneficio
+黑暗,hēi àn,dark/darkness,มืดมิด/ความมืด,tối tăm/bóng tối,ຄວາມມືດ,obscurité/sombre,暗闇/暗い,어둠/어두운,тьма/темнота,Dunkelheit,oscuridad
+扔,réng,throw/toss/throw away,โยน/ทิ้ง,ném/vứt,ໂຍນ/ຖິ້ມ,jeter/lancer,投げる/捨てる,던지다/버리다,бросать/выбрасывать,werfen/wegwerfen,tirar/botar
+眼镜,yǎn jìng,glasses,แว่นตา,kính (mắt),ແວ່ນຕາ,lunettes,眼鏡,안경,очки,Brille,gafas
+孤零零,gū líng líng,solitary/lonely,โดดเดี่ยว/เดียวดาย,cô độc/lẻ loi,ໂດດເດີ່ຍວ,esseulé/tout seul,ぽつんと/孤独な,외톨이로/쓸쓸히,одиноко/в одиночестве,einsam/verlassen,solo/aislado
+椅子,yǐ zi,chair,เก้าอี้,ghế,ເກົ້າອີ້,chaise,椅子,의자,стул,Stuhl,silla
+于是,yú shì,so/then/thereupon/hence,ก็เลย/ดังนั้นจึง,thế là/vậy là,ກໍເລີຍ/ດັ່ງນັ້ນ,alors/du coup,そこで/すると,그래서/그리하여,и тогда/вот,also/daraufhin,entonces/así que
+离开,lí kāi,leave/depart,จากไป/ออกจาก,rời/đi khỏi,ອອກຈາກ/ຈາກໄປ,quitter/partir,離れる/去る,떠나다/헤어지다,уехать/покинуть,verlassen/weggehen,irse/dejar
+长相,zhǎng xiàng,looks/features,หน้าตา/รูปร่างหน้าตา,dung mạo/diện mạo,ໜ້າຕາ/ໂລກໜ້າ,physionomie/traits,容姿/見た目,외모/생김새,внешность/черты лица,Aussehen,aspecto/rasgos
+情人,qíng rén,lover,คนรัก/แฟน,người yêu/tình nhân,ຄົນຮັກ/ຄູ່ຮັກ,amant(e),恋人/愛人,연인/애인,любимый/любовник(ца),Geliebte/r,amante/pareja
+感到,gǎn dào,feel/sense,รู้สึก/เกิดความรู้สึก,cảm thấy,ຮູ້ສຶກ,ressentir/se sentir,感じる,느끼다,чувствовать/испытывать,empfinden/fühlen,sentir
+十分,shí fēn,very/fully/completely,มากๆ/อย่างยิ่ง,rất,ຫຼາຍຫຼາຍ,très/pleinement,とても/十分に,매우/십분,очень/вполне,sehr,muy
+寂寞,jì mò,lonely,เหงา/เดียวดาย,cô đơn,ເຫງົາ,solitaire/seul,寂しい/さみしい,외롭다,одинокий,einsam,solo
+不知不觉,bù zhī bù jué,unconsciously/unwittingly,เผลอๆ/ไม่รู้ตัว,bất giác/vô thức,ໂດຍບໍ່ຮູ້ຕົວ,à son insu/sans s’en rendre compte,知らぬ間に/いつの間にか,부지불식간에/무심코,не заметив/неведомо как,unbemerkt,sin darse cuenta
+失望,shī wàng,lose hope/be disappointed,ผิดหวัง,thất vọng,ຜິດຫວັງ,déçu,失望する/がっかり,실망하다,разочароваться,enttäuscht sein,decepcionarse
+忽然,hū rán,suddenly/all of a sudden,จู่ๆ/ทันใดนั้น,bỗng nhiên/đột nhiên,ຈູ່ໆ/ກະທັນຫັນ,soudain/tout à coup,突然/ふいに,갑자기,вдруг/внезапно,plötzlich,de repente
+朝,cháo,facing/towards,หันหน้าไปทาง/มุ่งสู่,hướng về/nhìn về,ຫັນໜ້າໄປທາງ,en direction de/vers,〜に向かって,…을/를 향해,по направлению к,nach/gegen,hacia
+情人节,Qíng rén Jié,Valentine's Day,วันวาเลนไทน์,Ngày Lễ Tình nhân/Valentine,ວັນວາເລນໄທນ໌,Saint‑Valentin,バレンタインデー,발렌타인데이,День святого Валентина,Valentinstag,Día de San Valentín
+志愿者,zhì yuàn zhě,volunteer,อาสาสมัคร,tình nguyện viên,ອາສາສະຫມັກ,bénévole/volontaire,ボランティア,자원봉사자,волонтёр,Freiwillige/r,voluntario/a
+盲人,máng rén,blind person,คนตาบอด,người mù,ຄົນຕາບອດ,aveugle,盲人,시각장애인/맹인,слепой,Blinder,persona ciega
+放,fàng,show/play/project,ฉาย/เปิด/ปล่อย,chiếu/phát/mở,ສະແດງ/ເປີດ/ປ່ອຍ,projeter/passer/jouer,上映する/流す/かける,상영하다/틀다/놓다,показывать/включать/ставить,vorführen/abspielen/stellen,poner/proyectar
+即使,jí shǐ,even if,แม้ว่า/ถึงแม้,dẫu cho/cho dù,ເຖິງແມ່ນ,même si,たとえ…でも,비록 …일지라도,даже если,selbst wenn/auch wenn,aunque/aun si
+幕布,mù bù,cinema screen/(theater) curtain,ผ้าม่าน/จอหนัง,màn chiếu/màn sân khấu,ຜ້າມ່ານ/ຈໍ,rideau/écran (ciné),幕/スクリーン/緞帳,막/스크린/막장,занавес/экран,Vorhang/Leinwand,telón/pantalla
+花盆,huā pén,flowerpot,กระถางดอกไม้,chậu hoa,ກະຖາງດອກໄມ້,pot de fleurs,植木鉢,화분,цветочный горшок,Blumentopf,maceta
+鲜花,xiān huā,fresh flowers/flowers,ดอกไม้สด/ดอกไม้สวยๆ,hoa tươi,ດອກໄມ້ສົດ,fleurs fraîches,生花/生け花,생화/꽃다발,свежие цветы,frische Blumen,flores frescas
+左右,zuǒ yòu,(used after a numeral) about/around/or so,ประมาณ/ราวๆ,khoảng/độ chừng,ປະມານ/ຮາວໆ,environ/à peu près,〜くらい/前後,쯤/가량,около/примерно,etwa/ungefähr,alrededor de/aprox.
+话筒,huà tǒng,microphone,ไมโครโฟน,micro/mi‑crô,ໄມໂຄຣໂຟນ,microphone,マイク,마이크,микрофон,Mikrofon,micrófono
+讲解员,jiǎng jiě yuán,narrator,ผู้บรรยาย/ไกด์บรรยาย,thuyết minh viên,ຜູ້ບັນຍາຍ/ຄົນອະທິບາຍ,conférencier/guide‑conférencier,解説員/ナレーター,해설자/도슨트,экскурсовод/диктор,Erklärer/Guide,guía/locutor
+观众,guān zhòng,audience,ผู้ชม/คนดู,khán giả,ຜູ້ຊົມ,public/spectateurs,観客,관객,зрители,Publikum/Zuschauer,público/espectadores
+花香,huā xiāng,fragrance of flowers,กลิ่นหอมดอกไม้,hương hoa,ກິ່ນດອກໄມ້,parfum de fleurs,花の香り,꽃향기,аромат цветов,Blumenduft,aroma floral
+脚步声,jiǎo bù shēng,sound of footsteps,เสียงฝีเท้า,tiếng bước chân,ສຽງກ້າວທ້າວ,bruit de pas,足音,발소리,шаги (звук),Schritte (Geräusch),pasos (sonido)
+讲解,jiǎng jiě,explain/narrate,บรรยายอธิบาย,giảng giải/thuyết minh,ອະທິບາຍບັນຍາຍ,expliquer/narrer,解説する/説明する,해설하다/설명하다,объяснять/комментировать,erläutern/kommentieren,explicar/relatar
+画面,huà miàn,movie frame/frame,ภาพ/เฟรมภาพยนตร์,khung hình/cảnh phim,ຟໍ້າມ/ຟຣຣມຮູບ,image/plan (film),画面,화면/장면,кадр/изображение,Bild/Film‑Einstellung,plano/imagen
+山村,shān cūn,mountain village,หมู่บ้านภูเขา,làng miền núi,ບ້ານພູເຂົາ,village de montagne,山村/山あいの村,산촌/산골 마을,горная деревня,Bergdorf,pueblo de montaña
+部,bù,used of movies/books,(ลน.) เรื่อง/เล่ม/ตอน,bộ (lượng từ phim/sách),ຫົວ/ຕອນ (ລະຄອນ/ຮູບ),(classif.) film/livre,（映画・書籍の）本/部,편/부 (양사),(сч.) фильм/книга,(Zählwort) Film/Buch,(clas.) película/libro
+蔬菜,shū cài,vegetable,ผัก,rau,ຜັກ,légume(s),野菜,채소,овощи,Gemüse,verduras
+生命,shēng mìng,life/vitality,ชีวิต/ชีวา,sinh mệnh/sự sống,ຊີວິດ,vie,生命/いのち,생명/목숨,жизнь,Leben,vida
+似的,shì de,used after a noun/a pronoun/or a verb to indicate similarity,เหมือนกับ/คล้ายกับ,như/giống như,ຄືກັນ/ຄ້າຍກັນ,comme/à la manière de,〜のように,…처럼/…같이,словно/как будто,wie/als ob,como/como si
+点头,diǎn tóu,nod one's head/nod,พยักหน้า,gật đầu,ພະຍັກຫົວ,acquiescer/faire oui de la tête,うなずく,고개를 끄덕이다,кивнуть,nicken,asentir con la cabeza
+不时,bù shí,frequently/often,บ่อยๆ/เป็นระยะๆ,thỉnh thoảng/đôi lúc,ເປັນພັກໆ/ເທື່ອໆ,par moments/de temps à autre,ときおり/時々,이따금/수시로,время от времени,hin und wieder,de vez en cuando
+编,biān,weave/braid,สาน/ถัก/ถักเปีย,đan/dệt/bện,ສານ/ຖັກ/ຈັບປຽ,tresser/tisser,編む/織る,엮다/짜다,плести,flechten,tejer
+静,jìng,quiet/silent/calm/peaceful,เงียบสงบ/นิ่ง,tĩnh lặng/yên ắng,ສະງົບ/ນິ່ງ,calme/silencieux,静か/静けさ,고요하다/조용하다,тихий/покойный,still/ruhig,silencioso/tranquilo
+亲眼,qīn yǎn,(see) with one's own eyes,กับตาตัวเอง,tận mắt,ກັບຕາຕົວເອງ,de ses propres yeux,自分の目で,자기 눈으로/직접,собственными глазами,mit eigenen Augen,con mis propios ojos
+老奶奶,lǎo nǎi nai,(respectful form of address for old women used by children) grandma/granny,คุณยาย/ยายแก่ (คำสุภาพ),bà lão/“bà” (kính),ທ່ານຍ່າ/ຍາຍ (ສຸພາບ),grand‑mère (vénérable),おばあさん,할머니 (존칭),бабушка (уваж.),Großmutter/Oma,abuelita/señora mayor
+月光,yuè guāng,moonlight,แสงจันทร์,ánh trăng,ແສງເດືອນ,clair de lune,月光,달빛,лунный свет,Mondschein,luz de luna
+洒,sǎ,sprinkle/spill/spread,โปรย/สาด/โรย,rắc/đổ/rưới,ຫົດ/ສາດ/ໂຮຍ,asperger/verser,振りまく/降り注ぐ/注ぐ,뿌리다/끼얹다,брызгать/лить/посыпать,sprengen/streuen/gießen,rociar/derramar
+笔友,bǐ yǒu,pen-friend/pen pal,เพื่อนทางจดหมาย,bạn bút/pen‑pal,ໝູ່ທາງຈົດໝາຍ,correspondant(e),ペンフレンド,펜팔/편지 친구,друг по переписке,Brieffreund/in,amigo/a por carta
+说法,shuō fǎ,statement/view/argument,คำกล่าว/มุมมอง/วิธีพูด,cách nói/quan điểm,ວິທີເວົ້າ/ຄຳເວົ້າ/ຄວາມເຫັນ,formulation/avis,言い方/説,말하는 방식/설,формулировка/мнение,Auffassung/Art zu sagen,manera de decir/versión
+只有,zhǐ yǒu,only/alone,มีแต่…/เพียงแค่…,chỉ có,ມີແຕ່/ພຽງແຕ່,seulement/il n’y a que,〜しかない/〜のみ,…만 있다/…해야만,только/лишь,nur/allein,sólo/solamente
+通信,tōng xìn,communicate by letter/correspond,ติดต่อทางจดหมาย,liên lạc bằng thư,ຕິດຕໍ່ທາງຈົດໝາຍ,correspondre (par lettres),通信する/手紙のやりとり,서신 왕래하다/통신하다,переписываться,schriftlich korrespondieren,comunicarse por carta
+好,hǎo,in order to/so that,เพื่อที่จะ/เพื่อให้,để/nhằm,ເພື່ອທີ່ຈະ,afin de/pour que,〜するために,…하려고/…하도록,чтобы/для того чтобы,damit/um zu,para/para que
+粉色,fěn sè,pink,สีชมพู,màu hồng,ສີບົວ,rose/rose pâle,ピンク/桃色,분홍색/핑크,розовый (цвет),Rosa,rosa
+怦,pēng,pound/thump,ตุ้บตุ้บ/ตึกตัก,thình thịch (tim đập),ຕຶກຕັກ (ຫົວໃຈ),boum boum (battement),ドキドキ/ドンッ,쿵/두근두근,тах‑тах (биение),bumm‑bumm/pochen,pum‑pum (latir)
+情书,qíng shū,love letter,จดหมายรัก,thư tình,ຈົດໝາຍຮັກ,lettre d’amour,ラブレター,연애편지,любовное письмо,Liebesbrief,carta de amor
+地址,dì zhǐ,address,ที่อยู่,địa chỉ,ທີ່ຢູ່,adresse,住所,주소,адрес,Adresse,dirección
+陌生,mò shēng,strange/unfamiliar,แปลกหน้า/ไม่คุ้น,lạ lẫm/xa lạ,ແປກໜ້າ/ບໍ່ຄຸ້ນ,étranger/inconnu,見慣れない/よそよそしい,낯설다/익숙지 않다,незнакомый/чужой,fremd/unbekannt,desconocido/ajeno
+母语,mǔ yǔ,mother tongue,ภาษาแม่,tiếng mẹ đẻ,ພາສາແມ່,langue maternelle,母語,모국어,родной язык,Muttersprache,lengua materna
+优美,yōu měi,graceful/fine/exquisite/polished,ไพเราะ/งดงาม,duyên dáng/đẹp,ງາມ/ອ່ອນຊ້ອຍ,élégant/gracieux,優美な/上品な,우아하다/아름답다,изящный/красивый,elegant/anmutig,hermoso/elegante
+流畅,liú chàng,(of writing) easy and smooth,ลื่นไหล/อ่านสบาย,trôi chảy,ໄຫຼລື່ນ,fluide/coulant,流暢な/なめらか,유창하다/매끄럽다,гладкий/беглый,flüssig,fluido
+吃力,chī lì,requiring effort/laborious/strenuous,ออกแรง/เหนื่อยยาก,tốn sức/vất vả,ເຫນືອຍຫນັກ/ໃຊ້ແຮງ,pénible/laborieux,骨が折れる/しんどい,힘겹다/버겁다,тяжело/затратно,anstrengend,trabajoso/cansado
+礼貌,lǐ mào,polite/civil,มารยาท/สุภาพ,lịch sự/lễ phép,ມາລະຍາດ/ສຸພາບ,politesse/poli,礼儀/礼儀正しい,예의/예의 바르다,вежливость/вежливый,Höflichkeit/höflich,cortesía/educado
+曾经,céng jīng,ever/once,ครั้งหนึ่ง/เคย,từng/đã từng,ເຄີຍ,jadis/autrefois/đéjà,かつて/以前,언젠가/예전에,когда‑то/ранее,einst/früher,antes/en alguna ocasión
+提出,tí chū,put forward,เสนอ/ยื่นเสนอ,đề xuất/nêu ra,ຍື່ນ/ເສນອອກ,proposer/soulever,提起する/提案する,제시하다/제안하다,выдвинуть/поднять (вопрос),vorschlagen/vorbringen,presentar/proponer
+请求,qǐng qiú,request,คำร้อง/คำขอ,thỉnh cầu/yêu cầu,ຄຳຮ້ອງຂໍ,requête/demande,要請/リクエスト,요청/부탁,просьба/запрос,Bitte/Anfrage,solicitud/petición
+好在,hǎo zài,luckily,ยังดีที่…/โชคยังดี,may mà,ດີຢູ່ທີ່…,heureusement/heureusement que,幸い（にも）,다행히도,"хорошо, что…/к счастью",zum Glück,menos mal que…
+保持,bǎo chí,keep/maintain,รักษาไว้/คงไว้,giữ/duy trì,ຮັກສາ/ຮັກສາໃຫ້ຄົງ,maintenir/garder,保持する/維持する,유지하다/지키다,сохранять/поддерживать,beibehalten/aufrechterhalten,mantener/conservar
+包裹,bāo guǒ,parcel,พัสดุ/ห่อพัสดุ,bưu kiện/gói hàng,ພັດສະດຸ,colis/paquet,小包/小包み,소포/꾸러미,посылка/свёрток,Paket/Päckchen,paquete/bulto
+去世,qù shì,die/pass away,เสียชีวิต/ถึงแก่อสัญกรรม,qua đời,ເສຍຊີວິດ,décéder,亡くなる/逝去する,사망하다/별세하다,скончаться/умереть,versterben,fallecer/morir
+保存,bǎo cún,preserve/conserve/keep,เก็บรักษา/เก็บไว้,bảo tồn/lưu giữ,ຮັກສາໄວ້,conserver/garder,保存する,보존하다/저장하다,сохранять/сберегать,bewahren/speichern,guardar/conservar
+接受,jiē shòu,accept/admit/take in,ยอมรับ/รับ,chấp nhận/tiếp nhận,ຍອມຮັບ/ຮັບ,accepter/recevoir,受け入れる,받아들이다/수락하다,принимать/согласиться,akzeptieren/annehmen,aceptar/recibir
+死,sǐ,die,ตาย,chết,ຕາຍ,mourir,死ぬ,죽다,умереть,sterben,morir
+张,zhāng,used of human face/mouth,(ลน.) หน้า/ปาก,(lượng từ) khuôn mặt/miệng,(ລົງນາມ) ໜ້າ/ປາກ,(classif.) visage/bouche,（助数）顔/口,(양사) 얼굴/입,(сч.) лицо/рот,(Zählwort) Gesicht/Mund,(clas.) cara/boca
+仍然,réng rán,still/yet/as yet,ยังคง/ก็ยัง,vẫn/còn,ຍັງຄົງ,toujours/encore,依然として/相変わらず,여전히,по‑прежнему/всё ещё,nach wie vor/immer noch,todavía/aún
+亲手,qīn shǒu,with one's own hands/personally,ด้วยมือตัวเอง,tự tay/đích thân,ດ້ວຍມືຕົນເອງ,de ses propres mains,自分の手で,친히 손수,своими руками/лично,eigenhändig/persönlich,con sus propias manos
+汗水,hàn shuǐ,sweat,เหงื่อ,mồ hôi,ເຫງື່ອ,sueur,汗/汗水,땀,пот,Schweiß,sudor
+擦,cā,wipe with rags,เช็ด/ถู,lau/chùi,ເຊັດ/ຖູ,essuyer/frotter,拭く/こする,닦다/문지르다,вытирать/тереть,abwischen/reiben,limpiar/frotar
+了不起,liǎo bu qǐ,amazing,สุดยอด/เยี่ยมมาก,ghê gớm/tuyệt vời,ເຢັ້ຍຫຼາຍ,formidable/extra,すごい/たいした,대단하다,потрясающий/выдающийся,großartig,increíble/grandioso
+理解,lǐ jiě,understand/comprehend,เข้าใจ/เข้าใจถ่องแท้,hiểu/hiểu rõ,ເຂົ້າໃຈ,comprendre,理解する,이해하다,понимать,verstehen,entender/comprender
+劳动,láo dòng,labor/work,แรงงาน/ทำงาน,lao động/làm việc,ແຮງງານ/ເຮັດວຽກ,travail (manuel)/travailler,労働/働く,노동/일하다,труд/трудиться,Arbeit/arbeiten,trabajo/labrar
+永远,yǒng yuǎn,forever/always,ตลอดไป/ชั่วนิรันดร์,mãi mãi/vĩnh viễn,ຕະຫຼອດໄປ,pour toujours/à jamais,永遠に/ずっと,영원히,навсегда/вечно,für immer/ewig,para siempre
+人格,rén gé,dignity/personality,ศักดิ์ศรี/บุคลิกภาพ,nhân cách/phẩm giá,ກຽດສັກສີ/ບຸກຄະລິກ,dignité/personnalité,人格/品格,인격/품격,личность/достоинство,Würde/Charakter,dignidad/personalidad
+可怜,kě lián,pitiful,น่าสงสาร,đáng thương/tội nghiệp,ນ່າສົງສານ,piteux/à plaindre,可哀想だ,불쌍하다,жалкий/бедный,arm/erbärmlich,pobrecito/lastimoso
+尊敬,zūn jìng,respect/honor,เคารพ/นับถือ,tôn kính/kính trọng,ເຄົາລົບ,respecter/honorer,尊敬する/敬う,존경하다,уважать/почитать,respektieren/ehren,respetar/honrar
+纪念,jì niàn,souvenir/memorial,ระลึกถึง/ของที่ระลึก,kỷ niệm/vật lưu niệm,ລະນຶກ/ຂອງທີ່ລະນຶກ,commémorer/souvenir,記念/記念品,기념하다/기념품,помнить/сувенир,gedenken/Souvenir,conmemorar/recuerdo
+健全,jiàn quán,sound/healthy,สมบูรณ์/แข็งแรง (ระบบ/โครงสร้าง),kiện toàn/lành mạnh,ເຂັ້ມແຂງ/ມີສຸຂະພາບ (ລະບົບ),sain/solide,健全な,건전한/튼튼한,здоровый/устойчивый,gesund/tragfähig,sano/sólido
+健康,jiàn kāng,healthy/fit,สุขภาพดี/แข็งแรง,khỏe mạnh,ສຸຂະພາບດີ,en bonne santé,健康だ,건강하다,здоровый,gesund,saludable/sano
+帮助,bāng zhù,help/assist,ช่วยเหลือ/ช่วย,giúp đỡ,ຊ່ວຍເຫຼືອ,aider,助ける/助力,도와주다/도움,помогать/помощь,helfen/Hilfe,ayudar/ayuda
+感激,gǎn jī,be grateful/thankful,ซาบซึ้ง/ขอบคุณมาก,cảm kích/biết ơn,ຊຶ່ງໃຈ/ຂອບໃຈຫຼາຍ,ému/reconnaissant,感激する/ありがたく思う,감격/감사하다,быть благодарным,dankbar sein,agradecer/estar agradecido
