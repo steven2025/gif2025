@@ -59,21 +59,21 @@
 随便,suí biàn,at will,ตามสบาย/สุ่มๆก็ได้,tùy ý/tùy tiện,ຕາມສະບາຍ/ຈັດໂຕໄດ້,comme tu veux/à la légère,気ままに/適当に,아무렇게나/마음대로,как угодно/небрежно,wie du willst/irgendwie,como quieras/sin pensar mucho
 吸引,xī yǐn,attract,ดึงดูด,thu hút/hấp dẫn,ດຶງດູດ,attirer,引きつける,끌어당기다/매료하다,привлекать,anziehen,atraer
 关注,ɡuān zhù,pay close attention to,สนใจติดตาม/โฟกัส,quan tâm theo dõi,ຕິດຕາມໃສ່ໃຈ,suivre de près/s’intéresser à,関心を寄せる/注目する,관심을 갖다/주목하다,уделять внимание/следить,beobachten/im Blick haben,prestar atención/seguir
-遥远,yáo yuǎn,"faraway,",ไกลโพ้น,xa xôi,ໄກຫ່າງ,lointain/éloigné,遥か/遠い,아득히 먼,далёкий,fern/weit entfernt,lejano
-著名,zhù mínɡ,"famous;well-known,",มีชื่อเสียง/โด่งดัง,nổi tiếng,ມີຊື່ສຽງ,célèbre/renommé,著名な/有名な,저명한/유명한,знаменитый,berühmt,famoso
-教材,jiào cái,"teaching material,",ตำรา/สื่อการสอน,giáo trình/tài liệu giảng dạy,ຕຳລາ/ອຸປະກອນການສອນ,manuel/matériel pédagogique,教材/教科書,교재,учебные материалы,Lehrmaterial,material didáctico
-开设,kāi shè,"""offer(a course in college,etc.)"",",เปิดสอน/เปิด(หลักสูตร),mở (môn/khóa),ເປີດສອນ/ເປີດຫຼັກສູດ,ouvrir (un cours),（科目を）開設する,개설하다,открыть (курс),einrichten/eröffnen (Kurs),abrir (curso)
-失眠,shī mián,"suffer from insomnia;be unable to sleep,",นอนไม่หลับ,mất ngủ,ນອນບໍ່ຫຼັບ,insomnie,不眠/眠れない,불면증/잠이 안 오다,бессонница/не спать,Schlaflosigkeit,insomnio
-躺,tǎnɡ,"lie,",นอนราบ/เอนตัวลง,nằm,ນອນລາບ,s’allonger,横になる,눕다,лечь/лежать,sich hinlegen/liegen,tumbarse/yacer
-反复,fǎn fù,"repeatedly;again and again,",ซ้ำๆ/ย้ำไปมา,lặp đi lặp lại,ຊໍ້າໆ,à plusieurs reprises,何度も/繰り返し,반복해서,неоднократно/повторно,wiederholt,repetidamente
-忍不住,rěn bú zhù,"cannot help doing sth.,",กลั้นไม่อยู่/อดไม่ไหว,không nhịn được/không kìm được,ອົດບໍ່ໄດ້,ne pas se retenir,思わず/こらえきれない,참지 못하다,не удержаться/невозможно сдержаться,sich nicht halten können,no poder evitar
-拨通,bō tōnɡ,"reach sb.by phone,",โทรติด/ต่อสายติด,gọi thông máy,ໂທຕິດ,joindre (au téléphone),電話がつながる,전화를 연결하다,дозвониться,durchkommen (Telefon),comunicarse (teléfono)
-早已,zǎo yǐ,"already,",ตั้งนานแล้ว/มานาน,đã…từ lâu,ດົນແລ້ວ,depuis longtemps,とっくに/ずっと前から,진작에/이미 오래 전,давным-давно/уже давно,schon lange,desde hace mucho
-一再,yí zài,"repeatedly;again and again,",ซ้ำแล้วซ้ำอีก,hết lần này đến lần khác,ຊ້ຳແລ້ວຊ້ຳອີກ,à maintes reprises,再三/何度も,거듭/누누이,неоднократно,wieder und wieder,una y otra vez
-表达,biǎo dá,"express(one's ideas or feelings),",ถ่ายทอด/แสดงออก,biểu đạt/bày tỏ,ສະແດງອອກ,exprimer,表現する/表す,표현하다,выражать,ausdrücken,expresar
-招,zhāo,"recruit;enroll,",รับคน/รับสมัคร,tuyển/chiêu mộ,ຮັບຄົນ/ຮັບນັກຮຽນ,recruter/engager,募集する/採る,모집하다/채용하다,набирать/принимать,rekrutieren/anheuern,reclutar/inscribir
-何必,hé bì,"there is no need;why,",จะไปทำไม/ไม่เห็นจำเป็น,hà tất/việc gì phải,ຈະໄປເຮັດເພາະຫຍັງ/ບໍ່ຈໍາເປັນ,à quoi bon,何も…することはない,굳이 … 할 필요 없다,к чему/зачем,wozu denn,para qué
-简直,jiǎn zhí,"simply;just,",เรียกได้ว่า/แทบจะ,quả là/thật là/đúng là,ແທ້ໆ/ຈິງໆ,tout simplement,まるで/まったく,그야말로/정말로,просто-напросто/совсем,einfach nur,simplemente/verdaderamente
+遥远,yáo yuǎn,faraway,ไกลโพ้น,xa xôi,ໄກຫ່າງ,lointain/éloigné,遥か/遠い,아득히 먼,далёкий,fern/weit entfernt,lejano
+著名,zhù mínɡ,famous/well-known,มีชื่อเสียง/โด่งดัง,nổi tiếng,ມີຊື່ສຽງ,célèbre/renommé,著名な/有名な,저명한/유명한,знаменитый,berühmt,famoso
+教材,jiào cái,teaching material,ตำรา/สื่อการสอน,giáo trình/tài liệu giảng dạy,ຕຳລາ/ອຸປະກອນການສອນ,manuel/matériel pédagogique,教材/教科書,교재,учебные материалы,Lehrmaterial,material didáctico
+开设,kāi shè,offer(a course in college,etc.),เปิดสอน/เปิด(หลักสูตร),mở (môn/khóa),ເປີດສອນ/ເປີດຫຼັກສູດ,ouvrir (un cours),（科目を）開設する,개설하다,открыть (курс),einrichten/eröffnen (Kurs),abrir (curso)
+失眠,shī mián,suffer from insomnia/be unable to sleep,นอนไม่หลับ,mất ngủ,ນອນບໍ່ຫຼັບ,insomnie,不眠/眠れない,불면증/잠이 안 오다,бессонница/не спать,Schlaflosigkeit,insomnio
+躺,tǎnɡ,lie,นอนราบ/เอนตัวลง,nằm,ນອນລາບ,s’allonger,横になる,눕다,лечь/лежать,sich hinlegen/liegen,tumbarse/yacer
+反复,fǎn fù,repeatedly/again and again,ซ้ำๆ/ย้ำไปมา,lặp đi lặp lại,ຊໍ້າໆ,à plusieurs reprises,何度も/繰り返し,반복해서,неоднократно/повторно,wiederholt,repetidamente
+忍不住,rěn bú zhù,cannot help doing sth,กลั้นไม่อยู่/อดไม่ไหว,không nhịn được/không kìm được,ອົດບໍ່ໄດ້,ne pas se retenir,思わず/こらえきれない,참지 못하다,не удержаться/невозможно сдержаться,sich nicht halten können,no poder evitar
+拨通,bō tōnɡ,reach sb by phone,โทรติด/ต่อสายติด,gọi thông máy,ໂທຕິດ,joindre (au téléphone),電話がつながる,전화를 연결하다,дозвониться,durchkommen (Telefon),comunicarse (teléfono)
+早已,zǎo yǐ,already,ตั้งนานแล้ว/มานาน,đã…từ lâu,ດົນແລ້ວ,depuis longtemps,とっくに/ずっと前から,진작에/이미 오래 전,давным-давно/уже давно,schon lange,desde hace mucho
+一再,yí zài,repeatedly/again and again,ซ้ำแล้วซ้ำอีก,hết lần này đến lần khác,ຊ້ຳແລ້ວຊ້ຳອີກ,à maintes reprises,再三/何度も,거듭/누누이,неоднократно,wieder und wieder,una y otra vez
+表达,biǎo dá,express(one's ideas or feelings),ถ่ายทอด/แสดงออก,biểu đạt/bày tỏ,ສະແດງອອກ,exprimer,表現する/表す,표현하다,выражать,ausdrücken,expresar
+招,zhāo,recruit/enroll,รับคน/รับสมัคร,tuyển/chiêu mộ,ຮັບຄົນ/ຮັບນັກຮຽນ,recruter/engager,募集する/採る,모집하다/채용하다,набирать/принимать,rekrutieren/anheuern,reclutar/inscribir
+何必,hé bì,there is no need/why,จะไปทำไม/ไม่เห็นจำเป็น,hà tất/việc gì phải,ຈະໄປເຮັດເພາະຫຍັງ/ບໍ່ຈໍາເປັນ,à quoi bon,何も…することはない,굳이 … 할 필요 없다,к чему/зачем,wozu denn,para qué
+简直,jiǎn zhí,simply/just,เรียกได้ว่า/แทบจะ,quả là/thật là/đúng là,ແທ້ໆ/ຈິງໆ,tout simplement,まるで/まったく,그야말로/정말로,просто-напросто/совсем,einfach nur,simplemente/verdaderamente
 灰心,huī xīn,"lose heart;be discouraged,",ท้อใจ/หมดกำลังใจ,nản lòng,ທ້ອຍໃຈ,perdre courage,落ち込む/くじける,낙담하다,падать духом,mutlos werden,desanimarse
 怪不得,ɡuài bu de,"no wonder,",มิน่าล่ะ/ไม่น่าแปลกใจ,thảo nào/chẳng trách,ບໍ່ນ່າແປກໃຈ/ວ່າແລ້ວ,pas étonnant/forcément,どうりで/なるほど,어쩐지/그럴 만도,неудивительно/вот почему,kein Wunder/na klar,con razón/no me extraña
 天书,tiān shū,"abstruse or illegible writing,",หนังสือเทพ/อ่านไม่ออกสักนิด,thiên thư/khó hiểu như chữ trời,ໜັງສືຟ້າ/ອ່ານບໍ່ອອກ,écriture incompréhensible,チンプンカンプンの文,천서/뚱딴지 같은 글,заумный текст/абракадабра,unleserliche Schrift,galimatías/indescifrable
