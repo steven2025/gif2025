@@ -6,29 +6,29 @@
 敬酒,jìnɡ jiǔ,propose a toast,ยกแก้วอวยพร/ชนแก้ว,nâng ly chúc/đi mời rượu,ຍົກແກ້ວອວຍພອນ,porter un toast,乾杯のあいさつをする,건배하다/돌잔치식 건배,поднять тост,einen Toast ausbringen,brindar
 贺卡,hè kǎ,greeting card,การ์ดอวยพร,thiệp chúc mừng,ບັດອວຍພອນ,carte de vœux,グリーティングカード,축하 카드,поздравительная открытка,Glückwunschkarte,tarjeta de felicitación
 神秘,shén mì,mysterious,ลึกลับ,huyền bí/bí ẩn,ລັບລຶກ/ລຶກລັບ,mystérieux,神秘的,신비로운,таинственный,mysteriös,misterioso
-护身符,hù shēn fú,"amulet,",เครื่องราง/ของขลัง,bùa hộ mệnh/bùa,ເຄື່ອງລາງ/ຄອງຂັງ,amulette/porte‑bonheur,お守り,부적/호신부,амулет/оберег,Amulett/Talisman,amuleto/talismán
-说明,shuō mínɡ,"show;indicate,",อธิบาย/ชี้แจง/แสดงให้เห็น,giải thích/chứng minh/cho thấy,ອະທິບາຍ/ສະແດງໃຫ້ເຫັນ,expliquer/indiquer,説明する/示す,설명하다/보여 주다,объяснять/показывать,erklären/zeigen,explicar/indicar
-反正,fǎn zhènɡ,"anyway;anyhow,",อย่างไรก็เถอะ/ยังไงซะ,dù sao thì/dù gì thì,ຈັງໃດກໍຕາມ/ຢັງໄງກໍ່ຕາມ,de toute façon,どうせ/いずれにせよ,어차피/아무튼,всё равно/так или иначе,sowieso/ohnehin,de todas formas
-掏,tāo,"draw out,",ควัก/ล้วงออก,móc/khui ra,ຄວັກ/ລ້ວງອອກ,tirer/sortir (de la poche),取り出す/掘り出す,꺼내다/후벼내다,вытащить/вынуть,herausziehen,sacar
-塞,sài,"stuff into,",ยัด/อัด/อุด,nhét/nhồi,ຍັດ/ອັດ,fourrer/bourrer/boucher,詰め込む/詰める,꽉 넣다/막다,засунуть/заткнуть,stopfen/verstopfen,meter/atascar
-穷鬼,qiónɡ ɡuǐ,"(a contemptuous form of address)the poor,",ไอ้จน/คนจนกรอบ (สำนวน),đồ nghèo rớt/đồ bần cùng,ຄົນຈົນຈັດ (ສຳນວນ),pauvre type (fam.),貧乏人め（俗）,가난뱅이 (속어),нищеброд (разг.),arm Schlucker (ugs.),pobre diablo (col.)
-物价,wù jià,"price of commodities,",ราคาสินค้า/ค่าครองชีพ,giá cả hàng hóa,ລາຄາສິນຄ້າ/ຄ່າຄອງຊີບ,prix des marchandises,物価,물가,цены/стоимость жизни,Warenpreise/Preisniveau,precios (de bienes)
-惊喜,jīnɡ xǐ,"pleasant surprise,",เซอร์ไพรส์ที่ดีใจ/ดีใจจนแปลกใจ,bất ngờ vui/niềm vui bất ngờ,ປະຫລາດໃຈຢ່າງດີ/ດີໃຈປະຫລາດ,agréable surprise,うれしい驚き,기분 좋은 놀람,приятный сюрприз,freudige Überraschung,grata sorpresa
-轻松,qīnɡ sōnɡ,"relaxed,",ผ่อนคลาย/สบาย ๆ,thoải mái/nhẹ nhõm,ຜ່ອນຄາຍ/ສະບາຍໆ,détendu/à l’aise,気楽だ/リラックス,편안하다/느긋하다,расслабленный/легко,entspannt/locker,relajado/tranquilo
-待,dài,"stay,",พักอยู่/ค้าง/อยู่ต่อ,lưu lại/ở lại,ຢູ່ພັກ/ຢູ່ຕໍ່,rester/séjourner,滞在する/とどまる,머무르다/체류하다,оставаться/пребывать,bleiben/verweilen,quedarse
-似乎,sì hū,"as if;it seems,",ดูเหมือนว่า/ราวกับว่า,hình như/có vẻ như,ຄ້າຍວ່າ/ເຫມືອນວ່າ,il semble que/comme si,〜のようだ/…らしい,…인 듯하다/…같다,кажется/словно,scheint als ob,parece que
-在乎,zài hū,"care about,",แคร์/ใส่ใจ,bận tâm/để ý,ໃສ່ໃຈ/ກັງວົນ,se soucier de/tenir à,気にする/気にかける,상관하다/신경 쓰다,переживать/иметь значение,sich kümmern um/etw. wichtig nehmen,importar/preocuparse por
-面子,miàn zǐ,"face;reputation,",หน้า/ศักดิ์ศรี,thể diện/danh dự,ໜ້າ/ກຽດສັກສີ,la face/l’honneur,メンツ/体面,체면/체통,лицо/репутация (имидж),Gesicht/Ehre/Ansehen,cara/honor/reputación
-偶尔,ǒu ěr,"occasionally,",บางครั้ง/เป็นครั้งคราว,đôi khi/thỉnh thoảng,ເປັນບາງຄັ້ງ,occasionnellement/parfois,たまに/ときどき,가끔/이따금,иногда/изредка,gelegentlich,de vez en cuando
-环境,huán jìnɡ,"surroundings;environment,",สิ่งแวดล้อม/บรรยากาศโดยรอบ,môi trường/hoàn cảnh xung quanh,ສິ່ງແວດລ້ອມ,environnement,環境,환경,окружающая среда,Umwelt/Umgebung,entorno/medio ambiente
-优雅,yōu yǎ,"elegant,",สง่างาม/ดูดีมีระดับ,thanh nhã/tao nhã,ສົມາດ/ອ່ອນຊ້ອຍ,élégant,優雅な/エレガント,우아한/고급스러운,изящный/элегантный,elegant,elegante
-抢,qiǎnɡ,"try to be the first,",แย่ง/รีบคว้า,giành/giật lấy,ແຍ່ງ/ຄວ້າກ່ອນ,se précipiter pour prendre,奪い合う/先に取る,빼앗다/먼저 차지하다,отхватить/урвать/опережать,wegreißen/sich schnappen,arrebatar/coger primero
-撕,sī,"tear;rip,",ฉีก/ดึงขาด,xé/rách,ຉີກ/ດຶງຂາດ,déchirer,破る/引き裂く,찢다,рвать/разорвать,zerreißen,rasgar
-价签,jià qiān,"price tag,",ป้ายราคา/ป้ายติดราคา,nhãn giá/tem giá,ປ້າຍລາຄາ,étiquette de prix,値札/プライスタグ,가격표,ценник/бирка с ценой,Preisschild,etiqueta de precio
-花招,huā zhāo,"trick,",ลูกเล่น/มุก/เล่ห์กล,mánh khóe/chiêu trò,ເລ່ຫ໌ກອນ/ລູກຫຼິ້ນ,astuce/tour,手口/トリック,속임수/꼼수,хитрый приём/уловка,Trick/Kniff,truco/treta
-马虎,mǎ hu,"careless,",สะเพร่า/ไม่ละเอียด,cẩu thả/qua loa,ສະເພີ່ຍ/ບໍ່ລະອຽດ,négligent/à l’arrache,いい加減/雑,대충대충/허술한,небрежный/спустя рукава,schlampig/nachlässig,descuidado
-传统,chuán tǒnɡ,"tradition,",ดั้งเดิม/ตามประเพณี,truyền thống,ດັ້ງເດີມ/ຕາມປະເພນີ,traditionnel,伝統的な,전통적인,традиционный,traditionell,tradicional
-评价,pínɡ jià,"evaluate;assess,",ประเมิน/ให้คะแนน,đánh giá/bình giá,ປະເມີນ/ໃຫ້ຄ່າ,évaluer/apprécier,評価する,평가하다,оценивать,bewerten,evaluar
+护身符,hù shēn fú,amulet,เครื่องราง/ของขลัง,bùa hộ mệnh/bùa,ເຄື່ອງລາງ/ຄອງຂັງ,amulette/porte‑bonheur,お守り,부적/호신부,амулет/оберег,Amulett/Talisman,amuleto/talismán
+说明,shuō mínɡ,show/indicate,อธิบาย/ชี้แจง/แสดงให้เห็น,giải thích/chứng minh/cho thấy,ອະທິບາຍ/ສະແດງໃຫ້ເຫັນ,expliquer/indiquer,説明する/示す,설명하다/보여 주다,объяснять/показывать,erklären/zeigen,explicar/indicar
+反正,fǎn zhènɡ,anyway/anyhow,อย่างไรก็เถอะ/ยังไงซะ,dù sao thì/dù gì thì,ຈັງໃດກໍຕາມ/ຢັງໄງກໍ່ຕາມ,de toute façon,どうせ/いずれにせよ,어차피/아무튼,всё равно/так или иначе,sowieso/ohnehin,de todas formas
+掏,tāo,draw out,ควัก/ล้วงออก,móc/khui ra,ຄວັກ/ລ້ວງອອກ,tirer/sortir (de la poche),取り出す/掘り出す,꺼내다/후벼내다,вытащить/вынуть,herausziehen,sacar
+塞,sài,stuff into,ยัด/อัด/อุด,nhét/nhồi,ຍັດ/ອັດ,fourrer/bourrer/boucher,詰め込む/詰める,꽉 넣다/막다,засунуть/заткнуть,stopfen/verstopfen,meter/atascar
+穷鬼,qiónɡ ɡuǐ,(a contemptuous form of address)the poor,ไอ้จน/คนจนกรอบ (สำนวน),đồ nghèo rớt/đồ bần cùng,ຄົນຈົນຈັດ (ສຳນວນ),pauvre type (fam.),貧乏人め（俗）,가난뱅이 (속어),нищеброд (разг.),arm Schlucker (ugs.),pobre diablo (col.)
+物价,wù jià,price of commodities,ราคาสินค้า/ค่าครองชีพ,giá cả hàng hóa,ລາຄາສິນຄ້າ/ຄ່າຄອງຊີບ,prix des marchandises,物価,물가,цены/стоимость жизни,Warenpreise/Preisniveau,precios (de bienes)
+惊喜,jīnɡ xǐ,pleasant surprise,เซอร์ไพรส์ที่ดีใจ/ดีใจจนแปลกใจ,bất ngờ vui/niềm vui bất ngờ,ປະຫລາດໃຈຢ່າງດີ/ດີໃຈປະຫລາດ,agréable surprise,うれしい驚き,기분 좋은 놀람,приятный сюрприз,freudige Überraschung,grata sorpresa
+轻松,qīnɡ sōnɡ,relaxed,ผ่อนคลาย/สบาย ๆ,thoải mái/nhẹ nhõm,ຜ່ອນຄາຍ/ສະບາຍໆ,détendu/à l’aise,気楽だ/リラックス,편안하다/느긋하다,расслабленный/легко,entspannt/locker,relajado/tranquilo
+待,dài,stay,พักอยู่/ค้าง/อยู่ต่อ,lưu lại/ở lại,ຢູ່ພັກ/ຢູ່ຕໍ່,rester/séjourner,滞在する/とどまる,머무르다/체류하다,оставаться/пребывать,bleiben/verweilen,quedarse
+似乎,sì hū,as if/it seems,ดูเหมือนว่า/ราวกับว่า,hình như/có vẻ như,ຄ້າຍວ່າ/ເຫມືອນວ່າ,il semble que/comme si,〜のようだ/…らしい,…인 듯하다/…같다,кажется/словно,scheint als ob,parece que
+在乎,zài hū,care about,แคร์/ใส่ใจ,bận tâm/để ý,ໃສ່ໃຈ/ກັງວົນ,se soucier de/tenir à,気にする/気にかける,상관하다/신경 쓰다,переживать/иметь значение,sich kümmern um/etw. wichtig nehmen,importar/preocuparse por
+面子,miàn zǐ,face/reputation,หน้า/ศักดิ์ศรี,thể diện/danh dự,ໜ້າ/ກຽດສັກສີ,la face/l’honneur,メンツ/体面,체면/체통,лицо/репутация (имидж),Gesicht/Ehre/Ansehen,cara/honor/reputación
+偶尔,ǒu ěr,occasionally,บางครั้ง/เป็นครั้งคราว,đôi khi/thỉnh thoảng,ເປັນບາງຄັ້ງ,occasionnellement/parfois,たまに/ときどき,가끔/이따금,иногда/изредка,gelegentlich,de vez en cuando
+环境,huán jìnɡ,surroundings/environment,สิ่งแวดล้อม/บรรยากาศโดยรอบ,môi trường/hoàn cảnh xung quanh,ສິ່ງແວດລ້ອມ,environnement,環境,환경,окружающая среда,Umwelt/Umgebung,entorno/medio ambiente
+优雅,yōu yǎ,elegant,สง่างาม/ดูดีมีระดับ,thanh nhã/tao nhã,ສົມາດ/ອ່ອນຊ້ອຍ,élégant,優雅な/エレガント,우아한/고급스러운,изящный/элегантный,elegant,elegante
+抢,qiǎnɡ,try to be the first,แย่ง/รีบคว้า,giành/giật lấy,ແຍ່ງ/ຄວ້າກ່ອນ,se précipiter pour prendre,奪い合う/先に取る,빼앗다/먼저 차지하다,отхватить/урвать/опережать,wegreißen/sich schnappen,arrebatar/coger primero
+撕,sī,tear;rip,ฉีก/ดึงขาด,xé/rách,ຉີກ/ດຶງຂາດ,déchirer,破る/引き裂く,찢다,рвать/разорвать,zerreißen,rasgar
+价签,jià qiān,price tag,ป้ายราคา/ป้ายติดราคา,nhãn giá/tem giá,ປ້າຍລາຄາ,étiquette de prix,値札/プライスタグ,가격표,ценник/бирка с ценой,Preisschild,etiqueta de precio
+花招,huā zhāo,trick,ลูกเล่น/มุก/เล่ห์กล,mánh khóe/chiêu trò,ເລ່ຫ໌ກອນ/ລູກຫຼິ້ນ,astuce/tour,手口/トリック,속임수/꼼수,хитрый приём/уловка,Trick/Kniff,truco/treta
+马虎,mǎ hu,careless,สะเพร่า/ไม่ละเอียด,cẩu thả/qua loa,ສະເພີ່ຍ/ບໍ່ລະອຽດ,négligent/à l’arrache,いい加減/雑,대충대충/허술한,небрежный/спустя рукава,schlampig/nachlässig,descuidado
+传统,chuán tǒnɡ,tradition,ดั้งเดิม/ตามประเพณี,truyền thống,ດັ້ງເດີມ/ຕາມປະເພນີ,traditionnel,伝統的な,전통적인,традиционный,traditionell,tradicional
+评价,pínɡ jià,evaluate/assess,ประเมิน/ให้คะแนน,đánh giá/bình giá,ປະເມີນ/ໃຫ້ຄ່າ,évaluer/apprécier,評価する,평가하다,оценивать,bewerten,evaluar
 就算,jiù suàn,"even if,",ต่อให้/แม้ว่า,cho dù/dẫu cho,ຕໍ່ໃຫ້/ແມ້ວ່າ,même si/quand bien même,たとえ…でも,설령 …라도,пусть даже/даже если,selbst wenn/auch wenn,aunque/incluso si
 能力,nénɡ lì,"ability,",ความสามารถ,năng lực/khả năng,ຄວາມສາມາດ,capacité/aptitude,能力,능력,способность/умение,Fähigkeit,capacidad
 强,qiánɡ,"strong,",แข็งแรง/เก่ง/แกร่ง,mạnh/giỏi,ແຂງແຮງ/ເກັ່ງ,fort/puissant,強い,강하다/세다,сильный,stark,fuerte
