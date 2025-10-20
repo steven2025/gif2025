@@ -99,7 +99,7 @@
 纪念品,jìniànpǐn,souvenir / keepsake,ของที่ระลึก,đồ lưu niệm,ຂອງທີ່ລະນຶກ,souvenir,記念品,기념품,сувенир,Souvenir,recuerdo
 美丽,měilì,beautiful,สวยงาม,đẹp,ງາມ/ສວຍງາມ,beau/belle,美しい,아름답다,красивый/прекрасный,schön,hermoso/bello
 耳朵,ěrduo,ear,หู,tai,ຫູ,oreille,耳,귀,ухо,Ohr,oreja
-不如,bùrú,be inferior to,สู้…ไม่ได้/ไม่เท่า,không bằng/không bằng …,ບໍ່ເທົ່າ/ສູ້…ບໍ່ໄດ້,moins bon que/ne pas aussi … que,〜に及ばない/…ほどではない,…만 못하다/…보다 못하다,"уступать/хуже, чем",nicht so … wie,no tan … como
+不如,bùrú,be inferior to,สู้…ไม่ได้/ไม่เท่า,không bằng/không bằng …,ບໍ່ເທົ່າ/ສູ້…ບໍ່ໄດ້,moins bon que/ne pas aussi … que,〜に及ばない/…ほどではない,…만 못하다/…보다 못하다,"уступать/хуже/чем",nicht so … wie,no tan … como
 微笑,wēixiào,smile,ยิ้มบางๆ/ยิ้มเล็กน้อย,mỉm cười,ຍິ້ມນ້ອຍໆ,sourire (légèrement),ほほえむ/微笑,미소 짓다/살짝 웃다,улыбаться (слегка),lächeln,sonreír
 额头,étóu,forehead,หน้าผาก,trán,ໜ້າຜາກ,front,額/ひたい,이마,лоб,Stirn,frente
 轻,qīng,light / gentle,เบา/อ่อน,nhẹ,ເບົາ/ອ່ອນ,léger/doux,軽い/やさしい,가볍다/부드럽다,лёгкий/нежный,leicht/sanft,ligero/suave
