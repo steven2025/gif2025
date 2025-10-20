@@ -1,0 +1,79 @@
+留学生,liú xué shēng,student studying abroad,นักเรียนต่างชาติ/นักศึกษาต่างชาติ,du học sinh/sinh viên quốc tế,ນັກຮຽນຕ່າງປະເທດ,étudiant(e) étranger(ère),留学生,유학생,иностранный студент,ausländische(r) Studierende(r),estudiante extranjero/a
+她,tā,she/her,她 เธอ/หล่อน,cô ấy/nàng,ນາງ/ນາງຄົນນັ້ນ,elle,彼女,그녀,она,sie (3. Pers. Sg.),ella
+学习,xué xí,learn/study,เรียน/ศึกษา,học/tự học,ຮຽນ/ສຶກສາ,étudier/apprendre,学ぶ/勉強する,공부하다/학습하다,учиться/изучать,lernen/studieren,estudiar/aprender
+他们,tā men,they/them,พวกเขา/เขา ๆ,họ,ພວກເຂົາ,ils/eux,彼ら/彼女ら,그들,они,sie (3. Pers. Pl.),ellos/ellas
+们,men,used to form a plural number when added to a personal pronoun or a noun,(คำเติมพหูพจน์),hậu tố số nhiều,ຄຳຕິດທ້າຍພະຫູພົດ,suffixe du pluriel,複数を表す接尾辞,복수를 만드는 접미사,суффикс множественного числа,Plural‑Suffix,sufijo de plural
+一起,yì qǐ,together,ด้วยกัน/ร่วมกัน,cùng nhau,ດ້ວຍກັນ,ensemble,一緒に,함께,вместе,zusammen,juntos/junt@s
+上课,shàng kè,attend class/go to class/have class,เข้าเรียน/มีคาบเรียน,đi học/có tiết học,ເຂົ້າຮຽນ/ມີຊົ່ວໂມງ,aller en cours/avoir cours,授業を受ける/授業がある,수업에 가다/수업하다,ходить на занятия/идти на урок,zum Unterricht gehen/Unterricht haben,asistir a clase/tener clase
+说,shuō,speak/say/talk,พูด/กล่าว,nói,ເວົ້າ,parler/dire,言う/話す,말하다,говорить/сказать,sprechen/sagen,hablar/decir
+吗,ma,used at the end of a question,ไหม (คำลงท้ายคำถาม),mà/đấy à? (trợ từ nghi vấn),ບໍ? (ຄຳຊ່ວຍຖາມ),particule interrogative,疑問の語気詞「吗」,의문 조사 ‘마’,вопросительная частица,Fragepartikel,partícula interrogativa
+不,bù,not/no,ไม่/ไม่ใช่,không,ບໍ່,non/pas,不/〜ない,아니/안/않,не/нет,nicht/nein,no
+日语,Rì yǔ,Japanese (language),ภาษาญี่ปุ่น,tiếng Nhật,ພາສາຍີ່ປຸ່ນ,japonais (langue),日本語,일본어,японский (язык),Japanisch,japonés (idioma)
+韩语,Hányǔ,Korean (language),ภาษาเกาหลี,tiếng Hàn,ພາສາເກົາຫຼີ,coréen (langue),韓国語,한국어/조선어,корейский (язык),Koreanisch,coreano (idioma)
+德语,Dé yǔ,German (language),ภาษาเยอรมัน,tiếng Đức,ພາສາເຢຍລະມັນ,allemand (langue),ドイツ語,독일어,немецкий (язык),Deutsch,alemán (idioma)
+意大利语,Yì dà lì yǔ,Italian (language),ภาษาอิตาลี,tiếng Ý,ພາສາອິຕາລີ,italien (langue),イタリア語,이탈리아어,итальянский (язык),Italienisch,italiano (idioma)
+西班牙语,Xī bān yá yǔ,Spanish (language),ภาษาสเปน,tiếng Tây Ban Nha,ພາສາສະເປນ,espagnol (langue),スペイン語,스페인어,испанский (язык),Spanisch,español (idioma)
+家,jiā,family/home,ครอบครัว/บ้าน,gia đình/nhà,ຄອບຄົວ/ບ້ານ,famille/maison,家/家庭,가정/집,семья/дом,Familie/Zuhause,familia/hogar
+有,yǒu,have/possess/there be,มี/มีอยู่,có,ມີ,avoir/il y a,ある/持っている,있다/가지다,иметь/есть,haben/es gibt,tener/haber (hay)
+口,kǒu,a measure word,ลักษณนาม: คนในครอบครัว/ปาก,lượng từ (người trong gia đình); miệng,ລັກສນ.: ຄົນໃນຄອບຄົວ/ປາກ,classificateur (membres de famille); bouche,量詞（家族人数）/口,양사: 식구 수/입,счётное слово (члены семьи); рот,Zählwort (Familienmitglieder); Mund,clasificador (miembros de familia); boca
+爸爸,bà ba,father/dad,พ่อ/คุณพ่อ,bố/ba/cha,ພໍ່,papa/père,お父さん/父,아버지/아빠,папа/отец,Vater/Papa,padre/papá
+妈妈,mā ma,mother/mom,แม่/คุณแม่,mẹ/ má,ແມ່,maman/mère,お母さん/母,어머니/엄마,мама/мать,Mutter/Mama,madre/mamá
+哥哥,gē ge,elder brother,พี่ชาย,anh trai,ອ້າຍ/ພີ່ຊາຍ,grand frère,兄,형/오빠,старший брат,älterer Bruder,hermano mayor
+和,hé,and,และ/กับ,và/với,ແລະ/ກັບ,et/avec,と/そして,와/과/하고,и/с,und/mit,y/con
+职员,zhí yuán,office worker/staff member,พนักงานออฟฟิศ/เจ้าหน้าที่,nhân viên văn phòng,ພະນັກງານສຳນັກງານ,employé(e)/personnel,職員/会社員,직원/사무원,служащий/сотрудник,Angestellte(r)/Mitarbeiter(in),empleado/a (de oficina)
+都,dōu,all/both,ล้วน/ทั้งหมด,đều,ທັງໝົດ/ລ້ວນໆ,tous/toutes; tous les deux,みんな/どちらも,모두/다,все/оба,alle/beide,todos/as/ambos
+大学生,dà xué shēng,college or university student,นักศึกษามหาวิทยาลัย,sinh viên đại học,ນັກສຶກສາມະຫາວິທະຍາໄລ,étudiant(e) universitaire,大学生,대학생,студент (вуза),Universitätsstudent(in),estudiante universitario/a
+几,jǐ,how many,กี่/เท่าไร,mấy/bao nhiêu,ຈັກ/ເທົ່າໃດ,combien (petit nombre),いくつ/いくばく,몇/얼마,сколько (небольшое),wie viele,cuántos/as
+做,zuò,do/engage in,ทำ/ประกอบ,làm,ເຮັດ,faire/exercer,する/作る,하다/만들다,делать/заниматься,machen/tun,hacer
+工作,gōng zuò,job/work/task,งาน/ทำงาน,công việc/làm việc,ວຽກ/ເຮັດວຽກ,travail/travailler,仕事/働く,일/일하다,работа/работать,Arbeit/arbeiten,trabajo/trabajar
+律师,lǜ shī,lawyer/attorney,ทนายความ,luật sư,ທະນາຍຄວາມ,avocat(e),弁護士,변호사,адвокат/юрист,Rechtsanwalt/Rechtsanwältin,abogado/a
+医生,yīs hēng,doctor/medical practitioner,หมอ/แพทย์,bác sĩ,ໝໍ/ແພດ,médecin/docteur,医者/医師,의사,врач/доктор,Arzt/Ärztin,médico/a
+你们,nǐ men,you (plural),พวกคุณ/เธอทั้งหลาย,các bạn/các anh chị,ພວກເຈົ້າ,vous (pl.),あなたたち,여러분/너희들,вы (мн.),ihr/Sie (Pl.),ustedes/vosotros(as)
+班,bān,class/group/team,ชั้น/ห้อง/กะทำงาน,lớp/ban/ca,ຫ້ອງ/ກຸ່ມ/ກະ,classe/groupe/équipe,クラス/班/シフト,반/조/근무조,класс/группа/смена,Klasse/Gruppe/Schicht,clase/grupo/turno
+多少,duō shao,how much/how many,เท่าไร/มากน้อยแค่ไหน,bao nhiêu/bao lớn,ເທົ່າໃດ,combien,いくら/どれくらい,얼마/얼마나,сколько/насколько,wie viel/wieviel,cuánto/a(s)
+个,gè,used before nouns without a special classifier of their own,ลักษณนามทั่วไป,lượng từ chung,ລັກສນ. ທົ່ວໄປ,classificateur générique,一般量詞「個」,일반 양사 ‘개’,счётное слово «个» (универс.),allg. Zählwort,clasificador general “ge”
+学生,xué sheng,student,นักเรียน/นักศึกษา,học sinh/sinh viên,ນັກຮຽນ/ນັກສຶກສາ,élève/étudiant(e),学生,학생,ученик/студент,Schüler/in; Student/in,estudiante/alumno/a
+我们,wǒ men,we/us,พวกเรา,chúng tôi/chúng ta,ພວກເຮົາ,nous,私たち,우리(들),мы,wir,nosotros/as
+两,liǎng,two,สอง/คู่,hai (lượng từ: hai),ສອງ/ຄູ່,deux,二/二つ,둘/량(수사),два/пара,zwei,dos
+姐姐,jiě jie,elder sister,พี่สาว,chị gái,ພີ່ສາວ,grande sœur,姉,언니/누나(여/남),старшая сестра,ältere Schwester,hermana mayor
+妹妹,mèi mei,younger sister,น้องสาว,em gái,ນ້ອງສາວ,petite sœur,妹,여동생,младшая сестра,jüngere Schwester,hermana menor
+弟弟,dì di,younger brother,น้องชาย,em trai,ນ້ອງຊາຍ,petit frère,弟,남동생,младший брат,jüngerer Bruder,hermano menor
+工人,gōng rén,worker/labourer,กรรมกร/คนงาน,công nhân,ຄົນງານ,ouvrier/ouvrière,労働者,노동자/공장 근로자,рабочий,Arbeiter/in,obrero/a
+农民,nóng mín,farmer/peasant,ชาวนา/เกษตรกร,nông dân,ຊາວນາ/ຊາວກະສິ,paysan(ne)/agriculteur(trice),農民/農家,농민/농부,крестьянин/фермер,Bauer/Bäuerin/Landwirt(in),campesino/a; agricultor(a)
+护士,hù shi,nurse,พยาบาล,y tá/điều dưỡng,ພະຍາບານ,infirmier/ère,看護師,간호사,медсестра/медбрат,Krankenpfleger/in,enfermero/a
+警察,jǐng chá,police/policeman/policewoman,ตำรวจ/เจ้าหน้าที่ตำรวจ,cảnh sát,ຕຳຫຼວດ,policier/ère,警察官,경찰관,полицейский,Polizist/in,policía (agente)
+想,xiǎng,want to/would like to/be going to,อยาก/ตั้งใจจะ/คิดจะ,muốn/định/suy nghĩ,ຢາກ/ຄິດຈະ,vouloir/panser à,〜したい/思う,하고 싶다/생각하다,хотеть/намереваться/думать,möchten/vorhaben/denken,querer/pensar (hacer)
+买,mǎi,buy/purchase,ซื้อ,mua,ຊື້,acheter,買う,사다,покупать,kaufen,comprar
+电子词典,diàn zǐ cí diǎn,electronic dictionary,พจนานุกรมอิเล็กทรอนิกส์,từ điển điện tử,ພົດຈະນານຸກົມໄຟຟ້າ,dictionnaire électronique,電子辞書,전자사전,электронный словарь,Elektronisches Wörterbuch,diccionario electrónico
+电子,diànzǐ,electron,อิเล็กตรอน,điện tử (hạt electron),ອິເລັກຕຣອນ,électron,電子（粒子）,전자 (입자),электрон,Elektron,electrón
+词典,cí diǎn,dictionary,พจนานุกรม/อภิธานศัพท์,từ điển,ພົດຈະນານຸກົມ,dictionnaire,辞書/辞典,사전,словарь,Wörterbuch/Lexikon,diccionario
+电脑,diàn nǎo,computer,คอมพิวเตอร์,máy tính,ຄອມພິວເຕີ,ordinateur,コンピュータ/パソコン,컴퓨터,компьютер,Computer/Rechner,ordenador/computadora
+部,bù,used for books/films/machines/vehicles/etc,ลักษณนาม: หนังสือ/ภาพยนตร์/เครื่องจักร/ยานพาหนะ,lượng từ: sách/phim/máy móc/xe cộ,ລັກສນ.: ປື້ມ/ຮູບເງົາ/ເຄື່ອງ/ພາຫະນະ,class. pour livres/films/machines/véhicules,量詞：本/映画/機械/車両 など,양사: 책/영화/기계/차량,сч.сл. для книг/фильмов/машин/транспорта,Klassifikator für Bücher/Filme/Maschinen/Fahrzeuge,clasif. para libros/películas/máquinas/vehículos
+百,bǎi,hundred,ร้อย,một trăm,ຮ້ອຍ,cent,百,백/100,сто,hundert,cien/ciento
+块,kuài,unit of money (equivalent to yuan),หน่วยเงินจีน ‘หยวน/฿’ (kuài),đơn vị tiền Trung Quốc ‘yuán/kuài’,ຫົວເງິນຈີນ ‘ຢວນ/kuài’,unité d’argent chinoise «yuan/kuai»,お金の単位「元/クワイ」,중국 화폐 단위 ‘위안/콰이’,денежная ед. Китая «юань/куай»,Geldeinheit China „Yuan/Kuai“,unidad monetaria china «yuan/kuài»
+钱,qián,money,เงิน,tiền,ເງິນ,argent,お金,돈,деньги,Geld,dinero
+台,tái,used for certain machinery or apparatus,ลักษณนาม: เครื่องจักร/อุปกรณ์/เครื่องใช้ไฟฟ้า,lượng từ: máy/thiết bị,ລັກສນ.: ເຄື່ອງ/ອຸປະກອນ,class. pour appareils/machines,量詞：台（機械・機器）,양사: 대(기계/장비),сч.сл. для аппаратов/машин,Klassifikator für Geräte/Maschinen,clasif. para aparatos/máquinas
+千,qiān,thousand,พัน,một nghìn/ngàn,ພັນ,mille,千,천/1000,тысяча,tausend,mil
+一共,yí gòng,altogether/in all,รวมแล้ว/ทั้งหมด,tổng cộng,ລວມແລ້ວ/ທັງໝົດ,au total/en tout,合計で/全部で,합계/도합,всего/в общей сложности,insgesamt/alles in allem,en total/en conjunto
+需要,xū yào,need,ต้องการ/จำเป็นต้อง,cần/nhu cầu,ຕ້ອງການ/ຈໍາເປັນ,avoir besoin/besoin de,必要とする/必要,필요하다/요하다,нужно/необходимость,brauchen/benötigen,necesitar/requerir
+营业员,yíng yè yuán,attendant/shop assistant,พนักงานขาย/พนักงานหน้าร้าน,nhân viên bán hàng/thu ngân,ພະນັກງານຂາຍ,vendeur/vendeuse; employé(e) de magasin,店員/販売員,영업원/판매원,продавец‑консультант,Verkäufer/in (im Laden),dependiente/a; vendedor/a
+要,yào,want/need,ต้องการ/อยาก; จำเป็นต้อง,muốn; cần/phải,ຢາກ; ຈຳເປັນຕ້ອງ,vouloir; falloir/avoir besoin de,欲しい/〜したい；必要だ,원하다; 필요하다/해야 하다,хотеть; нужно/надо,wollen; müssen/benötigen,querer; necesitar/deber
+面包,miàn bāo,bread,ขนมปัง,bánh mì,ເຂົ້າຈີ່/ຂົວຂົ້ວ,pain,パン,빵,хлеб/булка,Brot/Brötchen,pan
+种,zhǒng,kind/sort/type/variety,ชนิด/ประเภท/แบบ,loại/chủng loại,ປະເພດ/ຊະນິດ,genre/type/catégorie,種類/タイプ,종류/타입,вид/тип/сорт,Art/Sorte/Typ,tipo/clase
+这,zhè,this,นี่/นี้,này/đây,ນີ້/ນີ້ນີ້,ce/cet/cette (ici),これ/この,이/이것,это/этот/эта,dies/dieser/diese,este/esta/esto
+谢谢,xiè xie,thank/be grateful,ขอบคุณ,cảm ơn,ຂອບ​ໃຈ,merci,ありがとう/ありがとうございます,감사합니다/고마워요,спасибо,danke/vielen Dank,gracias
+不客气,bú kèqi,you're welcome,ไม่เป็นไร/ยินดี,không có gì/đừng khách sáo,ບໍ່ເປັນຫຍັງ/ບໍ່ຕ້ອງເກັກສາວ,de rien/avec plaisir,どういたしまして,천만에요/별말씀을,не за что/пожалуйста,gern geschehen/keine Ursache,de nada
+客气,kè qi,polite/courteous,เกรงใจ/สุภาพ,khách sáo/lịch sự,ເກັກສາວ/ສຸພາບ,poli/faire des manières,遠慮深い/丁寧だ,겸손하다/사례가 많다,вежливый/церемониться,höflich/formell,cortes/ser formal
+香蕉,xiāng jiāo,banana,กล้วย,chuối,ກ້ວຍ,banane,バナナ,바나나,банан,Banane,plátano/banana
+苹果,píng guǒ,apple,แอปเปิล/ผลแอปเปิล,táo,ໝາກແອັບເປີນ,pomme,りんご,사과,яблоко,Apfel,manzana
+再,zài,once more/again/one more time,อีก/อีกครั้ง,lại/nữa,ອີກ/ອີກຄັ້ງ,encore/à nouveau,もう一度/再び,다시/또,снова/ещё,noch einmal/wieder,otra vez/de nuevo
+书,shū,book,หนังสือ,sách,ປື້ມ,livre,本,책,книга,Buch,libro
+手机,shǒu jī,cell phone,โทรศัพท์มือถือ,điện thoại di động,ໂທລະສັບມືຖື,téléphone portable,携帯電話/スマホ,휴대폰/핸드폰,мобильный телефон,Handy/Mobiltelefon,teléfono móvil/celular
+咖啡,kā fēi,coffee,กาแฟ,cà phê,ກາເຟ,café,コーヒー,커피,кофе,Kaffee,café
+牛奶,niú nǎi,milk,นมวัว/นม,sữa bò/sữa,ນົມ/ນົມງົວ,lait (de vache),牛乳/ミルク,우유,молоко,Milch,leche
+啤酒,pí jiǔ,beer,เบียร์,bia,ເບຍ,bière,ビール,맥주,пиво,Bier,cerveza
+矿泉水,kuàng quán shuǐ,mineral water,น้ำแร่,nước khoáng,ນໍ້າແຮ່,eau minérale,ミネラルウォーター,광천수/미네랄워터,минеральная вода,Mineralwasser,agua mineral
+可乐,kě lè,cola/coke,โคล่า/น้ำอัดลมโคล่า,cola/nước ngọt có ga (coca),ໂຄລາ/ນ້ຳອັດລົມ,cola (soda),コーラ,콜라,кола (газировка),Cola,refresco de cola/cola
+草莓,cǎo méi,strawberry,สตรอว์เบอร์รี,dâu tây,ສະຕໍເບີຣີ,fraise,いちご,딸기,клубника,Erdbeere,fresa
+西瓜,xī guā,watermelon,แตงโม,dưa hấu,ແຕງໂມ,pastèque,スイカ,수박,арбуз,Wassermelone,sandía
+橘子,jú zi,orange/tangerine,ส้ม/ส้มแมนดาริน,quýt/cam nhỏ,ສ້ມຈີນ/ສ້ມນ້ອຍ,mandarine/orange,みかん/オレンジ,귤/오렌지,мандарин/апельсин,Mandarine/Orange,mandarina/naranja
