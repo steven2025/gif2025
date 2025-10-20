@@ -89,7 +89,7 @@
 曾经,céng jīng,ever/once,ครั้งหนึ่ง/เคย,từng/đã từng,ເຄີຍ,jadis/autrefois/đéjà,かつて/以前,언젠가/예전에,когда‑то/ранее,einst/früher,antes/en alguna ocasión
 提出,tí chū,put forward,เสนอ/ยื่นเสนอ,đề xuất/nêu ra,ຍື່ນ/ເສນອອກ,proposer/soulever,提起する/提案する,제시하다/제안하다,выдвинуть/поднять (вопрос),vorschlagen/vorbringen,presentar/proponer
 请求,qǐng qiú,request,คำร้อง/คำขอ,thỉnh cầu/yêu cầu,ຄຳຮ້ອງຂໍ,requête/demande,要請/リクエスト,요청/부탁,просьба/запрос,Bitte/Anfrage,solicitud/petición
-好在,hǎo zài,luckily,ยังดีที่…/โชคยังดี,may mà,ດີຢູ່ທີ່…,heureusement/heureusement que,幸い（にも）,다행히도,"хорошо, что…/к счастью",zum Glück,menos mal que…
+好在,hǎo zài,luckily,ยังดีที่…/โชคยังดี,may mà,ດີຢູ່ທີ່…,heureusement/heureusement que,幸い（にも）,다행히도,"хорошо/что…/к счастью",zum Glück,menos mal que…
 保持,bǎo chí,keep/maintain,รักษาไว้/คงไว้,giữ/duy trì,ຮັກສາ/ຮັກສາໃຫ້ຄົງ,maintenir/garder,保持する/維持する,유지하다/지키다,сохранять/поддерживать,beibehalten/aufrechterhalten,mantener/conservar
 包裹,bāo guǒ,parcel,พัสดุ/ห่อพัสดุ,bưu kiện/gói hàng,ພັດສະດຸ,colis/paquet,小包/小包み,소포/꾸러미,посылка/свёрток,Paket/Päckchen,paquete/bulto
 去世,qù shì,die/pass away,เสียชีวิต/ถึงแก่อสัญกรรม,qua đời,ເສຍຊີວິດ,décéder,亡くなる/逝去する,사망하다/별세하다,скончаться/умереть,versterben,fallecer/morir
