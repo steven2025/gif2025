@@ -15,7 +15,7 @@
 爬,pá,climb,ปีน/ไต่,leo,ປີນ,grimper,よじ登る/登る,기어오르다/오르다,взбираться,klettern,escalar
 呼吸,hūxī,breathe,หายใจ,thở,ຫາຍໃຈ,respirer,呼吸する,숨 쉬다,дышать,atmen,respirar
 忙,máng,busy,ยุ่ง,bận,ວຸ່ນວາຍ/ຕິດທຸລະກິດ,occupé(e),忙しい,바쁘다,занят(ой),beschäftigt,ocupado
-听说,tīngshuō,hear of/be told,ได้ยินมาว่า/เขาบอกว่า,nghe nói,ໄດ້ຍິນວ່າ/ມີຄົນເວົ້າວ່າ,entendre dire/on m’a dit,〜と聞いた,들었다/그렇다고 하더라,слышал(а)/говорят, что,gehört haben/man sagt, dass,oí decir/me dijeron que
+听说,tīngshuō,hear of/be told,ได้ยินมาว่า/เขาบอกว่า,nghe nói,ໄດ້ຍິນວ່າ/ມີຄົນເວົ້າວ່າ,entendre dire/on m’a dit,〜と聞いた,들었다/그렇다고 하더라,слышал(а)/говорят/что,gehört haben/man sagt/dass,oí decir/me dijeron que
 出发,chūfā,set out/set off/start off,ออกเดินทาง,lên đường/khởi hành,ອອກເດີນທາງ,partir/se mettre en route,出発する,출발하다,отправляться/выдвигаться,aufbrechen,partir/ponerse en camino
 找,zhǎo,look for/try to find/want to see,หา/อยากเจอ,tìm/ muốn gặp,ຊອກຫາ/ຢາກເຫັນ,chercher/vouloir voir,探す/会いたい,찾다/보고 싶다,искать/хотеть увидеть,suchen/sehen wollen,buscar/querer ver
 大家,dàjiā,all/everybody/everyone,ทุกคน,mọi người,ທຸກຄົນ,tout le monde,みんな/皆さん,모두/다들,все,alle,todos
