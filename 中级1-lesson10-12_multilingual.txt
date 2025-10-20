@@ -1,0 +1,124 @@
+加,jiā,put in/add,ใส่/เพิ่ม,thêm/cho vào,ເພີ່ມ/ໃສ່,ajouter/mettre,加える/入れる,넣다/추가하다,добавить/положить,hinzufügen/einlegen,añadir/poner
+盐,yán,salt,เกลือ,muối,ເກືອ,sel,塩,소금,соль,Salz,sal
+配,pèi,match,จับคู่/เข้ากัน,phối hợp/hợp,ຈັບຄູ່/ເຂົ້າກັນ,assortir/correspondre,合う/組み合わせる,맞추다/어울리다,сочетать/подходить,passen/kombinieren,combinar/encajar
+勇敢,yǒng gǎn,brave/courageous,กล้าหาญ,dũng cảm,ກ້າຫານ,courageux,勇敢な,용감한,смелый/храбрый,mutig,valiente
+出于,chū yú,out of,ด้วย/เนื่องจาก,xuất phát từ/do,ມາຈາກ/ເນື່ອງຈາກ,par/du fait de,〜から/によって,~에서 비롯되다,из/по причине,aus/aufgrund,por/debido a
+结结巴巴,jiē jiē bā bā,stammer/stutter,ตะกุกตะกัก,nói lắp,ເວົ້າຕະກຸກຕະກັກ,bégayer,どもる,더듬거리다,заикаться,stottern,tartamudear
+目光,mù guāng,gaze/look,สายตา/แววตา,ánh mắt,ສາຍຕາ,regard,まなざし/視線,시선/눈빛,взгляд,Blick,mirada
+集中,jí zhōng,focus,จดจ่อ/รวมศูนย์,tập trung,ຈົດຈໍ/ຮວບຮວມ,se concentrer,集中する,집중하다,сосредоточиться,sich konzentrieren,concentrarse
+举动,jǔ dòng,action,การกระทำ,hành động,ການກະທໍາ,geste/comportement,振る舞い/行動,행동/거동,поступок/действие,Handlung/Verhalten,acto/acción
+引起,yǐn qǐ,arouse,ก่อให้เกิด/กระตุ้น,gây ra/kích thích,ກ່ອຍໃຫ້ເກີດ/ກະຕຸ້ນ,provoquer/éveiller,引き起こす/喚起する,일으키다/불러일으키다,вызывать/возбуждать,verursachen/auslösen,provocar/causar
+苦,kǔ,bitter,ขม,đắng,ຂົມ,amer,苦い,쓰다/쌉싸름한,горький,bitter,amargo
+咸,xián,salty,เค็ม,mặn,ເຄັມ,salé,塩辛い/しょっぱい,짠,солёный,salzig,salado
+距离,jù lí,distance,ระยะห่าง/ระยะทาง,khoảng cách,ໄລຍະຫ່າງ,distance,距離,거리,расстояние,Entfernung/Distanz,distancia
+远方,yuǎn fāng,faraway place,ที่ไกลโพ้น,nơi xa,ຖິ່ນໄກ,contrée lointaine,遠方/遠い所,먼 곳,дальние края,ferne Gegend,lugar lejano
+频繁,pín fán,frequent,บ่อยครั้ง/ถี่,thường xuyên,ປະຈໍາ/ຖີ່,fréquent,頻繁な,빈번한,частый,häufig,frecuente
+征服,zhēng fú,conquer,พิชิต/เอาชนะ,chinh phục,ພິຊິດ,conquérir,征服する,정복하다,покорить/завоевать,erobern,conquistar
+错过,cuò guò,fail to notice or recognize sb.or sth.,พลาด,bỏ lỡ,ພາດ,rater/manquer,見逃す/逃す,놓치다,упустить/пропустить,verpassen,perder
+童话,tóng huà,fairy tale,นิทานเทพนิยาย,truyện cổ tích,ນິທານ,conte de fées,童話,동화,сказка,Märchen,cuento de hadas
+王子,wáng zǐ,prince,เจ้าชาย,hoàng tử,ເຈົ້າຊາຍ,prince,王子,왕자,принц,Prinz,príncipe
+公主,gōng zhǔ,princess,เจ้าหญิง,công chúa,ເຈົ້າຍິງ,princesse,王女/プリンセス,공주,принцесса,Prinzessin,princesa
+富有,fù yǒu,wealthy/rich,มั่งคั่ง/ร่ำรวย,giàu có,ຮັ່ງມີ,riche/fortuné,裕福な/豊かな,부유한,богатый,wohlhabend/reich,rico/adinerado
+贫穷,pín qióng,poor,ยากจน,nghèo,ທຸກຍາກ,pauvre,貧しい,가난한,бедный,arm,pobre
+遗言,yí yán,"   words of the deceased/(a person's)last words",คำสั่งเสีย/ถ้อยคำสุดท้าย,lời trăn trối,ຄໍາສັ່ງສຸດທ້າຍ,dernières paroles/testament,遺言/最期の言葉,유언,последние слова/завещание,letzte Worte/Testament,últimas palabras/testamento
+原谅,yuán liàng,forgive,อภัย/ยกโทษ,tha thứ,ອະໄພ,pardonner,許す,용서하다,простить,verzeihen,perdonar
+欺骗,qī piàn,cheat/deceive,หลอกลวง/โกง,lừa dối/gian lận,ຫຼອກລວງ,tromper/duper,だます/欺く,속이다,обманывать,täuschen/betrügen,engañar
+糖,táng,sugar,น้ำตาล,đường,ນ້ໍາຕານ,sucre,砂糖,설탕,сахар,Zucker,azúcar
+说谎,shuō huǎng,tell a lie,พูดโกหก,nói dối,ເວົ້າໂກຫລອກ,mentir,嘘をつく,거짓말하다,лгать,lügen,mentir
+实践,shí jiàn,carry out,ปฏิบัติ/ลงมือทำ,thực hành/thi hành,ປະຕິບັດ,pratiquer/appliquer,実践する,실천하다,практиковать/осуществлять,praktizieren/umsetzen,practicar/poner en práctica
+谎言,huǎng yán,lie,คำโกหก/ความเท็จ,lời nói dối/sự dối trá,ຄໍາໂກຫລອກ,mensonge,うそ/虚言,거짓/허위,ложь/враньё,Lüge,mentira
+今生,jīn shēng,this life,ชาตินี้,kiếp này,ຊີວິດນີ້,cette vie,今生,이번 생/금생,эта жизнь,dieses Leben,esta vida
+来生,lái shēng,afterlife,ชาติหน้า/ภพหน้า,kiếp sau,ຊາດໜ້າ,vie future/prochaine vie,来世,다음 생/내생,следующая жизнь/загробная жизнь,nächstes Leben,próxima vida
+至于,zhì yú,as for/as to,ส่วน/สำหรับ,còn như/về phần,ສໍາລັບ/ສ່ວນ,quant à,〜については/〜に関して,~에 관해서는,что касается,was … betrifft,en cuanto a
+实话,sh íhuà,truth,ความจริง,lời thật/sự thật,ຄວາມຈິງ,vérité,本当のこと/真実,진실/솔직한 말,правда/истина,Wahrheit,verdad
+族,zú,class or group of things or people with common features,เผ่า/กลุ่ม/ตระกูล,tộc/nhóm,ຊົນເຜົ່າ/ກຸ່ມ,groupe/ethnie,族/グループ,족/무리,род/племя/группа,Stamm/Gruppe,tribu/grupo
+烦恼,fán nǎo,agony,ความกังวล/กลัดกลุ้ม,phiền não/lo phiền,ຄວາມກັງວົນ/ທຸກໃຈ,tracas/souci,悩み,번뇌/걱정,тревога/печаль,Kummer/Sorge,preocupación/pesadumbre
+缩写,suō xiě,abbreviation,ตัวย่อ,viết tắt,ຕົວຫຍໍ້,abréviation,略語,약어,аббревиатура,Abkürzung,abreviatura
+形式,xíng shì,form,รูปแบบ,hình thức,ຮູບແບບ,forme,形式,형식,форма,Form,forma
+发达,fā dá,developed,พัฒนาแล้ว/เจริญ,phát triển,ພັດທະນາແລ້ວ,développé,発達した/先進の,발달한/선진의,развитый,entwickelt,desarrollado
+代名词,dài míng cí,synonym,คำพ้องความหมาย,từ đồng nghĩa,ຄໍາພ້ອງຄວາມໝາຍ,synonyme,同義語,동의어,синоним,Synonym,sinónimo
+查看,chá kàn,check,ตรวจสอบ/ดู,kiểm tra/xem,ກວດເບິ່ງ,vérifier/consulter,確認する/閲覧する,확인하다/조회하다,проверить/просмотреть,prüfen/ansehen,comprobar/consultar
+任务,rèn wu,task/assignment,งาน/ภารกิจ,nhiệm vụ/bài giao,ໜ້າທີ່/ວຽກງານ,tâche/mission,任務,과제/임무,задание/миссия,Aufgabe/Auftrag,tarea/misión
+总部,zǒng bù,headquarters,สำนักงานใหญ่,trụ sở chính,ສໍານັກງານໃຫຍ່,siège (social),本部/本社,본사/본부,штаб‑квартира,Hauptsitz,sede central
+广告,guǎng gào,advertisement,โฆษณา,quảng cáo,ໂຄສະນາ,publicité,広告,광고,реклама,Werbung,anuncio/publicidad
+设计,shè jì,design,ออกแบบ,thiết kế,ອອກແບບ,concevoir/conception,設計,설계/디자인,проектировать/дизайн,entwerfen/Design,diseñar/diseño
+网页,wǎng yè,webpage,หน้าเว็บ,trang web,ໜ້າເວັບ,page web,ウェブページ,웹페이지,веб‑страница,Webseite,página web
+超过,chāo guò,exceed,เกิน/มากกว่า,vượt quá,ເກີນ,dépasser,超える,넘다/초과하다,превышать,überschreiten,superar
+总算,zǒng suàn,at last,ในที่สุด,rốt cuộc/cuối cùng,ໃນທ້າຍສຸດ,enfin,やっと/ついに,드디어/결국,наконец‑то,endlich,por fin/al fin
+分享,fēn xiǎng,share  (joy/happiness/benefit/etc.),แบ่งปัน,chia sẻ,ແບ່ງປັນ,partager,分かち合う/共有する,나누다/공유하다,делиться/разделять,teilen,compartir
+交换,jiāo huàn,exchange,แลกเปลี่ยน,trao đổi/đổi,ແລກປ່ຽນ,échanger,交換する,교환하다,обмениваться/обмен,austauschen/Tausch,intercambiar
+趁,chèn,take advantage of,อาศัยโอกาส/ฉวยโอกาส,nhân lúc/nhân dịp,ອາໄສໂອກາດ,profiter de,〜に乗じて/〜のうちに,~을 틈타/~하는 김에,воспользовавшись,ausnutzen/bei der Gelegenheit,aprovechar
+盯,dīng,stare,จ้อง/เพ่ง,nhìn chằm chằm,ຈ້ອງ,fixer du regard,じっと見つめる,뚫어지게 보다,пристально смотреть,anstarren,mirar fijamente
+生意,shēng yi,business,ธุรกิจ/การค้า,làm ăn/kinh doanh,ທຸລະກິດ,affaires/commerce,商売/ビジネス,장사/사업,бизнес/торговля,Geschäft/Handel,negocio
+留言,liú yán,message,ฝากข้อความ/ข้อความ,để lại lời nhắn,ຝາກຂໍ້ຄວາມ,laisser un message/message,伝言/メッセージ,메시지/글 남기다,оставить сообщение,Nachricht hinterlassen/Nachricht,dejar mensaje/mensaje
+旗袍,qí páo,cheongsam,ฉีผาว/กี่เพ้า,sườn xám,ຊຸດຈີນກີ່ເພ້າ,qipao/cheongsam,チャイナドレス/旗袍,치파오/차이나드레스,ципао/китайское платье,Qipao/Cheongsam,qipao/cheongsam
+顺心,shùn xīn,satisfactory,ถูกใจ/ราบรื่น,vừa ý/thỏa lòng,ໂດນໃຈ/ຮາບລືນ,satisfaisant/à son gré,気に入る/順調,마음에 들다/원하는 대로,по душе/как хотелось,zufriedenstellend/nach Wunsch,satisfactorio/a gusto
+如意,rú yì,comply with one's wishes,สมดังใจ/สมปรารถนา,như ý,ຕາມໃຈ/ດັ່ງປາດຖະໜາ,comme on le souhaite,如意/思い通り,뜻대로,как по желанию,nach Wunsch/wie gewünscht,como se desea
+逃,táo,escape/run away,หนี/หลบหนี,chạy trốn/bỏ chạy,ໜີ/ຫລົບໜີ,s’enfuir/échapper,逃げる/逃れる,도망치다/벗어나다,сбежать/убежать,fliehen/entkommen,huir/escapar
+业余,yè yú,amateur,สมัครเล่น/ยามว่าง,nghiệp dư,ມືສະຫມັກເລ່ນ,amateur,アマチュア/余暇の,아마추어/여가의,любительский,amateurhaft/Amateur‑,aficionado/amateur
+撰稿,zhuàn gǎo,write an article,เขียนบทความ,viết bài,ຂຽນບົດຄວາມ,rédiger un article,原稿を書く/寄稿する,원고를 쓰다/기고하다,писать статью,einen Artikel verfassen,redactar un artículo
+考勤,kǎo qín,check on work attendance,ตรวจการเข้างาน,chấm công/kiểm tra,ກວດກາການເຂົ້າວຽກ,contrôler l’assiduité,勤怠を確認する,근태를 확인하다,учёт посещаемости,Anwesenheit prüfen,controlar asistencia
+人际关系,rén ji guān xì,interpersonal relationship,ความสัมพันธ์ระหว่างบุคคล,quan hệ liên nhân,ຄວາມສຳພັນລະຫວ່າງບຸກຄົນ,relations interpersonnelles,対人関係,대인관계,межличностные отношения,zwischenmenschliche Beziehungen,relaciones interpersonales
+泡,pào,soak/immerse,แช่/จุ่ม,ngâm/nhúng,ແຊ່/ຈຸ່ມ,tremper/faire infuser,浸す/つける,담그다/적시다,замачивать/погружать,einweichen/eintauchen,remojar/empapar
+悦耳,yuè’ěr,pleasant to the ear,ไพเราะหู,êm tai/dễ nghe,ໄພເພັງ/ເຂົ້າຫູ,agréable à l’oreille,耳に心地よい,듣기 좋은,приятный для уха,wohlklingend/angenehm fürs Ohr,agradable al oído
+敲打,qiāo dǎ,click on(a keyboard),เคาะ/กด(แป้นพิมพ์),gõ/nhấn (bàn phím),ກົດ/ຕີ (ແປ້ນພິມ),taper (au clavier),キーを叩く/打つ,(키보드를) 두드리다/치다,стучать/нажимать (клавиши),auf die Tastatur tippen,teclear
+键盘,jiàn pán,keyboard,แป้นพิมพ์,bàn phím,ແປ້ນພິມ,clavier,キーボード,키보드,клавиатура,Tastatur,teclado
+描绘,miáo huì,describe,บรรยาย/พรรณนา,miêu tả/khắc họa,ພັນນາ/ອະທິບາຍ,dépeindre/décrire,描写する,묘사하다,описывать/изображать,schildern/beschreiben,describir/retratar
+情景,qíng jǐng,scene,ฉาก/ภาพเหตุการณ์,quang cảnh/cảnh tượng,ສະຖານການ/ພາບການ,scène/tableau,情景/光景,정경/장면,сцена/картина,Szenerie/Ansicht,escena/panorama
+强烈,qiáng liè,strong/intense,รุนแรง/เข้มข้น,mạnh mẽ/mãnh liệt,ແຮງກ້າ/ເຂັ້ມຂົນ,intense/fort,強烈な,강렬한/강한,сильный/интенсивный,stark/intensiv,intenso/fuerte
+达(到),dá(dào),reach,ถึง/บรรลุ,đạt tới/đạt được,ບັນລຸ/ເຖິງ,atteindre,到達する/達する,도달하다/달성하다,достичь/дойти,erreichen,alcanzar
+辞,cí,resign,ลาออก,từ chức,ລາອອກ,démissionner,辞職する,사직하다/사임하다,уйти в отставку,zurücktreten/kündigen,dimitir/renunciar
+描述,miáo shù,describe,บรรยาย/พรรณนา,miêu tả,ອະທິບາຍ/ພັນນາ,décrire,描写する/記述する,묘사하다/서술하다,описывать,beschreiben,describir
+感受,gǎn shòu,feel,ความรู้สึก/รับรู้,cảm nhận,ຄວາມຮູ້ສຶກ/ຮັບຮູ້,ressenti/éprouver,感じる,느끼다,ощущение,Empfinden/fühlen,sentir/percepción
+相反,xiāng fǎn,on the contrary,ตรงกันข้าม,trái lại,ຕົກກັນຂ້າມ,au contraire,反対に,반대로/오히려,напротив,im Gegenteil,al contrario
+固定,gù dìng,regular,คงที่/ประจำ,cố định/đều đặn,ຄົງທີ່/ປະຈໍາ,fixe/régulier,固定の/定期的,고정된/정기적인,фиксированный/регулярный,fest/regelmäßig,fijo/regular
+工资,gōng zī,salary,เงินเดือน,tiền lương,ເງິນເດືອນ,salaire,給料/賃金,월급/임금,зарплата,Gehalt/Lohn,salario/sueldo
+稿费,gǎo fèi,author's remuneration,ค่าต้นฉบับ,nhuận bút,ຄ່າຕອບແທນຕົ້ນສະບັບ,droits d’auteur,原稿料,원고료,гонорар,Honorar,remuneración de autor
+汇单,huì dān,money order/remittance slip,ใบสั่งจ่าย/ใบนำฝากโอน,phiếu chuyển tiền,ໃບໂອນເງິນ,mandat/bordereau de virement,為替証書/送金伝票,환금증서/송금전표,денежный перевод/квитанция,Zahlungsanweisung/Überweisungsschein,giro postal/comprobante
+难免,nán miǎn,unavoidable,เลี่ยงไม่ได้,khó tránh,ຫຼີກລ້ຽງບໍ່ໄດ້,inévitable,避けられない,피하기 어렵다/불가피하다,неизбежно,unvermeidlich,inevitable
+孤独,gū dú,lonely,โดดเดี่ยว/เปลี่ยวเหงา,cô độc/cô đơn,ໂດດເດີ່ຍວ/ເຫງົາ,solitaire,孤独な,고독한/외로운,одинокий,einsam,solitario/solo
+发脾气,fā pí qi,lose temper,โมโห/อาละวาด,nổi cáu,ໂກດ/ເສຍອາລົມ,se fâcher,かんしゃくを起こす,화를 내다,вспылить,wütend werden,enfadarse
+渴望,kě wàng,hunger for,โหยหา/ปรารถนา,khao khát/ao ước,ຢາກຫາ/ປາຖະຫນາ,aspirer à,切望する,갈망하다,жаждать,sich sehnen nach,anhelar
+不禁,bù jīn,cannot help doing sth.,อดไม่ได้ที่จะ…,không kìm được,ອົດບໍ່ໄດ້,ne pas pouvoir s’empêcher de,思わず,저도 모르게,невольно,nicht umhin können,no poder evitar
+拇指,mǔ zhǐ,thumb,นิ้วหัวแม่มือ,ngón cái,ນິ້ວໂປ້ງ,pouce,親指,엄지손가락,большой палец,Daumen,pulgar
+接听,jiē tīng,answer (the phone),รับสาย(โทรศัพท์),nghe điện thoại,ຮັບສາຍໂທລະສັບ,décrocher le téléphone,電話に出る,전화를 받다,ответить на звонок,ans Telefon gehen,contestar el teléfono
+一个劲儿,yí ge jìnr,continuously,เรื่อยๆ/ไม่หยุด,liên tục/mãi miết,ຕໍ່ເນື່ອງ/ບໍ່ຢຸດ,sans cesse/en continu,ひっきりなしに,내내/쉴 새 없이,безостановочно/непрерывно,ununterbrochen/ständig,continuamente/sin parar
+屏幕,píng mù,screen,หน้าจอ,màn hình,ໜ້າຈໍ,écran,画面,화면,экран,Bildschirm,pantalla
+按动,àn dòng,press,กด/กดลง,nhấn/bấm,ກົດ,appuyer/presser,押す/押下する,누르다,нажимать/нажать,drücken,presionar/pulsar
+热衷,rè zhōng,be keen on,หลงใหล/คลั่งไคล้,say mê/đam mê,ຫຼົງໄຫຼ,être passionné de,〜に夢中だ/熱中する,~에 열중하다,увлекаться/быть увлечённым,sich begeistern für,apasionarse por
+新新人类,xīn xīn rén lèi,new generation,คนรุ่นใหม่,thế hệ mới,ຮຸ່ນໃໝ່,nouvelle génération,新世代,신세대,новое поколение,neue Generation,nueva generación
+简称,jiǎn chēng,abbreviate,เรียกย่อว่า/ชื่อย่อ,viết tắt/gọi tắt,ຊື່ຫຍໍ້/ເອີ້ນຫຍໍ້,abréger/abréviation,略称/略す,약칭/줄여 부르다,сокращать/сокращённое название,abkürzen/Abkürzung,abreviar/abreviatura
+魅力,mèi lì,charm,เสน่ห์,sự quyến rũ/ sức hấp dẫn,ເສະໜ່ວຍ,charme/attractivité,魅力,매력,обаяние/привлекательность,Charme/Anziehungskraft,encanto/atractivo
+指头,zhǐ tou,finger,นิ้วมือ,ngón tay,ນິ້ວມື,doigt,指,손가락,палец,Finger,dedo
+酸痛,suān tòng,sore,ปวดเมื่อย/เจ็บ,nhức mỏi/đau nhức,ເຈັບປວດ/ເມື່ອຍ,endolori/douleur,痛くてだるい,쑤시고 아프다,ломит/болит,schmerzhaft/verspannt,adolorido
+乐此不疲,lè cǐ bù pí,never be bored with it,ทำแล้วไม่รู้เบื่อ,say mê không chán,ເຮັດດ້ວຍຄວາມມ່ວນບໍ່ເຄື່ອຍເບື່ອ,s'y plaire sans jamais se lasser,飽きずに夢中だ,질리지 않고 즐기다,делать с увлечением/не уставая,nie überdrüssig werden,hacerlo sin cansarse
+典型,diǎn xíng,typical,แบบอย่าง/โดยแบบฉบับ,điển hình/tiêu biểu,ແບບຢ່າງ,typique,典型的な,전형적인/대표적,типичный,typisch,típico
+痛苦,tòng kǔ,painful,เจ็บปวด/ทุกข์ทรมาน,đau đớn,ເຈັບປວດ/ທຸກທໍລະມານ,douloureux,苦しい/痛ましい,고통스러운,болезненный/мучительный,schmerzhaft,doloroso
+不堪,bù kān,unbearable,ทนไม่ไหว/เหลือทน,không chịu nổi,ທົນບໍ່ໄດ້,insupportable,堪え難い,견딜 수 없는,невыносимый,unerträglich,insoportable
+耗子,hào zi,rat,หนู/หนูบ้าน,chuột,ໜູ,rat,ネズミ,쥐,крыса,Ratte,rata
+胶,jiāo,glue,กาว,keo,ກາວ,colle,のり/接着剤,풀/접착제,клей,Kleber/Leim,pegamento/cola
+迷,mí,be fascinated by/be crazy about,หลงใหล/คลั่งไคล้,mê/đam mê,ຫຼົງໄຫຼ,être fou de/être fasciné par,〜に夢中だ,~에 푹 빠지다,без ума от/фанатеть по,verrückt sein nach,estar loco por
+无聊,wú liáo,bored,เบื่อ/น่าเบื่อ,chán/nhàm chán,ເບື່ອ,s’ennuyer/ennuyeux,退屈だ/退屈な,지루하다,скучно/скучный,langweilig,aburrido
+拜年,bài  nián,send New Year greetings,อวยพรปีใหม่/ไปอวยพรปีใหม่,chúc Tết,ໄປອວຍພອນປີໃໝ່,présenter ses vœux du Nouvel An,新年の挨拶をする,새해 인사를 드리다,поздравлять с Новым годом,Neujahrsgrüße überbringen,felicitar el Año Nuevo
+用户,yòng hù,user,ผู้ใช้,người dùng,ຜູ້ໃຊ້,utilisateur,ユーザー/利用者,사용자,пользователь,Nutzer/Benutzer,usuario
+花样,huā yàng,variety,ลูกเล่น/รูปแบบหลากหลาย,kiểu cách/đủ kiểu,ລູກເລ່ນ/ແບບຫຼາກຫຼາຍ,variété/astuces,いろいろなやり方/工夫,갖가지 방식/재주,разные приёмы/варианты,verschiedene Varianten/Tricks,variedad/trucos
+登门,dēng mén,pay a visit to someone's house,ไปเยี่ยมถึงบ้าน,tới nhà thăm,ໄປເບິ່ງຢ້ຽມທີ່ບ້ານ,se rendre chez qqn,自宅に伺う/訪ねて行く,집으로 찾아가다,нанести визит на дом,jemanden zuhause aufsuchen,ir a visitar a casa
+邮寄,yóu jì,send by post/post,ส่งทางไปรษณีย์,gửi bưu điện,ສົ່ງທາງໄປສະນີ,envoyer par la poste,郵送する,우편으로 보내다,отправить по почте,per Post senden,enviar por correo
+过程,guò chéng,process,กระบวนการ,quá trình,ຂະບວນການ,processus,過程,과정,процесс,Prozess,proceso
+快捷,kuài jié,fast(speed),รวดเร็ว/สะดวก,nhanh/tiện lợi,ໄວ/ສະດວກ,rapide/pratique,迅速/手早い,빠르고 편리한,быстрый/удобный,schnell/praktisch,rápido/ágil
+从事,cóng shì,engage in/work on,ทำงาน/ประกอบอาชีพใน…,làm/hoạt động trong,ເຮັດວຽກໃນ…,exercer/se livrer à,従事する/携わる,종사하다,заниматься/работать в сфере,ausüben/sich beschäftigen mit,dedicarse a/ejercer
+人类学,rén lèi xué,anthropology,มานุษยวิทยา,nhân học/nhân loại học,ມະນຸດສາດ,anthropologie,人類学,인류학,антропология,Anthropologie,antropología
+确实,què shí,indeed,แน่นอน/จริงๆ,quả thật/thực sự,ແທ້ໆ/ຢ່າງແນ່ນອນ,effectivement/vraiment,確かに,확실히/정말,действительно,tatsächlich,realmente/de hecho
+输入,shū rù,input,ป้อนข้อมูล/อินพุต,nhập (dữ liệu),ປ້ອນຂໍ້ມູນ,saisie/entrée,入力,입력,ввод/ввести,Eingabe/eingeben,entrada/introducir
+关节,guān jié,joint,ข้อต่อ/ข้อกระดูก,khớp (xương),ຂໍ້ກະດູກ,articulation,関節,관절,сустав,Gelenk,articulación
+操作,cāo zuò,operate,ใช้งาน/ปฏิบัติการ,vận hành/thao tác,ດໍາເນີນການ/ໃຊ້ງານ,faire fonctionner/manipuler,操作する/運用する,조작하다/운영하다,управлять/оперировать,bedienen/operieren,operar/manejar
+粗,cū,thick,หนา/หยาบ,dày/thô,ໜາ/ຫຍາບ,épais/grossier,厚い/粗い,두껍다/거칠다,толстый/грубый,dick/grob,grueso/áspero
+缺乏,quē fá,lack,ขาดแคลน/ขาด,thiếu,ຂາດແຄນ/ຂາດ,manquer de,欠ける/不足する,부족하다/결핍되다,не хватать/испытывать нехватку,fehlen/mangeln an,carecer de/faltar
+创造力,chuàng zào lì,creativity,ความคิดสร้างสรรค์,tính sáng tạo,ຄວາມຄິດສ້າງສັນ,créativité,創造力,창의력,креативность/творчество,Kreativität,creatividad
+有力,yǒu lì,powerful,ทรงพลัง/มีพลัง,mạnh mẽ/có sức mạnh,ມີພະລັງ,puissant,力強い/有力な,강력한,мощный,kraftvoll/mächtig,poderoso
+速度,sù dù,speed,ความเร็ว,tốc độ,ຄວາມໄວ,vitesse,速度,속도,скорость,Geschwindigkeit,velocidad
+功能,gōng néng,function,ฟังก์ชัน/หน้าที่,chức năng,ໜ້າທີ່/ຟັງຊັນ,fonction,機能,기능,функция,Funktion,función
+手腕,shǒu wàn,wrist,ข้อมือ,cổ tay,ຂໍ້ມື,poignet,手首,손목,запястье,Handgelenk,muñeca
+肌肉,jī ròu,muscle,กล้ามเนื้อ,cơ bắp,ກ້າມເນື້ອ,muscle,筋肉,근육,мышца,Muskel,músculo
+通病,tōng bìng,common failing,ข้อบกพร่องที่พบบ่อย,nhược điểm thường gặp,ຂໍ້ບົກພ່ອງທົ່ວໄປ,défaut commun,よくある欠点,흔한 결함/병폐,общий недостаток,häufiger Mangel,defecto común
+中华,Zhōng huá,China,จีน/จงหัว,Trung Hoa,ຈົງຮົວ/ຈີນ,Chine (Zhonghua),中華,중화,Китай (Чжунхуа),China (Zhonghua),China (Zhonghua)
