@@ -1,7 +1,7 @@
 懂,dǒng,understand,เข้าใจ,hiểu,ເຂົ້າໃຈ,comprendre,わかる/理解する,이해하다,понимать,verstehen,entender
 话,huà,word / talk,คำพูด/คุยกัน,lời nói/chuyện,ຄໍາເວົ້າ/ສົນທະນາ,paroles/discussion,話/ことば,말/이야기,слова/речь/разговор,Worte/Gespräch,palabras/conversación
 出租（汽）车,chūzū (qì) chē,taxi,แท็กซี่,taxi/xe taxi,ແທັກຊີ,taxi,タクシー,택시,такси,Taxi,taxi
-虽然,suīrán,although / even though,แม้ว่า/ถึงแม้ว่า,mặc dù/tuy,ເຖິງແມ່ນວ່າ,bien que/même si,〜だけれど/〜とはいえ,비록 ~지만,"хотя/несмотря на то, что",obwohl/auch wenn,aunque/a pesar de que
+虽然,suī rán,although / even though,แม้ว่า/ถึงแม้ว่า,mặc dù/tuy,ເຖິງແມ່ນວ່າ,bien que/même si,〜だけれど/〜とはいえ,비록 ~지만,хотя/несмотря на то/что,obwohl/auch wenn,aunque/a pesar de que
 司机,sījī,driver / chauffeur,คนขับ(รถ),tài xế/lái xe,ຄົນຂັບລົດ,chauffeur/conducteur,運転手/ドライバー,운전사/기사,водитель/шофёр,Fahrer/in,conductor/a
 住院,zhù yuàn,be in hospital / be hospitalized,เข้าโรงพยาบาล/นอนโรงพยาบาล,nhập viện/nằm viện,ເຂົ້າໂຮງໝໍ,être hospitalisé,入院する,입원하다,лечь в больницу,ins Krankenhaus kommen/liegen,ingresar en el hospital
 担心,dān xīn,worry / be anxious about,กังวล/เป็นห่วง,lo/lắng,ກັງວົນ,s’inquiéter/se faire du souci,心配する,걱정하다,волноваться/переживать,sich sorgen/machen,preocuparse
