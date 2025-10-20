@@ -61,7 +61,7 @@
 遥远,yáo yuǎn,faraway,ไกลโพ้น,xa xôi,ໄກຫ່າງ,lointain/éloigné,遥か/遠い,아득히 먼,далёкий,fern/weit entfernt,lejano
 著名,zhù mínɡ,famous/well-known,มีชื่อเสียง/โด่งดัง,nổi tiếng,ມີຊື່ສຽງ,célèbre/renommé,著名な/有名な,저명한/유명한,знаменитый,berühmt,famoso
 教材,jiào cái,teaching material,ตำรา/สื่อการสอน,giáo trình/tài liệu giảng dạy,ຕຳລາ/ອຸປະກອນການສອນ,manuel/matériel pédagogique,教材/教科書,교재,учебные материалы,Lehrmaterial,material didáctico
-开设,kāi shè,offer(a course in college,etc.),เปิดสอน/เปิด(หลักสูตร),mở (môn/khóa),ເປີດສອນ/ເປີດຫຼັກສູດ,ouvrir (un cours),（科目を）開設する,개설하다,открыть (курс),einrichten/eröffnen (Kurs),abrir (curso)
+开设,kāi shè,offer(a course in college etc.),เปิดสอน/เปิด(หลักสูตร),mở (môn/khóa),ເປີດສອນ/ເປີດຫຼັກສູດ,ouvrir (un cours),（科目を）開設する,개설하다,открыть (курс),einrichten/eröffnen (Kurs),abrir (curso)
 失眠,shī mián,suffer from insomnia/be unable to sleep,นอนไม่หลับ,mất ngủ,ນອນບໍ່ຫຼັບ,insomnie,不眠/眠れない,불면증/잠이 안 오다,бессонница/не спать,Schlaflosigkeit,insomnio
 躺,tǎnɡ,lie,นอนราบ/เอนตัวลง,nằm,ນອນລາບ,s’allonger,横になる,눕다,лечь/лежать,sich hinlegen/liegen,tumbarse/yacer
 反复,fǎn fù,repeatedly/again and again,ซ้ำๆ/ย้ำไปมา,lặp đi lặp lại,ຊໍ້າໆ,à plusieurs reprises,何度も/繰り返し,반복해서,неоднократно/повторно,wiederholt,repetidamente
@@ -120,7 +120,7 @@
 情绪,qínɡ xù,emotion/mood,อารมณ์/อารมณ์ขึ้นลง,cảm xúc/tâm trạng,ອາລົມ,humeur/émotion,気分/感情,기분/감정,настроение/эмоции,Stimmung/Gemüt,ánimo/emoción
 受到,shòu dào,be subjected to,ได้รับ/ถูก…,nhận được/chịu tác động,ໄດ້ຮັບ/ຖືກ…,recevoir/subir,受ける,받다/영향을 받다,подвергнуться/получить,erhalten/erfahren,recibir/verse (afectado)
 微生物,wēi shēnɡ wù,micro-organism/microbe,จุลชีพ/จุลินทรีย์,vi sinh vật/vi khuẩn có ích,ຈຸນະຊີວະ/ຈຸລິນທີຣຍ໌,micro‑organisme,微生物,미생물,микроорганизм,Mikroorganismus,microorganismo
-凡是,fán shì,every/all,ไม่ว่าอะไรก็ตาม/ที่เป็น…ล้วน,phàm là/hễ…thì,ບໍ່ວ່າ…ກໍ,toute chose qui…/quiconque,凡そ…は/…というものは,무릇/…하는 것은,"всё, что/кто бы ни","alles, was/wer auch",cualquier … que/ todo lo que
+凡是,fán shì,every/all,ไม่ว่าอะไรก็ตาม/ที่เป็น…ล้วน,phàm là/hễ…thì,ບໍ່ວ່າ…ກໍ,toute chose qui…/quiconque,凡そ…は/…というものは,무릇/…하는 것은,всё/что/кто бы ни,alles/ was/wer auch,cualquier … que/ todo lo que
 信息,xìn xī,information,ข้อมูล/ข่าวสาร,thông tin,ຂໍ້ມູນ,information,情報,정보,информация,Information,información
 实验,shí yàn,experiment/test,ทดลอง/ทดสอบ,thí nghiệm/kiểm nghiệm,ທົດລອງ,expérimenter/test,実験/テスト,실험,эксперимент/тест,Experiment/Test,experimento/prueba
 证明,zhènɡ mínɡ,prove,พิสูจน์/ยืนยัน,chứng minh/xác nhận,ພິສູດ/ຢືນຢັນ,prouver/démontrer,証明する,증명하다,доказывать/подтвердить,beweisen,demostrar/probar
