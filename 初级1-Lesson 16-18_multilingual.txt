@@ -1,0 +1,45 @@
+结婚,jié hūn,marry / get married,แต่งงาน,kết hôn/cưới,ແຕ່ງງານ,se marier,結婚する,결혼하다,жениться/выйти замуж,heiraten,casarse
+送,sòng,give / offer,ให้/มอบให้,tặng/đưa,ໃຫ້/ສົ່ງ,offrir/donner,あげる/贈る,선물하다/보내다,дарить/отправить,schenken/geben,regalar/dar
+份,fèn,set / copy,ชุด/ฉบับ（ลักษณนาม）,bộ/bản (lượng từ),ຊຸດ/ສໍານາ (ລັກສະນະນາມ),ensemble/exemplaire (classif.),セット/部,세트/부 (양사),комплект/экземпляр (сч.),satz/exemplar (klass.),juego/ejemplar (clas.)
+少,shǎo,few / little,น้อย,ít,ນ້ອຍ,peu,少ない,적다,мало,wenig,poco
+应该,yīnggāi,should / ought to,ควร/น่าจะ,nên,ຄວນ,il faut/on devrait,〜すべき/したほうがいい,해야 한다/하는 게 좋다,следует/нужно,sollte/man sollte,deber/deberías
+希望,xīwàng,hope / wish,หวังว่า/อยากให้,hy vọng,ຫວັງ/ຢາກໃຫ້,espérer/souhaiter,〜だといいな/望む,희망하다/바라다,надеяться/желать,hoffen/wünschen,esperar/desear
+参加,cānjiā,take part in / attend,เข้าร่วม/ไปงาน,tham gia/dự,ເຂົ້າຮ່ວມ/ໄປຮ່ວມ,participer/assister,参加する/出席する,참가하다/참석하다,участвовать/присутствовать,teilnehmen/besuchen,participar/asistir
+婚礼,hūnlǐ,wedding ceremony / wedding,งานแต่ง,đám cưới,ພິທີແຕ່ງງານ,mariage/cérémonie,結婚式,결혼식,свадьба/церемония,hochzeit/trauung,boda/ceremonia
+重要,zhòngyào,important,สำคัญ,quan trọng,ສຳຄັນ,important,大事/重要,중요하다,важный,wichtig,importante
+事情,shìqing,thing / affair / matter,เรื่อง/เรื่องงาน,chuyện/việc,ເລື່ອງ/ວຽກ,affaire/chose,こと/用事,일/일거리,дело/вещь,sache/ding,asunto/cosa
+特殊,tèshū,special / particular,พิเศษ/เฉพาะ,đặc biệt,ພິເສດ,spécial/particulier,特別な,특별한,особенный/специальный,besonders/besondere,especial/particular
+化妆品,huàzhuāngpǐn,cosmetics,เครื่องสำอาง,mỹ phẩm,ຄອງແຕ່ງໜ້າ,cosmétiques,化粧品,화장품,косметика,kosmetik,cosméticos
+日用品,rìyòngpǐn,daily-use necessities,ของใช้ประจำวัน,đồ dùng hàng ngày,ຂອງໃຊ້ປະຈໍາວັນ,produits du quotidien,日用品,생필품/일용품,товары повседневного спроса,alltagsbedarf,artículos de uso diario
+家电,jiādiàn,household electrical appliances,เครื่องใช้ไฟฟ้าในบ้าน,đồ điện gia dụng,ເຄື່ອງໃຊ້ໄຟຟ້າໃນບ້ານ,électroménager,家電,가전제품,бытовая техника,haushaltsgeräte,electrodomésticos
+冰箱,bīngxiāng,refrigerator,ตู้เย็น,tủ lạnh,ຕູ້ເຢັນ,réfrigérateur/frigo,冷蔵庫,냉장고,холодильник,kühlschrank,refrigerador/nevera
+洗衣机,xǐyījī,washing machine,เครื่องซักผ้า,máy giặt,ເຄື່ອງຊັກຜ້າ,machine à laver,洗濯機,세탁기,стиральная машина,waschmaschine,lavadora
+巧克力,qiǎokèlì,chocolate,ช็อกโกแลต,sô cô la,ຊັອກໂກ້ແລັດ,chocolat,チョコレート,초콜릿,шоколад,schokolade,chocolate
+做客,zuò kè,be a guest,ไปเป็นแขก/ไปเยี่ยมบ้าน,làm khách/đi thăm nhà,ໄປເປັນແຂກ,être invité/rendre visite,よばれる/訪ねる,손님으로 가다/집에 놀러 가다,быть в гостях/зайти в гости,zu gast sein/zu besuch gehen,ser invitado/ir de visita
+爱人,àiren,husband or wife,คู่ชีวิต/สามีหรือภรรยา,vợ/chồng,ຄູ່ຊີວິດ/ຜົວຫຼືເມຍ,conjoint(e),夫/妻/配偶者,배우자,супруг/супруга,ehepartner/in,cónyuge/esposo/a
+教,jiāo,teach,สอน,dạy,ສອນ,enseigner,教える,가르치다,учить/преподавать,unterrichten/lehren,enseñar
+包,bāo,wrap,ห่อ/แพ็ค,gói/bọc,ຫໍ່,emballer,包む,싸다/포장하다,завернуть/упаковать,einwickeln/verpacken,envolver
+饺子,jiǎozi,Chinese dumpling / jiaozi,เกี๊ยวจีน (เจี่ยวจือ),sủi cảo,ເກີ້ຍວຈີນ,raviolis chinois,餃子,만두,цзяоцзы/пельмени,chinesische teigtaschen,empanadillas chinas
+葡萄酒,pútaojiǔ,wine,ไวน์,rượu vang,ເຫຼົ້າໄວນ໌,vin,ワイン,와인,вино,wein,vino
+啤酒,píjiǔ,beer,เบียร์,bia,ເບຍ,bière,ビール,맥주,пиво,bier,cerveza
+才,cái,indicating that sth has taken place later than is expected,เพิ่ง/กว่าจะ,mới/đến…mới,ເພິ່ງ/ຈຶ່ງ,à peine/ne… que,やっと/〜してから,이제서야/겨우,только/лишь (позже),erst/gerade,apenas/sólo entonces
+个子,gèzi,height / stature,ส่วนสูง,chiều cao,ຄວາມສູງ,taille,背/身長,키/신장,рост,körpergröße,estatura
+头发,tóufa,hair,ผม/เส้นผม,tóc,ຜົມ,cheveux,髪,머리카락,волосы,haare,cabello/pelo
+眼睛,yǎnjing,eye,ตา,mắt,ຕາ,yeux,目,눈,глаза,augen,ojos
+鼻子,bízi,nose,จมูก,mũi,ດັງ,nez,鼻,코,нос,nase,nariz
+身材,shēncái,figure / stature,หุ่น/รูปร่าง,dáng người,ຮູບຮ່າງ,silhouette,体つき/スタイル,몸매/체격,фигура,figur/körperbau,figura/complexión
+最少,zuì shǎo,at least,อย่างน้อย,ít nhất,ນ້ອຍທີ່ສຸດ,au moins,少なくとも,최소한,как минимум/по крайней мере,mindestens,al menos
+小时,xiǎoshí,hour,ชั่วโมง,giờ,ຊົ່ວໂມງ,heure,時間,시간,час,stunde,hora
+网,wǎng,Internet,อินเทอร์เน็ต,internet/mạng,ອິນເຕີເນັດ,internet,インターネット,인터넷,интернет,internet,internet
+不常,bù cháng,not often,ไม่ค่อย,không thường/ít khi,ບໍ່ຄ່ອຍ,pas souvent,あまり〜ない,잘 안…/자주 하지 않다,нечасто/редко,nicht oft/selten,no a menudo/raras veces
+上,shàng,go on / access,เข้า/ออนไลน์ (เน็ต),lên (mạng)/truy cập,ເຂົ້າອິນເຕີເນັດ,se connecter/aller sur,（ネットに）つなぐ/アクセスする,접속하다/들어가다,заходить в/подключаться к,ins … gehen/einloggen,entrar a/conectarse a
+新闻,xīnwén,news,ข่าว,tin tức,ຂ່າວ,actualités/nouvelles,ニュース,뉴스,новости,nachrichten,noticias
+另外,lìngwài,in addition / moreover,นอกจากนี้/อีกอย่าง,ngoài ra/hơn nữa,ນອກຈາກນັ້ນ/ອີກຢ່າງ,en plus/par ailleurs,そのほか/それに,게다가/또,кроме того/ещё,außerdem,además/por otra parte
+查,chá,check / examine,ค้น/ตรวจดู,tra/kiểm tra,ຄົ້ນ/ເບິ່ງກວດ,chercher/vérifier,調べる/確認する,찾아보다/확인하다,проверять/искать,nachschauen/prüfen,buscar/comprobar
+邮件,yóujiàn,mail / e-mail,อีเมล/จดหมาย,thư/email,ອີເມວ/ໄປສະນີ,mail/courriel,メール/郵便,메일/우편,почта/e‑mail,e‑mail/post,correo/correo electrónico
+聊,liáo,chat,คุยเล่น/แชต,tán gẫu/nhắn tin,ຄຸຍ/ແຊັດ,discuter/causer,おしゃべりする/チャットする,수다 떨다/채팅하다,болтать/чатиться,plaudern/chatten,charlar/chatear
+长,cháng,long,ยาว/นาน,dài/lâu,ຍາວ/ນານ,long/longtemps,長い/長く,길다/오래,длинный/долго,lang/lange,largo/mucho tiempo
+锻炼,duànliàn,do physical exercise,ออกกำลังกาย,tập thể dục,ອອກກຳລັງກາຍ,faire du sport/s’entraîner,運動する/トレーニングする,운동하다/몸을 단련하다,заниматься спортом/тренироваться,sport machen/trainieren,hacer ejercicio/entrenar
+坐飞机,zuò fēijī,take a plane,ขึ้นเครื่องบิน/นั่งเครื่อง,đi máy bay,ຂຶ້ນເຮືອບິນ,prendre l’avion,飛行機に乗る,비행기를 타다,лететь самолётом,flugzeug nehmen/fliegen,viajar en avión
+坐地铁,zuò dìtiě,take the subway,นั่งรถไฟใต้ดิน,đi tàu điện ngầm,ນັ່ງລົດໄຟໃຕ້ດິນ,prendre le métro,地下鉄に乗る,지하철을 타다,ездить на метро,u‑bahn nehmen,tomar el metro
+坐公共汽车,zuò gōnggòng qìchē,take a bus,นั่งรถเมล์/รถประจำทาง,đi xe buýt,ນັ່ງລົດເມ,prendre le bus,バスに乗る,버스를 타다,ехать на автобусе,bus nehmen,tomar el autobús

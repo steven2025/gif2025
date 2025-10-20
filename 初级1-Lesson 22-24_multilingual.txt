@@ -1,0 +1,50 @@
+黄色,huángsè,yellow (colour),สีเหลือง,màu vàng,ສີເຫຼືອງ,jaune,黄色,노란색,жёлтый,gelb,amarillo
+衬衫,chènshān,shirt,เสื้อเชิ้ต,áo sơ mi,ເສື້ອເຊີ້ດ,chemise,シャツ/ワイシャツ,셔츠,рубашка,hemd,camisa
+蓝色,lánsè,blue (colour),สีฟ้า/สีน้ำเงิน,màu xanh dương,ສີຟ້າ,bleu,青/青色/ブルー,파란색/파랑,синий/голубой,blau,azul
+上衣,shàngyī,upper outer garment / jacket,เสื้อแจ็กเก็ต/เสื้อนอก,áo khoác mỏng/áo ngoài,ເສື້ອນອກ,veste/haut,上着/ジャケット,겉옷/자켓,верхняя одежда/куртка,jacke/oberteil,chaqueta
+条,tiáo,used for long and thin things,ตัว/ชิ้น (ของยาวๆ),cái/chiếc (đồ dài),ອັນ/ອັນ (ຂອງຍາວ),(class.) pour objets longs,（細長い物の）本/枚（助数）,(가늘고 긴 것) 개/장,сч. сл. для длинных предметов,Zählwort für Längliches,clas. de cosas largas
+黑色,hēisè,black (colour),สีดำ,màu đen,ສີດໍາ,noir,黒/黒色,검은색/검정,чёрный,schwarz,negro
+裤子,kùzi,trousers / pants,กางเกง,quần,ກົງເກັງ/ກາງເກັງ,pantalon,ズボン/パンツ,바지,брюки/штаны,hose,pantalón
+那些,nàxiē,those,พวกนั้น/เหล่านั้น,những cái đó/những thứ kia,ເຫຼົ່ານັ້ນ,ceux‑là/celles‑là,あれら/それら,그것들/저것들,те/вот те,jene/die dort,esos/esas/aquellos
+尝,cháng,taste,ชิม/ลองลิ้มรส,nếm thử,ຊິມ/ລອງຊາດ,goûter/essayer,味見する/試しに食べる,맛보다/맛을 보다,попробовать на вкус,probieren/kosten,probar (el sabor)
+丢,diū,lose,ทำหาย,làm mất,ເຮັດຂອງຫາຍ,perdre,なくす,잃어버리다,потерять,verlieren,perder
+绿色,lǜsè,green (colour),สีเขียว,màu xanh lá,ສີຂຽວ,vert,緑/緑色,초록색/녹색,зелёный,grün,verde
+白色,báisè,white (colour),สีขาว,màu trắng,ສີຂາວ,blanc,白/白色,하얀색/흰색,белый,weiß,blanco
+紫色,zǐsè,purple (colour),สีม่วง,màu tím,ສີມ່ວງ,violet,紫/むらさき,보라색,фиолетовый,lila/violett,morado/violeta
+粉色,fěnsè,pink (colour),สีชมพู,màu hồng,ສີບົວ/ຊົມພູ,rose/rose pâle,ピンク,분홍색/핑크,розовый,rosa,rosa
+T-恤,tīxù,T-shirt,เสื้อยืด,áo phông/áo thun,ເສື້ອຢືດ,T‑shirt,Tシャツ,티셔츠,футболка,T‑Shirt,camiseta
+裙子,qúnzi,skirt,กระโปรง,váy,ກະໂປງ,jupe,スカート,치마,юбка,rock,falda
+特别,tèbié,special / uncommon,พิเศษ/เป็นพิเศษ,đặc biệt,ເປັນພິເສດ,particulièrement/spécial,特に/とりわけ,특히/특별히,особенно/особый,besonders/speziell,especialmente
+北方,běifāng,north / northern part,ภาคเหนือ/ทางเหนือ,miền bắc/phía bắc,ເໜືອ,le nord/région du nord,北/北部,북쪽/북부,север/северная часть,Norden/nördliche Region,norte/la zona norte
+南方,nánfāng,south / southern part,ภาคใต้/ทางใต้,miền nam/phía nam,ໃຕ້,le sud/région du sud,南/南部,남쪽/남부,юг/южная часть,Süden/südliche Region,sur/la zona sur
+下雪,xià xuě,snow,หิมะตก,tuyết rơi,ຫິມະຕົກ,neiger,雪が降る,눈이 오다,идёт снег,es schneit,nieva
+场,chǎng,used to indicate a process,ครั้ง/รอบ (ลักษณนามเหตุการณ์),lượt/trận (sự kiện),ເທື່ອ/ລອບ (ເຫດການ),(class.) fois/partie,（出来事の）回（助数）,번/차례 (사건 양사),раз/матч (сч. сл.),Mal/Partie (Klass.),vez/partida (clas.)
+气温,qìwēn,temperature,อุณหภูมิอากาศ,nhiệt độ không khí,ອຸນຫະພູມອາກາດ,température (de l’air),気温,기온,температура воздуха,Lufttemperatur,temperatura del aire
+低,dī,low,ต่ำ/ต่ำกว่า,thấp,ຕໍາ/ຕໍ່າ,bas/faible,低い,낮다/낮은,низкий/низко,niedrig/gering,bajo
+零下,líng xià,below zero,ติดลบ/ต่ำกว่าศูนย์,dưới 0 độ,ຕໍ່າກວ່າສູນ,sous zéro,零下/マイナス,영하,ниже нуля/минус,unter null,bajo cero
+度,dù,degree,องศา,độ,ອົງສາ,degré,度,度,градус,Grad,grado
+左右,zuǒyòu,around / about,ประมาณ/ราวๆ,khoảng chừng,ປະມານ/ໂມງໆ,environ/à peu près,〜くらい/〜前後,쯤/정도,примерно/около,etwa/ungefähr,aprox./más o menos
+天气预报,tiānqì yùbào,weather forecast,พยากรณ์อากาศ,dự báo thời tiết,ພະຍາກອນອາກາດ,bulletin météo,天気予報,일기예보,прогноз погоды,Wettervorhersage,pronóstico del tiempo
+刮风,guā fēng,(of wind) blow,ลมพัดแรง/มีลม,gió thổi/đang có gió,ລົມພັດ,vent fort/il y a du vent,風が吹く,바람이 불다,дует ветер,es weht (der Wind),hace viento
+风力,fēnglì,wind-force,แรงลม,cường độ gió,ແຮງລົມ,force du vent,風力,풍력/바람의 세기,сила ветра,Windstärke,fuerza del viento
+级,jí,level / grade / rank,ระดับ/ชั้น/ขั้น,cấp/bậc,ຂັ້ນ/ຊັ້ນ,niveau/grade,級/レベル,급/등급,уровень/разряд,Stufe/Grad,nivel/grado
+多云,duōyún,cloudy,มีเมฆมาก/ครึ้มฟ้า,nhiều mây,ມີເມກ/ຟ້າຄື້ມ,nuageux,くもりがち/曇り多め,구름 많음,облачно,stark bewölkt,muy nublado
+晴,qíng,sunny,ท้องฟ้าแจ่มใส/แดดออก,nắng ráo/trời quang,ແຈ້ງ/ມີແດດ,ensoleillé/dégagé,晴れ,맑음,ясно/солнечно,sonnig/heit­er,despejado/soleado
+阴,yīn,overcast,เมฆครึ้ม/ฟ้าครึ้ม,trời âm u/u ám,ຟ້າມືດຄື້ມ,couvert/maussade,曇り/どんより,흐림/음산함,пасмурно,bedeckt,nublado
+转,zhuǎn,change / turn,เปลี่ยนเป็น/หมุนไป,chuyển sang/đổi thành,ປ່ຽນເປັນ/ຫມຸນ,tourner/virer à,変わる/切り替わる,변하다/바뀌다,повернуть/смениться на,drehen/zu … wechseln,cambiar a/virar a
+亲爱,qīn’ài,dear / beloved,ที่รัก/เรียน … (ในจดหมาย),thân mến/anh/chị yêu quý,ທີ່ຮັກ/ທ່ານທີ່ນັບຖື,cher/chère,親愛なる…,친애하는…,дорогой/дорогая,lieber/liebe …,querido/querida …
+为了,wèile,for / in order to,เพื่อ/เพื่อที่จะ,để/nhằm,ເພື່ອ/ເພື່ອໃຫ້,pour/afin de,〜のために,…하기 위해,ради/чтобы,für/um … zu,para/para que
+庆祝,qìngzhù,celebrate,ฉลอง/จัดงานฉลอง,ăn mừng/kỉ niệm,ສະຫລອງ,célébrer/fêter,祝う/お祝いする,축하하다/기념하다,праздновать/отмечать,feiern,celebrar
+大使馆,dàshǐguǎn,embassy,สถานทูต,đại sứ quán,ສະຖານທູດ,ambassade,大使館,대사관,посольство,botschaft,embajada
+层,céng,storey / floor,ชั้น/ชั้นที่ …,tầng/… tầng,ຊັ້ນ/ຊັ້ນທີ່ …,étage/niveau,階/フロア,층,этаж/слой,Etage/Stockwerk,piso/planta
+举行,jǔxíng,hold (a meeting / contest / ceremony),จัด/จัดขึ้น,tổ chức/tiến hành,ຈັດຂຶ້ນ/ຈັດງານ,organiser/tenir,開催する/行う,개최하다/거행하다,проводить/устраивать,veranstalten/abhalten,celebrar/organizar
+晚会,wǎnhuì,evening party,งานเลี้ยงตอนเย็น/ปาร์ตี้ค่ำ,dạ hội/tiệc tối,ງານເລີ້ມຕອນແລງ,soirée/fête du soir,夜のパーティー/晚会,저녁 파티/야회,вечеринка/вечер,Abendveranstaltung/Abendparty,fiesta nocturna/velada
+地址,dìzhǐ,address,ที่อยู่,địa chỉ,ທີ່ຢູ່,adresse,住所,住所/アドレス,адрес,Adresse,dirección
+联系,liánxì,contact / connect / link,ติดต่อ/เชื่อมต่อ,liên lạc/liên hệ,ຕິດຕໍ່/ເຊື່ອມຕໍ່,contacter/joindre,連絡する/つながる,연락하다/연계하다,связаться/контакт,kontaktieren/verbinden,contactar/conectar
+如果,rúguǒ,if / in case,ถ้า/ในกรณีที่,nếu/trong trường hợp,ຖ້າ/ໃນກໍລະນີທີ່,si/au cas où,もし/もしも,만약/혹시,если/в случае,wenn/falls,si/en caso de que
+买来/去,mǎi lái / qù,buy and bring/take,ซื้อมา/ซื้อไป,mua về/mua mang đi,ຊື້ມາ/ຊື້ໄປ,acheter et rapporter/emmener,買って来る/買って行く,사 와/사 가,купить и принести/унести,kaufen und (mit)bringen/mitnehmen,comprar y traer/llevar
+跑来/去,pǎo lái / qù,run and come/go,วิ่งมา/วิ่งไป,chạy tới/chạy đi,ວິ່ງມາ/ວິ່ງໄປ,accourir/partir en courant,走って来る/走って行く,뛰어오다/뛰어가다,прибежать/убежать,hinlaufen/herlaufen,correr y venir/ir corriendo
+走来/去,zǒu lái / qù,walk and come/go,เดินมา/เดินไป,đi bộ tới/đi bộ đi,ເດີນມາ/ເດີນໄປ,venir à pied/aller à pied,歩いて来る/歩いて行く,걸어오다/걸어가다,прийти пешком/уйти пешком,zu fuß herkommen/weggehen,venir andando/irse andando
+跳来/去,tiào lái / qù,jump and come/go,กระโดดมา/กระโดดไป,nhảy tới/nhảy đi,ໂດດມາ/ໂດດໄປ,sauter en venant/en allant,跳んで来る/跳んで行く,뛰어오다/뛰어가다(점프),прыжком прийти/уйти прыжками,hüpfend herkommen/wegspringen,saltar y venir/ir saltando
+拿来/去,ná lái / qù,bring/take,เอามา/เอาไป,mang đến/mang đi,ນໍາມາ/ນໍາໄປ,apporter/emmener,持って来る/持って行く,가져오다/가져가다,принести/унести,herbringen/hinbringen,traer/llevar
+找来/去,zhǎo lái / qù,look for and bring/take,ไปหาแล้วเอามา/เอาไป,tìm rồi mang đến/mang đi,ໄປຫາແລ້ວນໍາມາ/ນໍາໄປ,aller chercher et rapporter/emmener,探して来る/探して行く,가서 찾아 가져오다/가져가다,сходить найти и принести/унести,holen und herbringen/hinbringen,ir a buscar y traer/llevar

@@ -1,0 +1,41 @@
+暖气,nuǎnqì,heater / central heating,เครื่องทำความร้อน/ฮีตเตอร์,máy sưởi/sưởi trung tâm,ຮ້ອນອຸ່ນ/ຮະບົບຮ້ອນກາງ,chauffage/radiateur,暖房/ヒーター,난방/히터,отопление/обогреватель,Heizung,calefacción
+坏,huài,go bad / break down,เสีย/พัง,hỏng/hư,ເສຍ/ພັງ,se casser/en panne,壊れる/ダメになる,고장 나다/망가지다,сломаться/испортиться,kaputt gehen/defekt,averiarse/estropearse
+棉衣,miányī,cotton-padded clothes,เสื้อกันหนาวบุผ้าฝ้าย,áo bông/áo chần bông,ເສື້ອກັນໜາວບຸຝ້າຍ,manteau ouaté/veste matelassée,綿入れ/中綿ジャケット,솜옷/누빔 점퍼,ватник/стёганая куртка,Steppjacke/gefütterte Jacke,chaqueta acolchada
+戴,dài,put on / wear,ใส่/สวม (หมวก/ถุงมือ/แว่น),đeo/đội (mũ/găng/kính),ໃສ່/ສວມ (ໝວກ/ຖົງມື/ແວ່ນ),mettre/porter (chapeau/gants/lunettes),身につける/着用する（帽子/手袋/眼鏡）,착용하다/끼다/쓰다,носить/надевать (шапку/перчатки/очки),tragen/aufsetzen/anziehen,ponerse/llevar (sombrero/guantes/gafas)
+手套,shǒutào,gloves,ถุงมือ,găng tay,ຖົງມື,gants,手袋,장갑,перчатки,Handschuhe,guantes
+帽子,màozi,hat / cap,หมวก,mũ/nón,ໝວກ,chapeau/casquette,帽子,모자,шапка/кепка,Hut/Mütze,sombrero/gorra
+后来,hòulái,later / afterwards,ต่อมา/ภายหลัง,sau đó/về sau,ຕໍ່ມາ/ພາຍຫຼັງ,plus tard/après,そのあと/あとになって,그 후에/나중에,позже/впоследствии,später/nachher,después/luego
+只好,zhǐhǎo,have to / have no choice but,ก็เลยต้อง/จำใจ,đành/đành phải,ຈຳໃຈ/ຈຶ່ງຈະຕ້ອງ,ne… que/il ne reste qu’à,しかたなく/やむなく,어쩔 수 없이/할 수 없이,пришлось/остаётся только,musste/nur noch bleibt,no queda más que/tener que
+打开,dǎkāi,switch on / turn on,เปิด/เปิดใช้งาน,mở/bật,ເປີດ,ouvrir/allumer,開ける/電源を入れる,열다/켜다,открыть/включить,öffnen/einschalten,abrir/encender
+空调,kōngtiáo,air conditioner,แอร์/เครื่องปรับอากาศ,máy lạnh/điều hoà,ແອຣ໌/ເຄື່ອງປັບອາກາດ,clim/climatiseur,エアコン,에어컨,кондиционер,Klimaanlage,aire acondicionado
+作业,zuòyè,homework,การบ้าน/งานที่ต้องทำ,bài tập về nhà,ວຽກບ້ານ,devoirs/TP,宿題,숙제,домашнее задание,Hausaufgaben,deberes/tarea
+预习,yùxí,preview,เตรียมบทล่วงหน้า,học trước/chuẩn bị bài,ອ່ານລ່ວງໜ້າ/ຕຽມບົດ,préparer la leçon à l’avance,予習する,예습하다,подготовить уроки заранее,vorbereiten/vorlernen,preparar la lección
+复习,fùxí,review,ทบทวน/อ่านซ้ำ,ôn lại,ທົບທວນບົດ,réviser,復習する,복습하다,повторять (материал),wiederholen,repasar
+考试,kǎo shì,take an examination,สอบ/ไปสอบ,thi/kiểm tra,ສອບເສັງ,passer un examen,試験を受ける,시험을 보다,сдавать экзамен,eine Prüfung ablegen,presentar un examen
+护照,hùzhào,passport,พาสปอร์ต,hộ chiếu,ໜັງສືເດີນທາງ,passeport,パスポート,여권,паспорт,Reisepass,pasaporte
+经常,jīngcháng,often / frequently,บ่อยๆ/เป็นประจำ,thường xuyên,ປະຈຳ/ບ່ອຍໆ,souvent/régulièrement,よく/しょっちゅう,자주/항상,часто/регулярно,oft/regelmäßig,a menudo
+一些,yìxiē,some / a number of,บ้าง/บางส่วน,một số/một vài,ບາງສ່ວນ/ບາງຢ່າງ,quelques/un peu de,いくつか/少し,몇몇/약간,несколько/немного,einige/ein bisschen,algunos/un poco de
+快餐店,kuài cān diàn,fast food restaurant / snack bar,ร้านฟาสต์ฟู้ด/ร้านอาหารจานด่วน,quán ăn nhanh,ຮ້ານອາຫານດ່ວນ,resto rapide/snack,ファストフード店,패스트푸드점,закусочная/фастфуд,Schnellimbiss,comida rápida
+卖,mài,sell,ขาย,bán,ຂາຍ,vendre,売る,팔다,продавать,verkaufen,vender
+外卖,wàimài,take away / take-out,อาหารเดลิเวอรี/สั่งกลับบ้าน,đồ mang về/giao đồ ăn,ອາຫານນຳກັບ/ສັ່ງສົ່ງ,à emporter/livraison,テイクアウト/出前,테이크아웃/배달,еда на вынос/доставка,zum Mitnehmen/Lieferung,para llevar/a domicilio
+有名,yǒu míng,well-known / famous,ดัง/มีชื่อเสียง,nổi tiếng,ມີຊື່ສຽງ,célèbre/connu,有名だ,유명하다,известный/знаменитый,berühmt,famoso
+外国,wàiguó,foreign country,ต่างประเทศ,nước ngoài,ຕ່າງປະເທດ,pays étranger/à l’étranger,外国/海外,외국/해외,иностранная страна/за границей,Ausland,país extranjero/el extranjero
+坐,zuò,sit / take a seat,นั่ง/โดยสาร,ngồi/đi (bằng…),ນັ່ງ/ໂດຍສານ,s’asseoir/prendre (un transport),座る/乗る,앉다/타다,сидеть/ехать (на транспорте),sitzen/fahren mit,sentarse/tomar (transporte)
+热,rè,hot,ร้อน,nóng,ຮ້ອນ,chaud,暑い/熱い,덥다/뜨겁다,жаркий/горячий,heiß,caliente
+舒服,shūfu,comfortable,สบาย/รู้สึกดี,thoải mái/dễ chịu,ສະບາຍ/ຮູ້ສຶກດີ,confortable/à l’aise,気持ちいい/快適だ,편하다/편안하다,комфортно/приятно,bequem/angenehm,cómodo/agradable
+站,zhàn,stand,ยืน,đứng,ຢືນ,se tenir debout,立つ,서다,стоять,stehen,estar de pie
+放,fàng,put / place,วาง/ใส่ไว้,đặt/để,ວາງ/ໃສ່,poser/mettre,置く/入れる,놓다/넣다,положить/поставить,hinlegen/hinstellen,poner/meter
+住,zhù,live / reside,อาศัย/อยู่,ở/sinh sống,ອາໄສ/ຢູ່,habiter/vivre,住む,살다,жить/проживать,wohnen,vivir
+付钱,fù qián,pay money,จ่ายเงิน,trả tiền/thanh toán,ຈ່າຍເງິນ,payer,お金を払う,돈을 내다/결제하다,платить,bezahlen,pagar
+国家,guójiā,country / nation,ประเทศ/รัฐชาติ,quốc gia/đất nước,ປະເທດ/ລັດຊາດ,pays/État,国/国家,국가/나라,государство/страна,Staat/Land,país/estado
+自己,zìjǐ,oneself,ตัวเอง/ด้วยตัวเอง,tự mình/tự bản thân,ຕົນເອງ,soi‑même,自分/自分で,스스로/자기 자신,сам/самостоятельно,selbst/allein,uno mismo/por sí mismo
+做法,zuòfǎ,way of handling or making sth,วิธีทำ/วิธีการ,cách làm/cách thực hiện,ວິທີເຮັດ/ວິທີການ,façon de faire/méthode,やり方/作り方,방법/하는 법,способ/как делать,Vorgehensweise/Methode,modo de hacer/método
+AA制,AA zhì,going Dutch,หารกัน/จ่ายแยก,chia tiền/ai nấy trả,ແບ່ງຈ່າຍ/ຈ່າຍແຍກ,chacun paie sa part,割り勘,더치페이,каждый платит за себя,getrennt zahlen,pagar a escote/cada uno paga lo suyo
+年轻人,niánqīng rén,young people / youth,วัยรุ่น/คนหนุ่มสาว,người trẻ/giới trẻ,ໜຸ່ມສາວ,jeunes/les jeunes,若者/若い人たち,젊은이/청년들,молодёжь/молодые люди,Jugend/junge Leute,jóvenes/la gente joven
+影响,yǐngxiǎng,influence / affect / impact,กระทบ/มีผลต่อ,ảnh hưởng/tác động,ສົ່ງຜົນກະທົບ,influencer/impact,影響する,영향을 주다,влиять/воздействовать,beeinflussen,influir/afectar
+愿意,yuànyì,be willing / wish / want,ยินดี/เต็มใจ,sẵn lòng/đồng ý,ຍິນດີ/ເຕັມໃຈ,être disposé/volontiers,〜したい/進んで…したい,기꺼이 하다/원하다,быть готовым/хотеть,bereit sein/gern,estar dispuesto/querer
+大多数,dàduōshù,great majority,ส่วนใหญ่,đa số/phần lớn,ສ່ວນໃຫຍ່,la grande majorité,大多数,대다수/대부분,большинство,die große Mehrheit,la gran mayoría
+习惯,xíguàn,be accustomed to / be used to,คุ้นเคย/ชิน/นิสัย,quen/ thói quen,ຄຸ້ນຄືນ/ນິໄສ,habitude/s’habituer,慣れる/習慣,익숙해지다/습관,привыкать/привычка,sich gewöhnen/Gewohnheit,acostumbrarse/costumbre
+椅子,yǐzi,chair,เก้าอี้,ghế,ກະອີ້,chaise,椅子,의자,стул,Stuhl,silla
+背包,bēibāo,knapsack,กระเป๋าเป้,ba lô,ກະເປົ໋າແບກ,sac à dos,リュック/バックパック,배낭,рюкзак,Rucksack,mochila
+钱包,qiánbāo,wallet,กระเป๋าสตางค์,ví tiền,ກະເປົ໋າເງິນ,portefeuille,財布,지갑,кошелёк,Geldbörse/Portemonnaie,cartera/monedero

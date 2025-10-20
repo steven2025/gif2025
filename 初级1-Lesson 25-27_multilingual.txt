@@ -1,0 +1,40 @@
+懂,dǒng,understand,เข้าใจ,hiểu,ເຂົ້າໃຈ,comprendre,わかる/理解する,이해하다,понимать,verstehen,entender
+话,huà,word / talk,คำพูด/คุยกัน,lời nói/chuyện,ຄໍາເວົ້າ/ສົນທະນາ,paroles/discussion,話/ことば,말/이야기,слова/речь/разговор,Worte/Gespräch,palabras/conversación
+出租（汽）车,chūzū (qì) chē,taxi,แท็กซี่,taxi/xe taxi,ແທັກຊີ,taxi,タクシー,택시,такси,Taxi,taxi
+虽然,suīrán,although / even though,แม้ว่า/ถึงแม้ว่า,mặc dù/tuy,ເຖິງແມ່ນວ່າ,bien que/même si,〜だけれど/〜とはいえ,비록 ~지만,"хотя/несмотря на то, что",obwohl/auch wenn,aunque/a pesar de que
+司机,sījī,driver / chauffeur,คนขับ(รถ),tài xế/lái xe,ຄົນຂັບລົດ,chauffeur/conducteur,運転手/ドライバー,운전사/기사,водитель/шофёр,Fahrer/in,conductor/a
+住院,zhù yuàn,be in hospital / be hospitalized,เข้าโรงพยาบาล/นอนโรงพยาบาล,nhập viện/nằm viện,ເຂົ້າໂຮງໝໍ,être hospitalisé,入院する,입원하다,лечь в больницу,ins Krankenhaus kommen/liegen,ingresar en el hospital
+担心,dān xīn,worry / be anxious about,กังวล/เป็นห่วง,lo/lắng,ກັງວົນ,s’inquiéter/se faire du souci,心配する,걱정하다,волноваться/переживать,sich sorgen/machen,preocuparse
+护士,hùshi,nurse,พยาบาล,y tá/điều dưỡng,ພະຍາບານ,infirmier/ère,看護師,간호사,медсестра/медбрат,Krankenpfleger/in,enfermero/a
+机会,jīhuì,opportunity / chance,โอกาส,cơ hội,ໂອກາດ,occasion/opportunité,チャンス/機会,기회,возможность/шанс,Chance/Gelegenheit,oportunidad
+感觉,gǎnjué,feel / perceive,ความรู้สึก/รู้สึกว่า,cảm giác/cảm thấy,ຄວາມຮູ້ສຶກ/ຮູ້ສຶກ,sentiment/ressentir,感じ/感じる,느낌/느끼다,ощущение/чувствовать,Gefühl/fühlen,sensación/sentir
+普通话,pǔtōnghuà,Mandarin,ภาษาจีนกลาง/พูท่งฮว่า,tiếng phổ thông/Quan Thoại,ພາສາຈີນກາງ,mandarin (putonghua),標準中国語/普通話,표준중국어/보통화,путунхуа/стандартный китайский,Mandarin/Hochchinesisch,mandarín (putonghua)
+方言,fāngyán,dialect,ภาษาถิ่น,phương ngữ/tiếng địa phương,ພາສາຖິ່ນ,dialecte/parler local,方言,방언/사투리,диалект,Dialekt/Mundart,dialecto
+广东话,Guǎngdōnghuà,Cantonese,กวางตุ้ง,tiếng Quảng Đông,ພາສາກວາງຕຸ້ງ,cantonais,広東語,광둥어,кантонский,Kantonesisch,cantonés
+制造,zhìzào,make / manufacture,ผลิต/ทำ,sản xuất/chế tạo,ຜະລິດ,fabriquer/produire,製造する/作る,제조하다/만들다,производить/изготавливать,herstellen/produzieren,fabricar/producir
+快要,kuàiyào,about to / soon,ใกล้จะ/กำลังจะ,sắp/sắp sửa,ກຳລັງຈະ/ໄວໆນີ້,bientôt/sur le point de,もうすぐ/〜しそう,곧/막 ~하려 하다,скоро/вот‑вот,bald/gleich,ya casi/a punto de
+许多,xǔduō,many / a lot of / much,หลาย/มากมาย,nhiều,ຫຼາຍ,beaucoup/plein de,たくさん/多くの,많이/많은,много,viel(e),muchos/mucho
+没想到,méi xiǎngdào,be unexpected,ไม่นึกว่าจะ/คาดไม่ถึง,không ngờ/không nghĩ tới,ບໍ່ຄາດຄິດ,je ne m’y attendais pas,まさか/思ってもみなかった,생각도 못 했다/의외다,не ожидал(а),hätte nicht gedacht,no me lo esperaba
+丰富,fēngfù,plentiful / abundant / rich,หลากหลาย/มีเยอะ,phong phú/dồi dào,ຫຼາກຫຼາຍ/ອຸດົມ,riche/varié/abondant,豊富だ/充実している,풍부하다,богатый/обильный,reichhaltig/vielfältig,rico/abundante
+不同,bùtóng,different / not the same,ต่าง/ไม่เหมือน,khác/không giống,ແຕກຕ່າງ,différent,違う/異なる,다르다,разный/отличаться,unterschiedlich/anders,diferente
+利用,lìyòng,make use of / take advantage of,ใช้ประโยชน์/อาศัย,tận dụng/sử dụng,ໃຊ້ປະໂຫຍດ,profiter de/utiliser,利用する/活用する,이용하다/활용하다,использовать/воспользоваться,nutzen/ausnutzen,aprovechar/usar
+饭店,fàndiàn,hotel / restaurant,ภัตตาคาร/ร้านอาหาร/โรงแรม,nhà hàng/khách sạn,ຮ້ານອາຫານ/ໂຮງແຮມ,restaurant/hôtel,レストラン/ホテル,식당/호텔,ресторан/гостиница,Restaurant/Hotel,restaurante/hotel
+春节,Chūn Jié,Spring Festival,ตรุษจีน,Tết Nguyên Đán (Trung Quốc),ຕຸ້ງຈີນ,Nouvel An chinois,春節/旧正月,춘절/중국 설,китайский новый год,Chinesisches Neujahr,Año Nuevo chino
+中秋节,Zhōngqiū Jié,Mid-Autumn Festival,เทศกาลไหว้พระจันทร์,Tết Trung Thu,ບຸນກາງລະດູ/ບຸນໄຫວ້ພຣະຈັນ,Fête de la mi‑automne,中秋節/中秋の名月,중추절/추석(중국),праздник середины осени,Mondfest (Mittherbstfest),Festival del Medio Otoño
+端午节,Duānwǔ Jié,Dragon Boat Festival,เทศกาลเรือมังกร/บ๊ะจ่าง,Tết Đoan Ngọ (lễ thuyền rồng),ບຸນດົວນຫງົວ/ບຸນເຮືອມັງກອນ,Fête des bateaux‑dragons (Duanwu),端午節/ドラゴンボート祭,단오절(용선제),праздник драконьих лодок (Дуаньу),Drachenbootfest (Duanwu),Festival de los Botes Dragón (Duanwu)
+清明节,Qīngmíng Jié,Pure Brightness Festival / Tomb-Sweeping Day,เช็งเม้ง (ไหว้บรรพบุรุษ),Thanh Minh (tảo mộ),ວັນຊຽງເມັ້ງ/ວັນເຂົ້າຫລຸມ,Qingming (balayage des tombes),清明節/お墓参りの日,청명절/성묘하는 날,Цинмин (день поминовения),Qingming/Ahnenfest,Qingming/Día de limpieza de tumbas
+复活节,Fùhuó Jié,Easter,อีสเตอร์,Lễ Phục Sinh,ອີສເຕີ (Easter),Pâques,イースター/復活祭,부활절,Пасха,Ostern,Pascua
+狂欢节,Kuánghuān Jié,Carnival,คาร์นิวัล,lễ hội Carnaval,ຄານິວານ/ງານການະວານ,Carnaval,カーニバル/謝肉祭,카니발/사육제,карнавал,Karneval/Fasching,carnaval
+习惯,xíguàn,habit / custom,เคยชิน/นิสัย,thói quen,ນິໄສ,habitude,習慣,습관,привычка,Gewohnheit,costumbre
+了解,liǎojiě,look into / find out / acquaint oneself with,ทำความเข้าใจ/รู้จักดี/หาข้อมูล,tìm hiểu/hiểu rõ,ເຂົ້າໃຈ/ຮູ້ຈັກດີ,se renseigner/comprendre,よく知る/理解する/調べる,알아보다/이해하다,разобраться/узнать,sich informieren/verstehen,enterarse/conocer bien
+点钟,diǎnzhōng,o’clock,…โมงตรง,… giờ đúng,… ໂມງຕົງ,… heure(s) pile,…時ちょうど,…시 정각,ровно … часов,… Uhr,… en punto
+路上,lùshang,on the road / on the way,ระหว่างทาง/บนถนน,trên đường/đang trên đường,ຢູ່ທາງ/ລະຫວ່າງທາງ,en route/sur le chemin,道中/向かう途中,가는 길에/길에서,в пути/по дороге,unterwegs/auf dem Weg,de camino/por el camino
+正在,zhèngzài,in the process of,กำลัง…อยู่,đang …,ກຳລັງ …,être en train de …,今…しているところ,…하는 중이다,в процессе/сейчас …,gerade …,estar …‑ando/‑iendo
+一边,yìbiān,indicating two actions taking place at the same time,…ไป…ไป (ทำพร้อมกัน),vừa … vừa …,…ຄຽງກັນ …,à la fois … et … / en même temps,…ながら/同時に…,…하면서 …,одновременно … и …,gleichzeitig … / während …,mientras … / a la vez …
+散步,sàn bù,go for a walk or stroll,เดินเล่น/เดินออกกำลัง,đi dạo,ເດີນເລ່ນ,se promener,散歩する,산책하다,гулять/прогуливаться,spazieren gehen,pasear
+下边,xiàbian,below / under / underneath,ข้างล่าง/ด้านล่าง,bên dưới/phía dưới,ຂ້າງລຸ່ມ,en bas/en dessous,下のほう/下,아래/밑,внизу/под,unten/darunter,abajo/debajo
+打（太极拳）,dǎ (tàijíquán),practice (tai chi),ฝึกไทเก๊ก,tập Thái Cực Quyền,ຝຶກໄທຈີຈ້ວນ,pratiquer le taï‑chi,太極拳をする,태극권을 하다,заниматься тайцзицюань,Tai‑Chi üben,practicar tai chi
+湖,hú,lake,ทะเลสาบ,hồ,ທະເລສາບ,lac,湖,호수,озеро,See,lago
+逛街,guàng jiē,go shopping,เดินช้อปปิ้ง/เดินดูของ,đi dạo phố/mua sắm,ຍ່າງຖະໜົນ/ໄປເບິ່ງຮ້ານ,flâner en ville/faire les magasins,街をぶらぶらする/ショッピングする,길거리 구경/쇼핑하러 나가다,гулять по магазинам,bummeln/einkaufen gehen,pasear de tiendas/ir de compras
+打扫,dǎsǎo,sweep / clean,ทำความสะอาด/กวาด,quét dọn/dọn dẹp,ກວາດ/ທຳຄວາມສະອາດ,nettoyer/ranger,掃除する,청소하다,убирать/наводить порядок,sauber machen/aufräumen,limpiar/ordenar
+表演,biǎoyǎn,perform,แสดง/การแสดง,biểu diễn/trình diễn,ສະແດງ,se produire/faire une représentation,演じる/パフォーマンスする,공연하다/연기하다,выступать/исполнять,auftreten/aufführen,actuar/representar

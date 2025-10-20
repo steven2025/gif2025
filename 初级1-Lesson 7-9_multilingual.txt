@@ -1,0 +1,118 @@
+教学楼,jiào xué lóu,classroom building,อาคารเรียน/ตึกเรียน,tòa nhà giảng dạy,ອາຄານຮຽນ,bâtiment d’enseignement,校舎/教室棟,강의동/교사,учебный корпус,Lehrgebäude,edificio de aulas
+教学,jiào xué,teach/educate,สอน/การสอน,dạy/giảng dạy,ສອນ/ການສອນ,enseigner/enseignement,教える/授業,가르치다/교육,преподавать/обучение,unterrichten/Unterricht,enseñar/enseñanza
+楼,lóu,storeyed building,อาคาร/ตึก (หลายชั้น),tòa nhà (nhiều tầng),ຕຶກ/ອາຄານ (ຫຼາຍຊັ້ນ),immeuble/bâtiment,建物/ビル,건물/빌딩,здание,Gebäude,edificio
+在,zài,indicating where a person or thing is,อยู่/ที่ (แสดงสถานที่),ở/tại (địa điểm),ຢູ່/ທີ່ (ສະຖານທີ່),se trouver/à,〜にある/いる,…에 있다,находиться/в,sich befinden/in/bei,estar/en
+这儿,zhèr,here,นี่/ตรงนี้,đây,ທີ່ນີ້,ici,ここ,여기,здесь,hier,aquí
+图书馆,tú shū guǎn,library,ห้องสมุด,thư viện,ຫໍ້ສະຫມຸດ,bibliothèque,図書館,도서관,библиотека,Bibliothek,biblioteca
+……边,biān,side,ด้าน…/ข้าง…,bên …/phía …,ດ້ານ …/ຂ້າງ …,côté …,…側,…쪽/…편,… сторона,…‑seite,lado …
+北边,běi bian,north,ด้านเหนือ/ทางเหนือ,phía bắc,ທາງເໜືອ,côté nord/au nord,北側/北のほう,북쪽,северная сторона/на севере,Nordseite/im Norden,lado norte/al norte
+西边,xī bian,west,ด้านตะวันตก/ทางตะวันตก,phía tây,ທາງຕາເວັນຕົກ,côté ouest/à l’ouest,西側/西のほう,서쪽,западная сторона/на западе,Westseite/im Westen,lado oeste/al oeste
+南边,nán bian,south,ด้านใต้/ทางใต้,phía nam,ທາງໃຕ້,côté sud/au sud,南側/南のほう,남쪽,южная сторона/на юге,Südseite/im Süden,lado sur/al sur
+运动场,yùn dòng chǎng,sports ground/sports venue,สนามกีฬา,sân thể thao,ສະໜາມກິລາ,terrain de sport,運動場,운동장,спортплощадка/стадион,Sportplatz,cancha/campo deportivo
+体育馆,tǐ yú guǎn,gymnasium/gym,โรงยิม/ยิมเนเซียม,nhà thi đấu/thể dục,ຍິມ/ສະຖານກິລາໃນຮົ່ມ,gymnase,体育館,체육관,спортзал/спорткомплекс,Sporthalle,gimnasio/pabellón
+饭馆,fàn guǎn,restaurant,ร้านอาหาร/ภัตตาคาร,nhà hàng/quán ăn,ຮ້ານອາຫານ,restau/resto/restaurant,レストラン/食堂,식당/레스토랑,ресторан/кафе,Restaurant,restaurante
+还,hái,also/too/as well/in addition,ยัง/ก็ด้วย/อีกด้วย,còn/cũng/thêm,ຍັງ/ກໍ່/ອີກດ້ວຍ,encore/aussi/en plus,まだ/それに/〜も,아직/또/역시,ещё/также/к тому же,noch/auch/außerdem,aún/también/además
+超市,chāo shì,supermarket,ซูเปอร์มาร์เก็ต/ซูเปอร์,siêu thị,ຊູເປີມາເກັດ,supermarché,スーパー,슈퍼마켓,супермаркет,Supermarkt,supermercado
+去,qù,go/leave/depart,ไป/ออกเดินทาง,đi/rời đi,ໄປ/ອອກເດີນທາງ,aller/partir,行く/出かける,가다/떠나다,идти/уезжать,gehen/fahren/weggehen,ir/salir
+哪儿,nǎr,where,ที่ไหน,ở đâu,ຢູ່ໃສ,où,どこ,어디,где,wo,dónde
+银行,yín háng,bank/banking house,ธนาคาร,ngân hàng,ທະນາຄານ,banque,銀行,은행,банк,bank,banco
+知道,zhī dào,know,รู้,biết,ຮູ້,savoir,知っている,알다,знать,wissen,saber
+东边,dōng bian,east,ด้านตะวันออก,phía đông,ທາງຕາເວັນອອກ,côté est,東側,동쪽,восточная сторона,ostseite,lado este
+跟,gēn,with,กับ,với,ກັບ,avec,〜と,와/과,с,mit,con
+吧,ba,used at the end of a sentence to indicate a mild suggestion,เถอะ,nhé,ເນາະ,marque une suggestion légère,軽い提案を表す,가벼운 제안을 나타냄,смягчённое предложение,drückt einen leichten vorschlag aus,indica una sugerencia suave
+太,tài,too/much too,เกินไป,quá,ເກີນໄປ,trop,〜すぎる,너무,слишком,zu,demasiado
+卫生间,wèi shēng jiān,toilet/washroom,ห้องน้ำ,nhà vệ sinh,ຫ້ອງນ້ຳ,toilettes,トイレ,화장실,туалет,toilette,baño
+对不起,duì bu qǐ,I'm sorry/sorry/excuse me,ขอโทษ,xin lỗi,ຂໍໂທດ,désolé,ごめんなさい,미안합니다,извините,entschuldigung,lo siento
+没关系,méi guān xi,it doesn't matter/never mind/that's all right,ไม่เป็นไร,không sao,ບໍ່ເປັນຫຍັງ,ce n’est pas grave,大丈夫です,괜찮아요,ничего страшного,macht nichts,no pasa nada
+商店,shāng diàn,shop/store,ร้านค้า,cửa hàng,ຮ້ານຄ້າ,magasin,店,가게,магазин,geschäft,tienda
+里边,lǐ bian,inside/interior,ข้างใน,bên trong,ຂ້າງໃນ,à l’intérieur,内側,안쪽,внутри,innen,dentro
+地方,dì fang,place/location,สถานที่,địa điểm,ສະຖານທີ່,lieu,場所,장소,место,ort,lugar
+前边,qián bian,in front/ahead/before,ด้านหน้า,phía trước,ດ້ານໜ້າ,devant,前側,앞쪽,впереди,vorn,delante
+看,kàn,see/look/watch,ดู,xem,ເບິ່ງ,regarder,見る,보다,смотреть,sehen,ver
+那儿,nàr,there,ที่นั่น,ở đó,ທີ່ນັ້ນ,là-bas,そこ,거기,там,dort,allí
+就,jiù,exactly/precisely,ทันที,ngay,ທັນທີ,tout de suite,すぐ,바로,сразу,sofort,enseguida
+上边,shàng bian,above/over/on the surface of,ข้างบน,bên trên,ຂ້າງເທິງ,au-dessus,上側,위쪽,сверху,oben,arriba
+后边,hòu bian,behind,ด้านหลัง,phía sau,ດ້ານຫຼັງ,derrière,後ろ側,뒤쪽,сзади,hinten,detrás
+旁边,páng biān,beside,ข้างๆ,bên cạnh,ຂ້າງໆ,à côté,となり,옆에,рядом,neben,al lado
+书店,shū diàn,bookstore,ร้านหนังสือ,nhà sách,ຮ້ານຂາຍປຶ້ມ,librairie,書店,서점,книжный магазин,buchhandlung,librería
+邮局,yóu jú,post office,ไปรษณีย์,bưu điện,ໄປສະນີ,bureau de poste,郵便局,우체국,почта,post,oficina de correos
+桌子,zhuō zi,table/desk,โต๊ะ/โต๊ะทำงาน,bàn/bàn học,ໂຕະ,table/bureau,机/机(つくえ),책상/테이블,стол,tisch/schreibtisch,mesa/escritorio
+书包,shū bāo,schoolbag/satchel,กระเป๋านักเรียน,cặp sách/ba lô,ກະເປົານັກຮຽນ,cartable/sac d’école,ランドセル/通学かばん,책가방/백팩,школьный ранец/портфель,schulranzen/rucksack,mochila escolar/cartera
+宿舍,sù shè,dormitory,หอพัก/ห้องพักนักศึกษา,ký túc xá,ຫໍພັກນັກສຶກສາ,dortoir,寮,기숙사,общежитие,wohnheim,residencia de estudiantes
+今天,jīn tiān,this day/today,วันนี้,hôm nay,ມື້ນີ້,aujourd’hui,きょう,오늘,сегодня,heute,hoy
+月,yuè,month,เดือน,tháng,ເດືອນ,mois,月,달/월,месяц,monat,mes
+日,rì,day,วัน/วันที่,ngày,ວັນ,jour,日,날/일,день,tag,día
+星期,xīng qī,week,สัปดาห์,tuần,ອາທິດ,semaine,週,주,неделя,woche,semana
+星期一,xīng qī yī,Monday,วันจันทร์,thứ hai,ວັນຈັນ,lundi,月曜日,월요일,понедельник,montag,lunes
+星期二,xīng qī èr,Tuesday,วันอังคาร,thứ ba,ວັນອັງຄານ,mardi,火曜日,화요일,вторник,dienstag,martes
+星期三,xīng qī sān,Wednesday,วันพุธ,thứ tư,ວັນພຸດ,mercredi,水曜日,수요일,среда,mittwoch,miércoles
+星期四,xīng qī sì,Thursday,วันพฤหัสบดี,thứ năm,ວັນພະຫັດ,jeudi,木曜日,목요일,четверг,donnerstag,jueves
+星期五,xīng qī wǔ,Friday,วันศุกร์,thứ sáu,ວັນສຸກ,vendredi,金曜日,금요일,пятница,freitag,viernes
+星期六,xīng qī liù,Saturday,วันเสาร์,thứ bảy,ວັນເສົາ,samedi,土曜日,토요일,суббота,samstag,sábado
+星期日/天,xīng qī rì/tiān,Sunday,วันอาทิตย์,chủ nhật,ວັນອາທິດ,dimanche,日曜日,일요일,воскресенье,sonntag,domingo
+生日,shēng rì,birthday,วันเกิด,sinh nhật,ວັນເກີດ,anniversaire,誕生日,생일,день рождения,geburtstag,cumpleaños
+下课,xià kè,finish class/class is over,เลิกเรียน,tan học/hết tiết,ໝົດຊົ່ວໂມງ/ເລີກຮຽນ,fin du cours,授業が終わる,수업이 끝나다,конец урока,unterricht ist aus,termina la clase
+以后,yǐ hòu,after/afterwards/later,หลังจากนี้/ต่อไป,sau này/sau khi,ຫຼັງຈາກນັ້ນ/ຕໍ່ໄປ,après/désormais,以後/のちに,이후/나중에,после/в дальнейшем,danach/fortan,después/en adelante
+准备,zhǔn bèi,intend/plan,เตรียมการ/ตั้งใจ,chuẩn bị/dự định,ກຽມພ້ອມ/ຕັ້ງໃຈ,préparer/prévoir,準備する/つもりだ,준비하다/작정하다,готовить/намереваться,vorbereiten/vorhaben,preparar/pretender
+请,qǐng,invite,เชิญ/เชื้อเชิญ,mời,ເຊີນ,inviter,招待する,초대하다,приглашать,einladen,invitar
+吃,chī,eat,กิน,ăn,ກິນ,manger,食べる,먹다,есть,essen,comer
+饭,fàn,meal/cooked rice or other cereals,อาหาร/มื้ออาหาร/ข้าวสุก,bữa ăn/cơm,ອາຫານ/ເຂົ້າສຸກ,repas/riz cuit,食事/ご飯,식사/밥,приём пищи/варёный рис,mahlzeit/gekochter reis,comida/arroz cocido
+对,duì,right/correct/true,ถูก/ถูกต้อง,đúng/chính xác,ຖືກ/ຖືກຕ້ອງ,juste/correct,正しい,맞다/옳다,правильный/верный,richtig/korrekt,correcto
+号,hào,(used mostly after numerals) ordinal number,ลำดับที่/หมายเลข,số thứ tự,ເລກລໍາດັບ,numéro d’ordre,序数/番号,서수/번호,порядковый номер,ordinalzahl/nummer,número ordinal
+怎么样,zěn me yàng,how about,เป็นอย่างไรบ้าง/เห็นว่าอย่างไร,thế nào/ý kiến sao,ເປັນແນວໃດ/ເຫັນຢ່າງໃດ,comment c’est/tu en penses quoi,どうですか,어떻습니까/어때요,как это/что думаешь,wie ist es/was meinst du,qué tal/cómo te parece
+祝,zhù,express good wishes/wish,อวยพร,chúc,ອວຍພອນ,souhaiter,祝う/祈る,축원하다/기원하다,желать (добра),wünschen,desear/felicitar
+快乐,kuài lè,happy/joyful,มีความสุข,vui vẻ/hạnh phúc,ມີຄວາມສຸກ,heureux/joyeux,楽しい/幸せな,행복한/즐거운,счастливый/радостный,glücklich/fröhlich,feliz/alegre
+礼物,lǐ wù,gift/present,ของขวัญ,quà tặng,ຂອງຂວັນ,cadeau,贈り物/プレゼント,선물,подарок,geschenk,regalo
+书,shū,book,หนังสือ,sách,ປຶ້ມ,livre,本/書籍,책,книга,buch,libro
+支,zhī,used for long/slender and inflexible objects,ลักษณนามของวัตถุยาว ‘แท่ง/ด้าม’,lượng từ cho vật dài ‘cây/chiếc’,ລັກສະນະນາມສໍາລັບຂອງຍາວ ‘ແທ່ງ/ອັນ’,classificateur pour objets longs ‘bâton’,細長い物の助数詞,가늘고 긴 물건의 양사,счётное слово для длинных предметов,zählwort für lange,dünne gegenstände clasificador para objetos largos y delgados
+笔,bǐ,pen/pencil/writing brush,ปากกา/ดินสอ/พู่กัน,bút/viết,ປາກກາ/ດິນສໍ/ແປງຂຽນ,stylo/crayon/pinceau,ペン/えんぴつ/筆,펜/연필/붓,ручка/карандаш/кисть,stift/bleistift/pinsel,bolígrafo/lápiz/pincel
+啊,a,expressing agreement or compliance,คำอุทาน แสดงการตกลง/เห็นด้วย,thán từ biểu thị đồng ý/đáp ứng,ຄໍາອຸທານ ສະແດງການຕົກລົງ/ເຫັນດີ,interjection marquant l’accord/la réponse,間投詞（同意・応答を表す）,감탄사(동의/응답 표시),междометие,выражающее согласие/отклик,interjektion drückt zustimmung/antwort aus interjección que expresa acuerdo/respuesta
+时间,shí jiān,time/(the duration of) time/(a point in) time,เวลา/ช่วงเวลา/จุดเวลา,thời gian/khoảng thời gian/thời điểm,ເວລາ/ໄລຍະເວລາ/ເວລາຈຸດ,temps/durée/moment,時間/時間の長さ/時点,시간/기간/시점,время/продолжительность/момент,zeit/dauer/zeitpunkt,tiempo/duración/momento
+没问题,méi wèn tí,no problem,ไม่มีปัญหา,không vấn đề,ບໍ່ເປັນຫຍັງ,pas de problème,問題ありません,문제없어요,без проблем,kein problem,sin problema
+没（有）,méi (yǒu),not have/be without,ไม่มี/ขาด,không có/thiếu,ບໍ່ມີ/ຂາດ,ne pas avoir/être sans,ない/持っていない,없다/가지지 않다,не иметь/без,nicht haben/ohne,no tener/sin
+问题,wèn tí,question/problem,คำถาม/ปัญหา,câu hỏi/vấn đề,ຄໍາຖາມ/ບັນຫາ,question/problème,質問/問題,질문/문제,вопрос/проблема,frage/problem,pregunta/problema
+明天,míng tiān,tomorrow,พรุ่งนี้,ngày mai,ມື້ອື່ນ,demain,あした/あす,내일,завтра,morgen,mañana
+后天,hòu tiān,the day after tomorrow,มะรืนนี้,ngày kia,ມື້ຮື່ນ,après-demain,あさって,모레,послезавтра,übermorgen,pasado mañana
+昨天,zuó tiān,yesterday,เมื่อวาน,hôm qua,ມື້ວານ,hier,きのう,어제,вчера,gestern,ayer
+前天,qián tiān,the day before yesterday,เมื่อวานซืน,hôm kia,ມື້ກ່ອນວານ,avant-hier,おととい,그저께,позавчера,vorgestern,antes de ayer
+报纸,bǎo zhǐ,newspaper,หนังสือพิมพ์,báo/báo chí,ຫນັງສືພິມ,journal,新聞,신문,газета,zeitung,periódico
+杂志,zá zhì,magazine,นิตยสาร,tạp chí,ນິຕິຍະສານ,magazine/revue,雑誌,잡지,журнал,zeitschrift,revista
+衣服,yī fu,clothes,เสื้อผ้า,quần áo,ເສື້ອຜ້າ,vêtements,服/衣服,옷,одежда,kleidung,ropa
+每天,měi tiān,every day,ทุกวัน,mỗi ngày/hằng ngày,ທຸກມື້,chaque jour/tous les jours,毎日,매일,каждый день,jeden tag,cada día/todos los días
+点,diǎn,o'clock,นาฬิกา/โมง,giờ,ໂມງ,heures (o’clock),～時,시 (정각),часов (ровно),uhr (punkt),en punto
+半,bàn,half,ครึ่ง,rưỡi/một nửa,ເຄິ່ງ,demi/moitié,半,반/절반,половина,halb,media/mitad
+起床,qǐ chuáng,get up/get out of bed,ตื่นนอน/ลุกจากเตียง,thức dậy/ra khỏi giường,ຕື່ນນອນ/ລຸກຈາກຕຽງ,se lever/se réveiller,起きる/ベッドから起きる,일어나다/잠자리에서 일어나다,вставать/просыпаться,aufstehen/aus dem bett gehen,levantarse/salir de la cama
+起,qǐ,stand up/get up/rise,ลุกขึ้น/ขึ้น,đứng dậy/đứng lên,ລຸກຂຶ້ນ,se lever/s’élever,立ち上がる/起き上がる,일어서다/일어나다,вставать/подниматься,aufstehen/aufsteigen,levantarse/elevarse
+床,chuáng,bed,เตียง,giường,ຕຽງ,lit,ベッド,침대,кровать,bett,cama
+先,xiān,before/earlier/first/in advance,ก่อน/ล่วงหน้า/ก่อนอื่น,trước/ban đầu/trước tiên,ກ່ອນ/ລ່ວງໜ້າ,d’abord/au préalable,まず/先に,먼저/우선,сначала/заранее,zuerst/vorab,primero/de antemano
+洗澡,xǐ zǎo,have or take a bath/take a shower,อาบน้ำ/ชำระร่างกาย,tắm,ອາບນ້ໍາ,prendre un bain/une douche,風呂/シャワーを浴びる,목욕하다/샤워하다,принимать ванну/душ,baden/duschen,bañarse/tomar una ducha
+洗,xǐ,wash,ล้าง/ซัก,rửa/giặt,ລ້າງ/ຊັກ,laver,洗う,씻다/빨다,мыть/стирать,waschen,lavar
+然后,rán hòu,and then/after that,แล้วก็/จากนั้น,sau đó/rồi,ແລ້ວຈຶ່ງ/ຈາກນັ້ນ,ensuite/puis,それから/そして,그 다음/그리고,затем/потом,dann/anschließend,luego/después
+早饭,zǎo fàn,breakfast,อาหารเช้า,bữa sáng,ເຂົ້າເຊົ້າ,petit-déjeuner,朝ごはん,아침밥/조식,завтрак,frühstück,desayuno
+差,chà,be less than/fall short of,ขาด/ยังไม่ถึง,kém/còn thiếu,ຂາດ/ຍັງບໍ່ຮອດ,manquer/être en moins,足りない/〜分前,모자라다/…전,не хватать/без (до),fehlen/…vor,faltar/…menos
+刻,kè,quarter (of an hour),หนึ่งในสี่ชั่วโมง/15 นาที,một phần tư giờ/15 phút,15 ນາທີ/ໜຶ່ງໃນສີ່ຊົ່ວໂມງ,quart d’heure (15 min),15分/刻,15분/준각,четверть часа (15 мин),viertelstunde (15 min),cuarto de hora (15 min)
+教室,jiào shì,classroom/schoolroom,ห้องเรียน,phòng học/lớp học,ຫ້ອງຮຽນ,salle de classe,教室,교실,классная комната,klassenzimmer,aula/sala de clase
+开始,kāi shǐ,begin/start,เริ่ม/เริ่มต้น,bắt đầu/khởi đầu,ເລີ່ມຕົ້ນ,commencer/débuter,始める/開始する,시작하다,начинать/стартовать,beginnen/starten,empezar/iniciar
+下午,xià wǔ,afternoon/pm,บ่าย/ช่วงบ่าย,buổi chiều,ຕອນບ່າຍ,après-midi,午後,오후,после полудня,nachmittag,tarde (p.m.)
+常常,cháng cháng,frequently/usually/often,มักจะ/บ่อยครั้ง,thường xuyên,ມັກ/ເປັນປະຈໍາ,souvent/fréquemment,よく/しばしば,자주/흔히,часто/зачастую,oft/häufig,a menudo/con frecuencia
+晚上,wǎn shang,evening/night,ตอนเย็น/กลางคืน,buổi tối/ban đêm,ຕອນແລງ/ຕອນກາງຄືນ,soir/nuit,夕方/夜,저녁/밤,вечером/ночью,abends/nachts,por la tarde/noche
+有时候,yǒu shí hou,sometimes,บางครั้ง,đôi khi/thỉnh thoảng,ບາງເທື່ອ,parfois/de temps en temps,ときどき,가끔/때때로,иногда/порой,manchmal/zuweilen,a veces
+电视,diàn shì,television/TV,โทรทัศน์/ทีวี,truyền hình/tivi,ໂທລະພາບ,télévision/tv,テレビ,텔레비전/티비,телевидение/тв,fernsehen/tv,televisión/tv
+上网,shàng wǎng,be on the Internet/surf the Internet,เล่นอินเทอร์เน็ต/ท่องอินเทอร์เน็ต,lên mạng/lướt mạng,ເຂົ້າອິນເຕີເນັດ,aller sur internet/surfer,ネットをする/ネットサーフィン,인터넷을 하다/서핑하다,сидеть в интернете/серфить,ins internet gehen/surfen,estar en internet/navegar
+现在,xiàn zài,now/at present,ตอนนี้/ปัจจุบัน,hiện tại/bây giờ,ຕອນນີ້/ປະຈຸບັນ,maintenant/à présent,今/現在,지금/현재,сейчас/в настоящее время,jetzt/derzeit,ahora/en la actualidad
+事,shì,matter/affair/thing/event,เรื่อง/ธุระ/เหตุการณ์,việc/sự việc/chuyện,ເລື່ອງ/ວຽກ/ເຫດການ,affaire/chose/événement,事/出来事,일/사건/일거리,дело/вещь/событие,angelegenheit/sache/ereignis,asunto/cosa/evento
+开,kāi,open,เปิด,mở,ເປີດ,ouvrir,開ける/開く,열다,открывать,öffnen,abrir
+门,mén,door/gate,ประตู/ทางเข้า,cửa/cổng,ປະຕູ,porte,ドア/門,문/대문,дверь/ворота,tür/tor,puerta/portón
+关,guān,shut/close,ปิด,đóng,ປິດ,fermer,閉める/閉じる,닫다,закрывать,schließen,cerrar
+安排,ān pái,arrangement/plan,การจัด安排/แผน,sắp xếp/kế hoạch,ການຈັດການ/ແຜນ,arrangement/plan,手配/段取り/計画,안배/계획,распорядок/план,planung/arrangement,plan/arreglo
+上午,shàng wǔ,morning/forenoon,ตอนเช้า/ช่วงเช้า,buổi sáng,ເຊົ້າ,matin,午前,오전,утро/до полудня,vormittag,mañana (a.m.)
+朋友,péng you,friend,เพื่อน,bạn/bạn bè,ໝູ່/ເພື່ອນ,ami,友だち,친구,друг/подруга,freund/freundin,amigo/amiga
+见面,jiàn miàn,meet/see,พบกัน/เจอหน้า,gặp mặt/gặp nhau,ພົບກັນ/ເຫັນໜ້າ,se rencontrer,会う/面会する,만나다/대면하다,встречаться/видеться,sich treffen,encontrarse/verse
+电影,diàn yǐng,film/movie,ภาพยนตร์/หนัง,phim/điện ảnh,ຮູບເງົາ,film,映画,영화,фильм/кино,film,película
+再见,zài jiàn,goodbye/see you again,ลาก่อน/พบกันใหม่,tạm biệt/hẹn gặp lại,ລາກ່ອນ/ພົບກັນໃໝ່,au revoir/à bientôt,さようなら/またね,안녕/다시 만나요,до свидания/ещё увидимся,auf wiedersehen/bis bald,adiós/hasta luego
+买东西,mǎi dōng xi,go shopping,ซื้อของ/ช็อปปิ้ง,mua sắm,ຊື້ເຄື່ອງ,faire des achats,買い物をする,쇼핑하다/물건을 사다,ходить за покупками,einkaufen gehen,ir de compras
+喝咖啡,hē kā fēi,drink coffee,ดื่มกาแฟ,uống cà phê,ດື່ມກາເຟ,boire du café,コーヒーを飲む,커피를 마시다,пить кофе,kaffee trinken,beber café
+游泳,yóu yǒng,swim,ว่ายน้ำ,bơi,ລອຍນ້ໍາ,nager,泳ぐ,수영하다,плавать,schwimmen,nadar
+跑步,pǎo bù,run/jog,วิ่ง/จ๊อกกิ้ง,chạy bộ,ວິ່ງ,courir/faire du jogging,走る/ジョギングする,달리다/조깅하다,бегать/джоггинг,laufen/joggen,correr/hacer jogging
+睡觉,shuì jiào,sleep,นอนหลับ,ngủ,ນອນ,dormir,寝る/就寝する,잠자다/잠을 자다,спать,schlafen,dormir
+打球,dǎ qiú,play a ball game,เล่นกีฬาที่ใช้ลูกบอล,chơi bóng/chơi môn bóng,ຫຼິ້ນກິລາທີ່ໃຊ້ລູກ,jouer à un jeu de balle,球技をする,공놀이/구기 종목을 하다,играть в мяч (в игры с мячом),ballsport treiben/ballspiele machen,jugar a un deporte de balón

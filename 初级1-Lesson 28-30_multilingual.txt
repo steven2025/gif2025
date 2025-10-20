@@ -1,0 +1,37 @@
+西北部,xīběi bù,northwest,ทางตะวันตกเฉียงเหนือ,tây bắc,ທາງຕາເວັນຕົກສຽງເໜືອ,nord‑ouest,北西部/北西の地域,북서부,северо‑запад,Nordwest,noroeste
+市区,shìqū,urban district / downtown area,ตัวเมือง/เขตเมือง,khu trung tâm/thành nội,ເມືອງ/ເຂດເມືອງ,centre‑ville,市街地/都心,도심/시내,городской район/центр,Innenstadt/Stadtgebiet,zona urbana/centro
+大概,dàgài,approximately / probably,ประมาณ/น่าจะ,đại khái/chắc khoảng,ປະມານ/ຄາດວ່າ,en gros/environ/probablement,だいたい/おそらく,대략/아마,примерно/наверное,ungefähr/vielleicht,aproximadamente/probablemente
+公里,gōnglǐ,kilometre,กิโลเมตร,kilômét,ກິໂລແມັດ,kilomètre,キロメートル,킬로미터,километр,Kilometer,kilómetro
+火车,huǒchē,train,รถไฟ,tàu hoả,ລົດໄຟ,train,列車/電車,기차,поезд,Zug,tren
+公共汽车,gōnggòng qìchē,bus,รถเมล์/รถบัส,xe buýt,ລົດເມ/ລົດບັດ,bus,バス,버스,автобус,Bus,autobús
+多,duō,more / over,มาก/เกินกว่า,nhiều/hơn…,ຫຼາຍ/ເກີນ…,plus de/plus,多い/〜以上,많다/더…,больше/много,mehr/über …,más/de más de
+车票,chēpiào,bus ticket / train ticket,ตั๋วรถ/ตั๋วเดินทาง,vé xe/vé tàu,ປີ້ລົດ/ປີ້ເດີນທາງ,billet (de train/bus),乗車券/切符,차표/승차권,проездной билет,Fahrkarte/Ticket,billete/boleto (transporte)
+票,piào,ticket,ตั๋ว,vé,ປີ້,billet/ticket,チケット/切符,표/티켓,билет,Ticket/Karte,entrada/boleto
+到达,dàodá,arrive / get to / reach,ถึง/ไปถึง,đến/nơi,ເຖິງ/ໄປເຖິງ,arriver/atteindre,到着する,도착하다,прибыть/достигнуть,ankommen/erreichen,llegar
+多大,duō dà,how old,อายุเท่าไหร่,bao nhiêu tuổi,ອາຍຸເທົ່າໃດ,quel âge,何歳,몇 살,сколько лет,wie alt,qué edad
+多远,duō yuǎn,how far,ไกลแค่ไหน,bao xa,ໄກປານໃດ,à quelle distance,どのくらい遠い,얼마나 멀어,как далеко,wie weit,qué tan lejos
+多高,duō gāo,how tall / high,สูงแค่ไหน,cao bao nhiêu,ສູງເທົ່າໃດ,quelle taille/quelle hauteur,どのくらい高い,얼마나 키가 크다/높다,насколько высокий,wie groß/hoch,qué tan alto
+结束,jiéshù,end / finish,จบ/สิ้นสุด,kết thúc,ສິ້ນສຸດ,terminer/finir,終わる/終了する,끝나다/마치다,закончить/завершить,beenden/abschließen,terminar/finalizar
+开,kāi,hold (a meeting / an exhibition),จัด/เปิด (ประชุม/นิทรรศการ),mở/ tổ chức (họp/triển lãm),ເປີດ/ຈັດ (ປະຊຸມ/ນິທທະສະການ),tenir/organiser (réunion/expo),（会/展示会を）開く/開催する,(회의/전시를) 열다/개최하다,проводить (встречу/выставку),(Sitzung/Messe) abhalten,celebrar (reunión/expo)
+轻松,qīngsōng,relaxed,สบายๆ/ไม่กดดัน,thoải mái/nhẹ nhàng,ຜ່ອນຄາຍ/ບໍ່ເຄັ່ງ,détendu/peinard,気楽だ/ゆるい,가볍고 편안하다,легко/расслабленно,locker/entspannt,relajado/ligero
+得,de,used to introduce a complement of result or degree,…ได้/…จน（补语）,được/… đến mức（bổ ngữ）,…ໄດ້/…ຈົນ (ສ່ວນເສີມ),particule de complément (degré/résultat),補語の“得”,보어를 이끄는 ‘得’,частица ‘得’ (степень/результат),Komplementpartikel „得“,partícula ‘de’ (complemento)
+成功,chénggōng,successful,ประสบความสำเร็จ/สำเร็จ,thành công,ສຳເລັດ,réussir,成功する,성공하다,успешный/добиться успеха,erfolgreich/gelingen,tener éxito
+男,nán,male / man,ผู้ชาย/เพศชาย,nam/ đàn ông,ຜູ້ຊາຍ,homme/masculin,男/男性,남자/남성,мужчина/мужской,männlich/Mann,hombre/masculino
+饮料,yǐnliào,beverage / drink,เครื่องดื่ม,đồ uống,ເຄື່ອງດື່ມ,boisson,飲み物,음료,напиток,Getränk,bebida
+女,nǚ,female / woman,ผู้หญิง/เพศหญิง,nữ/ phụ nữ,ຜູ້ຍິງ,femme/féminin,女/女性,여자/여성,женщина/женский,weiblich/Frau,mujer/femenino
+痛快,tòngkuai,to one’s heart’s content,สะใจ/เต็มที่/หนำใจ,đã/thoả thích,ສະໃຈ/ສຸກໃຈຫຼາຍ,à cœur joie/pleinement,思い切り/存分に,시원하게/맘껏,вполне/от души,nach Herzenslust,a gusto/a tope
+表演,biǎoyǎn,perform / act / play,แสดง/การแสดง,biểu diễn,ສະແດງ,se produire/jouer,演じる/パフォーマンス,공연/연기하다,выступать/исполнять,auftreten/aufführen,actuar/representar
+流利,liúlì,fluent,คล่อง/พูดลื่นไหล,trôi chảy/lưu loát,ຄອງແຄ່ວ/ລື່ນໄຫຼ,couramment/fluent,流暢だ/ペラペラ,유창하다,свободно/бегло,fließend,fluido
+干净,gānjìng,clean,สะอาด,sạch sẽ,ສະອາດ,propre,きれい/清潔,깨끗하다,чистый,sauber,limpio
+精彩,jīngcǎi,excellent / wonderful,ยอดเยี่ยม/สุดยอด,tuyệt vời/đỉnh,ຍອດເຢັ້ຍ/ສຸດຍອດ,excellent/formidable,素晴らしい/見事,멋지다/훌륭하다,потрясающий/отличный,großartig,excelente
+生动,shēngdòng,lively,มีชีวิตชีวา/ชัดเจน,sinh động,ມີຊີວິດຊີວາ,vivant/expressif,生き生きしている,생동감 있다,живой/наглядный,lebendig/anschaulich,vivo/expresivo
+毕业,bì yè,graduate / finish school,จบการศึกษา/เรียนจบ,tốt nghiệp,ຈົບການສຶກສາ,être diplômé/finir ses études,卒業する,졸업하다,выпуститься/окончить,absolvieren/abschließen,graduarse
+其他,qítā,other / else,อื่นๆ/อย่างอื่น,khác/những cái khác,ອື່ນໆ,autre/d’autres,ほかの/その他,기타/다른,другие/прочие,andere/sonstige,otros
+选择,xuǎnzé,choose / select / pick,เลือก,chọn,ເລືອກ,choisir/sélectionner,選ぶ,선택하다/고르다,выбирать,wählen/auswählen,elegir/seleccionar
+熟悉,shúxī,know sb or sth well / be familiar with,คุ้นเคย/รู้จักดี,quen thuộc/hiểu rõ,ຄຸ້ນເຄີຍ/ຮູ້ຈັກດີ,bien connaître/familier avec,よく知っている/詳しい,익숙하다/잘 알다,хорошо знать/знаком,vertraut sein/kennen,conocer bien/familiarizado
+离开,lí kāi,leave / depart from,ออกจาก/แยกจาก,rời/ rời khỏi,ອອກຈາກ/ຈາກລາ,quitter/partir de,離れる/出発する,떠나다/헤어지다,покидать/уходить,verlassen/weggehen,salir de/dejar
+所,suǒ,used for houses / schools / hospitals / buildings,แห่ง/ที่ (ลักษณนามสถานที่/สถาบัน),sở/ nơi (lượng từ),ແຫ່ງ/ສະຖານ (ລັກສະນະນາມ),classificateur pour lieux/établissements,〜所（施設の助数）,곳/소 (기관 양사),сч. сл. для учреждений/мест,Zählwort für Orte/Einrichtungen,clasif. de lugares/centros
+语言,yǔyán,language,ภาษา,ngôn ngữ,ພາສາ,langue,言語,언어,язык,Sprache,lengua/idioma
+最初,zuìchū,earliest / at the beginning,ตอนแรก/แรกเริ่ม,lúc đầu/ban đầu,ແຕ່ເລີ່ມ/ເບື້ອງຕົ້ນ,au début/initialement,最初/はじめは,처음/맨 처음,вначале/изначально,zunächst/anfangs,al principio/inicialmente
+因为,yīnwèi,because,เพราะว่า,bởi vì,ເນື່ອງຈາກ/ເພາະ,parce que,なぜなら/〜だから,왜냐하면/…이니까,потому что,weil/da,porque
+交流,jiāoliú,exchange / communicate,สื่อสาร/แลกเปลี่ยน,giao lưu/trao đổi,ສື່ສານ/ແລກປ່ຽນ,échanger/communiquer,交流する/やり取りする,교류하다/소통하다,общаться/обмениваться,Austausch/kommunizieren,intercambiar/comunicarse

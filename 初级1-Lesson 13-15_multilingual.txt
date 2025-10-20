@@ -1,0 +1,64 @@
+租,zū,rent/hire/lease,เช่า,thuê,ເຊົ່າ,louer,借りる/賃貸する,임차하다/빌리다,снимать/арендовать,mieten,alquilar
+套,tào,(used for books/rooms/furniture/etc) set/suit/suite,ชุด/เซ็ต（ลักษณนาม）,bộ (lượng từ),ຊຸດ (ລັກສະນະນາມ),ensemble (classif.),セット（助数詞）,세트/벌 (양사),набор/комплект (сч. сл.),satz/セット (klass.),juego/conjunto (clas.)
+房子,fángzi,house/building,บ้าน/ตัวบ้าน,nhà,ບ້ານ/ເຮືອນ,maison/logement,家/家屋,집/주택,дом/жильё,haus/wohnung,casa/vivienda
+上,shàng,preceding/previous,ที่แล้ว/ก่อน,trước,ກ່ອນ/ທີ່ແລ້ວ,précédent(e),前の,지난/이전의,прошлый/предыдущий,vorherig/letzte(r),anterior/pasado
+了,le,used at the end of a sentence to indicate sth has happened or occurred,แล้ว（แสดงว่าเกิดขึ้นแล้ว/มีการเปลี่ยนแปลง）,rồi (đã xảy ra/đã đổi),ແລ້ວ (ເຫດການເກີດ/ປ່ຽນແປງ),particule d’accompli/changement “le”,〜た/〜になった（変化）,완료/변화 표시 ‘了’,частица завершённости/изменения «了»,abgeschlossen/Änderung („le“),indica hecho/cambio “le”
+那,nà,that,นั่น/นั้น,đó/kia,ນັ້ນ,ce/cet/cette (là),あの/その,그/저,тот/та/то,jene/r/s; der/die/das da,ese/esa/aquel/aquella
+旁边,pángbiān,side/beside,ข้างๆ/ริมๆ,bên cạnh,ຂ້າງໆ,à côté,となり/そば,옆/곁,рядом,neben,al lado
+方便,fāngbiàn,convenient,สะดวก,tiện/tiện lợi,ສະດວກ,pratique,便利だ,편리하다,удобно,praktisch,práctico
+大,dà,big/large,ใหญ่,to/lớn,ໃຫຍ່,grand(e),大きい,크다,большой,groß,grande
+房租,fángzū,rent/charge for renting a house/room or an apartment/etc,ค่าเช่าบ้าน,tiền thuê nhà,ຄ່າເຊົ່າບ້ານ,loyer (de logement),家賃,집세/월세,квартирная плата/аренда,miete (wohnung),alquiler (de vivienda)
+贵,guì,expensive,แพง,đắt,ແພງ,cher/ chère,高い（値段）,비싸다,дорогой (по цене),teuer,caro
+每,měi,every/each,ทุกๆ/แต่ละ,mỗi/mọi,ແຕ່ລະ/ທຸກ,chaque,毎/それぞれ,매/마다,каждый,je/alle,cada
+最后,zuìhòu,final/last,สุดท้าย/ท้ายที่สุด,cuối cùng,ສຸດທ້າຍ,final/en dernier,最後/ついに,마지막/결국,в конце/наконец,zuletzt/am ende,al final/por fin
+又,yòu,again,อีก/อีกครั้ง,lại/nữa,ອີກ/ອີກຄັ້ງ,de nouveau/encore,また/さらに,또/게다가,снова/ещё и,wieder/außerdem,de nuevo/también
+满意,mǎnyì,be satisfied/be pleased,พอใจ,hài lòng,ພໍໃຈ,satisfait(e)/content(e),満足だ,만족하다,доволен,zufrieden,satisfecho
+搬家,bān jiā,move (house),ย้ายบ้าน,chuyển nhà,ຍ້າຍບ້ານ,déménager,引っ越す,이사하다,переезжать,umziehen,mudarse
+已经,yǐjīng,already,เรียบร้อยแล้ว/แล้ว,đã/rồi,ແລ້ວ,déjà,もう/すでに,이미/벌써,уже,schon/bereits,ya
+不错,búcuò,not bad/pretty good,ไม่เลว/ใช้ได้ดี,khá ổn/không tệ,ບໍ່ເລວ/ດີໃຊ້ໄດ້,pas mal/plutôt bien,悪くない/いいね,괜찮다/나쁘지 않다,неплохо/хорошо,nicht schlecht/ziemlich gut,nada mal/bastante bien
+离,lí,from/away from,ห่างจาก/อยู่ห่าง,cách/ xa,ຫ່າງຈາກ,à (distance de)/loin de,〜から離れて,에서 떨어져,на расстоянии от/далеко от,entfernt von,lejos de
+远,yuǎn,far/faraway,ไกล,xa,ໄກ,loin/éloigné,遠い,멀다,далёкий/далеко,weit/fern,lejos
+走,zǒu,walk/go,เดิน/ไป,đi bộ/đi,ເດີນ/ໄປ,marcher/partir,歩く/行く,걷다/가다,идти/уходить,gehen/weggehen,caminar/irse
+路,lù,road/way,ถนน/ทาง,đường,ຖະໜົນ/ທາງ,route/chemin,道/道路,길,дорога/путь,straße/weg,camino/calle
+行,xíng,be all right/will do,โอเค/ได้/ใช้ได้,được/ổn,ໂອເຄ/ໄດ້,ça marche/d’accord,いいよ/大丈夫,괜찮다/좋아,подойдёт/ладно,geht klar/in ordnung,vale/de acuerdo
+没有,méiyǒu,not yet,ไม่มี/ยังไม่,không có/chưa,ບໍ່ມີ/ຍັງບໍ່,ne pas avoir/pas encore,ない/まだ〜ない,없다/아직 아니다,нет/ещё нет,nicht haben/noch nicht,no tener/todavía no
+昨天,zuótiān,yesterday,เมื่อวาน,hôm qua,ມື້ວານ,hier,きのう,어제,вчера,gestern,ayer
+请客,qǐng kè,treat sb (to a dinner/performance/etc)/entertain guests,เลี้ยงข้าว/เชิญกินเลี้ยง,mời khách/bao ăn,ເຊີນແຂກ/ເຊີນກິນ,inviter (à dîner/boire),ごちそうする/招待する,한턱내다/초대하다,угощать/пригласить,einladen/ausgeben,invitar/pagar la cuenta
+怎么,zěnme,used to inquire about nature/condition/cause/etc,ยังไง/ทำไม/เป็นยังไง,như thế nào/tại sao,ແນວໃດ/ເປັນຫຍັງ,comment/pourquoi,どうして/どうやって,어떻게/왜,как/почему,wie/warum,cómo/por qué
+父母,fùmǔ,parents/father and mother,พ่อแม่,cha mẹ,ພໍ່ແມ່,parents,両親,부모님,родители,eltern,padres
+来,lái,come,มา,đến/đi tới,ມາ,venir,来る,오다,приходить,kommen,venir
+玩儿,wánr,play/have fun,เล่น/เที่ยวเล่น,chơi/đi chơi,ຫຼິ້ນ/ໄປຫຼິ້ນ,jouer/s’amuser,遊ぶ,놀다,играть/развлекаться,spielen/sich amüsieren,jugar/pasear
+生病,shēng bìng,fall ill,ป่วย/ไม่สบาย,bị ốm,ເຈັບໄຂ້,tomber malade,病気になる,아프다/병이 나다,заболеть,krank werden,enfermarse
+感冒,gǎnmào,catch a cold,เป็นหวัด,bị cảm,ເປັນຫວັດ,attraper froid,風邪をひく,감기에 걸리다,простудиться,sich erkälten,resfriarse
+写汉字,xiě Hànzì,write Chinese characters,เขียนอักษรจีน,viết chữ hán,ຂຽນອັກສອນຈີນ,écrire des caractères chinois,漢字を書く,한자를 쓰다,писать иероглифы,chinesische schriftzeichen schreiben,escribir caracteres chinos
+念课文,niàn kèwén,read a text,อ่านบทเรียน/อ่านบทความในหนังสือเรียน,đọc bài khóa,ອ່ານບົດຮຽນ,lire le texte (de la leçon),課文を読む,과문을 읽다/본분을 읽다,читать текст урока,den lektionstext lesen,leer el texto de la lección
+做练习,zuò liànxí,do exercises,ทำแบบฝึกหัด,làm bài tập,ເຮັດແບບຝຶກຫັດ,faire des exercices,練習問題をする,연습문제를 풀다,делать упражнения,übungen machen,hacer ejercicios
+换钱,huàn qián,change money,แลกเงิน,đổi tiền,ແລກເງິນ,changer de l’argent,両替する,환전하다,обменять деньги,geld wechseln,cambiar dinero
+今年,jīnnián,this year,ปีนี้,năm nay,ປີນີ້,cette année,今年,올해,в этом году,dieses jahr,este año
+冬天,dōngtiān,winter,ฤดูหนาว,mùa đông,ລະດູຫນາວ,hiver,冬,겨울,зима,winter,invierno
+特别,tèbié,especially / particularly,โดยเฉพาะ/เป็นพิเศษ,đặc biệt,ເປັນພິເສດ,surtout/particulièrement,とりわけ/特に,특히/특별히,особенно,besonders,especialmente
+冷,lěng,cold,หนาว/เย็น,lạnh,ໜາວ,froid,寒い,춥다,холодный,kalt,frío
+穿,chuān,wear / put on,ใส่/สวม,mặc,ໃສ່,mettre/porter,着る/身につける,입다,надевать/носить,anziehen/tragen,ponerse/usar
+厚,hòu,thick,หนา/หนาๆ,dày,ໜາ,épais(se),厚い,두껍다,толстый/плотный,dick,grueso
+衣服,yīfu,clothing / clothes,เสื้อผ้า,quần áo,ເສື້ອຜ້າ,vêtements,服,옷,одежда,kleidung,ropa
+趟,tàng,used for a round trip,เที่ยว/รอบ (ลักษณนามการเดินทาง),chuyến/lượt (lượng từ),ເທື່ອ/ຮອບ (ລັກສະນະນາມ),trajet/aller‑retour (classif.),往復/回（助数）,번/회 (왕복·횟수 양사),рейс/поездка (сч. сл.),fahrt/gang (klass.),viaje/ida‑vuelta (clas.)
+商场,shāngchǎng,shopping mall / department store,ห้าง/ศูนย์การค้า,trung tâm thương mại,ຫ້າງ/ສູນການຄ້າ,centre commercial,デパート/ショッピングモール,쇼핑몰/상가,торговый центр,einkaufszentrum,centro comercial
+里,li,inside / in,ข้างใน/ใน,bên trong/trong,ຂ້າງໃນ,à l’intérieur/dans,中/中に,안/안쪽,внутри,innen/drin,dentro/en
+真,zhēn,really / truly,จริงๆ/มากๆ,thật là/rất,ແທ້ໆ/ຫຼາຍ,vraiment,本当に/まじで,정말/진짜로,действительно/очень,wirklich,de verdad
+件,jiàn,piece,ชิ้น/ตัว (เสื้อผ้า),cái/chiếc (áo quần),ຕົວ/ຊິ້ນ (ເສື້ອຜ້າ),pièce (classif. vêtements),枚/着（衣類の助数）,벌 (옷 양사),предмет/штука (одежда),stück (kleidung),prenda (clasif.)
+毛衣,máoyī,(woolen) sweater,เสื้อไหมพรม/สเวตเตอร์,áo len,ເສື້ອຂົນສັດ/ເສື້ອເລັນ,pull/chaussette en laine,セーター,스웨터/니트,свитер,pullover/pullover,suéter/jersey
+羽绒服,yǔróngfú,down jacket,เสื้อขนเป็ด (กันหนาว),áo phao lông vũ,ເສື້ອກັນໜາວຂົນນົກ,doudoune/manteau en duvet,ダウンジャケット,패딩/다운점퍼,пуховик,daunenjacke,chaqueta de plumas
+暖和,nuǎnhuo,warm,อุ่นสบาย,ấm áp,ອົບອຸ່ນ,doux/agréable (chaud),あたたかい/ぽかぽか,따뜻하다,тёплый/уютно,warm/angenehm,calentito/agradable
+凉快,liángkuai,cool,เย็นสบาย,mát mẻ,ເຢັນສະບາຍ,frais (agréable),涼しい/さわやか,시원하다,прохладно/свежо,kühl/erfrischend,fresco/agradable
+打工,dǎ gōng,have a temporary job,ทำงานพิเศษ/งานชั่วคราว,làm thêm/việc tạm thời,ວຽກຊົ່ວຄາວ/ຮັບຈ້າງ,petit boulot/job étudiant,アルバイトする,아르바이트하다,подрабатывать,nebenjob machen,trabajar a tiempo parcial
+挣钱,zhèng qián,earn money / make money,หาเงิน/ได้เงิน,kiếm tiền,ເງິນເດືອນ/ຫາເງິນ,gagner de l’argent,お金を稼ぐ,돈을 벌다,зарабатывать деньги,geld verdienen,ganar dinero
+告诉,gàosu,tell / let know,บอก/แจ้ง,nói/cho biết,ບອກ/ແຈ້ງ,dire/informer,伝える/知らせる,말해 주다/알리다,сказать/сообщить,sagen/mitteilen,decir/avisar
+要,yào,want / wish,อยาก/ต้องการ,muốn,muốn/ cần,vouloir/désirer,〜したい/欲しい,원하다/필요하다,хотеть/нужно,wollen/brauchen,querer/necesitar
+会,huì,be acquainted with / have knowledge of,เป็น/ทำเป็น (มีความรู้),biết/biết làm,ເປັນ/ເຮັດເປັນ,savoir/être capable,〜できる/わかる,할 줄 알다,уметь/знать,können,saber (hacer)
+当,dāng,act as / work as / serve as,เป็น/ทำงานเป็น,làm/ làm nghề,ເຮັດໜ້າທີ່ເປັນ,faire/occuper le poste de,〜になる/〜として働く,~가 되다/~로 일하다,быть/работать (в качестве),als … arbeiten/sein,ser/trabajar como
+合适,héshì,proper / suitable,พอดี/เหมาะสม,hợp/ vừa vặn,ເໝາະສົມ/ພໍດີ,convenable/approprié,ちょうどいい/ぴったり,알맞다/적당하다,подходящий,passend/geeignet,adecuado
+可以,kěyǐ,can / may,ได้/อนุญาต,có thể/được phép,ໄດ້/ອະນຸຍາດ,pouvoir/être permis,〜してもいい,해도 된다/가능하다,можно/разрешается,dürfen/können,poder/se permite
+辅导,fǔdǎo,coach / tutor / guide,กวดวิชา/ติว/สอนเสริม,phụ đạo/dạy kèm,ກວດວິຊາ/ສອນເສີມ,soutenir/tutorat,補習する/個別指導,과외하다/지도하다,репетиторство/наставлять,förderunterricht/nachhilfe,tutoría/asesorar
+互相,hùxiāng,each other / mutually,กันและกัน/ซึ่งกันและกัน,lẫn nhau,ຊຶ່ງກັນແລະກັນ,mutuellement/l’un l’autre,お互いに,서로/상호로,друг друга/взаимно,gegenseitig,mutuamente
+试衣服,shì yīfu,try on clothes,ลองเสื้อผ้า,thử đồ,ລອງເສື້ອຜ້າ,essayer des vêtements,服を試着する,옷을 입어보다,примерять одежду,kleidung anprobieren,probarse ropa
+打网球,dǎ wǎngqiú,play tennis,เล่นเทนนิส,đánh quần vợt,ຫຼິ້ນເທນນິສ,jouer au tennis,テニスをする,테니스를 치다,играть в теннис,tennis spielen,jugar al tenis

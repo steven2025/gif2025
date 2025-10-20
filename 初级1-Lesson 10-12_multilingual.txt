@@ -1,0 +1,116 @@
+城市,chéngshì,city,เมือง,thành phố,ນະຄອນ,ville,都市,도시,город,stadt,ciudad
+公园,gōngyuán,park,สวนสาธารณะ,công viên,ສວນສາທາລະນະ,parc,公園,공원,парк,park,parque
+那里,nàlǐ,that place/there,ที่นั่น,ở đó,ທີ່ນັ້ນ,là‑bas,そこ,거기,там,dort,allí
+山,shān,hill/mountain,ภูเขา,núi,ພູເຂົາ,montagne,山,산,гора,berg,montaña
+水,shuǐ,water/general term for rivers/lakes/seas/etc,แหล่งน้ำ/น้ำ,nguồn nước/nước,ນ້ຳ/ແຫຼ່ງນ້ຳ,eau,水,물,вода,wasser,agua
+树,shù,tree,ต้นไม้,cây,ຕົ້ນໄມ້,arbre,木/木の木,나무,дерево,baum,árbol
+花,huā,flower/blossom/bloom,ดอกไม้,hoa,ດອກໄມ້,fleur,花,꽃,цветок,blume,flor
+风景,fēngjǐng,scenery/landscape,ทิวทัศน์,phong cảnh,ທິວທັດ,paysage,景色,풍경,пейзаж,landschaft,paisaje
+非常,fēicháng,very much,มากๆ,rất/rất là,ຫຼາຍໆ,beaucoup,とても/すごく,아주/매우,очень,sehr,muy
+漂亮,piàoliang,beautiful,สวย/งดงาม,đẹp,ງາມ,beau/belle,きれい/美しい,아름답다,красивый,schön,bonito
+空气,kōngqì,air/atmosphere,อากาศ/บรรยากาศ,không khí,ອາກາດ/ບັນຍາກາດ,air/atmosphère,空気/雰囲気,공기/분위기,воздух/атмосфера,luft/atmosphäre,aire/atmósfera
+新鲜,xīnxiān,fresh,สดชื่น/สดใหม่,tươi/mát mẻ,ສົດຊື່ນ,frais/fraîche,新鮮な,신선한,свежий,frisch,fresco
+多,duō,many/much,เยอะมาก/มากมาย,nhiều,ຫຼາຍ,beaucoup,たくさん,많이/많다,много,viel,mucho
+爬山,pá shān,climb a mountain,ปีนเขา,leo núi,ປີນພູ,faire de la randonnée/gravir une montagne,山に登る,산에 오르다,подниматься на гору,auf den berg steigen,subir la montaña
+爬,pá,climb,ปีน/ไต่,leo,ປີນ,grimper,よじ登る/登る,기어오르다/오르다,взбираться,klettern,escalar
+呼吸,hūxī,breathe,หายใจ,thở,ຫາຍໃຈ,respirer,呼吸する,숨 쉬다,дышать,atmen,respirar
+忙,máng,busy,ยุ่ง,bận,ວຸ່ນວາຍ/ຕິດທຸລະກິດ,occupé(e),忙しい,바쁘다,занят(ой),beschäftigt,ocupado
+听说,tīngshuō,hear of/be told,ได้ยินมาว่า/เขาบอกว่า,nghe nói,ໄດ້ຍິນວ່າ/ມີຄົນເວົ້າວ່າ,entendre dire/on m’a dit,〜と聞いた,들었다/그렇다고 하더라,слышал(а)/говорят, что,gehört haben/man sagt, dass,oí decir/me dijeron que
+出发,chūfā,set out/set off/start off,ออกเดินทาง,lên đường/khởi hành,ອອກເດີນທາງ,partir/se mettre en route,出発する,출발하다,отправляться/выдвигаться,aufbrechen,partir/ponerse en camino
+找,zhǎo,look for/try to find/want to see,หา/อยากเจอ,tìm/ muốn gặp,ຊອກຫາ/ຢາກເຫັນ,chercher/vouloir voir,探す/会いたい,찾다/보고 싶다,искать/хотеть увидеть,suchen/sehen wollen,buscar/querer ver
+大家,dàjiā,all/everybody/everyone,ทุกคน,mọi người,ທຸກຄົນ,tout le monde,みんな/皆さん,모두/다들,все,alle,todos
+累,lèi,tired,เหนื่อย,mệt,ເມື່ອຍ,fatigué(e),疲れた,피곤하다,уставший,müde,cansado
+觉得,juéde,think/feel,คิดว่า/รู้สึกว่า,nghĩ/ cảm thấy,ຄິດ/ຮູ້ສຶກ,penser/trouver,思う/感じる,생각하다/느끼다,думать/чувствовать,denken/fühlen,pensar/sentir
+休息,xiūxi,take a breather/have a rest,พักหายใจ/พักผ่อนสั้นๆ,nghỉ một chút,ພັກເສົາໆ/ພັກຫາຍໃຈ,faire une petite pause,ひと息つく/少し休む,잠깐 쉬다,передохнуть/немного отдохнуть,kurz verschnaufen/kurz ausruhen,tomar un respiro/descansar un poco
+一下,yíxià,used after a verb to indicate one action or one try,ทำสักครั้ง/ลองทำดู,làm thử một lần,ລອງເຮັດສັກຄັ້ງ,faire une fois/essayer,一度やってみる,한번 해 보다,сделать разок/попробовать,einmal machen/ausprobieren,hacer una vez/probar
+小,xiǎo,small/little/petty/minor,เล็ก/น้อย/เล็กน้อย,nhỏ/nhỏ nhặt,ນ້ອຍ/ຈິ໋ວ,petit/minime,小さい/ささいな,작은/사소한,маленький/незначительный,klein/gering,pequeño/menor
+茶馆,cháguǎn,teahouse,โรงน้ำชา/ร้านชา,quán trà,ຮ້ານນ້ຳຊາ,maison de thé/salon de thé,茶屋/喫茶店（伝統）,다방/찻집,чайный дом/чайхана,teestube/teeladen,casa de té/salón de té
+茶,chá,tea,ชา,trà,ນ້ຳຊາ,thé,お茶,차,чай,tee,té
+喝,hē,drink,ดื่ม,uống,ດື່ມ,boire,飲む,마시다,пить,trinken,beber
+一点儿,yìdiǎn,a little/a bit,นิดหน่อย/สักหน่อย,một chút/chút xíu,ນ້ອຍໜ່ອຍ,un peu,少し/ちょっと,조금/좀,немного/чуть‑чуть,ein bisschen,un poco
+冷,lěng,cold,เย็น/หนาว,lạnh,ໜາວ,froid,寒い,춥다,холодный,kalt,frío
+热,rè,hot,ร้อน,nóng,ຮ້ອນ,chaud,暑い/熱い,덥다/뜨겁다,жаркий/горячий,heiß,caliente
+饿,è,hungry,หิว,đói,ຫິວ,affamé,お腹がすいた,배고프다,голодный,hungrig,hambriento
+渴,kě,thirsty,กระหายน้ำ,khát,ຫິວນ້ຳ,assoiffé,のどが渇いた,목마르다,испытывающий жажду,durstig,sediento
+贵,guì,expensive,แพง,đắt,ແພງ,cher,高い（値段）,비싸다,дорогой,teuer,caro
+便宜,piányi,cheap,ถูก,rẻ,ຖືກ,pas cher,安い,싸다,дешёвый,billig,barato
+同屋,tóngwū,roommate,รูมเมท/เพื่อนร่วมห้อง,bạn cùng phòng,ເພື່ອນຮ່ວມຫ້ອງ,colocataire,ルームメイト/同室の友だち,룸메이트/같이 사는 친구,сосед по комнате,mitbewohner/in,compañero/a de cuarto
+在,zài,at/in/on (a place),ที่/อยู่ที่,ở/tại,ຢູ່/ທີ່,à/au/en,〜で/〜に,~에서/~에,в/на (месте),an/auf/in,en/en (lugar)
+家,jiā,family/home,家庭/บ้าน,gia đình/nhà,ຄອບຄົວ/ບ້ານ,famille/foyer,家庭/家,가정/집,семья/дом,familie/heim,familia/hogar
+汽车,qìchē,motor vehicle/car/auto,รถยนต์,ô tô/xe hơi,ລົດຍົນ,voiture,車/自動車,자동차,автомобиль/машина,auto/pkw,coche/auto
+公司,gōngsī,company/corporation,บริษัท,công ty,ບໍລິສັດ,entreprise/société,会社,회사,компания/фирма,firma/unternehmen,empresa
+工作,gōngzuò,work,ทำงาน,làm việc,ເຮັດວຽກ,travailler,働く,일하다,работать,arbeiten,trabajar
+从……到……,cóng……dào……,from to/till,จาก…ถึง…,từ…đến…,ຈາກ…ເຖິງ…,de… à…,…から…まで,…에서 …까지,от… до…,von… bis…,de… a…
+从,cóng,from/since,ตั้งแต่,từ,ຕັ້ງແຕ່,depuis,〜から,~부터,с/начиная с,seit,desde
+到,dào,up until/up to/by,จนถึง/ถึง,đến/tới,ຮອດ/ຈົນຮອດ,jusqu’à,〜まで,~까지,до/к,bis (zu),hasta
+上班,shàng bān,go to work/be on duty,ไปทำงาน,đi làm,ໄປເຮັດວຽກ,aller au travail,仕事に行く,출근하다,идти на работу,zur arbeit gehen,ir al trabajo
+周末,zhōumò,weekend,สุดสัปดาห์,cuối tuần,ສຸດສັບດາ,week‑end,週末,주말,выходные,wochenende,fin de semana
+平时,píngshí,ordinary times/normal times,ปกติ/เวลาทั่วไป,lúc bình thường/thường ngày,ເວລາປົກກະຕິ,d’habitude/en temps normal,ふだん/普段,평소에/보통 때,обычно/в обычное время,normalerweise,normalmente
+学校,xuéxiào,school/educational institution,โรงเรียน,trường học,ໂຮງຮຽນ,école/établissement,学校,학교,школа/учебное заведение,schule,escuela
+食堂,shítáng,canteen/cafeteria,โรงอาหาร,căn tin/nhà ăn,ຮ້ານອາຫານໃນໂຮງຮຽນ,cantine,食堂,구내식당,столовая,kantine/mensa,comedor
+……的时候,……de shíhou,when/while,ตอนที่/ในขณะ,khi/lúc,ເວລາທີ່/ຂະນະທີ່,quand/pendant que,〜とき/〜あいだ,…할 때/…하는 동안,когда/пока,wenn/während,cuando/mientras
+时候,shíhou,(the duration of) time,ช่วงเวลา/ระยะเวลา,khoảng thời gian,ໄລຍະເວລາ,durée/période,期間/時間の長さ,기간/시간,промежуток времени/длительность,zeitspanne/dauer,periodo/duración
+做饭,zuò fàn,prepare a meal,ทำอาหาร,nấu ăn,ເຮັດອາຫານ,préparer à manger,料理を作る,밥/요리를 하다,готовить еду,essen zubereiten,preparar la comida
+菜,cài,dish/course,กับข้าว/จานอาหาร,món ăn,ເມນູ/ອາຫານຈານ,plat,料理/一品,요리/요리 한 가지,блюдо,gericht/gang,plato
+聊天儿,liáo tiānr,chat,คุยเล่น/คุยกัน,tán gẫu/chát,ຄຸຍເລີ້ນ,papoter/discuter,おしゃべりする,수다 떨다/채팅하다,болтать/общаться,plaudern/chatten,charlar
+晚饭,wǎnfàn,supper/dinner,อาหารเย็น/มื้อเย็น,bữa tối,ເຂົ້າແລງ,dîner,夕飯/晩ごはん,저녁밥,ужин,abendessen,cena
+手机,shǒujī,mobile phone/cell phone,โทรศัพท์มือถือ,điện thoại di động,ໂທລະສັບມືຖື,téléphone portable,携帯電話,휴대폰,мобильный телефон,handy/mobiltelefon,teléfono móvil
+号码,hàomǎ,number,หมายเลข/เบอร์,số,ເລກ/ເບີ,numéro,番号,번호,номер,nummer,número
+不用,búyòng,need not/no need to,ไม่ต้อง/ไม่จำเป็น,không cần/khỏi phải,ບໍ່ຈໍາເປັນ/ບໍ່ຕ້ອງ,pas besoin/de nul besoin,〜なくていい/必要ない,안 해도 돼/필요 없다,не нужно/не обязательно,nicht nötig/braucht nicht,no hace falta/no es necesario
+用,yòng,(mostly used in the negative) need/have to,ต้อง/จำเป็นต้อง,cần/phải,ຈໍາເປັນຕ້ອງ/ຕ້ອງ,falloir/devoir,必要がある/〜しなければならない,필요하다/해야 한다,нужно/надо,müssen/benötigen,necesitar/tener que
+干,gàn,do/work,ทำ/ทำงาน,làm/ làm việc,ເຮັດ/ເຮັດວຽກ,faire/travailler,する/働く,하다/일하다,делать/работать,tun/arbeiten,hacer/trabajar
+宿舍,sùshè,dormitory,หอพัก/ห้องพักนักศึกษา,ký túc xá,ຫໍພັກ,dortoir,寮,기숙사,общежитие,wohnheim,residencia (de estudiantes)
+画,huà,draw/paint,วาด/ระบายสี,vẽ/ tô vẽ,ແຕ້ມ/ລະບາຍສີ,dessiner/peindre,描く/絵を描く,그리다/칠하다,рисовать/писать красками,zeichnen/malen,dibujar/pintar
+画儿,huàr,drawing/painting/picture,รูปวาด/ภาพ,bức vẽ/tranh,ຮູບວາດ/ຮູບ,dessin/tableau,絵/絵画,그림/그림 작품,рисунок/картина,zeichnung/gemälde,dibujo/cuadro
+喜欢,xǐhuan,like/love/be fond of,ชอบ/รัก/โปรดปราน,thích/yêu,ມັກ/ຮັກ,aimer/bien aimer,好き/大好き,좋아하다/사랑하다,нравиться/любить,mögen/lieben,gustar/encantar
+中国画,Zhōngguóhuà,traditional Chinese painting,ภาพวาดแบบจีน/พู่กันจีน,tranh thủy mặc/tranh hoa điểu (Trung Hoa),ຮູບແບບຈີນ/ຮູບເງົາຈີນ,peinture chinoise traditionnelle,中国画/水墨画,중국화/수묵화,китайская традиционная живопись,chinesische malerei (trad.),pintura china tradicional
+一般,yìbān,general/ordinary/usual,โดยทั่วไป/ปกติ,thông thường/bình thường,ທົ່ວໄປ/ປົກກະຕິ,général/ordinaire,一般的/ふつう,일반적/보통,обычный/как правило,allgemein/üblich,general/habitual
+听,tīng,listen/hear,ฟัง/ได้ยิน,nghe,ເຊົາ/ໄດ້ຍິນ,écouter/entendre,聞く/聞こえる,듣다/들리다,слушать/слышать,hören,escuchar/oír
+音乐,yīnyuè,music,เพลง/ดนตรี,âm nhạc/nhạc,ດົນຕີ,musique,音楽,음악,музыка,musik,música
+东西,dōngxi,thing/stuff,ของ/สิ่งของ,đồ/ đồ đạc,ຂອງ/ສິ່ງຂອງ,chose/truc,物/もの,물건/것,вещь/штука,sache/ding,cosa
+一块儿,yíkuàir,together/in company,ด้วยกัน/พร้อมกัน,cùng nhau,ກັນ/ດ້ວຍກັນ,ensemble,いっしょに,같이/함께,вместе,zusammen,juntos
+收拾,shōushi,put in order/tidy up/clear away,เก็บกวาด/จัดให้เรียบร้อย,dọn dẹp/sắp xếp,ເກັບກວາດ/ຈັດໃຫ້ເປັນລະບຽບ,ranger/mettre en ordre,片づける/整える,정리하다/치우다,убирать/приводить в порядок,aufräumen/ordnen,ordenar/recoger
+房间,fángjiān,room,ห้อง/ห้องพัก,phòng,ຫ້ອງ,chambre/pièce,部屋,방,комната,zimmer,habitación
+北京,Běijīng,Beijing (city),ปักกิ่ง,bắc kinh,ປັກກິ່ງ,pékin,北京,베이징,пекин,peking,pekín
+上海,Shànghǎi,Shanghai (city),เซี่ยงไฮ้,thượng hải,ຊຽງໄຮ້,shanghai,上海,상하이,шанхай,shanghai,shanghái
+南京,Nánjīng,Nanjing (city),หนานจิง,nam kinh,ນັນຈິງ,nankin/nanjing,南京,난징,нанькин/наньцзин,nanking/nanjing,nankín/nanjing
+电话,diànhuà,telephone,โทรศัพท์,điện thoại,ໂທລະສັບ,téléphone,電話,전화,телефон,telefon,teléfono
+汉字,Hànzì,Chinese characters,ตัวอักษรจีน/ฮั่นจื้อ,chữ hán,ອັກສອນຈີນ,caractères chinois,漢字,한자,китайские иероглифы,chinesische schriftzeichen,caracteres chinos
+课文,kèwén,text,课文/本文,bài khóa/đoạn văn bản,ບົດຮຽນ/ຂໍ້ຄວາມ,texte/leçon,本文/課文,본문/과문,текст/учебный текст,text/lektionstext,texto/lección
+学期,xuéqī,term/semester,ภาคการศึกษา/เทอม,học kỳ,ໄຕຣມາດຮຽນ/ເທີມ,semestre/trimestre,学期,학기,семестр,semester,semestre
+门,mén,used for fields of study or technical training,สาขา/วิชา/แขนง,ngành/chuyên ngành,ສາຂາ/ວິຊາ,domaine/discipline,分野/専攻,분야/전공,область/специальность,fach/gebiet,área/especialidad
+兴趣,xìngqù,interest,ความสนใจ,sở thích/sự quan tâm,ຄວາມສົນໃຈ,intérêt,興味/関心,관심/흥미,интерес,interesse,interés
+课,kè,course/subject,รายวิชา/วิชาเรียน,môn học,ວິຊາຮຽນ,matière/cours,科目/授業,과목/수업,учебный предмет/курс,fach/kurs,asignatura/curso
+对,duì,regarding/concerning,เกี่ยวกับ/ในเรื่องของ,về/ liên quan đến,ກ່ຽວກັບ,au sujet de/concernant,〜について,에 관해서/관한,относительно/касательно,bezüglich/betreffend,sobre/en cuanto a
+书法,shūfǎ,calligraphy,อักษรวิจิตร/คัดลายมือจีน,thư pháp,ອັກສອນວິຈິດ/ສິນລະປະຂຽນ,calligraphie,書道,서예,китайская каллиграфия/каллиграфия,kalligraphie,caligrafía
+太极拳,tàijíquán,taijiquan/Chinese shadow boxing,ไทจี๋/ไทจี๋ฉวน,thái cực quyền,ໄທຈີຈ້ວນ,taï‑chi/taijiquan,太極拳,태극권,тайцзицюань,taijiquan,tai chi/taichí
+感兴趣,gǎn xìngqù,be interested in,สนใจใน…,quan tâm/ thích…,ສົນໃຈ…,s’intéresser à…,…に興味がある,…에 관심이 있다,интересоваться …,интересоваться …/увлекаться …,interesarse por …
+可是,kěshì,but/yet/however,แต่/อย่างไรก็ตาม,nhưng/tuy nhiên,ແຕ່/ແມ່ນວ່າ,mais/cependant,でも/しかし,하지만/그러나,но/однако,aber/jedoch,pero/sin embargo
+一样,yíyàng,same/identical,เหมือนกัน/เหมือนเดิม,giống nhau,ເໝືອນກັນ,même/identique,同じ,같은/똑같은,одинаковый/тот же,gleich/identisch,igual/idéntico
+选,xuǎn,select/choose,เลือก,chọn,ເລືອກ,choisir,選ぶ,고르다,выбирать,wählen/auswählen,elegir/escoger
+还是,háishì,or,หรือ,hay/là,ຫຼື,ou,それとも/または,또는/아니면,или,oder,o
+下,xià,next,ถัดไป/ต่อไป,tiếp theo,ຕໍ່ໄປ/ຖັດໄປ,suivant,次/次の,다음,следующий,nächste(r/s),siguiente
+运动,yùndòng,sports/athletics/exercise,กีฬา/ออกกำลังกาย,thể thao/tập luyện,ກິລາ/ອອກກຳລັງກາຍ,sport/exercice,スポーツ/運動,스포츠/운동,спорт/упражнения,sport/übung,deporte/ejercicio
+跑步,pǎo bù,run/jog,วิ่ง/จ๊อกกิ้ง,chạy bộ,ວິ່ງ,走る/ジョギングする,courir/faire du jogging,달리다/조깅하다,бегать/джоггинг,laufen/joggen,correr/hacer jogging
+身体,shēntǐ,body/health,ร่างกาย/สุขภาพ,cơ thể/sức khỏe,ຮ່າງກາຍ/ສຸຂະພາບ,corps/santé,体/健康,몸/건강,тело/здоровье,körper/gesundheit,cuerpo/salud
+爱好,àihào,hobby,งานอดิเรก/สิ่งที่ชอบทำ,sở thích,ງານອດິເລກ,passe‑temps/loisir,趣味,취미,хобби/увлечение,hobby/liebhaberei,afición/pasatiempo
+踢,tī,kick/play (football),เตะ/เล่นฟุตบอล,đá/ chơi bóng đá,ເຕະ/ຫຼິ້ນບານເຕະ,jouer au foot/donner un coup de pied,サッカーをする/ボールをける,축구를 하다/공을 차다,играть в футбол/пнуть мяч,fußball spielen/den ball treten,jugar al fútbol/patear el balón
+足球,zúqiú,football/soccer,ฟุตบอล,bóng đá,ບານເຕະ,football,サッカー,축구,футбол,fußball,fútbol
+打,dǎ,play (a game),เล่น (เกม/กีฬา),chơi (trò chơi/ môn),ຫຼິ້ນ (ເກມ/ກິລາ),jouer (à un jeu),（ゲーム/競技を）する,(게임/경기) 하다,играть (в игру),spielen (ein spiel),jugar (a un juego)
+篮球,lánqiú,basketball,บาสเกตบอล,bóng rổ,ບາດສະເກັດບອນ,basket‑ball,バスケットボール,농구,баскетбол,basketball,baloncesto
+最,zuì,most/least/best/to the highest or lowest degree,ที่สุด/น้อยที่สุด/ดีที่สุด,nhất/ít nhất/tốt nhất,ທີ່ສຸດ/ໜ້ອຍທີ່ສຸດ/ດີທີ່ສຸດ,le plus/le moins/le meilleur,最も/一番/最低/最高,가장/제일/최소/최고,самый/наименее/лучший,am meisten/am wenigsten/am besten,lo más/lo menos/el mejor
+骑,qí,ride (an animal or a bicycle),ขี่ (สัตว์/จักรยาน),cưỡi/đi (xe đạp),ຂີ່ (ສັດ/ລົດຖີບ),monter/chevaucher (animal) ou faire du vélo,（動物や自転車に）乗る,(동물/자전거를) 타다,ездить верхом/ехать на велосипеде,reiten/fahrrad fahren,montar (animal) / ir en bici
+自行车,zìxíngchē,bicycle/bike,จักรยาน,xe đạp,ລົດຖີບ,vélo/bicyclette,自転車,자전거,велосипед,fahrrad,bicicleta
+报名,bào míng,enter one's name/sign up,ลงชื่อสมัคร/ลงทะเบียน,đăng ký/ghi danh,ລົງຊື່/ລົງທະບຽນ,s’inscrire,申し込む/登録する,신청하다/등록하다,записаться/зарегистрироваться,sich anmelden/registrieren,inscribirse/registrarse
+咖啡,kāfēi,coffee,กาแฟ,cà phê,ກາເຟ,café,コーヒー,커피,кофе,kaffee,café
+位,wèi,used in deferential reference to people,คำยกย่องคน/ท่าน,cách nói kính trọng người/ông bà,ຮູບແບບຍົກຍ້ອງ/ທ່ານ,forme de politesse pour les personnes,人を敬って言う形/～様,사람을 높여 부르는 말/~님,почтительное обращение к людям,ehrende anrede für personen,forma respetuosa para dirigirse a personas
+红茶,hóngchá,black tea,ชาดำ,trà đen,ຊາດໍາ,thé noir,紅茶,홍차,чёрный чай,schwarzer tee,té negro
+绿茶,lǜchá,green tea,ชาเขียว,trà xanh,ຊາຂຽວ,thé vert,緑茶,녹차,зелёный чай,grüner tee,té verde
+杯,bēi,cup,ถ้วย/แก้ว,cốc/tách,ຖ້ວຍ/ແກ້ວ,tasse/verre,カップ/コップ,컵,чашка/стакан,tasse/becher/glas,taza/vaso
+没错儿,méi cuòr,right/exactly,ใช่เลย/ถูกต้อง,đúng rồi/chính xác,ແມ່ນແລ້ວ/ຖືກຕ້ອງ,tout à fait/exact,そのとおり/ぴったり,맞아요/정확해요,точно/верно,genau,exacto
+排球,páiqiú,volleyball,วอลเลย์บอล,bóng chuyền,ວໍລ໌ເລ່ບອນ,volley‑ball,バレーボール,배구,волейбол,volleyball,voleibol
+网球,wǎngqiú,tennis,เทนนิส,quần vợt,ເທນນິດ,tennis,テニス,테니스,теннис,tennis,tenis
+乒乓球,pīngpāngqiú,table tennis,ปิงปอง/เทเบิลเทนนิส,bóng bàn,ປິງປອງ,tennis de table/ping‑pong,卓球/ピンポン,탁구,настольный теннис,tischtennis,tenis de mesa/ping‑pong
+羽毛球,yǔmáoqiú,badminton,แบดมินตัน,cầu lông,ແບດມິນຕັນ,badminton,バドミントン,배드민턴,бадминтон,badminton,bádminton
+唱歌,chàng gē,sing,ร้องเพลง,hát,ຮ້ອງເພງ,chanter,歌う,노래하다,петь,singen,cantar
+跳舞,tiào wǔ,dance,เต้นรำ,nhảy múa,ເຕັ້ນ,danser,踊る,춤추다,танцевать,tanzen,bailar
