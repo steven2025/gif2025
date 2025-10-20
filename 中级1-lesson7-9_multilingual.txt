@@ -29,36 +29,36 @@
 马虎,mǎ hu,careless,สะเพร่า/ไม่ละเอียด,cẩu thả/qua loa,ສະເພີ່ຍ/ບໍ່ລະອຽດ,négligent/à l’arrache,いい加減/雑,대충대충/허술한,небрежный/спустя рукава,schlampig/nachlässig,descuidado
 传统,chuán tǒnɡ,tradition,ดั้งเดิม/ตามประเพณี,truyền thống,ດັ້ງເດີມ/ຕາມປະເພນີ,traditionnel,伝統的な,전통적인,традиционный,traditionell,tradicional
 评价,pínɡ jià,evaluate/assess,ประเมิน/ให้คะแนน,đánh giá/bình giá,ປະເມີນ/ໃຫ້ຄ່າ,évaluer/apprécier,評価する,평가하다,оценивать,bewerten,evaluar
-就算,jiù suàn,"even if,",ต่อให้/แม้ว่า,cho dù/dẫu cho,ຕໍ່ໃຫ້/ແມ້ວ່າ,même si/quand bien même,たとえ…でも,설령 …라도,пусть даже/даже если,selbst wenn/auch wenn,aunque/incluso si
-能力,nénɡ lì,"ability,",ความสามารถ,năng lực/khả năng,ຄວາມສາມາດ,capacité/aptitude,能力,능력,способность/умение,Fähigkeit,capacidad
-强,qiánɡ,"strong,",แข็งแรง/เก่ง/แกร่ง,mạnh/giỏi,ແຂງແຮງ/ເກັ່ງ,fort/puissant,強い,강하다/세다,сильный,stark,fuerte
-人均,rén jūn,"per capita,",เฉลี่ยต่อคน,bình quân đầu người,ສະເລ່ຍຕໍ່ຄົນ,par tête/par habitant,一人当たり,1인당,на душу населения,pro Kopf,per cápita/por persona
-收入,shōu rù,"income,",รายได้,thu nhập,ລາຍໄດ້,revenu,収入,수입,доход,Einkommen,ingresos
-理想,lǐ xiǎnɡ,"ideal,",อุดมคติ/เป้าหมายในฝัน,lý tưởng/mục tiêu mơ ước,ອຸດົມຄະຕິ/ເປົ້າໝາຍໃນຝັນ,idéal,理想/あこがれ,이상/이상향,идеал/заветная цель,Ideal,ideal/meta soñada
-场所,chǎnɡ suǒ,"place(for an activity);venue,",สถานที่/สถานที่จัดกิจกรรม,địa điểm/nơi chốn,ສະຖານທີ່,lieu/endroit,場所/会場,장소/장소(행사),место/площадка,Ort/Stätte,lugar/espacio
-自 然,zì  rán,"natural,",เป็นธรรมชาติ/ธรรมดาๆ,tự nhiên/thiên nhiên,ທຳມະຊາດ/ເປັນທຳມະຊາດ,naturel/spontané,自然/ナチュラル,자연스러운/자연,естественный/природа,natürlich,natural
-富,fù,"rich;wealthy,",รวย/มั่งคั่ง,giàu có,ຮັ່ງມີ,riche/fortuné,裕福な/豊かな,부유한/부자,богатый,reich/wohlhabend,rico/adinerado
-捐,juān,"donate,",บริจาค,quyên góp/hiến tặng,ບໍລິຈາກ,donner/faire un don,寄付する,기부하다,жертвовать,spenden,donar
-观念,ɡuān niàn,"concept,",แนวคิด/ความคิดความเชื่อ,quan niệm/ý niệm,ແນວຄິດ/ຄວາມເຊື່ອ,concept/vision,観念/考え方,관념/생각,понятие/воззрение,Konzept/Vorstellung,concepto/idea
-办学,bàn xué,"run a school,",จัดตั้ง/บริหารโรงเรียน,mở/trực tiếp điều hành trường,ຈັດຕັ້ງ/ຄຸ້ມໂຮງຮຽນ,créer/diriger une école,学校を運営する,학교를 설립·운영하다,открывать/вести школу,eine Schule betreiben,fundar/gestionar una escuela
-追求,zhuī qiú,"pursue,",ไล่ตาม/แสวงหา,theo đuổi/tìm kiếm,ໄລ່ຕາມ/ແສວງຫາ,poursuivre/rechercher,追い求める,추구하다,преследовать/стремиться к,verfolgen/anstreben,perseguir/buscar
-要不然,yào bu rán,"otherwise,",ไม่งั้น/มิฉะนั้น,không thì/bằng không,ບໍ່ຢ່າງນັ້ນ,sinon/autrement,さもないと,아니면/그렇지 않으면,иначе/а то,sonst/anderenfalls,si no/de lo contrario
-天使,tiān shǐ,"angel,",นางฟ้า/เทวทูต,thiên sứ/thiên thần,ທູດສະຫວັນ,ange,天使,천사,ангел,Engel,ángel
-疯子,fēnɡ zǐ,"madman,",คนบ้า/เพี้ยน,kẻ điên/người khùng,ຄົນບ້າ,fou/folle (fam.),狂人/キチガイ（俗）,미치광이/또라이,сумасшедший,Irre/Verrückter,loco (col.)
-传说,chuán shuō,"legend,",ตำนาน/เล่าลือ,truyền thuyết/lời đồn,ນິທານ/ຄຳເລົ່າ,légende/d’après la rumeur,伝説/言い伝え,전설/소문에 의하면,легенда/по преданию,Legende/Überlieferung,leyenda/según se dice
-魔鬼,mó ɡuǐ,"devil;demon,",ปีศาจ/ซาตาน,ma quỷ/quỷ dữ,ປີສາດ/ມານ,diable/démon,悪魔/デビル,악마/마귀,дьявол/демон,Teufel/Dämon,diablo/demonio
-诗歌,shī ɡē,"poem,",บทกวี/กวีนิพนธ์,thi ca/bài thơ,ບົດກະວີ,poésie/poème,詩/ポエム,시/서정시,поэзия/стих,Poesie/Gedicht,poesía/poema
-要么,yào mɑ,"either...or..,",หรือไม่ก็…,hoặc là…/nếu không thì…,ບໍ່ຢ່າງນັ້ນກໍ…,soit… soit…,あるいは/でなければ,혹은/…하든지,либо… либо…,entweder … oder …,o bien … o …
-诗集,shī jí,"anthology or collection of poems,",รวมบทกวี/หนังสือกวีนิพนธ์,tập thơ/tuyển thơ,ຊຸດກະວີ,recueil de poèmes,詩集,시집,сборник стихов,Gedichtband,libro de poemas/antología
-抽,chōu,"take out from in between,",ดึงออก/หยิบออก,rút ra/lấy ra,ດຶງອອກ/ຫຍິບອອກ,retirer/tirer,引き出す/取り出す,빼다/꺼내다,вытянуть/достать,herausziehen,sacar
-贴,tiē,"be next to,",ติด/แปะ/แนบชิด,dán/sát cạnh,ຕິດ/ແປะ/ຊິດ,coller/être contre,貼る/寄り添う,붙이다/바짝 붙다,приклеить/прилегать,kleben/anliegen,pegar/estar junto a
-薄,bó,"thin,",บาง/บางเบา,mỏng,ບາງ,fin/mince,薄い,얇다,тонкий,dünn,fino/delgado
-册子,cè zǐ,"booklet,",สมุดเล่ม/โบรชัวร์,cuốn sổ/tập nhỏ,ສົ່ງ/ປື້ມນ້ອຍ,livret/brochure,小冊子/ブックレット,소책자/북릿,брошюра/книжечка,Broschüre/Heftchen,folleto/cuadernillo
-翻译,fān yì,"translate;interpret,",แปล/ล่าม,dịch/phiên dịch,ແປ/ລ່າມ,traduire/interpréter,翻訳/通訳,번역/통역,переводить/переводчик,übersetzen/dolmetschen,traducir/interpretar
-古典,ɡǔ diǎn,"classical,",คลาสสิก/โบราณแบบดั้งเดิม,cổ điển,ຄລາສສິກ/ໂບຮານ,classique,古典的,고전의,классический,klassisch,clásico
-随便,suí biàn,"at will,",ตามสบาย/สุ่มๆก็ได้,tùy ý/tùy tiện,ຕາມສະບາຍ/ຈັດໂຕໄດ້,comme tu veux/à la légère,気ままに/適当に,아무렇게나/마음대로,как угодно/небрежно,wie du willst/irgendwie,como quieras/sin pensar mucho
-吸引,xī yǐn,"attract,",ดึงดูด,thu hút/hấp dẫn,ດຶງດູດ,attirer,引きつける,끌어당기다/매료하다,привлекать,anziehen,atraer
-关注,ɡuān zhù,"pay close attention to,",สนใจติดตาม/โฟกัส,quan tâm theo dõi,ຕິດຕາມໃສ່ໃຈ,suivre de près/s’intéresser à,関心を寄せる/注目する,관심을 갖다/주목하다,уделять внимание/следить,beobachten/im Blick haben,prestar atención/seguir
+就算,jiù suàn,even if,ต่อให้/แม้ว่า,cho dù/dẫu cho,ຕໍ່ໃຫ້/ແມ້ວ່າ,même si/quand bien même,たとえ…でも,설령 …라도,пусть даже/даже если,selbst wenn/auch wenn,aunque/incluso si
+能力,nénɡ lì,ability,ความสามารถ,năng lực/khả năng,ຄວາມສາມາດ,capacité/aptitude,能力,능력,способность/умение,Fähigkeit,capacidad
+强,qiánɡ,strong,แข็งแรง/เก่ง/แกร่ง,mạnh/giỏi,ແຂງແຮງ/ເກັ່ງ,fort/puissant,強い,강하다/세다,сильный,stark,fuerte
+人均,rén jūn,per capita,เฉลี่ยต่อคน,bình quân đầu người,ສະເລ່ຍຕໍ່ຄົນ,par tête/par habitant,一人当たり,1인당,на душу населения,pro Kopf,per cápita/por persona
+收入,shōu rù,income,รายได้,thu nhập,ລາຍໄດ້,revenu,収入,수입,доход,Einkommen,ingresos
+理想,lǐ xiǎnɡ,ideal,อุดมคติ/เป้าหมายในฝัน,lý tưởng/mục tiêu mơ ước,ອຸດົມຄະຕິ/ເປົ້າໝາຍໃນຝັນ,idéal,理想/あこがれ,이상/이상향,идеал/заветная цель,Ideal,ideal/meta soñada
+场所,chǎnɡ suǒ,place(for an activity)/venue,สถานที่/สถานที่จัดกิจกรรม,địa điểm/nơi chốn,ສະຖານທີ່,lieu/endroit,場所/会場,장소/장소(행사),место/площадка,Ort/Stätte,lugar/espacio
+自 然,zì  rán,natural,เป็นธรรมชาติ/ธรรมดาๆ,tự nhiên/thiên nhiên,ທຳມະຊາດ/ເປັນທຳມະຊາດ,naturel/spontané,自然/ナチュラル,자연스러운/자연,естественный/природа,natürlich,natural
+富,fù,rich/wealthy,รวย/มั่งคั่ง,giàu có,ຮັ່ງມີ,riche/fortuné,裕福な/豊かな,부유한/부자,богатый,reich/wohlhabend,rico/adinerado
+捐,juān,donate,บริจาค,quyên góp/hiến tặng,ບໍລິຈາກ,donner/faire un don,寄付する,기부하다,жертвовать,spenden,donar
+观念,ɡuān niàn,concept,แนวคิด/ความคิดความเชื่อ,quan niệm/ý niệm,ແນວຄິດ/ຄວາມເຊື່ອ,concept/vision,観念/考え方,관념/생각,понятие/воззрение,Konzept/Vorstellung,concepto/idea
+办学,bàn xué,run a school,จัดตั้ง/บริหารโรงเรียน,mở/trực tiếp điều hành trường,ຈັດຕັ້ງ/ຄຸ້ມໂຮງຮຽນ,créer/diriger une école,学校を運営する,학교를 설립·운영하다,открывать/вести школу,eine Schule betreiben,fundar/gestionar una escuela
+追求,zhuī qiú,pursue,ไล่ตาม/แสวงหา,theo đuổi/tìm kiếm,ໄລ່ຕາມ/ແສວງຫາ,poursuivre/rechercher,追い求める,추구하다,преследовать/стремиться к,verfolgen/anstreben,perseguir/buscar
+要不然,yào bu rán,otherwise,ไม่งั้น/มิฉะนั้น,không thì/bằng không,ບໍ່ຢ່າງນັ້ນ,sinon/autrement,さもないと,아니면/그렇지 않으면,иначе/а то,sonst/anderenfalls,si no/de lo contrario
+天使,tiān shǐ,angel,นางฟ้า/เทวทูต,thiên sứ/thiên thần,ທູດສະຫວັນ,ange,天使,천사,ангел,Engel,ángel
+疯子,fēnɡ zǐ,madman,คนบ้า/เพี้ยน,kẻ điên/người khùng,ຄົນບ້າ,fou/folle (fam.),狂人/キチガイ（俗）,미치광이/또라이,сумасшедший,Irre/Verrückter,loco (col.)
+传说,chuán shuō,legend,ตำนาน/เล่าลือ,truyền thuyết/lời đồn,ນິທານ/ຄຳເລົ່າ,légende/d’après la rumeur,伝説/言い伝え,전설/소문에 의하면,легенда/по преданию,Legende/Überlieferung,leyenda/según se dice
+魔鬼,mó ɡuǐ,devil/demon,ปีศาจ/ซาตาน,ma quỷ/quỷ dữ,ປີສາດ/ມານ,diable/démon,悪魔/デビル,악마/마귀,дьявол/демон,Teufel/Dämon,diablo/demonio
+诗歌,shī ɡē,poem,บทกวี/กวีนิพนธ์,thi ca/bài thơ,ບົດກະວີ,poésie/poème,詩/ポエム,시/서정시,поэзия/стих,Poesie/Gedicht,poesía/poema
+要么,yào mɑ,either...or..,หรือไม่ก็…,hoặc là…/nếu không thì…,ບໍ່ຢ່າງນັ້ນກໍ…,soit… soit…,あるいは/でなければ,혹은/…하든지,либо… либо…,entweder … oder …,o bien … o …
+诗集,shī jí,anthology or collection of poems,รวมบทกวี/หนังสือกวีนิพนธ์,tập thơ/tuyển thơ,ຊຸດກະວີ,recueil de poèmes,詩集,시집,сборник стихов,Gedichtband,libro de poemas/antología
+抽,chōu,take out from in between,ดึงออก/หยิบออก,rút ra/lấy ra,ດຶງອອກ/ຫຍິບອອກ,retirer/tirer,引き出す/取り出す,빼다/꺼내다,вытянуть/достать,herausziehen,sacar
+贴,tiē,be next to,ติด/แปะ/แนบชิด,dán/sát cạnh,ຕິດ/ແປะ/ຊິດ,coller/être contre,貼る/寄り添う,붙이다/바짝 붙다,приклеить/прилегать,kleben/anliegen,pegar/estar junto a
+薄,bó,thin,บาง/บางเบา,mỏng,ບາງ,fin/mince,薄い,얇다,тонкий,dünn,fino/delgado
+册子,cè zǐ,booklet,สมุดเล่ม/โบรชัวร์,cuốn sổ/tập nhỏ,ສົ່ງ/ປື້ມນ້ອຍ,livret/brochure,小冊子/ブックレット,소책자/북릿,брошюра/книжечка,Broschüre/Heftchen,folleto/cuadernillo
+翻译,fān yì,translate/interpret,แปล/ล่าม,dịch/phiên dịch,ແປ/ລ່າມ,traduire/interpréter,翻訳/通訳,번역/통역,переводить/переводчик,übersetzen/dolmetschen,traducir/interpretar
+古典,ɡǔ diǎn,classical,คลาสสิก/โบราณแบบดั้งเดิม,cổ điển,ຄລາສສິກ/ໂບຮານ,classique,古典的,고전의,классический,klassisch,clásico
+随便,suí biàn,at will,ตามสบาย/สุ่มๆก็ได้,tùy ý/tùy tiện,ຕາມສະບາຍ/ຈັດໂຕໄດ້,comme tu veux/à la légère,気ままに/適当に,아무렇게나/마음대로,как угодно/небрежно,wie du willst/irgendwie,como quieras/sin pensar mucho
+吸引,xī yǐn,attract,ดึงดูด,thu hút/hấp dẫn,ດຶງດູດ,attirer,引きつける,끌어당기다/매료하다,привлекать,anziehen,atraer
+关注,ɡuān zhù,pay close attention to,สนใจติดตาม/โฟกัส,quan tâm theo dõi,ຕິດຕາມໃສ່ໃຈ,suivre de près/s’intéresser à,関心を寄せる/注目する,관심을 갖다/주목하다,уделять внимание/следить,beobachten/im Blick haben,prestar atención/seguir
 遥远,yáo yuǎn,"faraway,",ไกลโพ้น,xa xôi,ໄກຫ່າງ,lointain/éloigné,遥か/遠い,아득히 먼,далёкий,fern/weit entfernt,lejano
 著名,zhù mínɡ,"famous;well-known,",มีชื่อเสียง/โด่งดัง,nổi tiếng,ມີຊື່ສຽງ,célèbre/renommé,著名な/有名な,저명한/유명한,знаменитый,berühmt,famoso
 教材,jiào cái,"teaching material,",ตำรา/สื่อการสอน,giáo trình/tài liệu giảng dạy,ຕຳລາ/ອຸປະກອນການສອນ,manuel/matériel pédagogique,教材/教科書,교재,учебные материалы,Lehrmaterial,material didáctico
