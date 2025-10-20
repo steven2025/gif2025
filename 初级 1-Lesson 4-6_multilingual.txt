@@ -50,7 +50,7 @@
 电脑,diàn nǎo,computer,คอมพิวเตอร์,máy tính,ຄອມພິວເຕີ,ordinateur,コンピュータ/パソコン,컴퓨터,компьютер,Computer/Rechner,ordenador/computadora
 部,bù,used for books/films/machines/vehicles/etc,ลักษณนาม: หนังสือ/ภาพยนตร์/เครื่องจักร/ยานพาหนะ,lượng từ: sách/phim/máy móc/xe cộ,ລັກສນ.: ປື້ມ/ຮູບເງົາ/ເຄື່ອງ/ພາຫະນະ,class. pour livres/films/machines/véhicules,量詞：本/映画/機械/車両 など,양사: 책/영화/기계/차량,сч.сл. для книг/фильмов/машин/транспорта,Klassifikator für Bücher/Filme/Maschinen/Fahrzeuge,clasif. para libros/películas/máquinas/vehículos
 百,bǎi,hundred,ร้อย,một trăm,ຮ້ອຍ,cent,百,백/100,сто,hundert,cien/ciento
-块,kuài,unit of money (equivalent to yuan),หน่วยเงินจีน ‘หยวน/฿’,đơn vị tiền Trung Quốc ‘yuán/kuài’,ຫົວເງິນຈີນ ‘ຢວນ/kuài’,unité d’argent chinoise «yuan/kuai»,お金の単位「元/クワイ」,중국 화폐 단위 ‘위안/콰이’,денежная ед. Китая «юань/куай»,Geldeinheit China,Yuan/Kuai,unidad monetaria china «yuan/kuài»
+块,kuài,unit of money (equivalent to yuan),หน่วยเงินจีน ‘หยวน/฿’,đơn vị tiền Trung Quốc ‘yuán/kuài’,ຫົວເງິນຈີນ ‘ຢວນ/kuài’,unité d’argent chinoise «yuan/kuai»,お金の単位「元/クワイ」,중국 화폐 단위 ‘위안/콰이’,денежная ед. Китая «юань/куай»,Geldeinheit China/Yuan/Kuai,unidad monetaria china «yuan/kuài»
 钱,qián,money,เงิน,tiền,ເງິນ,argent,お金,돈,деньги,Geld,dinero
 台,tái,used for certain machinery or apparatus,ลักษณนาม: เครื่องจักร/อุปกรณ์/เครื่องใช้ไฟฟ้า,lượng từ: máy/thiết bị,ລັກສນ.: ເຄື່ອງ/ອຸປະກອນ,class. pour appareils/machines,量詞：台（機械・機器）,양사: 대(기계/장비),сч.сл. для аппаратов/машин,Klassifikator für Geräte/Maschinen,clasif. para aparatos/máquinas
 千,qiān,thousand,พัน,một nghìn/ngàn,ພັນ,mille,千,천/1000,тысяча,tausend,mil
