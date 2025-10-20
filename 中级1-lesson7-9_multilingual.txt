@@ -74,21 +74,21 @@
 招,zhāo,recruit/enroll,รับคน/รับสมัคร,tuyển/chiêu mộ,ຮັບຄົນ/ຮັບນັກຮຽນ,recruter/engager,募集する/採る,모집하다/채용하다,набирать/принимать,rekrutieren/anheuern,reclutar/inscribir
 何必,hé bì,there is no need/why,จะไปทำไม/ไม่เห็นจำเป็น,hà tất/việc gì phải,ຈະໄປເຮັດເພາະຫຍັງ/ບໍ່ຈໍາເປັນ,à quoi bon,何も…することはない,굳이 … 할 필요 없다,к чему/зачем,wozu denn,para qué
 简直,jiǎn zhí,simply/just,เรียกได้ว่า/แทบจะ,quả là/thật là/đúng là,ແທ້ໆ/ຈິງໆ,tout simplement,まるで/まったく,그야말로/정말로,просто-напросто/совсем,einfach nur,simplemente/verdaderamente
-灰心,huī xīn,"lose heart;be discouraged,",ท้อใจ/หมดกำลังใจ,nản lòng,ທ້ອຍໃຈ,perdre courage,落ち込む/くじける,낙담하다,падать духом,mutlos werden,desanimarse
-怪不得,ɡuài bu de,"no wonder,",มิน่าล่ะ/ไม่น่าแปลกใจ,thảo nào/chẳng trách,ບໍ່ນ່າແປກໃຈ/ວ່າແລ້ວ,pas étonnant/forcément,どうりで/なるほど,어쩐지/그럴 만도,неудивительно/вот почему,kein Wunder/na klar,con razón/no me extraña
-天书,tiān shū,"abstruse or illegible writing,",หนังสือเทพ/อ่านไม่ออกสักนิด,thiên thư/khó hiểu như chữ trời,ໜັງສືຟ້າ/ອ່ານບໍ່ອອກ,écriture incompréhensible,チンプンカンプンの文,천서/뚱딴지 같은 글,заумный текст/абракадабра,unleserliche Schrift,galimatías/indescifrable
-废除,fèi chú,"abolish,",ยกเลิก/ล้มเลิก,bãi bỏ/huỷ bỏ,ຍົກເລີກ,abolir,廃止する,폐지하다,упразднить/отменить,abschaffen,abolir/derogar
-围棋,wéi qí,"weiqi;the game of go,",โกะ/ล้อม棋,cờ vây,ເກມໂກะ (ລ້ອມກີ),jeu de go,囲碁,바둑,го/игра го,Go/Baduk,go (juego de mesa)
-规则,ɡuī zé,"rule,",กฎ/กติกา,quy tắc/luật lệ,ກົດ/ກະຕິກາ,règle,ルール/規則,규칙/규정,правило,Regel,regla
-兴奋,xīnɡ fèn,"excited,",ตื่นเต้น/คึกคัก,hưng phấn/phấn khích,ຕື່ນເຕ້ນ,excité,興奮する/わくわく,흥분하다/들뜨다,взволнованный/возбуждённый,aufgeregt,emocionado
-掌握,zhǎnɡ wò,"master;grasp,",จับประเด็น/คุมให้อยู่,nắm vững/nắm giữ,ຄອບຄຸມ/ຈັບໃຈຄວາມ,maîtriser,把握する/身につける,장악하다/숙달하다,овладеть/держать в руках,beherrschen,dominar/manejar
-迷宫,mí ɡōnɡ,"labyrinth;maze,",เขาวงกต,mê cung,ວົງກົດ/ທາງຫຼົບຫນີ,labyrinthe,迷宮/ラビリンス,미궁/미로,лабиринт,Labyrinth,laberinto
-比喻,bǐ yù,"simile;metaphor;analogy,",อุปมา/เปรียบเทียบ,ẩn dụ/so sánh,ອຸປະໄນ/ການປຽບ,métaphore/comparaison,比喩,비유,метафора/сравнение,Metapher/Vergleich,metáfora/símil
-复杂,fù zá,"complicated;complex,",ซับซ้อน,phức tạp,ສັບຊ້ອນ,complexe,複雑な,복잡하다,сложный,komplex,complejo
-研究,yán jiū,"study;research,",วิจัย/ค้นคว้า,nghiên cứu,ວິຈັຍ,recherche/étudier,研究する,연구하다,исследовать/исследование,forschen/untersuchen,investigar/estudio
-哲学,zhé xué,"philosophy,",ปรัชญา,triết học,ປັດຊະຍາ,philosophie,哲学,철학,философия,Philosophie,filosofía
-报刊,bào kān,"newspapers and periodicals,",หนังสือพิมพ์และนิตยสาร,báo chí/ấn phẩm định kỳ,ຫນັງສືພິມແລະນິຕິຍະສານ,presse écrite/périodiques,新聞・雑誌,신문과 잡지,газеты и журналы,Presse/Periodika,prensa periódica
-文章,wén zhānɡ,"article;essay,",บทความ/เรียงความ,bài viết/bài luận,ບົດຄວາມ,article/essai,文章/エッセイ,글/논설,статья/эссе,Artikel/Aufsatz,artículo/ensayo
+灰心,huī xīn,lose heart/be discouraged,ท้อใจ/หมดกำลังใจ,nản lòng,ທ້ອຍໃຈ,perdre courage,落ち込む/くじける,낙담하다,падать духом,mutlos werden,desanimarse
+怪不得,ɡuài bu de,no wonder,มิน่าล่ะ/ไม่น่าแปลกใจ,thảo nào/chẳng trách,ບໍ່ນ່າແປກໃຈ/ວ່າແລ້ວ,pas étonnant/forcément,どうりで/なるほど,어쩐지/그럴 만도,неудивительно/вот почему,kein Wunder/na klar,con razón/no me extraña
+天书,tiān shū,abstruse or illegible writing,หนังสือเทพ/อ่านไม่ออกสักนิด,thiên thư/khó hiểu như chữ trời,ໜັງສືຟ້າ/ອ່ານບໍ່ອອກ,écriture incompréhensible,チンプンカンプンの文,천서/뚱딴지 같은 글,заумный текст/абракадабра,unleserliche Schrift,galimatías/indescifrable
+废除,fèi chú,abolish,ยกเลิก/ล้มเลิก,bãi bỏ/huỷ bỏ,ຍົກເລີກ,abolir,廃止する,폐지하다,упразднить/отменить,abschaffen,abolir/derogar
+围棋,wéi qí,weiqi/the game of go,โกะ/ล้อม棋,cờ vây,ເກມໂກะ (ລ້ອມກີ),jeu de go,囲碁,바둑,го/игра го,Go/Baduk,go (juego de mesa)
+规则,ɡuī zé,rule,กฎ/กติกา,quy tắc/luật lệ,ກົດ/ກະຕິກາ,règle,ルール/規則,규칙/규정,правило,Regel,regla
+兴奋,xīnɡ fèn,excited,ตื่นเต้น/คึกคัก,hưng phấn/phấn khích,ຕື່ນເຕ້ນ,excité,興奮する/わくわく,흥분하다/들뜨다,взволнованный/возбуждённый,aufgeregt,emocionado
+掌握,zhǎnɡ wò,master/grasp,จับประเด็น/คุมให้อยู่,nắm vững/nắm giữ,ຄອບຄຸມ/ຈັບໃຈຄວາມ,maîtriser,把握する/身につける,장악하다/숙달하다,овладеть/держать в руках,beherrschen,dominar/manejar
+迷宫,mí ɡōnɡ,labyrinth/maze,เขาวงกต,mê cung,ວົງກົດ/ທາງຫຼົບຫນີ,labyrinthe,迷宮/ラビリンス,미궁/미로,лабиринт,Labyrinth,laberinto
+比喻,bǐ yù,simile/metaphor/analogy,อุปมา/เปรียบเทียบ,ẩn dụ/so sánh,ອຸປະໄນ/ການປຽບ,métaphore/comparaison,比喩,비유,метафора/сравнение,Metapher/Vergleich,metáfora/símil
+复杂,fù zá,complicated/complex,ซับซ้อน,phức tạp,ສັບຊ້ອນ,complexe,複雑な,복잡하다,сложный,komplex,complejo
+研究,yán jiū,study/research,วิจัย/ค้นคว้า,nghiên cứu,ວິຈັຍ,recherche/étudier,研究する,연구하다,исследовать/исследование,forschen/untersuchen,investigar/estudio
+哲学,zhé xué,philosophy,ปรัชญา,triết học,ປັດຊະຍາ,philosophie,哲学,철학,философия,Philosophie,filosofía
+报刊,bào kān,newspapers and periodicals,หนังสือพิมพ์และนิตยสาร,báo chí/ấn phẩm định kỳ,ຫນັງສືພິມແລະນິຕິຍະສານ,presse écrite/périodiques,新聞・雑誌,신문과 잡지,газеты и журналы,Presse/Periodika,prensa periódica
+文章,wén zhānɡ,article/essay,บทความ/เรียงความ,bài viết/bài luận,ບົດຄວາມ,article/essai,文章/エッセイ,글/논설,статья/эссе,Artikel/Aufsatz,artículo/ensayo
 风格,fēnɡ ɡé,"style,",สไตล์/แนวทาง,phong cách,ສະໄຕລ໌/ຮູບແບບ,style,スタイル/作風,스타일/작풍,стиль,Stil,estilo
 编辑,biān jí,"editor,",บรรณาธิการ/แก้ไข (เอกสาร),biên tập/biên tập viên,ບັນນາທິການ/ແກ້ໄຂ,éditeur/éditer,編集者/編集する,편집자/편집하다,редактор/редактировать,Redakteur/bearbeiten,editor/editar
 散文,sǎn wén,"prose,",ร้อยแก้ว/ความเรียง,tản văn/văn xuôi,ບົດຄວາມຮ້ອຍແກ້ວ,prose,散文,산문,проза,Prosa,prosa
