@@ -19,7 +19,7 @@
 接送,jiē sòng,receive and deliver,รับ‑ส่ง,đón và giao/đưa đón,ຮັບ‑ສົ່ງ,prendre et livrer/prise en charge,送迎する/受け渡しする,픽업과 배송,встречать и доставлять,abholen und liefern,recoger y entregar
 推算,tuī suàn,calculate/estimate,คำนวณ/คาดคะเน,tính ước/ước tính,ຄາດຄະເນ/ຄຳນວນ,estimer/calculer,推算する/見積もる,추산하다/계산하다,подсчитать/оценить,hochrechnen/abschätzen,calcular/estimar
 业务,yè wù,business,งานธุรกิจ/งานบริการ,nghiệp vụ/kinh doanh,ວຽກທຸລະກິດ/ວຽກບໍລິການ,activité/service,業務,업무/비즈니스,деятельность/операции,Geschäft/Tätigkeit,negocio/operación
-恐怕,kǒng pà,probably,เกรงว่า/คงจะ,e rằng/có lẽ,ກົງວ່າ/ຄົງຈະ,j’ai peur que/peut‑être,おそらく/…かもしれない,아마/걱정컨대,"боюсь, что/пожалуй",ich fürchte/wohl,me temo que/probablemente
+恐怕,kǒng pà,probably,เกรงว่า/คงจะ,e rằng/có lẽ,ກົງວ່າ/ຄົງຈະ,j’ai peur que/peut‑être,おそらく/…かもしれない,아마/걱정컨대,"боюсь/что/пожалуй",ich fürchte/wohl,me temo que/probablemente
 事先,shì xiān,in advance/beforehand,ล่วงหน้า/ก่อนล่วงหน้า,trước/đón đầu,ລ່ວງໜ້າ,à l’avance,事前に,사전에/미리,заранее,im Voraus,por adelantado
 流利,liú lì,fluent,คล่องแคล่ว/พูดคล่อง,trôi chảy/lưu loát,ຄ່ອງ/ຄລ່ອງແຄ່ວ,couramment/fluide,流暢だ,유창하다,свободно (говорить),fließend,con fluidez
 整个,zhěng gè,whole/entire,ทั้ง/ทั้งหมด,toàn bộ/cả…,ທັງໝົດ/ທັງກ້ອນ,entier/au complet,丸ごと/全体の,전체/온‑,целый/весь,ganz/gesamte,entero/total
@@ -62,7 +62,7 @@
 特色,tè sè,feature,เอกลักษณ์/จุดเด่น,đặc sắc/điểm riêng,ຈຸດເດັ່ນ,caractéristique,特色,특색,особенность,Besonderheit,característica
 剩下,shèng xià,be left(over)/remain,เหลือ/ที่เหลือ,còn lại,ທີ່ເຫຼືອ,rester/reste,残る/残り,남다/남은 것,оставаться/остаток,übrig bleiben/Rest,quedar/sobrante
 助手,zhù shǒu,assistant,ผู้ช่วย,trợ lý,ຜູ້ຊ່ວຍ,assistant(e),助手,조수,ассистент,Assistent,asistente
-生怕,shēngpà,for fear that,กลัวว่า/เกรงว่า,sợ rằng,ກົງວ່າ,de peur que,〜しはしないかと,…할까 봐,"боясь, что/как бы не","aus Angst, dass",por miedo a que
+生怕,shēngpà,for fear that,กลัวว่า/เกรงว่า,sợ rằng,ກົງວ່າ,de peur que,〜しはしないかと,…할까 봐,"боясь/что/как бы не","aus Angst, dass",por miedo a que
 握,wò,shake,จับ/จับมือ,nắm/bắt tay,ຈັບ/ຈັບມື,serrer/serrer la main,握る/握手する,쥐다/악수하다,схватить/пожать,greifen/Händedruck,agarrar/dar la mano
 签,qiān,sign,เซ็น,ký,ເຊັນ,signer,署名する,서명하다,подписать,unterschreiben,firmar
 合同,hé tong,contract,สัญญา,hợp đồng,ສັນຍາ,contrat,契約,계약,договор/контракт,Vertrag,contrato
@@ -106,7 +106,7 @@
 宁可,nìng kě,(would)rather/prefer,ยอม…ดีกว่า,thà… còn hơn,ຍອມ…ດີກວ່າ,plutôt … que,むしろ…したい,차라리 … 하겠다,лучше уж … чем,lieber … als,preferiría … antes que
 遭遇,zāo yù,come across/run into,เผชิญ/พบเจอ,gặp phải/chạm trán,ເຈີເຂົ້າ/ປະສົບ,rencontrer/faire face à,遭遇する/出くわす,맞닥뜨리다/겪다,столкнуться/повстречать,begegnen/erfahren,encontrarse con/afrontar
 气喘吁吁,qì chuǎn xū xū,out of breath/gasp,หอบแฮ่กๆ,thở hổn hển,ຫາຍໃຈແຮງ,à bout de souffle/haletant,息を切らす,숨이 차다/헉헉거리다,запыхавшийся,außer Atem/keuchend,jadeando/sin aliento
-以为,yǐ wéi,think/believe,นึกว่า/คิดว่า,tưởng là/nghĩ là,ຄິດວ່າ/ນຶກວ່າ,croire/penser que,…と思う（思い込む）,…라고 생각하다,полагать/думать что,"glauben/denken, dass",creer/pensar que
+以为,yǐ wéi,think/believe,นึกว่า/คิดว่า,tưởng là/nghĩ là,ຄິດວ່າ/ນຶກວ່າ,croire/penser que,…と思う（思い込む）,…라고 생각하다,полагать/думать что,glauben/denken/dass,creer/pensar que
 难熬,nán'áo,unbearable,ทนยาก/ทรมาน,khó chịu đựng,ທົນບໍ່ໄຫວ,dur à supporter,耐え難い/つらい,견디기 어렵다,невыносимый,kaum auszuhalten,insoportable
 机灵,jī ling,clever/smart,หัวไว/ฉลาดปรู๊ด,lanh lợi/nhanh trí,ສະຫຼາດ/ໄວໆ,malin/futé,機転が利く/ちゃっかり,눈치 빠르다/영리하다,сообразительный/шустрый,pfiffig/gewitzt,espabilado/listo
 等候,děng hòu,wait,รอคอย,đợi/chờ đợi,ຄອຍລໍຖ້າ,attendre,待つ/待機する,기다리다,ожидать/дожидаться,warten,esperar
