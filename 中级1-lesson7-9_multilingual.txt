@@ -23,7 +23,6 @@
 环境,huán jìnɡ,surroundings/environment,สิ่งแวดล้อม/บรรยากาศโดยรอบ,môi trường/hoàn cảnh xung quanh,ສິ່ງແວດລ້ອມ,environnement,環境,환경,окружающая среда,Umwelt/Umgebung,entorno/medio ambiente
 优雅,yōu yǎ,elegant,สง่างาม/ดูดีมีระดับ,thanh nhã/tao nhã,ສົມາດ/ອ່ອນຊ້ອຍ,élégant,優雅な/エレガント,우아한/고급스러운,изящный/элегантный,elegant,elegante
 抢,qiǎnɡ,try to be the first,แย่ง/รีบคว้า,giành/giật lấy,ແຍ່ງ/ຄວ້າກ່ອນ,se précipiter pour prendre,奪い合う/先に取る,빼앗다/먼저 차지하다,отхватить/урвать/опережать,wegreißen/sich schnappen,arrebatar/coger primero
-撕,sī,tear;rip,ฉีก/ดึงขาด,xé/rách,ຉີກ/ດຶງຂາດ,déchirer,破る/引き裂く,찢다,рвать/разорвать,zerreißen,rasgar
 价签,jià qiān,price tag,ป้ายราคา/ป้ายติดราคา,nhãn giá/tem giá,ປ້າຍລາຄາ,étiquette de prix,値札/プライスタグ,가격표,ценник/бирка с ценой,Preisschild,etiqueta de precio
 花招,huā zhāo,trick,ลูกเล่น/มุก/เล่ห์กล,mánh khóe/chiêu trò,ເລ່ຫ໌ກອນ/ລູກຫຼິ້ນ,astuce/tour,手口/トリック,속임수/꼼수,хитрый приём/уловка,Trick/Kniff,truco/treta
 马虎,mǎ hu,careless,สะเพร่า/ไม่ละเอียด,cẩu thả/qua loa,ສະເພີ່ຍ/ບໍ່ລະອຽດ,négligent/à l’arrache,いい加減/雑,대충대충/허술한,небрежный/спустя рукава,schlampig/nachlässig,descuidado
@@ -116,40 +115,40 @@
 体温,tǐ wēn,body temperature,อุณหภูมิร่างกาย,nhiệt độ cơ thể,ອຸນຫະພູມຮ່າງກາຍ,température corporelle,体温,체온,температура тела,Körpertemperatur,temperatura corporal
 升降,shēnɡ jiànɡ,rise and fall,ขึ้นลง/ปรับระดับ,lên xuống,ຂຶ້ນລົງ,montée et descente,昇降/上下する,승강/오르내리다,подъём и спуск,Auf‑ und Abstieg,subida y bajada
 心率,xīn lǜ,cardiac rate/heart rate,อัตราการเต้นหัวใจ,nhịp tim,ອັດຕາຫົວໃຈເຕ້ນ,fréquence cardiaque,心拍数/心拍,심박수/심장 박동수,частота сердцебиения,Herzfrequenz,frecuencia cardiaca
-血压,xuè yā,"blood pressure,",ความดันโลหิต,huyết áp,ຄວາມດັນເລືອດ,pression artérielle,血圧,혈압,кровяное давление,Blutdruck,presión arterial
-甚至,shèn zhì,"even;(go)so far as to,",ถึงกับ/กระทั่ง,thậm chí/đến cả,ແມ້ກະທັ້ງ,même/jusqu’à,さえ/まして,심지어/까지,даже/вплоть до,sogar/bis hin zu,incluso/hasta
-情绪,qínɡ xù,"emotion;mood,",อารมณ์/อารมณ์ขึ้นลง,cảm xúc/tâm trạng,ອາລົມ,humeur/émotion,気分/感情,기분/감정,настроение/эмоции,Stimmung/Gemüt,ánimo/emoción
-受到,shòu dào,"be subjected to,",ได้รับ/ถูก…,nhận được/chịu tác động,ໄດ້ຮັບ/ຖືກ…,recevoir/subir,受ける,받다/영향을 받다,подвергнуться/получить,erhalten/erfahren,recibir/verse (afectado)
-微生物,wēi shēnɡ wù,"micro-organism;microbe,",จุลชีพ/จุลินทรีย์,vi sinh vật/vi khuẩn có ích,ຈຸນະຊີວະ/ຈຸລິນທີຣຍ໌,micro‑organisme,微生物,미생물,микроорганизм,Mikroorganismus,microorganismo
-凡是,fán shì,"every;all,",ไม่ว่าอะไรก็ตาม/ที่เป็น…ล้วน,phàm là/hễ…thì,ບໍ່ວ່າ…ກໍ,toute chose qui…/quiconque,凡そ…は/…というものは,무릇/…하는 것은,"всё, что/кто бы ни","alles, was/wer auch",cualquier … que/ todo lo que
-信息,xìn xī,"information,",ข้อมูล/ข่าวสาร,thông tin,ຂໍ້ມູນ,information,情報,정보,информация,Information,información
-实验,shí yàn,"experiment;test,",ทดลอง/ทดสอบ,thí nghiệm/kiểm nghiệm,ທົດລອງ,expérimenter/test,実験/テスト,실험,эксперимент/тест,Experiment/Test,experimento/prueba
-证明,zhènɡ mínɡ,"prove,",พิสูจน์/ยืนยัน,chứng minh/xác nhận,ພິສູດ/ຢືນຢັນ,prouver/démontrer,証明する,증명하다,доказывать/подтвердить,beweisen,demostrar/probar
-视觉,shì jué,"vision,",การมองเห็น/ประสาทตา,thị giác,ສາຍຕາ/ການເຫັນ,vision (sens),視覚,시각,зрение/визуальный,Sehsinn/visuell,visión (sentido)
-器官,qì ɡuān,"organ,",อวัยวะ,cơ quan (trong cơ thể),ອະໄວຍະວະ,organe,器官,기관,орган,Organ,órgano
-时差,shí chā,"time difference;jet lag,",เจ็ตแล็ก/ต่างเวลา,chênh lệch múi giờ/jet lag,ຄວາມແຕກຕ່າງເວລາ/jet lag,décalage horaire,時差/時差ボケ,시차/시차증,разница во времени/джетлаг,Zeitverschiebung/Jetlag,diferencia horaria/jet lag
-苦恼,kǔ nǎo,"worry or unhappiness,",กลุ้มใจ/ทุกข์ใจ,khổ não/rầu rĩ,ກົງໃຈ/ກັງວົນ,chagrin/angoisse,苦悩/悩み,괴로워하다/번민하다,страдать/горевать,Kummer/Qual,aflicción/preocupación
-证据,zhènɡ jù,"evidence;proof,",หลักฐาน/พยานหลักฐาน,chứng cứ/bằng chứng,ຫຼັກຖານ,preuve,証拠,증거,доказательство,Beweis,prueba/evidencia
-表明,biǎo mínɡ,"indicate,",ชี้ให้เห็น/แสดงว่า,biểu thị/cho thấy,ຊີ້ໃຫ້ເຫັນ,indiquer/montrer,示す/表明する,나타내다/분명히 하다,указывать/свидетельствовать,zeigen/nahelegen,indicar/señalar
-照射,zhào shè,"shine;illuminate,",ส่อง/ฉายแสง,chiếu rọi/chiếu xạ,ສ່ອງ/ສາຍແສງ,irradiation/éclairer,照射する/照らす,조사하다/비추다,облучать/освещать,bestrahlen/beleuchten,irradiar/iluminar
-调整,tiáo zhěnɡ,"adjust,",ปรับ/ปรับตั้งค่า,điều chỉnh,ປັບແຕ່ງ,ajuster/régler,調整する,조정하다,настроить/откорректировать,anpassen/einstellen,ajustar
-长途,chánɡ tú,"long-distance,",ทางไกล/ระยะไกล,đường dài/viễn trình,ໄລຍະໄກ,longue distance,長距離の,장거리의,дальнего следования,Langstrecken‑/fern‑,de larga distancia
-倒,dǎo,"adjust,",ปรับ/สลับ/กลับด้าน,đổi/điều chỉnh (giờ/nhịp),ປັບປ່ຽນ/ກັບ,ajuster/inverser,調整する/入れ替える,바꾸다/조정하다,перестраивать/перевести (время),umstellen/anpassen,ajustar/cambiar
-福音,fú yīn,"good news,",ข่าวดี/เรื่องมงคล,tin vui/tin lành,ຂ່າວດີ,bonne nouvelle,福音/朗報,복음/기쁜 소식,благая весть/радостная новость,frohe Botschaft,buena nueva
-低落,dī luò,"low;depressed;downcast,",รู้สึกดรอป/หดหู่,tụt mood/chán nản,ເສົ້າ/ຫົວໃຈຕົກ,moral à plat/déprimé,気分が落ち込む,기분이 가라앉다,подать духом/унылый,niedergeschlagen,decaído/deprimido
-睡眠,shuì mián,"sleep;slumber,",การนอนหลับ,giấc ngủ,ການນອນ,sommeil,睡眠,수면,сон/спячка,Schlaf,sueño
-治疗,zhì liáo,"cure(a disease),",รักษา/บำบัด,điều trị/chữa trị,ຮັກສາ,traiter/soigner,治療する,치료하다,лечить/терапия,behandeln,tratar/terapia
-遵守,zūn shǒu,"abide by;observe,",ปฏิบัติตาม/เคารพกฎ,tuân thủ,ປະຕິບັດຕາມ,respecter/observer,遵守する,준수하다,соблюдать/подчиняться,befolgen/beachten,cumplir/observar
-规律,ɡuī lǜ,"regulation,",กฎระเบียบ/กติกา/ระเบียบวิถี,quy luật/quy tắc,ກົດໝາຍ/ກົດແບບ,règle/loi (régularité),規律/ルール,규율/법칙,закономерность/правила,Regelmäßigkeit/Gesetzmäßigkeit,regla/regularidad
-一般来说,yì bān lái shuō,"generally speaking,",โดยทั่วไปแล้ว,nói chung/nhìn chung,ໂດຍທົ່ວໄປ,en général,一般的に言えば,일반적으로 말해,вообще говоря/в целом,im Allgemeinen,en general
-记忆力,jì yì lì,"memory,",ความจำ,trí nhớ,ຄວາມຈື່ຈຳ,mémoire (capacité),記憶力,기억력,память (способность),Gedächtnisleistung,memoria (capacidad)
-激素,jī sù,"hormone,",ฮอร์โมน,hormone,ຮໍໂມນ,hormone,ホルモン,호르몬,гормон,Hormon,hormona
-衰老,shuāi lǎo,"aged;decrepit,",แก่ชรา/เสื่อมถอย,lão hoá/già đi,ແກ່ຊຣາ/ເສື່ອມ,vieillissement,老化する/衰える,노화하다/쇠하다,старение/дряхлость,Alterung/altern,envejecimiento
-熬夜,áo yè,"stay up late or all night,",อดนอน/โต้รุ่ง,thức khuya/qua đêm,ນອນດຶກ/ຢືນ,thacher la nuit/veiller tard,徹夜する/夜更かし,밤새우다/늦게까지 깨어 있다,не спать всю ночь,die Nacht durchmachen,trasnochar
-日光浴,rì ɡuānɡ yù,"sun bath,",อาบแดด,tắm nắng,ອາບແດດ,bain de soleil,日光浴,일광욕,солнечная ванна/загорать,Sonnenbad,tomar el sol
-最佳,zuì jiā,"best,",ดีที่สุด/เหมาะสุด,tốt nhất/tối ưu,ດີທີ່ສຸດ,optimal/meilleur,最適/ベスト,최적/최고,наилучший,optimal/beste,óptimo/mejor
-南美洲,nán měi zhōu,"South America,",ทวีปอเมริกาใต้,Nam Mĩ,ອາເມລິກາໃຕ້,Amérique du Sud,南アメリカ,남아메리카,Южная Америка,Südamerika,Sudamérica
-非洲,fēi zhōu,"Africa,",ทวีปแอฟริกา,châu Phi,ອາຟຣິກາ,Afrique,アフリカ,아프리카,Африка,Afrika,África
-黄海,huánɡ hǎi,"the Huanghai Sea;the Yellow Sea,",ทะเลเหลือง,Hoàng Hải,ທະເລເຫຼືອງ,mer Jaune,黄海,황해,Жёлтое море,Gelbes Meer,mar Amarillo
-南非,nán fēi,"South Africa,",แอฟริกาใต้,Nam Phi,ຊາວດອກ/ປະເທດນານຟີ -> ນານຟີ (ສ.ອຟ.),Afrique du Sud,南アフリカ,남아프리카공화국,ЮАР/Южная Африка,Südafrika,Sudáfrica
-阿根廷,ā ɡēn tínɡ,"Argentina,",อาร์เจนตินา,Argentina,ອາກັນຕິນ/ອາເຈນຕິນາ,Argentine,アルゼンチン,아르헨티나,Аргентина,Argentinien,Argentina
+血压,xuè yā,blood pressure,ความดันโลหิต,huyết áp,ຄວາມດັນເລືອດ,pression artérielle,血圧,혈압,кровяное давление,Blutdruck,presión arterial
+甚至,shèn zhì,even/(go)so far as to,ถึงกับ/กระทั่ง,thậm chí/đến cả,ແມ້ກະທັ້ງ,même/jusqu’à,さえ/まして,심지어/까지,даже/вплоть до,sogar/bis hin zu,incluso/hasta
+情绪,qínɡ xù,emotion/mood,อารมณ์/อารมณ์ขึ้นลง,cảm xúc/tâm trạng,ອາລົມ,humeur/émotion,気分/感情,기분/감정,настроение/эмоции,Stimmung/Gemüt,ánimo/emoción
+受到,shòu dào,be subjected to,ได้รับ/ถูก…,nhận được/chịu tác động,ໄດ້ຮັບ/ຖືກ…,recevoir/subir,受ける,받다/영향을 받다,подвергнуться/получить,erhalten/erfahren,recibir/verse (afectado)
+微生物,wēi shēnɡ wù,micro-organism/microbe,จุลชีพ/จุลินทรีย์,vi sinh vật/vi khuẩn có ích,ຈຸນະຊີວະ/ຈຸລິນທີຣຍ໌,micro‑organisme,微生物,미생물,микроорганизм,Mikroorganismus,microorganismo
+凡是,fán shì,every/all,ไม่ว่าอะไรก็ตาม/ที่เป็น…ล้วน,phàm là/hễ…thì,ບໍ່ວ່າ…ກໍ,toute chose qui…/quiconque,凡そ…は/…というものは,무릇/…하는 것은,"всё, что/кто бы ни","alles, was/wer auch",cualquier … que/ todo lo que
+信息,xìn xī,information,ข้อมูล/ข่าวสาร,thông tin,ຂໍ້ມູນ,information,情報,정보,информация,Information,información
+实验,shí yàn,experiment/test,ทดลอง/ทดสอบ,thí nghiệm/kiểm nghiệm,ທົດລອງ,expérimenter/test,実験/テスト,실험,эксперимент/тест,Experiment/Test,experimento/prueba
+证明,zhènɡ mínɡ,prove,พิสูจน์/ยืนยัน,chứng minh/xác nhận,ພິສູດ/ຢືນຢັນ,prouver/démontrer,証明する,증명하다,доказывать/подтвердить,beweisen,demostrar/probar
+视觉,shì jué,vision,การมองเห็น/ประสาทตา,thị giác,ສາຍຕາ/ການເຫັນ,vision (sens),視覚,시각,зрение/визуальный,Sehsinn/visuell,visión (sentido)
+器官,qì ɡuān,organ,อวัยวะ,cơ quan (trong cơ thể),ອະໄວຍະວະ,organe,器官,기관,орган,Organ,órgano
+时差,shí chā,time difference/jet lag,เจ็ตแล็ก/ต่างเวลา,chênh lệch múi giờ/jet lag,ຄວາມແຕກຕ່າງເວລາ/jet lag,décalage horaire,時差/時差ボケ,시차/시차증,разница во времени/джетлаг,Zeitverschiebung/Jetlag,diferencia horaria/jet lag
+苦恼,kǔ nǎo,worry or unhappiness,กลุ้มใจ/ทุกข์ใจ,khổ não/rầu rĩ,ກົງໃຈ/ກັງວົນ,chagrin/angoisse,苦悩/悩み,괴로워하다/번민하다,страдать/горевать,Kummer/Qual,aflicción/preocupación
+证据,zhènɡ jù,evidence/proof,หลักฐาน/พยานหลักฐาน,chứng cứ/bằng chứng,ຫຼັກຖານ,preuve,証拠,증거,доказательство,Beweis,prueba/evidencia
+表明,biǎo mínɡ,indicate,ชี้ให้เห็น/แสดงว่า,biểu thị/cho thấy,ຊີ້ໃຫ້ເຫັນ,indiquer/montrer,示す/表明する,나타내다/분명히 하다,указывать/свидетельствовать,zeigen/nahelegen,indicar/señalar
+照射,zhào shè,shine/illuminate,ส่อง/ฉายแสง,chiếu rọi/chiếu xạ,ສ່ອງ/ສາຍແສງ,irradiation/éclairer,照射する/照らす,조사하다/비추다,облучать/освещать,bestrahlen/beleuchten,irradiar/iluminar
+调整,tiáo zhěnɡ,adjust,ปรับ/ปรับตั้งค่า,điều chỉnh,ປັບແຕ່ງ,ajuster/régler,調整する,조정하다,настроить/откорректировать,anpassen/einstellen,ajustar
+长途,chánɡ tú,long-distance,ทางไกล/ระยะไกล,đường dài/viễn trình,ໄລຍະໄກ,longue distance,長距離の,장거리의,дальнего следования,Langstrecken‑/fern‑,de larga distancia
+倒,dǎo,adjust,ปรับ/สลับ/กลับด้าน,đổi/điều chỉnh (giờ/nhịp),ປັບປ່ຽນ/ກັບ,ajuster/inverser,調整する/入れ替える,바꾸다/조정하다,перестраивать/перевести (время),umstellen/anpassen,ajustar/cambiar
+福音,fú yīn,good news,ข่าวดี/เรื่องมงคล,tin vui/tin lành,ຂ່າວດີ,bonne nouvelle,福音/朗報,복음/기쁜 소식,благая весть/радостная новость,frohe Botschaft,buena nueva
+低落,dī luò,low/depressed/downcast,รู้สึกดรอป/หดหู่,tụt mood/chán nản,ເສົ້າ/ຫົວໃຈຕົກ,moral à plat/déprimé,気分が落ち込む,기분이 가라앉다,подать духом/унылый,niedergeschlagen,decaído/deprimido
+睡眠,shuì mián,sleep/slumber,การนอนหลับ,giấc ngủ,ການນອນ,sommeil,睡眠,수면,сон/спячка,Schlaf,sueño
+治疗,zhì liáo,cure(a disease),รักษา/บำบัด,điều trị/chữa trị,ຮັກສາ,traiter/soigner,治療する,치료하다,лечить/терапия,behandeln,tratar/terapia
+遵守,zūn shǒu,abide by/observe,ปฏิบัติตาม/เคารพกฎ,tuân thủ,ປະຕິບັດຕາມ,respecter/observer,遵守する,준수하다,соблюдать/подчиняться,befolgen/beachten,cumplir/observar
+规律,ɡuī lǜ,regulation,กฎระเบียบ/กติกา/ระเบียบวิถี,quy luật/quy tắc,ກົດໝາຍ/ກົດແບບ,règle/loi (régularité),規律/ルール,규율/법칙,закономерность/правила,Regelmäßigkeit/Gesetzmäßigkeit,regla/regularidad
+一般来说,yì bān lái shuō,generally speaking,โดยทั่วไปแล้ว,nói chung/nhìn chung,ໂດຍທົ່ວໄປ,en général,一般的に言えば,일반적으로 말해,вообще говоря/в целом,im Allgemeinen,en general
+记忆力,jì yì lì,memory,ความจำ,trí nhớ,ຄວາມຈື່ຈຳ,mémoire (capacité),記憶力,기억력,память (способность),Gedächtnisleistung,memoria (capacidad)
+激素,jī sù,hormone,ฮอร์โมน,hormone,ຮໍໂມນ,hormone,ホルモン,호르몬,гормон,Hormon,hormona
+衰老,shuāi lǎo,aged/decrepit,แก่ชรา/เสื่อมถอย,lão hoá/già đi,ແກ່ຊຣາ/ເສື່ອມ,vieillissement,老化する/衰える,노화하다/쇠하다,старение/дряхлость,Alterung/altern,envejecimiento
+熬夜,áo yè,stay up late or all night,อดนอน/โต้รุ่ง,thức khuya/qua đêm,ນອນດຶກ/ຢືນ,thacher la nuit/veiller tard,徹夜する/夜更かし,밤새우다/늦게까지 깨어 있다,не спать всю ночь,die Nacht durchmachen,trasnochar
+日光浴,rì ɡuānɡ yù,sun bath,อาบแดด,tắm nắng,ອາບແດດ,bain de soleil,日光浴,일광욕,солнечная ванна/загорать,Sonnenbad,tomar el sol
+最佳,zuì jiā,best,ดีที่สุด/เหมาะสุด,tốt nhất/tối ưu,ດີທີ່ສຸດ,optimal/meilleur,最適/ベスト,최적/최고,наилучший,optimal/beste,óptimo/mejor
+南美洲,nán měi zhōu,South America,ทวีปอเมริกาใต้,Nam Mĩ,ອາເມລິກາໃຕ້,Amérique du Sud,南アメリカ,남아메리카,Южная Америка,Südamerika,Sudamérica
+非洲,fēi zhōu,Africa,ทวีปแอฟริกา,châu Phi,ອາຟຣິກາ,Afrique,アフリカ,아프리카,Африка,Afrika,África
+黄海,huánɡ hǎi,the Huanghai Sea/the Yellow Sea,ทะเลเหลือง,Hoàng Hải,ທະເລເຫຼືອງ,mer Jaune,黄海,황해,Жёлтое море,Gelbes Meer,mar Amarillo
+南非,nán fēi,South Africa,แอฟริกาใต้,Nam Phi,ຊາວດອກ/ປະເທດນານຟີ -> ນານຟີ (ສ.ອຟ.),Afrique du Sud,南アフリカ,남아프리카공화국,ЮАР/Южная Африка,Südafrika,Sudáfrica
+阿根廷,ā ɡēn tínɡ,Argentina,อาร์เจนตินา,Argentina,ອາກັນຕິນ/ອາເຈນຕິນາ,Argentine,アルゼンチン,아르헨티나,Аргентина,Argentinien,Argentina
