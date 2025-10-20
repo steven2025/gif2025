@@ -1,0 +1,137 @@
+镇,zhèn,town,เมือง/อำเภอ,thị trấn,ເມືອງ/ເມືອງນ້ອຍ,ville/bourg,町,읍/마을,городок/посёлок,Kleinstadt/Ort,pueblo/ciudad pequeña
+紧巴巴,jǐn bā bā,hard up,เงินขัดสน/ถังแตก,kẹt tiền/túng thiếu,ຂາດເງິນ/ຕຶບຕັນ,à court d’argent/fauché,お金に困って,돈이 빠듯하다/궁하다,на мели/денег впритык,knapp bei Kasse,sin dinero/apurado
+用功,yòng gōng,hard-working,ขยัน/ตั้งใจเรียน,chăm chỉ,ຂະຫຍັນ/ຂັນແຂງ,travailleur/sérieux,勤勉な/よく勉強する,부지런한/성실한,прилежный/усердный,fleißig,trabajador/aplicado
+稿纸,gǎo zhǐ,writing paper,กระดาษต้นฉบับ/กระดาษร่าง,giấy bản thảo/giấy nháp,ກະດາດບັນທຶກ/ຮ່າງ,papier de brouillon,原稿用紙,원고지,бумага для черновиков/манускриптовая,Manuskript-/Entwurfspapier,papel de manuscrito/borrador
+未来,wèi lái,future,อนาคต,tương lai,ອະນາຄົດ,avenir,未来,미래,будущее,Zukunft,futuro
+本身,běn shēn,oneself,ตนเอง/ตัวเอง,bản thân,ຕົນເອງ,soi‑même,自身/自分,자신/자기,сам/самостоятельно,selbst,uno mismo
+公正,gōng zhèng,just/fair,ยุติธรรม/เที่ยงธรรม,công bằng,ຍຸດຕິທໍາ,juste/équitable,公正な/公平な,공정한/공평한,справедливый,gerecht/fair,justo/imparcial
+早晚,zǎo wǎn,sooner or later,ไม่ช้าก็เร็ว,sớm muộn,ຊ້າເຊົ່າກໍດີ,tôt ou tard,遅かれ早かれ,머지않아/조만간,рано или поздно,früher oder später,tarde o temprano
+赚,zhuàn,make or earn(money),หาเงิน/ทำเงิน,kiếm tiền,ຫາເງິນ,gagner de l’argent,お金を稼ぐ,돈을 벌다,зарабатывать деньги,Geld verdienen,ganar dinero
+演唱会,yǎn chàng huì,concert(for singing or Chinese opera),คอนเสิร์ต/การแสดงงิ้ว,buổi hòa nhạc/diễn kinh kịch,ຄອນເສີດ/ການສະແດງງິ້ວ,concert/spectacle d’opéra chinois,コンサート/中国オペラ公演,콘서트/경극 공연,концерт/спектакль китайской оперы,Konzert/Opernvorstellung (chinesisch),concierto/espectáculo de ópera china
+校庆,xiào qìng,anniversary of the founding of a school or college,วันครบรอบสถาปนาโรงเรียน,kỷ niệm thành lập trường,ວັນຄົບຮອບກໍຕັ້ງໂຮງຮຽນ,anniversaire de fondation de l’école,創立記念日（学校）,개교기념일,годовщина основания школы/вуза,Schul-/Hochschuljubiläum,aniversario de fundación de la escuela
+分别,fēn bié,part/say goodbye to each other,แยกจาก/บอกลา,chia tay/tạm biệt,ລາຈາກ,se séparer/dire au revoir,別れる/別れを告げる,헤어지다/작별하다,расстаться/попрощаться,sich trennen/sich verabschieden,separarse/decir adiós
+退休,tuì xiū,retire,เกษียณ,nghỉ hưu,ອອກບໍານານ,prendre sa retraite,退職する,은퇴하다,выйти на пенсию,in Rente gehen,jubilarse
+笔迹,bǐ jì,handwriting,ลายมือ,chữ viết tay,ຕົວອັກສອນມື,écriture manuscrite,筆跡/手書き,필체/필적,почерк,Handschrift,letra manuscrita
+涌,yǒng,well  (up),เอ่อขึ้น/พุ่งพล่าน,dâng trào,ເອ່ອຂຶ້ນ/ພຸ່ງຂຶ້ນ,(émotions) monter/affluer,湧き上がる,북받치다/솟구치다,нахлынуть/всплеснуть,hochsteigen/aufwallen,aflorar/brotar
+青春,qīng chūn,youth,วัยเยาว์/วัยรุ่น,tuổi thanh xuân,ວັຍໜຸ່ມ,jeunesse,青春,청춘,юность,Jugend,juventud
+梦想,mèng xiǎng,dream,ความฝัน/ใฝ่ฝัน,ước mơ,ຄວາມຝັນ,rêve,夢/夢想,꿈/희망,мечта,Traum,sueño
+曾,céng,once,ครั้งหนึ่ง/เคย,từng/đã từng,ເຄີຍ,une fois/déjà,かつて/一度,한때/일찍이,когда‑то/однажды,einst/einmal,una vez/antes
+思考,sī kǎo,think deeply/ponder over,ครุ่นคิด/ไตร่ตรอง,suy ngẫm,ຄິດເລິກ/ພິຈາລະນາ,réfléchir/méditer,熟考する/思い巡らす,깊이 생각하다,глубоко обдумывать,tief nachdenken,ponderar/reflexionar
+存折,cún zhé,deposit book,สมุดเงินฝาก,sổ tiết kiệm,ສົມຸດເງິນຝາກ,livret d’épargne,預金通帳,예금통장,сберкнижка,Sparbuch,libreta de ahorros
+字条,zì tiáo,(brief)note,กระดาษโน้ต/แผ่นจด,mảnh giấy ghi chú,ໃບຈົດ/ໃບແຈ້ງ,petit billet/note,紙切れ/メモ,쪽지,записка,Zettel/Notiz,nota/apunte
+辞职,cí zhí,resign,ลาออกจากงาน,xin thôi việc,ລາອອກ,уволиться,辞職する,사직하다,увольняться,kündigen,renunciar al trabajo
+创办,chuàng bàn,establish/set up,ก่อตั้ง/สร้างตั้งขึ้น,thành lập/sáng lập,ກໍ່ຕັ້ງ,fonder/créer,創設する/設立する,창립하다/설립하다,основать/учредить,gründen,fundar/crear
+晕头转向,yūn tóu zhuàn xiàng,confused and disoriented,มึนงง/งงงวย,choáng váng/rối bời,ມືນຫົວ/ສັບສົນ,être étourdi/désemparé,目が回る/混乱する,어질어질/혼란스러운,растерянный/дезориентированный,desorientiert,aturdido/desorientado
+速冻,sù dòng,quick-freeze,แช่แข็งด่วน,đông lạnh nhanh,ແຊ່ແຂງດ່ວນ,surgeler,急速冷凍する,급속 냉동하다,быстро замораживать,schnellgefrieren,ultracongelar
+回想,huí xiǎng,recall/think of (the past),ย้อนนึก/หวนคิด,hồi tưởng,ຫວນຄິດ,se remémorer,回想する,회상하다,вспоминать,zurückerinnern,recordar
+特有,tè yǒu,peculiar,เฉพาะตัว/เอกลักษณ์,đặc hữu/riêng có,ເອກະລັກ/ຈໍາເພາະ,particulier/typique,特有の/独特の,특유의/고유한,свойственный/характерный,typisch/eigen,peculiar/propio
+资金,zī jīn,money/especially money provided by a bank,เงินทุน,vốn/quỹ,ທຶນ,fonds/capitaux,資金,자금,средства/капитал,Kapital/Mittel,fondos/capital
+经营,jīng yíng,operate/run,ดำเนินธุรกิจ/บริหาร,kinh doanh/vận hành,ດໍາເນີນ/ບໍລິຫານ,exploiter/gérer,経営する/運営する,경영하다/운영하다,вести/управлять,betreiben/leiten,operar/gestionar
+当初,dāng chū,at the beginning,ตอนแรก/แรกเริ่ม,thuở ban đầu,ໃນຕອນແລກ,au début,当初,당초/처음에,поначалу/изначально,anfangs,al principio
+积蓄,jī xù,savings,เงินเก็บ/เงินออม,tiền tích lũy,ເງິນອອມ,économies,蓄え/貯蓄,저축/축적,сбережения,Ersparnisse,ahorros
+投,tóu,put in,ใส่/ลงทุน,bỏ vào/đầu tư,ໃສ່/ລົງທຶນ,mettre/ investir,投入する,투입하다/투자하다,вложить,hineinstecken/investieren,poner/invertir
+反而,fǎn'ér,on the contrary/instead,กลับกลาย/ตรงกันข้าม,ngược lại/trái lại,ກົງກັນຂ້າມ,au contraire,反而/逆に,오히려/반대로,напротив/вместо,im Gegenteil,al contrario
+心灰意冷,xīn huī yì lěng,be dispirited/lose heart,หมดหวัง/ท้อแท้,chán nản/thoái chí,ຫມົດກໍາລັງໃຈ,abattu/découragé,意気消沈する,낙담하다/상을 받다?,пасть духом/унывать,mutlos/entmutigt,desanimarse/perder la ilusión
+自 杀,zì shā,commit suicide,ฆ่าตัวตาย,tự sát,ຂ້າຕົວຕາຍ,se suicider,自殺する,자살하다,покончил с собой/совершить самоубийство,Selbstmord begehen,suicidarse
+亲近,qīn jìn,(be)close to,สนิทสนม/ใกล้ชิด,thân cận/gần gũi,ໃກ້ຊິດ,proche/intime,親しい/近しい,친근하다/가깝다,близкий,nah/eng verbunden,cercano/íntimo
+攒,zǎn,save,เก็บออม/สะสม,dành dụm/tích cóp,ອອມ/ສະສົມ,économiser,貯める/貯蓄する,모으다/저축하다,копить/собирать,sparen/ansammeln,ahorrar/acumular
+作用,zuò yòng,effect,ผล/บทบาท/ฤทธิ์,tác dụng/hiệu quả,ຜົນກະທົບ/ບົດບາດ,effet/rôle,作用/効果,효과/역할,эффект/роль,Wirkung/Rolle,efecto/papel
+真诚,zhēn chéng,sincere,จริงใจ/จริงแท้,chân thành,ຈິງໃຈ,sincère,誠実な/真心の,진실된/성실한,искренний,aufrichtig,sincero
+报答,bào dá,repay/requite,ตอบแทน/ทดแทน,báo đáp/đền đáp,ຕອບແທນ,rendre/être reconnaissant,報いる/恩に報いる,보답하다,отблагодарить/воздать,danken/ vergelten,retribuir/agradecer
+慈爱,cí'ài,affectionate,เปี่ยมความเมตตา,từ ái,ປານີດ/ເມດຕາ,affectueux/plein d’amour,慈愛に満ちた,자애로운,любящий/заботливый,liebevoll,afectuoso
+甜蜜,tián mì,sweet,หวานชื่น/แสนหวาน,ngọt ngào,ຫວານຊື່ນ,doux/plein de douceur,甘い/甘美な,달콤한,сладостный/сладкий,süß,dulce
+劳累,láo lèi,tired/exhausted,เหน็ดเหนื่อย/ล้า,mệt mỏi/kiệt sức,ເມື່ອຍລ້າ,fatigué/épuisé,疲れた/疲労した,피곤한/지친,утомлённый,müde/erschöpft,cansado/exhausto
+手术,shǒu shù,surgical operation,ผ่าตัด,phẫu thuật,ຜ່າຕັດ,opération chirurgicale,外科手術,외과 수술,хирургическая операция,Operation (chirurgisch),operación quirúrgica
+聋,lóng,deaf,หูหนวก,điếc,ຫູໜວກ,sourd,耳が聞こえない/ろう,농아/귀먹은,глухой,taub,sordo
+意味深长,yi wèi shēn cháng,profound in meaning,ลึกซึ้งกินใจ,hàm ý sâu sắc,ຄວາມໝາຍລ່ຳລຶກ,profond de sens,意味深長な,함축 깊은,многозначительный/глубокий,tiefsinnig,de profundo significado
+五花八门,wǔ huā bā mén,multifarious/various,หลากหลาย/สารพัด,đa dạng/muôn hình,ຫຼາກຫຼາຍ,multiforme/varié,多種多様な,가지각색의,разнообразный,vielgestaltig/vielfältig,variado/multiforme
+真情,zhēn qíng,true feelings,ความรู้สึกจริงแท้,tình cảm chân thật,ຄວາມຮູ້ສຶກແທ້,sentiments sincères,真情/まごころ,진정한 감정,искренние чувства,aufrichtige Gefühle,sentimientos verdaderos
+升职,shēng   zhí,be promoted,เลื่อนตำแหน่ง,thăng chức,ເລື່ອນຕໍາແໜ່ງ,être promu,昇進する,승진하다,повышаться в должности,befördert werden,ascender
+伸(进),shēn(jìn),stretch/put out/extend,ยื่น/เหยียด/สอดเข้า,duỗi/đưa vào,ຍືດ/ສອດເຂົ້າ,étendre/insérer,伸ばす/差し入れる,뻗다/집어넣다,вытянуть/просунуть,strecken/hineinstecken,estirar/introducir
+乱,luàn,tangled,ยุ่งเหยิง/พันกัน,rối bời/lộn xộn,ພັນກັນ/ຍຸ່ງຢືງ,enchevêtré,絡まる/乱れている,엉키다/어지럽다,спутанный/хаотичный,verheddert/chaotisch,enredado/caótico
+脑袋,nǎo dai,head,หัว/ศีรษะ,đầu,ສີສະ/ຫົວ,tête,頭,머리,голова,Kopf,cabeza
+塑料袋,sù liào dài,plastic bag,ถุงพลาสติก,túi nhựa,ຖົງພລາສຕິກ,sac plastique,ビニール袋,비닐봉지,пакет (пластиковый),Plastiktüte,bolsa de plástico
+通,tōng,thump/thud,ตุ้บ/เสียงดังตุ้บ,thình thịch/bụp,ປຶກ/ຕຸ໊ບ,boum/sourd coup,ドン/ドサッ,쿵/쿵소리,глухой удар/тумп,Dumpf!/Wumm,golpe sordo/¡pum!
+地板,dì bǎn,floor,พื้น/พื้นไม้,sàn nhà,ພື້ນ,plancher/sol,床/フロア,바닥,пол/напольное покрытие,Fußboden,suelo/piso
+凑,còu,move close to,ขยับเข้าใกล้/จ่อเข้า,xích lại gần,ເຄື່ອນໃກ້,近づく/寄る,近づく,다가서다/바짝 붙다,приблизиться/подвинуться,sich nähern/heranrücken,acercarse/arrimarse
+戒,jiè,quit/give up,เลิก/งด,bỏ/kiêng,ງົດ/ລະງັບ,cesser/renoncer à,やめる/断つ,끊다/그만두다,бросить/отказаться,aufgeben/abgewöhnen,dejar/abandonar
+抽烟,chōu yān,smoke(a cigarette),สูบบุหรี่,hút thuốc,ສູບຢາ,fumer,タバコを吸う,담배를 피우다,курить,rauchen,fumar
+费钱,fèi qián,be costly,เปลืองเงิน/แพง,tốn tiền/đắt đỏ,ເສຍເງິນ/ແພງ,coûteux,金がかかる/高価な,돈이 많이 들다/비싸다,дорогостоящий,kostspielig/teuer,costoso/caro
+抓,zhuā,grab,คว้า/จับ,chộp/bắt,ຈັບ/ຄວ້າ,saisir/attraper,つかむ/捕まえる,붙잡다/낚아채다,схватить/ловить,ergreifen/fassen,agarrar/coger
+气派,qì pài,imposing/impressive,สง่างาม/ภูมิฐาน,bề thế/đường bệ,ສົງເງົາ/ໂອ່ອາດ,imposant,堂々とした/威風のある,위풍당당한/품격 있는,величавый/представительный,imposant/prächtig,imponente
+房贷,fáng dài,mortgage,สินเชื่อที่อยู่อาศัย/จำนองบ้าน,khoản vay mua nhà/thế chấp,ເງິນກູ້ບ້ານ/ຈໍານອງ,prêt hypothécaire,住宅ローン,주택 담보대출,ипотека,Hypothek,hipoteca
+夫妻,fū qī,husband and wife,สามีภรรยา,vợ chồng,ຜົວເມຍ,mari et femme,夫婦,부부,муж и жена,Ehepaar,marido y mujer/pareja
+开场白,kāi chǎng bái,opening remarks/prologue,คำเกริ่น/เปิดเรื่อง,lời mở màn/dạo đầu,ຄໍາເປີດ/ນໍາເຂົ້າ,propos liminaire/intro,前置き/序言,개회사/서두,вступительные слова/пролог,Eröffnungsworte/Prolog,palabras de apertura/prólogo
+离婚,lí hūn,divorce,หย่า,ly hôn,ຢ່າຮ້າງ,divorcer,離婚する,이혼하다,развестись,sich scheiden lassen,divorciarse
+老婆,lǎo po,wife,ภรรยา/เมีย,vợ/bà xã,ແມ່ຍິງ/ເມຍ,femme/épouse,妻/奥さん,아내/집사람,жена,Ehefrau,esposa/mujer
+催,cuī,urge(sb.to do sth.),เร่ง/กระตุ้น,giục/thúc giục,ເຕືອນ/ເຮັດໃຫ້ໄວ,presser/exhorter,急かす/促す,재촉하다/독촉하다,подгонять/торопить,drängen/antreiben,apremiar/instar
+没准儿,méi zhǔnr,maybe,อาจจะ/ไม่แน่,có khi/có lẽ,ອາດຈະ/ບໍ່ແນ່,peut‑être,もしかすると,아마/어쩌면,может быть/авось,vielleicht,quizá/tal vez
+替,tì,for/on behalf of,แทน/ในนามของ,thay/đại diện cho,ແທນ/ໃນນາມຂອງ,pour/au nom de,〜の代わりに,~을 대신하여,за/от имени,für/im Namen von,por/en nombre de
+摆地摊儿,bǎi di tānr,set up a stall on the street,ตั้งแผงลอย/ตั้งร้านริมถนน,bày sạp/bán vỉa hè,ຕັ້ງແຜງຂາຍ/ຮ້ານຂ້າງທາງ,tenir un stand ambulant,露店を出す/屋台を出す,길거리 좌판을 벌이다,торговать с лотка/поставить лоток,einen Straßenstand aufmachen,poner un puesto en la calle
+保安,bǎo'an,security guard,ยาม/รปภ.,bảo vệ,ພະນັກງານຮັກສາຄວາມປອດໄພ,agent de sécurité,警備員,경비원/보안요원,охранник,Sicherheitsmann/Wachmann,guardia de seguridad
+门面,mén miàn,the facade or front of a shop,หน้าร้าน/ด้านหน้าอาคาร,mặt tiền cửa hàng,ໜ້າຮ້ານ,devanture de magasin,店の表/正面,가게 앞면/외관,фасад магазина/вывеска,Ladenfront/Schaufenster,fachada/escaparate
+买卖,mǎi mai,business,การค้า/กิจการ,buôn bán/kinh doanh,ການຄ້າ/ທຸລະກິດ,commerce/affaires,商売/取引,장사/거래,торговля/бизнес,Handel/Geschäft,negocio/comercio
+肩膀,jiān bǎng,shoulder,ไหล่,vai,ໄຫລ່,épaule,肩,어깨,плечо,Schulter,hombro
+兄弟,xiōng di,brother/buddy,พี่น้อง/เพื่อนซี้,anh em/bạn thân,ພີ່ນ້ອງ/ໝູ່,frère/pote,兄弟/仲間,형제/친구,брат/приятель,Bruder/Kumpel,hermano/colega
+惦记,diàn jì,remember with concern/keep thinking about,คิดถึงเป็นห่วง,nhớ/để tâm,ຄິດຮອດ/ເປັນຫ່ວງ,garder à l’esprit/se soucier,気にかける/思い続ける,마음에 두다/걱정하다,помнить/не выпускать из головы,im Kopf behalten/sich sorgen,tener presente/preocuparse por
+干儿,gānr,dried food,อาหารแห้ง,đồ khô,ອາຫານແຫ້ງ,aliments secs,乾物,건조식품,сухие продукты,Trockenwaren,alimentos secos
+发热,fā   rè,feel like burning,ตัวร้อน/เป็นไข้อย่างร้อนผ่าว,phát sốt/nóng rát,ເປັນໄຂ້/ຮ້ອນ,avoir de la fièvre,熱っぽい/発熱する,열이 나다/화끈거리다,жар/чувствовать жар,Fiebergefühl,tener fiebre/arder
+传来,chuán lái,(for sound or news)come,ดังมา/เล็ดลอดมา,truyền đến/vọng đến,ດັງມາ/ສົ່ງມາ,parvenir/venir (son/bruit),伝わってくる,전해 오다/들려오다,доноситься/поступать,herüberkommen/ankommen,llegar (son/noticia)
+锁,suǒ,lock,กุญแจ/ล็อก,khóa,ກະແຈ/ລ໋ອກ,serrure/verrou/fermer à clé,錠/施錠する,자물쇠/잠그다,замок/запирать,Schloss/abschließen,cerradura/cerrar con llave
+起码,qǐ mǎ,at least,อย่างน้อย,ít nhất,ຢ່າງນ້ອຍ,au moins,少なくとも,적어도,по крайней мере,mindestens,al menos
+七上八下,qī  shàng  ba xià,at sixes and sevens,สับสนอลหม่าน/ใจไม่อยู่กับตัว,rối bời/bồn chồn,ສັບສົນ/ກະວົນກະວາຍ,dans tous ses états,そわそわ/落ち着かない,갈팡질팡/어수선한,в смятении/растерянный,kopflos/aufgewühlt,hecho un lío/inquieto
+迷信,mí xìn,be superstitious,เชื่อโชคลาง/งมงาย,mê tín,ເຊື່ອງມົງງາຍ,être superstitieux,迷信する,미신을 믿다,быть суеверным,abergläubisch sein,ser supersticioso
+罗伟,Luó   Wěi,a person's name,ชื่อคน,tên người,ຊື່ຄົນ,nom propre,人名,인명,имя собственное,Eigenname,nombre propio
+李阳,Lǐ Yáng,a person's name,ชื่อคน,tên người,ຊື່ຄົນ,nom propre,人名,인명,имя собственное,Eigenname,nombre propio
+屋顶,wū dǐng,roof,หลังคา,mái nhà,ຫຼັງຄາ,toit,屋根,지붕,крыша,Dach,techo
+水泥,shuǐ ní,cement,ปูนซีเมนต์,xi măng,ປູນຊີເມັນ,ciment,セメント,시멘트,цемент,Zement,cemento
+体验,tǐ yàn,experience,ประสบการณ์/สัมผัส,trải nghiệm,ປະສົບການ,expérience/faire l’expérience,体験/経験,체험/경험,опыт/испытать,Erfahrung/erleben,experiencia/experimentar
+乐趣,lè qù,pleasure,ความเพลิดเพลิน,niềm vui/thú vị,ຄວາມມ່ວນຊື່ນ,plaisir,楽しみ/喜び,즐거움/기쁨,удовольствие,Vergnügen,placer
+实现,shí xiàn,realize/fulfill,ทำให้เป็นจริง/บรรลุ,thực hiện/đạt được,ປະຕິບັດໃຫ້ເກີດ,réaliser/atteindre,実現する,실현하다/이루다,реализовать/осуществить,verwirklichen/erreichen,realizar/cumplir
+软件,ruǎn jiàn,software,ซอฟต์แวร์,phần mềm,ຊອບແວ,logiciel,ソフトウェア,소프트웨어,программное обеспечение,Software,software
+晕,yūn,dizzy/giddy,เวียนหัว,chóng mặt,ວຽນຫົວ,étourdi,めまいがする,어지럽다,кружится голова,schwindelig,mareado
+恶心,ě xin,(feel)nauseated/(feel)sick,คลื่นไส้/พะอืดพะอม,buồn nôn,ຄືນໄສ້,nauséeux,吐き気がする,메스껍다,тошнить,übel/Übelkeit,con náuseas
+视力,shì lì,vision/eyesight,สายตา/การมองเห็น,thị lực,ສາຍຕາ,vue,視力,시력,зрение,Sehvermögen,vista
+模糊,mó hu,blurred,พร่ามัว/ไม่ชัด,mờ/nhòe,ບໍ່ຊັດ/ມົວ,flou,ぼやけた,흐릿한,размытый/нечёткий,verschwommen,borroso
+检查,jiǎn chá,examine,ตรวจ/ตรวจสอบ,kiểm tra/khám,ກວດ/ກວດສອບ,examiner,検査する/調べる,검사하다/살피다,обследовать/проверять,untersuchen/prüfen,examinar
+综合征,zōng hé zhēng,syndrome,กลุ่มอาการ,hội chứng,ກຸ່ມອາການ,syndrome,症候群,증후군,синдром,Syndrom,síndrome
+有效,yǒu xiào,effective,ได้ผล/มีประสิทธิภาพ,hiệu quả,ໄດ້ຜົນ,efficace,効果的/有効,효과적인/유효한,эффективный,wirksam,eficaz
+组织,zǔ zhī,organize,จัดตั้ง/จัดระเบียบ,tổ chức/sắp xếp,ຈັດຕັ້ງ/ຈັດລຽງ,organiser,組織する/まとめる,조직하다/정리하다,организовать/упорядочить,organisieren,organizar
+田野,tián yě,field/open country,ทุ่ง/ชนบท,cánh đồng/đồng quê,ທົ່ງນາ/ທຸ່ງ,champ/rase campagne,野原/田畑,들판/야지,поле/открытая местность,Feld/Flur,campo/llanura
+议论,yì lùn,talk/discuss,อภิปราย/วิพากษ์,bàn luận,ຖົງທຽງ/ສົນທະນາ,discuter/débattre,議論する/話し合う,토론하다/의논하다,обсуждать,diskutieren/erörtern,debatir/comentar
+乡下,xiāng xia,countryside/village,ชนบท/บ้านนอก,nông thôn/làng quê,ບ້ານນອກ/ຊົນນະບົດ,campagne/village,田舎,시골/농촌,деревня/сельская местность,Land/Dorf,campo/pueblo
+种植,zhòng zhí,plant/grow,ปลูก/เพาะ,trồng,ປູກ/ເພາະ,planter/cultiver,植える/栽培する,심다/재배하다,сажать/выращивать,pflanzen/anbauen,plantar/cultivar
+现实,xiàn shí,reality,ความเป็นจริง,hiện thực/thực tế,ຄວາມເປັນຈິງ,réalité,現実,현실,реальность,Realität/Wirklichkeit,realidad
+种子,zhǒng zi,seed,เมล็ดพันธุ์,hạt giống,ເມັດພັນ,graine,種/種子,씨앗,семя,Samen,semilla
+肥料,féi liào,fertilizer,ปุ๋ย,phân bón,ປຸ່ຍ,engrais,肥料,비료,удобрение,Dünger,fertilizante
+公寓,gōng yù,apartment,อพาร์ตเมนต์/แฟลต,căn hộ,ອາພາດເມັນ,appartement,アパート/マンション,아파트,квартира/апартаменты,Wohnung/Apartment,apartamento/piso
+铺,pū,lay,ปู/แผ่,trải/đặt,ປູ/ແຜ່,étaler/poser,敷く/広げる,깔다/펼치다,стелить/расстилать,auslegen/ausbreiten,extender/tender
+厚,hòu,thick,หนา,dày,ໜາ,épais,厚い,두껍다,толстый,dick,grueso
+苗,miáo,seedling,ต้นกล้า/กล้าพันธุ์,cây con,ເບ້ຍ/ຕົ້ນອ່ອນ,jeune plant/plantule,苗/苗木,모종/묘,рассада/сеянец,Setzling/Sämling,plántula/plantón
+青色,qīng sè,dark greenish blue,สีเขียวอมฟ้า/สีคราม,xanh lam‑lục,ສີຂຽວປົວຟ້າ,bleu‑vert,青色/青緑,청색/청록색,сине‑зелёный,blaugrün,verde azulado
+摘,zhāi,pick,เด็ด/เก็บ (ผล/ดอก),hái/ngắt,ເກັບ/ເດັດ,cueillir,摘む/採る,따다/꺾다,срывать/собирать,pflücken,recoger/coger
+颗,kē,ameasure word for small spherical objects,ลักษณนาม(เม็ด/ดวง),lượng từ (hạt/viên),ລັກສະນະນາມ (ເມັດ/ດວງ),classificateur (grain/bille),量詞（粒/個）,양사(알/알갱이),счётное слово «颗»,Zählwort „颗“,clasificador «颗»
+哇,wā,used when you think sth is impressive or surprising,ว้าว!/โอ้โห!,ồ!/wow!,ວ້າວ!/ໂອ້ໂຫ!,waouh!/oh là là!,わあ/おお,와!/우와!,вау!/ух ты!,wow!/boah!,¡guau!/¡vaya!
+丰收,fēng shōu,(reap)bump harvest,เก็บเกี่ยวอุดม/ผลผลิตมาก,mùa bội thu,ເກັບກຽວຫຼາຍ,récolte abondante,大豊作,대풍작,богатый урожай,reiche Ernte,cosecha abundante
+干脆,gān cuì,simply/just,ตรงไปตรงมา/เสียเลย,dứt khoát/đơn giản,ຊັດໆ/ໄປເລີຍ,carrément/simplement,いっそ/思い切って,아예/단호하게,просто/решительно,einfach/ohne Umschweife,simplemente/sin rodeos
+自 豪,zì háo,proud,ภาคภูมิใจ,tự hào,ພາກພູມໃຈ,fier/fière,誇りに思う,자부심을 느끼다,гордиться,stolz,sentirse orgulloso
+化肥,huà féi,fertilizer,ปุ๋ยเคมี,phân bón hóa học,ປຸ່ຍເຄມີ,engrais chimique,化学肥料,화학 비료,химическое удобрение,Kunstdünger,fertilizante químico
+农药,nóng yào,pesticide,ยาฆ่าแมลง/สารกำจัดศัตรูพืช,thuốc trừ sâu,ຢາກຳຈັດແມງ,pesticide,農薬,농약/살충제,пестицид,Pestizid,pesticida
+绝对,jué duì,absolutely,โดยสิ้นเชิง/อย่างแน่นอน,tuyệt đối,ແນ່ນອນຢ່າງຍິ່ງ,absolument,絶対に,절대적으로,абсолютно,absolut,absolutamente
+农场,nóng chǎng,farm,ฟาร์ม,trang trại,ຟາມ,ferme,農場,농장,ферма,Bauernhof/Farm,granja
+临,lín,just before/about to,จวนจะ/ก่อนจะ,sắp/đúng lúcก่อน,ກ່ອນຈະ/ຈະ…ພໍດີ,juste avant/sur le point de,まさに…する時,막 ~하려 할 때,вот‑вот/перед тем как,kurz bevor/im Begriff,a punto de
+显得,xiǎn de,appear/seem/look,ดูเหมือน/แลดู,trông có vẻ,ເບິ່ງຄື,paraître/avoir l’air,…に見える/…らしく見える,…해 보이다,казаться/выглядеть,wirken/aussehen,parecer/verse
+欣然,xīn rán,glad/with pleasure,ยินดี/ด้วยความเต็มใจ,vui vẻ/bằng lòng,ຍິນດີ,avec plaisir,喜んで,기꺼이/흔쾌히,с радостью/охотно,gern/freudig,con gusto/con agrado
+浓厚,nóng hòu,(of interest)great/strong,แรงกล้า/เข้มข้น (ความสนใจ),mạnh mẽ (quan tâm),ຄວາມສົນໃຈແຮງ,intérêt fort,強い関心,강한 관심,сильный интерес,starkes Interesse,interés fuerte
+以至于,yǐ zhì yú,to such an extent as to,ถึงขั้น/ถึงขนาดที่,đến mức mà,ຈົນກະທັ່ງ,au point que,〜するほど,~할 정도로,до такой степени/что,so sehr/dass,hasta tal punto que
+专门,zhuān mén,intended for a particular purpose,โดยเฉพาะ/เฉพาะทาง,chuyên/dành riêng,ສະເພາະ/ເພື່ອຈຸດປະສົງ,spécialement/dédié,専用の/専門の,전용/전문,специально/предназначенный,speziell/für … bestimmt,especializado/dedicado
+承建,chéng jiàn,(of a project)contract to construct,รับเหมาก่อสร้าง,nhận thầu xây dựng,ຮັບເຫມາກໍ່ສ້າງ,contrat de construction (entreprendre),請負施工する,도급 시공하다,выполнять строительство по контракту,Bau im Auftrag übernehmen,contratar la construcción
+周到,zhōu dào,thoughtful/considerate,รอบคอบ/เอาใจใส่,chu đáo/ân cần,ໃສ່ໃຈ/ຮອບຄອບ,attentionné/soigneux,周到な/気配りのある,세심한/배려 깊은,внимательный/продуманный,umsichtig/rücksichtsvoll,atento/cuidadoso
+名气,míng qì,fame/reputation,ชื่อเสียง/ความดัง,danh tiếng,ຊື່ສຽງ,renommée/notoriété,名声,명성/인지도,известность/слава,Ruf/Bekanntheit,fama/reputación
+起源,qǐ yuán,originate,มีต้นกำเนิด/เริ่มจาก,bắt nguồn,ເກີດກໍ່/ມາຈາກ,prendre origine/provenir,起源する/由来する,기원하다,происходить/зарождаться,entstehen/seinen Ursprung haben,originarse/proceder
+优越性,yōu yuè xìng,superiority/advantage,ความเหนือกว่า/ข้อได้เปรียบ,ưu thế/điểm mạnh,ຂໍ້ໄດ້ປຽບ,supériorité/avantage,優越性/優位,우월성/장점,преимущество/превосходство,Überlegenheit/Vorteil,superioridad/ventaja
+改善,gǎi shàn,improve,ปรับปรุง/พัฒนา,cải thiện,ປັບປຸງ,améliorer,改善する,개선하다,улучшать,verbessern,mejorar
+质量,zhì liàng,quality,คุณภาพ,chất lượng,ຄຸນນະພາບ,qualité,品質,품질,качество,Qualität,calidad
+提供,tí gōng,provide/supply,จัดหา/ให้/ส่งมอบ,cung cấp,ສະໜອງ/ຈັດຫາ,fournir,提供する,제공하다,предоставлять/снабжать,bereitstellen/liefern,proporcionar/suministrar
+闲置,xián zhì,leave unused,ปล่อยทิ้งไว้/ไม่ได้ใช้งาน,để không/bỏ không,ປ່ອຍວ່າງ/ບໍ່ໃຊ້,laisser inemployé,遊ばせておく/未使用の,유휴 상태로 두다,не использовать/простаивать,ungenutzt lassen,dejar sin usar
+等待,děng dài,wait for/await,รอคอย,chờ đợi,ລໍຖ້າ,attendre,待つ,기다리다,ждать/ожидать,warten (auf),esperar

@@ -1,0 +1,115 @@
+行(业),háng (yè),trade/industry,อาชีพ/แวดวงงาน,ngành nghề/lĩnh vực,ວົງການ/ອາຊີບ,secteur/métier,業界/業種,업계/직종,отрасль/сфера,Branche/Sektor,sector/rubro
+快递,kuài di,express delivery,ขนส่งด่วน/พัสดุด่วน,chuyển phát nhanh,ຂົນສົ່ງດ່ວນ,express/colis rapide,宅配便/速達便,퀵배송/택배,экспресс‑доставка,Expressversand/Kurier,mensajería/paquetería exprés
+恭敬,gōng jìng,respectful,สุภาพนอบน้อม,cung kính/kính cẩn,ນັບຖື/ນ້ອມນ້ອມ,respectueux,恭（うやうや）しい,공손하고 공경스럽다,почтительный/вежливый,ehrfurchtsvoll/achtsam,respetuoso
+递,dì,hand over/pass,ส่ง/ยื่นให้,đưa/trao,ຍື່ນ/ສົ່ງໃຫ້,remettre/passer,手渡す/渡す,건네다/전하다,передавать/вручать,überreichen/weitergeben,pasar/entregar
+西装,xī zhuāng,Western-style clothes,สูทแบบตะวันตก,comple Tây/âu phục,ສູດຕາເວັນຕົກ,costume (occidental),スーツ,양복,костюм (западный),Anzug,traje (occidental)
+皮鞋,pí xié,leather shoes,รองเท้าหนัง,giày da,ເກີບຫນັງ,chaussures en cuir,革靴,가죽 구두,кожаные туфли,Lederschuhe,zapatos de cuero
+身,shēn,(of clothes)suit,ชุด/ตัว (เสื้อผ้า),bộ (quần áo),ຊຸດ (ເສື້ອຜ້າ),tenue/un ensemble,一着（服）,한 벌(옷),комплект (одежды),Garnitur/Satz (Kleidung),conjunto (de ropa)
+打扮,dǎ ban,the way one is dressed,แต่งตัว/แต่งกาย,ăn mặc/chưng diện,ແຕ່ງຕົວ,s’habiller/se faire beau,身なり/装い,차림새/몸치장,наряжаться/образ,aufmachen/sich kleiden,arreglarse/vestimenta
+傻小子,shǎ xiǎo zi,silly boy,ไอ้หนุ่มเซ่อๆ,thằng ngốc (con trai),ໜຸ່ມໂງ່ໆ,gamin nigaud,おバカな坊や,어리숙한 청년,простофиля (парень),tölpischer Junge,chico tontuelo
+快件,kuài jiàn,express mail,พัสดุด่วน/ของด่วน,bưu kiện nhanh,ພັດສະດຸດ່ວນ,colis express,速達小包,급송 소포,экспресс‑посылка,Expresspaket,paquete exprés
+单子,dān zi,form,แบบฟอร์ม/ใบรายการ,tờ đơn/phiếu,ໃບຟອມ/ໃບລາຍການ,formulaire/bon,伝票/用紙,전표/용지,бланк/квитанция,Formular/Beleg,formulario/hoja
+找(钱),zhǎo (qián),give(change),ทอน(เงิน),trả lại tiền thừa,ທອນເງິນ,rendre la monnaie,お釣りを渡す,거스름돈을 주다,давать сдачу,Wechselgeld geben,dar el cambio
+完成,wán chéng,fulfil1,ทำให้เสร็จ/สำเร็จ,hoàn thành,ສຳເລັດ/ທຳໃຫ້ເສັດ,accomplir/terminer,完成する,완성하다,выполнить/завершить,abschließen/erledigen,completar/terminar
+仪式,yí shì,ceremony,พิธี/พิธีการ,nghi thức/lễ nghi,ພິທີກຳ,cérémonie/rituel,儀式,의식,церемония/обряд,Zeremonie/Ritual,ceremonia/ritual
+确认,què rèn,confirm,ยืนยัน,xác nhận,ຢືນຢັນ,confirmer,確認する,확인하다,подтвердить,bestätigen,confirmar
+签收,qiān shōu,sign after receiving sth.,ลงนามรับของ,ký nhận (khi nhận hàng),ເຊັນຮັບ,signer à la réception,受け取りにサインする,수령 서명하다,расписаться при получении,bei Empfang unterschreiben,firmar al recibir
+身份,shēn fèn,identity,ฐานะ/ตัวตน/身分,thân phận/danh tính,ສະຖານະ/ຕົນຕົນ,identité/statut,身分/アイデンティティ,신분/정체,личность/статус,Identität/Status,identidad/estatus
+物品,wù pǐn,article,สิ่งของ/ของใช้,đồ đạc/vật phẩm,ຂອງໃຊ້/ສິ່ງຂອງ,objet/article,物品/品物,물품/물건,вещь/предмет,Gegenstand/Artikel,objeto/artículo
+接送,jiē sòng,receive and deliver,รับ‑ส่ง,đón và giao/đưa đón,ຮັບ‑ສົ່ງ,prendre et livrer/prise en charge,送迎する/受け渡しする,픽업과 배송,встречать и доставлять,abholen und liefern,recoger y entregar
+推算,tuī suàn,calculate/estimate,คำนวณ/คาดคะเน,tính ước/ước tính,ຄາດຄະເນ/ຄຳນວນ,estimer/calculer,推算する/見積もる,추산하다/계산하다,подсчитать/оценить,hochrechnen/abschätzen,calcular/estimar
+业务,yè wù,business,งานธุรกิจ/งานบริการ,nghiệp vụ/kinh doanh,ວຽກທຸລະກິດ/ວຽກບໍລິການ,activité/service,業務,업무/비즈니스,деятельность/операции,Geschäft/Tätigkeit,negocio/operación
+恐怕,kǒng pà,probably,เกรงว่า/คงจะ,e rằng/có lẽ,ກົງວ່າ/ຄົງຈະ,j’ai peur que/peut‑être,おそらく/…かもしれない,아마/걱정컨대,"боюсь, что/пожалуй",ich fürchte/wohl,me temo que/probablemente
+事先,shì xiān,in advance/beforehand,ล่วงหน้า/ก่อนล่วงหน้า,trước/đón đầu,ລ່ວງໜ້າ,à l’avance,事前に,사전에/미리,заранее,im Voraus,por adelantado
+流利,liú lì,fluent,คล่องแคล่ว/พูดคล่อง,trôi chảy/lưu loát,ຄ່ອງ/ຄລ່ອງແຄ່ວ,couramment/fluide,流暢だ,유창하다,свободно (говорить),fließend,con fluidez
+整个,zhěng gè,whole/entire,ทั้ง/ทั้งหมด,toàn bộ/cả…,ທັງໝົດ/ທັງກ້ອນ,entier/au complet,丸ごと/全体の,전체/온‑,целый/весь,ganz/gesamte,entero/total
+衬衣,chèn yī,shirt,เสื้อเชิ้ต/เสื้อในบาง,áo sơ mi/áo lót mỏng,ເສື້ອເຊີດ/ເສື້ອບາງ,chemise,シャツ/肌着,와이셔츠/얇은 셔츠,рубашка/тонкая поддёвка,Hemd,camisa
+始终,shǐ zhōng,from beginning to end/all along,ตั้งแต่ต้นจนจบ/ตลอดมา,từ đầu đến cuối,ຕັ້ງແຕ່ຕົ້ນຮອດທ້າຍ,du début à la fin/toujours,始終/終始,시종/내내,с начала до конца/всегда,von Anfang bis Ende,de principio a fin/siempre
+老,lǎo,always/all the time,เอะอะก็…/เสมอๆ,lúc nào cũng/hoài,ມັກ…ຢູ່ເລີຍ/ສະໝໍາເສມอ,toujours/sans cesse,やたらと/いつも,맨날/늘,вечно/всегда,ständig/immer,siempre
+规矩,guī ju,proper and formal (in behaviour or look),เป็นระเบียบ/ถูกกาลเทศะ,đúng mực/có quy củ,ເປັນລະບຽບ/ຖືກກົດ,propre/réglé/correct,きちんとしている/礼儀正しい,얌전하고 바른,приличный/пристойный/правильный,ordentlich/anständig,correcto/formal
+衣衫,yī shān,clothes,เสื้อผ้า/อาภรณ์,áo quần/y phục,ເສື້ອຜ້າ,vêtements/habits,衣服/衣類,의복/옷차림,одежда,Kleidung,ropa/vestidura
+整洁,zhěng jié,clean and tidy/neat,สะอาดเรียบร้อย,ngăn nắp/sạch sẽ,ສະອາດເປັນລະບຽບ,propre et net/soigné,整然とした/清潔な,말끔하고 정돈된,чистый и опрятный,ordentlich und sauber,limpio y ordenado
+听话,tīng huà,obedient,เชื่อฟัง/ว่านอนสอนง่าย,biết nghe lời/nghe话,ເຊື່ອຟັງ,obéissant/docile,言うことをよく聞く,말을 잘 듣다,послушный,folgsam/gefügig,obediente
+小伙子,xiǎo huǒ zi,young man,หนุ่ม/ชายหนุ่ม,chàng trai/anh thanh niên,ໜຸ່ມນ້ອຍ,jeune homme,若者/青年,청년/젊은이,парень/юноша,junger Mann,joven (varón)
+投诉,tóu sù,complain,ร้องเรียน/ร้องทุกข์,khiếu nại/phàn nàn,ຮ້ອງທຸກ/ຮ້ອງຮຽນ,porter plainte/se plaindre,苦情を言う/クレーム,민원을 넣다/불만 제기,пожаловаться/жалоба,Beschwerde einlegen,presentar queja
+录取,lù qǔ,admit (those who are qualified in an exam),รับเข้า/ประกาศรับ,trúng tuyển/được nhận,ຮັບເຂົ້າ,admettre/retenir,合格させる/採用する,합격시키다/선발하다,зачислить/принять,aufnehmen/zulassen,admitir/aceptar
+通知书,tōng zhī shū,notice,จดหมายแจ้ง/หนังสือแจ้ง,thông báo (văn bản),ໃບແຈ້ງ/ໃບປະກາດ,avis/notification (écrite),通知書/案内状,통지서/통신문,письмо‑уведомление,Benachrichtigungsschreiben,carta/aviso de notificación
+沿海,yán hǎi,along the coast,ตามแนวชายฝั่ง,ven biển/dọc bờ biển,ຕາມຊາຍຝັ່ງ,le long des côtes,沿海/海沿いの,연해/해안가의,прибрежный/вдоль побережья,entlang der Küste,costero/a lo largo de la costa
+毕竟,bì jìng,after all,ท้ายที่สุด/อย่างไรเสีย,suy cho cùng/dù sao thì,ສຸດທ້າຍແລ້ວ/ຢ່າງໃດກໍຕາມ,après tout/en fin de compte,結局のところ/所詮,결국/어쨌든,всё‑таки/в конце концов,schließlich/doch,al fin y al cabo/a fin de cuentas
+自个儿,zì gěr,one's own,ของตัวเอง/ด้วยตัวเอง,tự mình/tự bản thân,ຕົນເອງ,soi‑même/en personne,自分自身/自ら,자기 스스로/본인,сам/самостоятельно,selbst/allein,uno mismo/por sí mismo
+人家,rén jia,people other than the speaker or hearer,คนอื่น/บ้านอื่น/เขา,người ta/người khác,ຄົນອື່ນ/ບ້ານອື່ນ,les autres/chez les gens,他人/よそ（の人）,남/타인/남의 집,другие/чужие,die Leute/andere,los demás/la gente
+仓库,cāng kù,warehouse,โกดัง/คลังสินค้า,kho hàng,ຄັງສິນຄ້າ,entrepôt,倉庫,창고,склад,Lager,almacén
+缝补,féngbǔ,sew and mend,เย็บปะ/ซ่อมผ้า,khâu vá,ເຢັບປະ,repriser/coudre,繕う/縫う,깁고 꿰매다,штопать/чинить,stopfen/nähen,zurcir/coser
+篷布,péng bù,tarpaulin,ผ้าใบคลุม,bạt (bạt phủ),ຜ້າໃບ,bâche,タープ/シート,방수포,брезент,Plane,lona
+丢弃,diū qì,discard,ทิ้ง/โยนทิ้ง,vứt bỏ,ທິ້ງ,jeter/abandonner,捨てる,버리다,выбросить/отказаться,wegwerfen,desechar/tirar
+碎,suì,fragmentary,แตก/ป่น/เป็นชิ้นเล็ก,vỡ vụn,ແຕກລະອຽດ,cassé/en miettes,砕けた/細かい,부서진/잘게,разбитый/осколки,zerbrochen/klein,hecho añicos
+捡,jiǎn,pick up,เก็บขึ้น/หยิบได้,nhặt,ເກັບ/ເອົາຂຶ້ນ,ramasser,拾う,줍다,подобрать/поднять,aufheben,recoger
+劝,quàn,persuade,เกลี้ยกล่อม/ชวน,khuyên/khuyên nhủ,ຊັກຊວນ/ແນະນຳ,persuader/conseiller,説得する/促す,권하다/설득하다,уговаривать/убеждать,überreden/raten,persuadir/aconsejar
+露天,lù tiān,open(air)/outdoors,กลางแจ้ง,ngoài trời,ກາງແຈ້ງ,en plein air,露天/屋外,노천/야외,под открытым небом,im Freien,al aire libre
+掀,xiān,lift(a cover/etc.),ยก/เปิด(ฝา),nhấc/nhắc (nắp),ຍົກ/ເປີດຝາ,soulever/ôter (couvercle),ふたを持ち上げる,뚜껑을 들다,приподнять (крышку),anheben/aufdecken,levantar/destapar
+盖,gài,cover/put a cover on,ปิด/คลุม/ใส่ฝา,đậy/che,ປິດ/ຄຸ້ມ,couvrir/mettre le couvercle,ふたをする/覆う,덮다/뚜껑을 덮다,накрыть/прикрыть,zudecken/abdecken,tapar/cubrir
+淋,lín,be caught in the rain,ตากฝน/เปียกฝน,dầm mưa/ướt mưa,ຕາກຝົນ/ເປັນເປີຍ,se faire mouiller par la pluie,雨にぬれる,비를 맞다,промокнуть под дождём,vom Regen nass werden,mojarse bajo la lluvia
+当场,dāng chǎng,on the spot,ที่เกิดเหตุ/เดี๋ยวนั้น,tại chỗ/ngay tại chỗ,ທີ່ເກີດເຫດ/ທັນທີ,sur‑le‑champ/sur place,その場で,그 자리에서,на месте/тут же,an Ort und Stelle,en el acto/en el sitio
+加薪,jia xīn,increase the salary,ขึ้นเงินเดือน,tăng lương,ເພີ່ມເງິນເດືອນ,augmenter le salaire,昇給する,급여 인상,повысить зарплату,Gehaltserhöhung,subir el sueldo
+老实,lǎo shi,honest/trustworthy,ซื่อสัตย์/ตรงไปตรงมา,thật thà/chân thật,ຊື່ສັດ/ຕົງ,honnête/franc,正直だ,솔직하고 성실하다,честный/простодушный,ehrlich/aufrichtig,honesto/sencillo
+责任心,zé rèn xīn,sense of responsibility,ความรับผิดชอบ,tinh thần trách nhiệm,ຈິດຮັບຜິດຊອບ,sens des responsabilités,責任感,책임감,чувство ответственности,Verantwortungsgefühl,sentido de responsabilidad
+手下,shǒu xià,subordinate,ลูกน้อง/ผู้ใต้บังคับบัญชา,cấp dưới/thuộc hạ,ລູກນ້ອງ,subordonné,部下,부하,подчинённый,Untergebener,subordinado
+高等教育,gāo děng jiào yù,higher education,อุดมศึกษา,giáo dục đại học,ການສຶກສາຊັ້ນສູງ,enseignement supérieur,高等教育,고등교육,высшее образование,Hochschulbildung,educación superior
+服,fú,obey/do as one is told,เชื่อฟัง/ทำตาม,phục tùng/nghe theo,ເຊື່ອຟັງ,obéir,従う,복종하다/따르다,повиноваться/подчиняться,gehorchen,obedecer
+外商,wài shāng,foreign businessman/foreign merchant,นักธุรกิจต่างชาติ,thương nhân nước ngoài,ນັກທຸລະກິດຕ່າງຊາດ,commerçant étranger,外国人商人,외국 상인,иностранный предприниматель,ausländischer Geschäftsmann,empresario extranjero
+发展,fā zhǎn,develop/grow,พัฒนา/เติบโต,phát triển,ພັດທະນາ,développer/se développer,発展する,발전하다,развивать(ся),sich entwickeln,desarrollar(se)
+合作,hé zuò,cooperate,ร่วมมือ,hợp tác,ຮ່ວມມື,coopérer/collaborer,協力する,협력하다,сотрудничать,zusammenarbeiten,cooperar
+特色,tè sè,feature,เอกลักษณ์/จุดเด่น,đặc sắc/điểm riêng,ຈຸດເດັ່ນ,caractéristique,特色,특색,особенность,Besonderheit,característica
+剩下,shèng xià,be left(over)/remain,เหลือ/ที่เหลือ,còn lại,ທີ່ເຫຼືອ,rester/reste,残る/残り,남다/남은 것,оставаться/остаток,übrig bleiben/Rest,quedar/sobrante
+助手,zhù shǒu,assistant,ผู้ช่วย,trợ lý,ຜູ້ຊ່ວຍ,assistant(e),助手,조수,ассистент,Assistent,asistente
+生怕,shēngpà,for fear that,กลัวว่า/เกรงว่า,sợ rằng,ກົງວ່າ,de peur que,〜しはしないかと,…할까 봐,"боясь, что/как бы не","aus Angst, dass",por miedo a que
+握,wò,shake,จับ/จับมือ,nắm/bắt tay,ຈັບ/ຈັບມື,serrer/serrer la main,握る/握手する,쥐다/악수하다,схватить/пожать,greifen/Händedruck,agarrar/dar la mano
+签,qiān,sign,เซ็น,ký,ເຊັນ,signer,署名する,서명하다,подписать,unterschreiben,firmar
+合同,hé tong,contract,สัญญา,hợp đồng,ສັນຍາ,contrat,契約,계약,договор/контракт,Vertrag,contrato
+回请,huí qǐng,give a return banquet,เลี้ยงตอบ/เชิญกลับ,mời lại/tiệc đáp lễ,ເຊີນຕອບ/ລ້ຽງຕອບ,rendre l’invitation/banquet de retour,お返しに招く/返礼の宴,답례로 초대하다/답례연,пригласить в ответ/ответный банкет,Gegeneinladung/Antwortbankett,devolver la invitación/banquete de devolución
+签约,qiān yuē,sign a contract,เซ็นสัญญา,ký hợp đồng,ເຊັນສັນຍາ,signer un contrat,契約を結ぶ,계약을 체결하다,подписать контракт,Vertrag unterzeichnen,firmar contrato
+用餐,yòng cān,have dinner,รับประทานอาหาร,dùng bữa,ຮັບປະທານອາຫານ,prendre le repas,食事をする,식사하다,принимать пищу/есть,essen/zu Tisch sein,comer
+气氛,qì fēn,atmosphere,บรรยากาศ,không khí/bầu không khí,ບັນຍາກາດ,ambiance/atmosphère,雰囲気,분위기,атмосфера/обстановка,Atmosphäre/Stimmung,ambiente
+话题,huà tí,topic,หัวข้อคุย,đề tài/chủ đề,ຫົວຂໍ້ສົນທະນາ,sujet de conversation,話題,화제/주제,тема разговора,Gesprächsthema,tema de conversación
+学历,xué lì,education background/academic qualification,วุฒิการศึกษา,trình độ học vấn,ວຸດທິການສຶກສາ,niveau/qualification scolaire,学歴,学歴/자격? -> 학력,학력,Bildungsabschluss,nivel académico
+珍惜,zhēn xī,cherish/treasure/value,ทะนุถนอม/เห็นคุณค่า,trân trọng/quý trọng,ຖະນຸຖະນອມ/ຮັກສາ,chérir/apprécier,大切にする,소중히 여기다,дорожить/ценить,wertschätzen,apreciar/valorar
+粒,lì,a m for granular objects,เม็ด (ลน.),hạt/viên (lượng từ),ເມັດ (ຈໍານວນ),grain (classif.),粒（助数詞）,알 (단위),зерно (сч. сл.),Korn (Zähleinheit),grano (clasif.)
+滴,dī,am for dripping liquid,หยด (ลน.),giọt (lượng từ),ຫຍອດ (ຈໍານວນ),goutte (classif.),滴（助数詞）,방울 (단위),капля (сч. сл.),Tropfen (Zähleinheit),gota (clasif.)
+无论,wú lùn,whether/regardless of,ไม่ว่า…ก็ตาม,bất kể/dù,ບໍ່ວ່າ…,peu importe/quel que soit,〜に関わらず/たとえ…でも,상관없이/무론,независимо от,ganz gleich/ob…,sin importar/ya sea
+尽,jìn,try one's best,พยายามอย่างเต็มที่,cố hết sức,ພະຍາຍາມໃຫ້ສຸດ,faire de son mieux,全力を尽くす,최선을 다하다,приложить все усилия,sein Bestes geben,hacer todo lo posible
+端,duān,hold(a cup/a plate/etc.),บึ่ง/ถือ (ถ้วย/จาน),bưng/cầm nâng,ບຶງ/ຖື,tenir (une tasse/assiette),そっと持つ/手に載せる,받쳐 들다,держать (чашку/тарелку),tragen/hochhalten,sostener (taza/plato)
+秒,miǎo,a m for seconds,วินาที,giây,ວິນາທີ,seconde,秒,초,секунда,Sekunde,segundo
+难受,nán shòu,(feel)uncomfortable,อึดอัด/ไม่สบาย,khó chịu,ບໍ່ສະບາຍ,mal à l’aise/inconfortable,つらい/気分が悪い,불편하다/힘들다,тяжело/некомфортно,unwohl,incómodo
+幸运,xìng yùn,fortunate/lucky,โชคดี,may mắn,ໂຊກດີ,chanceux,幸運だ,운이 좋다,везучий/повезло,glücklich,afortunado
+令,lìng,make/cause,ทำให้/ทำเอา,khiến/làm cho,ເຮັດໃຫ້,rendre/faire,〜させる/〜にする,…하게 하다,заставлять/делать,machen/veranlassen,hacer/causar
+陌生,mò shēng,strange/unfamiliar,แปลกหน้า/ไม่คุ้น,xa lạ/không quen,ບໍ່ຄຸ້ນ/ແປກໜ້າ,étranger (peu familier),見知らぬ/不慣れ,낯설다,незнакомый,fremd,desconocido
+打交道,dǎ jiāo dao,come into contact with/deal with,คบหา/ติดต่อ,giao du/tiếp xúc,ຕິດຕໍ່/ຄົວຄ້າ,avoir affaire à,付き合う/関わる,상대하다/어울리다,иметь дело/общаться,zu tun haben/umgehen mit,tratar con
+尤其,yóu qí,especially/particularly,โดยเฉพาะ,đặc biệt là,ພິເສດແມ່ນ,surtout/en particulier,特に,특히,особенно,besonders,especialmente
+上司,shàng si,superior/boss,เจ้านาย/หัวหน้า,sếp/cấp trên,ຫົວໜ້າ,supérieur/chef,上司,상사,начальник,Vorgesetzte(r),jefe/superior
+遇见,yù jiàn,meet/run into/come across,เจอ/พบ,gặp,ເຈີ,rencontrer,出会う,마주치다/만나다,встретить,begegnen/treffen,encontrarse con
+压力,yā lì,pressure,ความกดดัน/แรงกดดัน,áp lực,ແຮງກົດດັນ,pression/stress,プレッシャー/圧力,압박/스트레스,давление/стресс,Druck/Stress,presión/estrés
+包围,bāo wéi,surround/encircle,ล้อม/โอบล้อม,bao vây,ລ້ອມ,encercler/entourer,包囲する/取り囲む,포위하다/둘러싸다,окружать,umzingeln/umgeben,rodear/cercar
+微微,wēi wēi,slightly/a little,เล็กน้อย/นิดๆ,hơi hơi,ເບົາໆ,légèrement,わずかに/ほんのり,살짝/약간,слегка/чуть‑чуть,leicht/etwas,ligeramente
+上升,shàng shēng,go up,สูงขึ้น/เพิ่มขึ้น,tăng lên,ສູງຂຶ້ນ/ເພີ່ມ,monter/augmenter,上昇する,상승하다/오르다,подниматься/расти,steigen/ansteigen,subir/aumentar
+部门,bù mén,department/division,แผนก/ฝ่าย,bộ phận/phòng ban,ພະແນກ,département/service,部門,부서/부문,отдел/подразделение,Abteilung,departamento
+具体,jù tǐ,concrete/specific,เจาะจง/เป็นรูปธรรม,cụ thể,ຈົດຈຳພໍ/ເຈາະຈົງ,concret/précis,具体的,구체적,конкретный,konkret,específico/concreto
+调查,diào chá,investigation/survey,สำรวจ/สอบสวน,điều tra/khảo sát,ສືບສວນ/ສຳຫຼວດ,enquêter/sondage,調査する,조사하다,расследовать/опрос,untersuchen/ermitteln,investigar/encuesta
+支支吾吾,zhī zhi wū wū,hum and haw,อ้ำอึ้ง/พูดอ้อมแอ้ม,ấp úng,ອຳອຶ້ງ,bafouiller/hésiter,口ごもる,말을 더듬다/머뭇거리다,мямлить/юлить,herumdrucksen/stammeln,titubear/balbucear
+汗,hàn,sweat,เหงื่อ,mồ hôi,ເຫງື່ອ,sueur,汗,땀,пот,Schweiß,sudor
+优先,yōu xiān,take precedence,ให้ความสำคัญก่อน,ưu tiên,ສິດທິກ່ອນ,priorité/prioritaire,優先/優先する,우선/우선시하다,приоритет/первым делом,Vorrang/Priorität,prioridad/dar prioridad
+身影,shēn yǐng,figure,เงาร่าง/รูปร่างลางๆ,bóng dáng/hình bóng,ເງົາຮ່າງ,silhouette/ombre,姿/人影,모습/사람 그림자,силуэт/фигура,Silhouette/Gestalt,silueta/figura
+消失,xiao shī,disappear,หายไป/เลือนหาย,biến mất,ຫາຍໄປ,disparaître,消える,사라지다,исчезнуть,verschwinden,desaparecer
+走廊,zǒu láng,corridor,ทางเดิน/ระเบียงทางเดิน,hành lang,ທາງເດີນ/ຮອງເຮືອນ,couloir,廊下,복도,коридор,Flur,pasillo
+嘘,xū,breathe out slowly,ผ่อนลมหายใจเบาๆ,thở ra khẽ,ຫາຍໃຈອອກແຜ່ວໆ,souffler tout bas,ふうっと息を吐く,후우 하고 내쉬다,тихо выдохнуть,leise ausatmen,exhalar suavemente
+屏,bǐng,hold(one's breath),กลั้นหายใจ,nín thở,ກ້ັນຫາຍໃຈ,retenir son souffle,息を止める,숨을 참다,затаить дыхание,den Atem anhalten,contener la respiración
+仅仅,jǐn jǐn,only/merely,เพียงแค่/แค่,chỉ/đơn thuần,ແຕ່/ພຽງແຕ່,seulement/à peine,たった/わずか,단지/겨우,лишь/только,nur/lediglich,solo/meramente
+宁可,nìng kě,(would)rather/prefer,ยอม…ดีกว่า,thà… còn hơn,ຍອມ…ດີກວ່າ,plutôt … que,むしろ…したい,차라리 … 하겠다,лучше уж … чем,lieber … als,preferiría … antes que
+遭遇,zāo yù,come across/run into,เผชิญ/พบเจอ,gặp phải/chạm trán,ເຈີເຂົ້າ/ປະສົບ,rencontrer/faire face à,遭遇する/出くわす,맞닥뜨리다/겪다,столкнуться/повстречать,begegnen/erfahren,encontrarse con/afrontar
+气喘吁吁,qì chuǎn xū xū,out of breath/gasp,หอบแฮ่กๆ,thở hổn hển,ຫາຍໃຈແຮງ,à bout de souffle/haletant,息を切らす,숨이 차다/헉헉거리다,запыхавшийся,außer Atem/keuchend,jadeando/sin aliento
+以为,yǐ wéi,think/believe,นึกว่า/คิดว่า,tưởng là/nghĩ là,ຄິດວ່າ/ນຶກວ່າ,croire/penser que,…と思う（思い込む）,…라고 생각하다,полагать/думать что,"glauben/denken, dass",creer/pensar que
+难熬,nán'áo,unbearable,ทนยาก/ทรมาน,khó chịu đựng,ທົນບໍ່ໄຫວ,dur à supporter,耐え難い/つらい,견디기 어렵다,невыносимый,kaum auszuhalten,insoportable
+机灵,jī ling,clever/smart,หัวไว/ฉลาดปรู๊ด,lanh lợi/nhanh trí,ສະຫຼາດ/ໄວໆ,malin/futé,機転が利く/ちゃっかり,눈치 빠르다/영리하다,сообразительный/шустрый,pfiffig/gewitzt,espabilado/listo
+等候,děng hòu,wait,รอคอย,đợi/chờ đợi,ຄອຍລໍຖ້າ,attendre,待つ/待機する,기다리다,ожидать/дожидаться,warten,esperar
+呼吸,hū xī,breathe,หายใจ,hô hấp/thở,ຫາຍໃຈ,respirer,呼吸する,호흡하다,дышать,atmen,respirar
+精彩,jīng cǎi,wonderful,ยอดเยี่ยม/โดดเด่น,tuyệt vời/đỉnh,ຍອດເຢັ້ຍ,splendide/formidable,素晴らしい,훌륭하다/멋지다,замечательный/яркий,großartig/prächtig,maravilloso/genial
+鼓励,gǔ li,encouragement,ให้กำลังใจ/กำลังใจ,khích lệ/động viên,ກຳລັງໃຈ,encourager/encouragement,励ます/励まし,격려/응원,поощрять/поддержка,ermutigen/Ermutigung,animar/ánimo
