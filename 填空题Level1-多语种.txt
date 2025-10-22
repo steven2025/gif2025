@@ -97,6 +97,9 @@ Type→**country**; crowd→**people**; been to→**UK**.
 
 [句3] 完成句：你**叫**什么名字？ 理由： “叫+名字”用于询问姓名 → 选“叫”。
 
+技巧 / Tips：
+类型→国家；数量多→人；“去过+地名”→国家名。
+
 答案解析（英文）
 
 [S1] CN：**请问**，学校在哪？ EN：**may i ask**, where is the school?
