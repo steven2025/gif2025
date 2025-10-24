@@ -32,16 +32,13 @@ Test tip:Spot the cues — flat surface → 上面 (on top); adjacent → 旁边
 
 答案解析（法语）
 
-[F1] CN：钥匙就在桌子上面。
-FR → sur / au-dessus (de)
+[F1] CN：钥匙就在桌子上面。FR → sur / au-dessus (de)
 Pourquoi : indice spatial “sur la surface” → sur。
 
-[F2] CN：我的宿舍在学校食堂旁边。
-FR → à côté (de)
+[F2] CN：我的宿舍在学校食堂旁边。FR → à côté (de)
 Pourquoi : position adjacente → à côté (de)。
 
-[F3] CN：我把新买的羽绒服放进了衣柜里面。
-FR → à l’intérieur (de)
+[F3] CN：我把新买的羽绒服放进了衣柜里面。FR → à l’intérieur (de)
 Pourquoi : inclusion intérieure → à l’intérieur。
 
 Astuce : repérer les marqueurs spatiaux (sur/à côté/à l’intérieur).
@@ -111,12 +108,10 @@ Tip: severe cold→冷; pleasantly cool→凉快; warm→暖和
 
 答案解析（法语）
 
-[1] Phrase complétée :冬天到了，天气很**冷**，你要多穿衣服 L’hiver est arrivé, il fait très froid.
-
+[1] Phrase complétée :冬天到了，天气很**冷**，你要多穿衣服。 L’hiver est arrivé, il fait très froid.
 Raison : température typique de la saison → choisir « froid ».
 
 [ 2] Phrase complétée :秋天的晚上很**凉快**，特别适合散步。  Le soir en automne, il fait très frais.
-
 Raison : fraîcheur agréable des nuits d’automne → choisir « frais ».
 
 [3] Phrase complétée :穿上这件厚毛衣，全身都感觉很**暖和**。 En enfilant ce gros pull, on se sent bien au chaud.
@@ -185,6 +180,16 @@ Repérer les mots-indices « saison / sensation corporelle » : hiver → froid 
 
 Tip: classifier→套; frequency→每; repetition→又
 
+答案解析（法语）
+
+[S1] Meubles achetés en ensemble → classifieur 套 (ensemble)
+
+[S2] Fréquence fixe « tous les jours » → 每 (chaque)
+
+[S3] Action répétée (souvent « encore ») → 又 (encore)
+
+Conseil : classifieur → 套 ; fréquence → 每 ; répétition → 又
+
 答案解析（泰语）
 
 [1] เฟอร์นิเจอร์ซื้อเป็น “ชุด” → ลักษณนาม 套 (ชุด)
@@ -213,4 +218,5 @@ Tip: classifier→套; frequency→每; repetition→又
 [3] ເກີດຊ້ຳ/ອີກຄັ້ງ (ມັກມີນ້ຳໃຈ “ອີກແລ້ວ”) → 又 (ອີກ/ອີກຄັ້ງ)
 
 ເຄັດລັບ: ລັກສະນະນາມ→套; ຄວາມຖີ່→每; ຊ້ຳ→又
+
 
