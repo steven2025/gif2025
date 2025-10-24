@@ -1,0 +1,274 @@
+第 1 题
+来自 国家 你 哪个国家
+正确答案：你来自哪个国家
+
+答案解析（中文）
+正确答案：你来自哪个国家。
+“你”为主语；谓语“来自”表达来源；“哪个”作定语修饰“国家”，构成疑问宾语“哪个国家”，整体语序为主—谓—宾（疑问）。
+
+技巧/tips:
+找主语：确定“你”
+定谓语：用“来自”表示来源
+设疑问：把“哪个”放在“国家”前作定语
+成句：主语 + 谓语 + 宾语（疑问）
+
+答案解析（英文）
+The correct answer is ：你来自哪个国家
+EN：Which country are you from?
+In this sentence, “你” (you) is the subject; “来自” (are from) is the predicate; “哪个” (which) modifies “国家” (country) to form the interrogative object “哪个国家”. The order is “subject + predicate + interrogative object”.
+
+Tips:
+Identify the subject: “你” (you).
+Choose the predicate: “来自” (are from) to mark origin.
+Build the question: put “哪个” (which) before “国家” (country).
+Subject + Predicate + Interrogative Object
+
+答案解析（法语）
+The correct answer is ：你来自哪个国家
+FR：**De quel pays viens-tu** ?
+Ici, « 你 » (tu) est le sujet ; « 来自 » (venir de) est le prédicat ; « 哪个 » (quel) est un déterminant interrogatif qui modifie « 国家 » (pays) pour former « 哪个国家 ». Ordre : « sujet + prédicat + groupe interrogatif ». 
+
+Tips:
+Sujet : « 你 » ; prédicat : « 来自 ».
+Interrogatif : placer « 哪个 » avant « 国家 ».
+Schéma : Sujet + Prédicat + Groupe interrogatif
+
+答案解析（泰语）
+The correct answer is ：你来自哪个国家
+TH：คุณมาจากประเทศไหน
+ประธาน “คุณ”; กริยา “มาจาก/มาถึงที่มา”; “ไหน” ทำหน้าที่เป็นตัวกำหนดคำถามหน้าคำนาม “ประเทศ” → “ประเทศไหน” ตามลำดับ **ประธาน + กริยา + กรรม(คำถาม)**
+
+Tips:
+ระบุประธาน: “คุณ”
+กริยาแสดงที่มา: “มาจาก”
+กำหนดคำถาม: ใส่ “ไหน” หน้า “ประเทศ”
+โครง: ประธาน + กริยา + กรรม(คำถาม)
+
+答案解析（俄语）
+The correct answer is ：你来自哪个国家
+RU: **Ты из какой страны?** / **Из какой ты страны?**
+«你» — подлежащее; сказуемое «来自/из» выражает источник/происхождение; «哪个/какой» — определение к «国家/страна», образуя вопрос «какой страны». Порядок: подлежащее + сказуемое + вопросительный объект.
+
+Tips:
+Подлежащее: «你».
+Источник: сказуемое «来自/из».
+Вопрос: «哪个/какой» перед «国家/страна».
+Схема: Подлежащее + Сказуемое + Объект (вопрос)
+
+答案解析（老挝语）
+The correct answer is ：你来自哪个国家
+LO: **ເຈົ້າມາຈາກປະເທດໃດ?**
+«你» ແມ່ນປະທານ; «来自» ແມ່ນພາກສະແດງບອກທີ່ມາ; «哪个» ເປັນຄໍາກຳນົດຖາມຂະຫຍາຍ «国家» ເພື່ອໃຫ້ເກີດ «哪个国家». ລໍາດັບ: ປະທານ + ພາກສະແດງ + ກຸ່ມຄໍາຖາມ.
+
+Tips:
+ປະທານ: «你» ; ກິລິຍາ: «来自»
+ຖາມ: ໃສ່ «哪个» ໜ້າ «国家»
+ໂຄງ: ປະທານ + ກິລິຍາ + ກຸ່ມຖາມ
+
+
+第 2 题
+大学生 英国 的 我是 来 
+正确答案：我是英国来的大学生
+
+答案解析（中文）
+正确答案：我是英国来的大学生。
+“是”为系动词；“英国来的”为动词性短语充当定语，修饰中心名词“大学生”，表示“来自英国的”；整体结构为“主语+系表（表语含定语）”。
+
+技巧/tips:
+定主语：确定“我”
+立系词：用“是”引出表语
+加定语：将“英国来的”前置修饰“大学生”
+成句：主语 + 系词 + 表语（含定语）
+
+答案解析（英文）
+The correct answer is ：我是英国来的大学生
+EN: I am a college student from the UK.
+Here, “我是…” is a copular structure; “英国来的” (from the UK) is an attributive phrase modifying “大学生” (college student) to indicate origin.
+
+Tips:
+Subject + copula: “我 + 是 …”
+Attributive of origin: place “英国来的” before “大学生”.
+Result: Subject + Copula + Predicate Noun (with attributive)
+
+答案解析（法语）
+The correct answer is ：我是英国来的大学生
+FR：Je suis un(e) étudiant(e) **venu(e) du Royaume-Uni** / **originaire du Royaume-Uni**.
+Structure copulative « 我 + 是 … » ; « 英国来的 » est un groupe attributif qui modifie « 大学生 » pour marquer l’origine.
+
+Tips:
+Sujet + copule : « 我 + 是 … »
+Origine : « 英国来的 » avant « 大学生 ».
+Schéma : Sujet + Copule + Nom du prédicat (avec épithète)
+
+答案解析（泰语）
+The correct answer is ：我是英国来的大学生
+TH: ฉันเป็นนักศึกษาที่มาจากสหราชอาณาจักร
+โครงสร้าง “ฉัน + เป็น …”; วลีบอกที่มา “ที่มาจากอังกฤษ/สหราชอาณาจักร” ทำหน้าที่ขยายคำนาม “นักศึกษา”
+
+Tips:
+ประธาน+กริยาช่วย “เป็น”
+วลีที่มา “จากอังกฤษ” ขยาย “นักศึกษา”
+รูป: ประธาน + เป็น + นาม(มีส่วนขยาย)
+
+答案解析（俄语）
+The correct answer is ：我是英国来的大学生
+RU: Я **студент из Великобритании**.
+«Я + есть» — связка; «из Великобритании» — определение происхождения к «студент», выражающее источник/происхождение.
+
+Tips:
+Связка: «я (есть)»
+Происхождение: «из Великобритании» перед/после «студент»
+Схема: Подлежащее + Связка + Именная часть (с определением)
+
+答案解析（老挝语）
+The correct answer is ：我是英国来的大学生
+LO: ຂ້ອຍເປັນນັກສຶກສາທີ່ມາຈາກສະຫະລາຊອານາຈັກ.
+«ເປັນ» ແມ່ນກິລິຍາຊ່ວຍ/ຊື່ອມ; «ທີ່ມາຈາກ…» ເຮັດໜ້າທີ່ເປັນຄໍາຂະຫຍາຍຂອງ «ນັກສຶກສາ».
+
+Tips:
+ໂຄງ: ປະທານ + ເປັນ + ນາມ(ມີສ່ວນຂະຫຍາຍ)
+ບອກທີ່ມາ: «ທີ່ມາຈາກ…» ຂະຫຍາຍ «ນັກສຶກສາ»
+
+
+第 3 题
+姐姐 两个 琳娜 有
+正确答案：林娜有两个姐姐
+
+答案解析（中文）
+正确答案：林娜有两个姐姐。
+“林娜”为主语；“有”为表示“拥有/存在”的谓语动词；“两个姐姐”为“数词+量词+名词”的数量短语作宾语，语序自然顺畅。
+
+技巧/tips:
+找主语：确定“林娜”
+明谓语：用“有”表“拥有”
+配数量：数词+量词+名词（两个+姐姐）
+成句：主语 + 谓语 + 宾语（数量短语）
+
+答案解析（英文）
+The correct answer is ：林娜有两个姐姐
+EN: Linna has two older sisters.
+Subject “林娜” (Linna); predicate verb “有” (has); the numeral-classifier phrase “两个姐姐” (two older sisters) serves as the object.
+
+Tips:
+Subject: “林娜”
+Predicate: “有” (has)
+Object: “两个姐姐” (two older sisters)
+Subject + Predicate + Object
+
+答案解析（法语）
+The correct answer is ：林娜有两个姐姐
+FR：**Linna a deux grandes sœurs.**
+« 林娜 » est le sujet ; « 有 » exprime la possession (« a ») ; « 两个姐姐 » est un groupe numéral (deux + classificateur + nom) en fonction d’objet.
+
+Tips:
+Sujet : « 林娜 » ; Verbe : « 有 »
+Objet : « 两个姐姐 » (2 + CL + 名词)
+Schéma : Sujet + Verbe + Objet
+
+答案解析（泰语）
+The correct answer is ：林娜有两个姐姐
+TH: ลินน่ามีพี่สาวสองคน
+“ลินน่า” เป็นประธาน; “มี” เป็นกริยาบอกความเป็นเจ้าของ; “พี่สาวสองคน” เป็นวลีจำนวนทำหน้าที่เป็นกรรม
+
+Tips:
+ประธาน: ลินน่า
+กริยา: มี
+กรรม: พี่สาวสองคน
+โครง: ประธาน + กริยา + กรรม
+
+答案解析（俄语）
+The correct answer is ：林娜有两个姐姐
+RU: **У Линны две старшие сестры.**
+«Линна» — подлежащее; «есть/имеет» — глагол обладания («有»); «две старшие сестры» — количественная группа в роли дополнения.
+
+Tips:
+Подлежащее: «Линна»
+Сказуемое: «имеет/есть» («有»)
+Дополнение: «две старшие сестры»
+Схема: Подлежащее + Сказуемое + Дополнение
+
+答案解析（老挝语）
+The correct answer is ：林娜有两个姐姐
+LO: **ລິນນາມີພີ່ສາວສອງຄົນ.**
+«ລິນນາ» ແມ່ນປະທານ; «ມີ» ແມ່ນກິລິຍາບອກຄວາມເປັນເຈົ້າຂອງ; «ພີ່ສາວສອງຄົນ» ແມ່ນກຸ່ມຈໍານວນເຮັດໜ້າທີ່ເປັນກຳ.
+
+Tips:
+ປະທານ: ລິນນາ ; ກິລິຍາ: ມີ
+ກຳ: ພີ່ສາວສອງຄົນ
+ໂຄງ: ປະທານ + ກິລິຍາ + ກຳ
+
+
+第 4 题
+很好吃 巧克力 送给 你 我的 
+正确答案：你送给我的巧克力很好吃
+
+答案解析（中文）
+正确答案：你送给我的巧克力很好吃。
+因为**你送给我的**是定语,修饰**巧克力**,表示巧克力的来源；
+谓语**很好吃**放在最后,描述巧克力的状态,符合中文**修饰语+主语+谓语**的结构。
+ 
+技巧/tips:
+找主语：确定核心事物——**巧克力**
+加定语：**你送给我的**放在**巧克力**前
+放谓语：**很好吃**置于句末
+定语+主语+谓语
+
+答案解析（英文）
+The correct answer is ：你送给我的巧克力很好吃
+EN：The chocolate you gave me is very delicious.
+In this sentence, "你送给我的" (you gave me) is an attributive that modifies the subject "巧克力" (chocolate). 
+The predicate "很好吃" (is very delicious) is placed at the end to describe the state of the chocolate, following the common Chinese sentence structure of "attributive + subject + predicate".
+ 
+Tips:
+Identify the subject: Determine the core item—"巧克力" (chocolate).
+Add the attributive: Place "你送给我的" (you gave me) before "巧克力" (chocolate).
+Place the predicate: Put "很好吃" (is very delicious) at the end of the sentence.
+Attributive + Subject + Predicate
+
+答案解析（法语）
+The correct answer is ：你送给我的巧克力很好吃
+FR：Le chocolat que tu m’as offert est délicieux.
+Dans cette phrase, ** 你送给我的 ** (tu m’as offert) est une proposition relative / épithète qui modifie le sujet ** 巧克力 ** (chocolat).
+Le prédicat ** 很好吃 ** (est délicieux) est placé à la fin pour décrire l’état du chocolat, conformément à la structure type en chinois : ** épithète + sujet + prédicat **.
+
+Tips:
+Identifier le sujet : l’élément central — ** 巧克力 ** (chocolat).
+Ajouter l’épithète : placer ** 你送给我的 ** (tu m’as offert) avant ** 巧克力 ** (chocolat).
+Placer le prédicat : mettre ** 很好吃 ** (est délicieux) en fin de phrase.
+Épithète + Sujet + Prédicat
+
+答案解析（泰语）
+The correct answer is ：你送给我的巧克力很好吃
+TH：ช็อกโกแลตที่คุณให้ฉันอร่อยมาก
+ในประโยคนี้ **你送给我的** (ที่คุณให้ฉัน) ทำหน้าที่เป็นส่วนขยาย/อนุประโยคขยายคำนาม ที่ขยายประธาน **巧克力** (ช็อกโกแลต)
+ภาคแสดง **很好吃** (อร่อยมาก) วางไว้ท้ายประโยค เพื่อบรรยายสภาพของช็อกโกแลต ตามโครงสร้างภาษาจีนแบบ **ส่วนขยาย + ประธาน + ภาคแสดง**
+
+Tips:
+ระบุประธาน: สิ่งสำคัญ — **巧克力**
+เติมส่วนขยาย: วาง **你送给我的** หน้า **巧克力**
+วางภาคแสดง: ใส่ **很好吃** ไว้ท้ายประโยค
+ส่วนขยาย + ประธาน + ภาคแสดง
+
+答案解析（俄语）
+The correct answer is ：你送给我的巧克力很好吃
+RU: Шоколад, который ты мне подарил(а), очень вкусный.
+В этом предложении **你送给我的** (**который ты мне подарил**) — определительное придаточное, которое уточняет подлежащее **巧克力** (шоколад).
+Сказуемое **很好吃** (**очень вкусный**) ставится в конце, чтобы описать состояние шоколада, по типичной модели китайского предложения **определение + подлежащее + сказуемое**.
+
+Tips:
+Определите подлежащее: основной объект — **巧克力**.
+Добавьте определение: поставьте **你送给我的** перед **巧克力**.
+Поставьте сказуемое: поместите **很好吃** в конец предложения.
+Определение + Подлежащее + Сказуемое
+
+答案解析（老挝语）
+The correct answer is ：你送给我的巧克力很好吃
+LO: ຊັອກໂກແລັດທີ່ເຈົ້າໃຫ້ຂ້ອຍ ແຊບຫຼາຍ.
+ໃນປະໂຫຍກນີ້ **你送给我的** (ທີ່ເຈົ້າໃຫ້ຂ້ອຍ) ເປັນຄໍາຂະຫຍາຍ (attributive) ທີ່ຂະຫຍາຍຄໍານາມ **巧克力**.
+ພາກສະແດງ **很好吃** (ແຊບຫຼາຍ) ຢູ່ທ້າຍປະໂຫຍກ ເພື່ອອະທິບາຍສະພາບຂອງຊັອກໂກແລັດ ຕາມໂຄງສ້າງພາສາຈີນ **ຄໍາຂະຫຍາຍ + ປະທານ + ພາກສະແດງ**.
+
+Tips:
+ລະບຸປະທານ: ສິ່ງສໍາຄັນ — **巧克力**.
+ເພີ່ມຄໍາຂະຫຍາຍ: ວາງ **你送给我的** ໄວ້ໜ້າ **巧克力**.
+ວາງພາກສະແດງ: ນໍາ **很好吃** ໄວ້ທ້າຍປະໂຫຍກ.
+ ຄໍາຂະຫຍາຍ + ປະທານ + ພາກສະແດງ
