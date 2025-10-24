@@ -32,7 +32,6 @@ Why: “have been to + country name” → UK.
 技巧 / Tips：
 Type→**country**; crowd→**people**; been to→**UK**.
 
-
 答案解析（法语）
 
 [S1] CN：你来自哪个**国家**？ FR：Tu viens de quel **pays** ?
@@ -46,7 +45,6 @@ Pourquoi : « être allé + nom de pays » → **Royaume‑Uni**.
 
 技巧 / Tips：
 Type→**pays**；foule→**gens**；déjà allé→**Royaume‑Uni**.
-
 
 答案解析（泰语）
 
@@ -124,7 +122,6 @@ Why: “be called + name” to ask someone’s name → called.
 技巧 / Tips：
 Polite opener→**may I ask**; request→**please**; ask name→**to be called**.
 
-
 答案解析（法语）
 
 [S1] CN：**请问**，学校在哪？ FR：**excusez‑moi**, où est l’école ?
@@ -138,7 +135,6 @@ Pourquoi : « s’appeler + nom » pour demander le nom → **s’appeler**.
 
 技巧 / Tips：
 Ouverture polie→**excusez‑moi**；demande→**s’il vous plaît**；demander le nom→**s’appeler**.
-
 
 答案解析（泰语）
 
@@ -219,7 +215,6 @@ Why: sentence-final yes–no particle → ma.
 技巧 / Tips：
 what / which / yes–no (ma).
 
-
 答案解析（法语）
 
 [S1] CN：你喜欢吃什么？ FR：Qu’est‑ce que tu aimes manger ?
@@ -233,7 +228,6 @@ Pourquoi : particule interrogative finale de type oui/non en chinois « **吗**
 
 技巧 / Tips：
 **quoi** / **lequel** / oui‑non (« **吗** »).
-
 
 答案解析（泰语）
 
@@ -311,7 +305,6 @@ Why: Female subject → she.
 技巧 / Tips：
 **he**→male; **I**→self; **she**→female.
 
-
 答案解析（法语）
 
 [S1] CN：**他**是男生。 FR：**Il** est un garçon / C’est un garçon.
@@ -325,7 +318,6 @@ Pourquoi : sujet féminin → **elle**.
 
 技巧 / Tips：
 **il**→masculin；**je**→soi；**elle**→féminin.
-
 
 答案解析（泰语）
 
@@ -403,7 +395,6 @@ Why: Possession → have.
 技巧 / Tips：
 **want to**→desire; **want**→choice/offer; **have**→possession.
 
-
 答案解析（法语）
 
 [S1] CN：留学生小明**想**吃中国菜。 FR：L’étudiant étranger Xiao Ming **veut** manger de la cuisine chinoise.
@@ -417,7 +408,6 @@ Pourquoi : possession → **avoir**.
 
 技巧 / Tips：
 **vouloir**→désir/choix；**avoir**→possession.
-
 
 答案解析（泰语）
 
@@ -495,7 +485,6 @@ Why: Plural subject → students.
 技巧 / Tips：
 **study**→habit; **have class**→time; **students**→plural subject.
 
-
 答案解析（法语）
 
 [S1] CN：她每天**学习**韩语。 FR：Elle **étudie** le coréen tous les jours.
@@ -509,7 +498,6 @@ Pourquoi : sujet au pluriel → **étudiants**.
 
 技巧 / Tips：
 **étudier**→habitude；**avoir cours**→heure；**étudiants**→pluriel.
-
 
 答案解析（泰语）
 
@@ -587,7 +575,6 @@ Why: Total amount → altogether.
 技巧 / Tips：
 **how many (few)**→几; **how much**→price; **altogether**→total.
 
-
 答案解析（法语）
 
 [S1] CN：班里有**几**个日本学生？ FR：Il y a **combien** d’étudiants japonais dans la classe ?
@@ -601,7 +588,6 @@ Pourquoi : quantité totale → **au total**.
 
 技巧 / Tips：
 **combien** (petit nb)→几；**combien** (prix)→多少；**au total**→一共.
-
 
 答案解析（泰语）
 
@@ -679,7 +665,6 @@ Why: Device subject → computer.
 技巧 / Tips：
 **morning**→greeting; **teacher**→address; **computer**→device subject.
 
-
 答案解析（法语）
 
 [S1] CN：**早上**好！您吃早餐了吗？ FR：**Bonjour** ! Vous avez pris le petit‑déjeuner ?
@@ -693,7 +678,6 @@ Pourquoi : sujet = appareil → **ordinateur**.
 
 技巧 / Tips：
 **bonjour**→salutation；**professeur**→adresse；**ordinateur**→appareil.
-
 
 答案解析（泰语）
 
@@ -771,7 +755,6 @@ Why: Sibling younger → younger brother.
 技巧 / Tips：
 **older brother**→comparative age; **older sister**→possessive; **younger brother**→younger male.
 
-
 答案解析（法语）
 
 [S1] CN：我**哥哥**比我大三岁。 FR：Mon **grand frère** a trois ans de plus que moi.
@@ -785,7 +768,6 @@ Pourquoi : cadet masculin → **petit frère**.
 
 技巧 / Tips：
 **grand frère**→âge +3；**grande sœur**→possessif；**petit frère**→cadet.
-
 
 答案解析（泰语）
 
@@ -863,7 +845,6 @@ Why: Manual labor/building → worker.
 技巧 / Tips：
 **lawyer**→legal help; **doctor**→medical; **worker**→construction.
 
-
 答案解析（法语）
 
 [S1] CN：我妈妈是**律师**，可以帮留学生解决签证问题。 FR：Ma mère est **avocate** ; elle peut aider les étudiants étrangers pour les visas.
@@ -877,7 +858,6 @@ Pourquoi : travail manuel/construction → **ouvrier**.
 
 技巧 / Tips：
 **avocat(e)**→juridique；**médecin**→santé；**ouvrier**→construction.
-
 
 答案解析（泰语）
 
@@ -921,7 +901,6 @@ Pourquoi : travail manuel/construction → **ouvrier**.
 技巧 / Tips：
 **ທະນາຍຄວາມ**→ວີຊ່າ; **ໝໍ**→ສຸຂະພາບ; **ຄົນງານ**→ກໍ່ສ້າງ.
 
-
 第11题
 农民 护士 警察
 
@@ -956,7 +935,6 @@ Why: context points to **police officer**.
 技巧 / Tips：
 职业→**农民/护士/警察**；照顾病人→**nurse**；治安/安全→**police officer**。
 
-
 答案解析（法语）
 
 [S1] CN：爷爷是**农民**，种了很多西瓜给我们吃。 FR：Mon grand‑père est **paysan/agriculteur** ; il a cultivé beaucoup de pastèques pour nous.
@@ -970,7 +948,6 @@ Pourquoi : maintien de la sécurité → **policier**.
 
 技巧 / Tips：
 **agriculteur**→cultiver；**infirmier/ère**→soigner；**policier**→sécurité.
-
 
 答案解析（泰语）
 
@@ -1014,8 +991,6 @@ Pourquoi : maintien de la sécurité → **policier**.
 技巧 / Tips：
 职业→**农民/护士/警察**；照顾病人→**ພະຍາບານ**；治安/安全→**ຕໍາຫຼວດ**。
 
-
-
 第12题
 电子词典 大学生 词典
 
@@ -1050,7 +1025,6 @@ Why: context points to **electronic dictionary**.
 技巧 / Tips：
 身份→**university student**；工具书→**dictionary**；电子设备→**electronic dictionary**。
 
-
 答案解析（法语）
 
 [S1] CN：他是**大学生**，在上海学德语。 FR：Il est **étudiant à l’université** ; il apprend l’allemand à Shanghai.
@@ -1064,7 +1038,6 @@ Pourquoi : dispositif « électronique » → **dictionnaire électronique**.
 
 技巧 / Tips：
 **étudiant**→statut；**dictionnaire**→outil；**dictionnaire électronique**→appareil.
-
 
 答案解析（泰语）
 
@@ -1108,7 +1081,6 @@ Pourquoi : dispositif « électronique » → **dictionnaire électronique**.
 技巧 / Tips：
 身份→**ນັກສຶກສາ**；工具书→**ພົງຈະນານຸກົມ**；电子设备→**ພົງຈະນານຸກົມອິເລັກໂຕນິກ**。
 
-
 第13题
 需要 和 妹妹
 
@@ -1143,7 +1115,6 @@ Why: context points to **younger sister**.
 技巧 / Tips：
 想要→**need**；并列连接→**and/with**；亲属→**younger sister**。
 
-
 答案解析（法语）
 
 [S1] CN：我**需要**一本新书。 FR：J’**ai besoin** d’un nouveau livre.
@@ -1157,7 +1128,6 @@ Pourquoi : le contexte renvoie à **petite sœur**.
 
 技巧 / Tips：
 besoin → **(avoir) besoin**；coordination/compagnie → **et/avec**；parenté（晚辈）→ **petite sœur**。
-
 
 答案解析（泰语）
 
@@ -1201,8 +1171,6 @@ besoin → **(avoir) besoin**；coordination/compagnie → **et/avec**；parent�
 技巧 / Tips：
 想要→**ຕ້ອງການ**；并列连接→**ແລະ/ກັບ**；亲属→**ນ້ອງສາວ**。
 
-
-
 第14题
 好 高兴 很
 
@@ -1236,7 +1204,6 @@ Why: context points to **very**.
 
 技巧 / Tips：
 评价→**good**；情绪→**happy/glad**；程度→**very**。
-
 
 答案解析（法语）
 
@@ -1328,7 +1295,6 @@ Why: context points to **all/both**.
 技巧 / Tips：
 结识某人→**know (a person)**；共同完成→**together**；全体→**all/both**。
 
-
 答案解析（法语）
 
 [S1] CN：我不**认识**你。来，握手。 FR：Je ne te **connais** pas. Allez, serrons-nous la main.
@@ -1342,7 +1308,6 @@ Pourquoi : le contexte renvoie à **tous** (tous/les deux selon le nombre).
 
 技巧 / Tips：
 faire connaissance → **connaître**；action commune → **ensemble**；totalité → **tous**。
-
 
 答案解析（泰语）
 
@@ -1386,8 +1351,6 @@ faire connaissance → **connaître**；action commune → **ensemble**；totali
 技巧 / Tips：
 结识某人→**ຮູ້ຈັກ**；共同完成→**ດ້ວຍກັນ**；全体→**ທັງໝົດ**。
 
-
-
 第16题
 泰国 也 手机
 
@@ -1421,7 +1384,6 @@ Why: context points to **mobile phone**.
 
 技巧 / Tips：
 国家名→**Thailand**；“也/还”→**also**；通讯工具→**mobile phone**。
-
 
 答案解析（法语）
 [S1] CN：我想吃泰国的芒果饭。 FR：Je veux manger du riz gluant à la mangue de Thaïlande.
@@ -1478,8 +1440,6 @@ Pourquoi : le contexte renvoie à téléphone portable.
 技巧 / Tips：
 国家名→**ປະເທດໄທ**；“也/还”→**ກໍ່**；通讯工具→**ໂທລະສັບມືຖື**。
 
-
-
 第17题
 东边 西边 南边
 
@@ -1514,7 +1474,6 @@ Why: context points to **south side**.
 技巧 / Tips：
 靠东门→**east side**；靠西门→**west side**；在南侧→**south side**。
 
-
 答案解析（法语）
 
 [S1] CN：图书馆在学校**东边**，靠近学校东大门。 FR：La bibliothèque est du **côté est** de l’école, près de la porte est.
@@ -1528,7 +1487,6 @@ Pourquoi : le contexte renvoie à **sud**.
 
 技巧 / Tips：
 近东门 → **côté est**；近西门 → **côté ouest**；方位 → **sud**。
-
 
 答案解析（泰语）
 
@@ -1568,7 +1526,6 @@ Pourquoi : le contexte renvoie à **sud**.
 
 [3] CN：美国在加拿大的**南边**。 LO：ສະຫະລັດຢູ່**ທາງໃຕ້**ຂອງການາດ
 
-
 第18题
 前边 后边 旁边
 
@@ -1603,7 +1560,6 @@ Why: context points to **in front**.
 技巧 / Tips：
 相邻→**next to**；在后→**behind**；正对→**in front**。
 
-
 答案解析（法语）
 [S1] CN：书店在超市旁边，两个门之间只有十米。 FR：La librairie est à côté du supermarché ; il n’y a que dix mètres entre les deux portes.
 Pourquoi : le contexte renvoie à à côté.
@@ -1616,7 +1572,6 @@ Pourquoi : le contexte renvoie à devant.
 
 技巧 / Tips：
 相邻→à côté；在后→derrière；正对→devant。
-
 
 答案解析（泰语）
 
@@ -1660,8 +1615,6 @@ Pourquoi : le contexte renvoie à devant.
 技巧 / Tips：
 相邻→**ຂ້າງ**；在后→**ດ້ານຫຼັງ**；正对→**ດ້ານໜ້າ**。
 
-
-
 第19题
 上边 下边 里边
 
@@ -1696,7 +1649,6 @@ Why: context points to **inside**.
 技巧 / Tips：
 在上→**on top**；在下→**under**；在内→**inside**。
 
-
 答案解析（法语）
 [S1] CN：书包在桌子上边，和我的水杯放一起的。 FR：Le cartable est sur / au-dessus de la table, à côté de ma gourde.
 Pourquoi : le contexte renvoie à sur / au-dessus.
@@ -1709,7 +1661,6 @@ Pourquoi : le contexte renvoie à à l’intérieur.
 
 技巧 / Tips：
 在上→sur/au-dessus；在下→sous；在内→à l’intérieur。
-
 
 答案解析（泰语）
 
@@ -1752,8 +1703,6 @@ Pourquoi : le contexte renvoie à à l’intérieur.
 
 技巧 / Tips：
 在上→**ຂ້າງເທິງ**；在下→**ຂ້າງລຸ່ມ**；在内→**ຂ້າງໃນ**。
-
-
 
 第20题
 这儿 那儿 哪儿
@@ -1845,7 +1794,6 @@ Pourquoi : le contexte renvoie à **là‑bas / là**.
 技巧 / Tips：
 问处所→**ຢູ່ໃສ**；近指→**ທີ່ນີ້**；远指→**ທີ່ນັ້ນ**。
 
-
 第21题
 银行 超市 饭馆
 
@@ -1880,7 +1828,6 @@ Why: context points to **supermarket**.
 技巧 / Tips：
 换钱/汇率→**bank**；堂食→**restaurant**；促销/便宜→**supermarket**。
 
-
 答案解析（法语）
 
 [S1] CN：我去**银行**换钱，顺便问汇率。 FR：Je vais à la **banque** pour changer de l’argent et demander le taux de change.
@@ -1894,7 +1841,6 @@ Pourquoi : le contexte renvoie à **supermarché**.
 
 技巧 / Tips：
 换钱/汇率 → **banque**；堂食 → **restaurant**；促销/便宜 → **supermarché**。
-
 
 答案解析（泰语）
 
@@ -1938,8 +1884,6 @@ Pourquoi : le contexte renvoie à **supermarché**.
 技巧 / Tips：
 换钱/汇率→**ທະນາຄານ**；堂食→**ຮ້ານອາຫານ**；促销/便宜→**ຮ້ານຄ້າຂະໜາດໃຫຍ່**。
 
-
-
 第22题
 书店 邮局 商店
 
@@ -1974,7 +1918,6 @@ Why: context points to **shop/store**.
 技巧 / Tips：
 买书→**bookstore**；寄件→**post office**；泛称商铺→**shop/store**。
 
-
 答案解析（法语）
 
 [S1] CN：我在**书店**买练习本。 FR：J’achète des cahiers d’exercices à la **librairie**.
@@ -1988,7 +1931,6 @@ Pourquoi : le contexte renvoie à **boutique/magasin**.
 
 技巧 / Tips：
 买书 → **librairie**；寄件 → **poste**；泛称商铺 → **boutique/magasin**。
-
 
 答案解析（泰语）
 
@@ -2032,8 +1974,6 @@ Pourquoi : le contexte renvoie à **boutique/magasin**.
 技巧 / Tips：
 买书→**ຮ້ານຂາຍປຶ້ມ**；寄件→**ໄປສະນີ**；泛称商铺→**ຮ້ານຄ້າ**。
 
-
-
 第23题
 宿舍 教室 图书馆
 
@@ -2068,7 +2008,6 @@ Why: context points to **dormitory**.
 技巧 / Tips：
 上课→**classroom**；借还书→**library**；住宿→**dormitory**。
 
-
 答案解析（法语）
 
 [S1] CN：我们在**教室**上课，别迟到。 FR：Nous avons cours dans la **salle de classe** ; ne soyez pas en retard.
@@ -2082,7 +2021,6 @@ Pourquoi : le contexte renvoie à **dortoir**.
 
 技巧 / Tips：
 上课 → **salle de classe**；借还书 → **bibliothèque**；住宿 → **dortoir**。
-
 
 答案解析（泰语）
 
@@ -2126,8 +2064,6 @@ Pourquoi : le contexte renvoie à **dortoir**.
 技巧 / Tips：
 上课→**ຫ້ອງຮຽນ**；借还书→**ຫ້ອງສົມຸດ**；住宿→**ຫໍພັກ**。
 
-
-
 第24题
 体育馆 运动场 饭馆
 
@@ -2162,7 +2098,6 @@ Why: context points to **restaurant**.
 技巧 / Tips：
 室内赛→**gymnasium/arena**；跑步→**sports field**；吃饭→**restaurant**。
 
-
 答案解析（法语）
 
 [S1] CN：室内篮球赛在**体育馆**，观众入场。 FR：Le match de basket en salle a lieu au **gymnase/aréna** ; les spectateurs entrent.
@@ -2176,7 +2111,6 @@ Pourquoi : le contexte renvoie à **restaurant**.
 
 技巧 / Tips：
 室内赛 → **gymnase/aréna**；跑步 → **terrain de sport**；吃饭 → **restaurant**。
-
 
 答案解析（泰语）
 
@@ -2219,8 +2153,6 @@ Pourquoi : le contexte renvoie à **restaurant**.
 
 技巧 / Tips：
 室内赛→**ຫໍກິລາ**；跑步→**ສະໜາມກິລາ**；吃饭→**ຮ້ານອາຫານ**。
-
-
 
 第25题
 教学楼 食堂 超市
@@ -2271,7 +2203,6 @@ Pourquoi : le contexte renvoie à **supermarché**.
 技巧 / Tips：
 上课地点 → **bâtiment d’enseignement**；午餐 → **cantine**；购物 → **supermarché**。
 
-
 答案解析（泰语）
 
 [1] CN：八点在**教学楼**上第一节课。 TH：แปดโมงมีคาบแรกที่**อาคารเรียน**
@@ -2314,8 +2245,6 @@ Pourquoi : le contexte renvoie à **supermarché**.
 技巧 / Tips：
 上课地点→**ອາຄານຮຽນ**；午餐→**ໂຮງອາຫານ**；购物→**ຮ້ານຄ້າຂະໜາດໃຫຍ່**。
 
-
-
 第26题
 今天 明天 昨天
 
@@ -2350,7 +2279,6 @@ Why: context points to **yesterday**.
 技巧 / Tips：
 三时点辨析：**today**/**tomorrow**/**yesterday**。
 
-
 答案解析（法语）
 
 [S1] CN：**今天**我们要考试，九点入场。 FR：**Aujourd’hui** nous avons un examen ; entrée à neuf heures.
@@ -2364,7 +2292,6 @@ Pourquoi : le contexte renvoie à **hier**.
 
 技巧 / Tips：
 三时点辨析：**aujourd’hui** / **demain** / **hier**。
-
 
 答案解析（泰语）
 
@@ -2408,8 +2335,6 @@ Pourquoi : le contexte renvoie à **hier**.
 技巧 / Tips：
 三时点辨析：**ມື້ນີ້**/**ມື້ອື່ນ**/**ມື້ວານ**。
 
-
-
 第27题
 后天 前天 现在
 
@@ -2444,7 +2369,6 @@ Why: context points to **the day after tomorrow**.
 技巧 / Tips：
 时间顺序：**now**→（过去**the day before yesterday**）/（将来**the day after tomorrow**）。
 
-
 答案解析（法语）
 
 [S1] CN：**现在**出发太匆忙，先别走。 FR：Partir **maintenant** est trop précipité ; n’y allons pas encore.
@@ -2458,7 +2382,6 @@ Pourquoi : le contexte renvoie à **après‑demain**.
 
 技巧 / Tips：
 时间顺序：**maintenant** → （过去 **avant‑hier**）/（将来 **après‑demain**）。
-
 
 答案解析（泰语）
 
@@ -2502,8 +2425,6 @@ Pourquoi : le contexte renvoie à **après‑demain**.
 技巧 / Tips：
 时间顺序：**ດຽວນີ້**→（过去**ມື້ວານຊື່ນ**）/（将来**ມື້ມື້ອື່ນ**）。
 
-
-
 第28题
 上午 下午 晚上
 
@@ -2538,7 +2459,6 @@ Why: context points to **evening**.
 技巧 / Tips：
 一天三段：**morning (a.m.)**/**afternoon**/**evening**。
 
-
 答案解析（法语）
 
 [S1] CN：**上午**开会一小时，九点开始。 FR：La réunion dure une heure **le matin**, elle commence à neuf heures.
@@ -2552,7 +2472,6 @@ Pourquoi : le contexte renvoie à **le soir**.
 
 技巧 / Tips：
 一天三段：**matin (a.m.)** / **après‑midi** / **soir**。
-
 
 答案解析（泰语）
 
@@ -2596,8 +2515,6 @@ Pourquoi : le contexte renvoie à **le soir**.
 技巧 / Tips：
 一天三段：**ຕອນເຊົ້າ**/**ຕອນບ່າຍ**/**ຕອນແລງ**。
 
-
-
 第29题
 以后 现在 明天
 
@@ -2632,7 +2549,6 @@ Why: context points to **now**.
 技巧 / Tips：
 时间指向：将来→**later/in the future**；将来具体日→**tomorrow**；此刻→**now**。
 
-
 答案解析（法语）
 
 [S1] CN：**以后**别这样做了，记住了吗？ FR：**À l’avenir / plus tard**, ne fais plus cela — d’accord ?
@@ -2646,7 +2562,6 @@ Pourquoi : le contexte renvoie à **maintenant**.
 
 技巧 / Tips：
 时间指向：将来 → **à l’avenir / plus tard**；将来具体日 → **demain**；此刻 → **maintenant**。
-
 
 答案解析（泰语）
 
@@ -2690,8 +2605,6 @@ Pourquoi : le contexte renvoie à **maintenant**.
 技巧 / Tips：
 时间指向：将来→**ພາຍຫຼັງ/ຕໍ່ໄປ**；将来具体日→**ມື້ອື່ນ**；此刻→**ດຽວນີ້**。
 
-
-
 第30题
 先 再 然后
 
@@ -2726,7 +2639,6 @@ Why: context points to **then/after that**.
 技巧 / Tips：
 流程副词：**first**→**then (next)**→**then/after that**。
 
-
 答案解析（法语）
 
 [S1] CN：出门不着急， **先**洗澡，。 FR：Ne te presse pas pour sortir ; **d’abord** prends une douche.
@@ -2740,7 +2652,6 @@ Pourquoi : le contexte renvoie à **puis / après cela**.
 
 技巧 / Tips：
 流程副词：**d’abord** → **ensuite/puis** → **puis / après cela**。
-
 
 答案解析（泰语）
 
@@ -2784,7 +2695,6 @@ Pourquoi : le contexte renvoie à **puis / après cela**.
 技巧 / Tips：
 流程副词：**ກ່ອນ**→**ແລ້ວຄ່ອຍ**→**ຈາກນັ້ນ**。
 
-
 第31题
 起床 上网 睡觉
 
@@ -2819,7 +2729,6 @@ Why: context points to **go online**
 技巧 / Tips：
 作息：**get up**→白天；22:00→**go to sleep**；周末查资料→**go online**。
 
-
 答案解析（法语）
 
 [1] CN：他每天六点**起床**，从不赖床。 FR：Il **se lève** tous les jours à six heures ; il ne fait jamais la grasse matinée.
@@ -2833,7 +2742,6 @@ Pourquoi : le contexte renvoie à **se connecter (sur Internet)**.
 
 技巧 / Tips：
 作息：**se lever**→白天；22:00→**se coucher**；周末查资料→**se connecter (sur Internet)**。
-
 
 答案解析（泰语）
 
@@ -2877,8 +2785,6 @@ Pourquoi : le contexte renvoie à **se connecter (sur Internet)**.
 技巧 / Tips：
 作息：**ຕື່ນນອນ**→白天；22:00→**ນອນ**；周末查资料→**ເຂົ້າອິນເຕີເນັດ**。
 
-
-
 第32题
 下课 上课 见面
 
@@ -2913,7 +2819,6 @@ Why: context points to **meet**
 技巧 / Tips：
 校园活动：**have class**/**class is over**；约定**meet**。
 
-
 答案解析（法语）
 
 [1] CN：我们两点**上课**，提前到。 FR：Nous **avons cours** à deux heures ; arrive un peu en avance.
@@ -2927,7 +2832,6 @@ Pourquoi : le contexte renvoie à **se retrouver / rendez‑vous**.
 
 技巧 / Tips：
 时间节点：开始上课→**avoir cours**；结束→**(le cours) se termine**；会合→**rendez‑vous**。
-
 
 答案解析（泰语）
 
@@ -2971,8 +2875,6 @@ Pourquoi : le contexte renvoie à **se retrouver / rendez‑vous**.
 技巧 / Tips：
 校园活动：**ເຂົ້າຮຽນ**/**ເລີກຮຽນ**；约定**ເຈີກັນ**。
 
-
-
 第33题
 开始 准备 结束
 
@@ -3007,7 +2909,6 @@ Why: context points to **finish/end**
 技巧 / Tips：
 流程：**start**→**prepare**→**finish/end**。
 
-
 答案解析（法语）
 
 [1] CN：比赛八点**开始**，请就座。 FR：La compétition **commence** à huit heures ; veuillez vous asseoir.
@@ -3021,7 +2922,6 @@ Pourquoi : le contexte renvoie à **se terminer / finir**.
 
 技巧 / Tips：
 流程：**commencer** → **préparer** → **se terminer/finir**。
-
 
 答案解析（泰语）
 
@@ -3065,8 +2965,6 @@ Pourquoi : le contexte renvoie à **se terminer / finir**.
 技巧 / Tips：
 流程：**ເລີ່ມ**→**ກຽມພ້ອມ**→**ສິ້ນສຸດ**。
 
-
-
 第34题
 开门 关门 上班
 
@@ -3101,7 +2999,6 @@ Why: context points to **go to work**
 技巧 / Tips：
 营业状态：**open (the door)**/**close (the door)**；工作状态：**go to work**。
 
-
 答案解析（法语）
 
 [1] CN：商店九点**开门**，很多人在门口排队。 FR：Le magasin **ouvre** à neuf heures ; beaucoup de gens font la queue.
@@ -3115,7 +3012,6 @@ Pourquoi : le contexte renvoie à **aller au travail**.
 
 技巧 / Tips：
 营业状态：**ouvrir**/**fermer**；工作状态：**aller au travail**。
-
 
 答案解析（泰语）
 
@@ -3159,8 +3055,6 @@ Pourquoi : le contexte renvoie à **aller au travail**.
 技巧 / Tips：
 营业状态：**ເປີດປະຕູ**/**ປິດປະຕູ**；工作状态：**ໄປເຮັດວຽກ**。
 
-
-
 第35题
 休息 准备 知道
 
@@ -3195,7 +3089,6 @@ Why: context points to **know**
 技巧 / Tips：
 学习节奏：先**rest**/**prepare**；信息掌握→**know**。
 
-
 答案解析（法语）
 
 [1] CN：你累了就**休息**吧，喝点水。 FR：Si tu es fatigué(e), **repose‑toi** et bois un peu d’eau.
@@ -3209,7 +3102,6 @@ Pourquoi : le contexte renvoie à **savoir**.
 
 技巧 / Tips：
 状态与能力：恢复→**se reposer**；应考→**se préparer**；知识→**savoir**。
-
 
 答案解析（泰语）
 
@@ -3253,8 +3145,6 @@ Pourquoi : le contexte renvoie à **savoir**.
 技巧 / Tips：
 学习节奏：先**ພັກຜ່ອນ**/**ກຽມພ້ອມ**；信息掌握→**ຮູ້**。
 
-
-
 第36题
 火车 公共汽车 车票
 
@@ -3289,7 +3179,6 @@ Why: context points to **ticket**
 技巧 / Tips：
 出行：**train**/**bus**；凭证→**ticket**。
 
-
 答案解析（法语）
 
 [1] CN：去外地坐**火车**更快，直达市中心。 FR：Prendre le **train** est plus rapide ; il va directement au centre‑ville.
@@ -3303,7 +3192,6 @@ Pourquoi : le contexte renvoie à **billet**.
 
 技巧 / Tips：
 交通工具：**train** / **bus**；凭证：**billet**。
-
 
 答案解析（泰语）
 
@@ -3347,8 +3235,6 @@ Pourquoi : le contexte renvoie à **billet**.
 技巧 / Tips：
 出行：**ລົດໄຟ**/**ລົດເມ**；凭证→**ປີ້**。
 
-
-
 第37题
 出租车 司机 车票
 
@@ -3383,7 +3269,6 @@ Why: context points to **ticket**
 技巧 / Tips：
 出行：**taxi**；岗位：**driver**；凭证：**ticket**。
 
-
 答案解析（法语）
 
 [1] CN：我打**出租车**来医院，马上就到。 FR：Je viens à l’hôpital en **taxi** ; j’arrive tout de suite.
@@ -3397,7 +3282,6 @@ Pourquoi : le contexte renvoie à **billet**.
 
 技巧 / Tips：
 乘坐与人员：**taxi** / **chauffeur**；进站凭证：**billet**。
-
 
 答案解析（泰语）
 
@@ -3441,8 +3325,6 @@ Pourquoi : le contexte renvoie à **billet**.
 技巧 / Tips：
 出行：**ແທັກຊີ**；岗位：**ຄົນຂັບ**；凭证：**ປີ້**。
 
-
-
 第38题
 到达 路上 市区
 
@@ -3477,7 +3359,6 @@ Why: context points to **urban area/downtown**
 技巧 / Tips：
 过程：在**on the way**；节点：**arrive**；范围：**urban area/downtown**。
 
-
 答案解析（法语）
 
 [1] CN：我们九点**到达**北京，别晚点。 FR：Nous **arrivons** à Pékin à neuf heures ; ne soyez pas en retard.
@@ -3491,7 +3372,6 @@ Pourquoi : le contexte renvoie à **centre‑ville**.
 
 技巧 / Tips：
 过程/状态：**en route**；到达节点：**arriver**；范围/区域：**centre‑ville**。
-
 
 答案解析（泰语）
 
@@ -3535,8 +3415,6 @@ Pourquoi : le contexte renvoie à **centre‑ville**.
 技巧 / Tips：
 过程：在**ລະຫວ່າງທາງ**；节点：**ເຖິງ**；范围：**ເຂດເມືອງ**。
 
-
-
 第39题
 公里 多远 大概
 
@@ -3571,7 +3449,6 @@ Why: context points to **approximately**
 技巧 / Tips：
 距离表达：单位**kilometer**；提问**how far**；估算**approximately**。
 
-
 答案解析（法语）
 
 [1] CN：学校离市区十**公里**，不算远。 FR：L’école est à dix **kilomètres** du centre‑ville — ce n’est pas loin.
@@ -3585,7 +3462,6 @@ Pourquoi : le contexte renvoie à **environ / approximativement**.
 
 技巧 / Tips：
 距离表达：单位→**kilomètre**；提问→**à quelle distance**；估算→**environ/approximativement**。
-
 
 答案解析（泰语）
 
@@ -3629,8 +3505,6 @@ Pourquoi : le contexte renvoie à **environ / approximativement**.
 技巧 / Tips：
 距离表达：单位**ກິໂລແມັດ**；提问**ໄກປານໃດ**；估算**ປະມານ**。
 
-
-
 第40题
 多云 晴 阴
 
@@ -3665,7 +3539,6 @@ Why: context points to **cloudy**
 技巧 / Tips：
 天气三态：**overcast**/**sunny**/**cloudy**。
 
-
 答案解析（法语）
 
 [1] CN：今天是**阴**天，有点冷，多穿点。 FR：Aujourd’hui il fait **couvert** ; il fait un peu froid — couvre‑toi bien.
@@ -3679,7 +3552,6 @@ Pourquoi : le contexte renvoie à **nuageux**.
 
 技巧 / Tips：
 天气三态：**couvert** / **ensoleillé** / **nuageux**。
-
 
 答案解析（泰语）
 
@@ -3723,7 +3595,6 @@ Pourquoi : le contexte renvoie à **nuageux**.
 技巧 / Tips：
 天气三态：**ມີເມກ**/**ແດດອອກ**/**ເມກຫຼາຍ**。
 
-
 第41题
 气温 零下 风力
 
@@ -3758,7 +3629,6 @@ Why: context points to **below zero**
 技巧 / Tips：
 气象要素：**air temperature**/**wind force**；温标：**below zero**。
 
-
 答案解析（法语）
 
 [1] CN：今天**气温**很低，出门加衣。 FR：Le contexte concerne **température de l’air**.
@@ -3772,7 +3642,6 @@ Pourquoi : le contexte renvoie à **en dessous de zéro**.
 
 技巧 / Tips：
 Mots-clés：**température de l’air**/**force du vent**/**en dessous de zéro**。
-
 
 答案解析（泰语）
 
@@ -3816,8 +3685,6 @@ Mots-clés：**température de l’air**/**force du vent**/**en dessous de zéro
 技巧 / Tips：
 气象要素：**ອຸນຫະພູມອາກາດ**/**ແຮງລົມ**；温标：**ຕໍ່ໍາກວ່າສູນ**。
 
-
-
 第42题
 北方 南方 下雪
 
@@ -3852,7 +3719,6 @@ Why: context points to **the south**
 技巧 / Tips：
 地理+天气：**the north**/**the south**；现象：**to snow**。
 
-
 答案解析（法语）
 
 [1] CN：冬天**北方**更冷，穿厚点。 FR：Le contexte concerne **le nord**.
@@ -3866,7 +3732,6 @@ Pourquoi : le contexte renvoie à **le sud**.
 
 技巧 / Tips：
 Mots-clés：**le nord**/**neiger**/**le sud**。
-
 
 答案解析（泰语）
 
@@ -3910,8 +3775,6 @@ Mots-clés：**le nord**/**neiger**/**le sud**。
 技巧 / Tips：
 地理+天气：**ພາກເໜືອ**/**ພາກໃຕ້**；现象：**ຫິມະຕົກ**。
 
-
-
 第43题
 天气预报 刮风 阴
 
@@ -3946,7 +3809,6 @@ Why: context points to **overcast**
 技巧 / Tips：
 信息来源：**weather forecast**；现象：**be windy**/**overcast**。
 
-
 答案解析（法语）
 
 [1] CN：**天气预报**说明天多云，带把伞。 FR：Le contexte concerne **weather forecast**.
@@ -3960,7 +3822,6 @@ Pourquoi : le contexte renvoie à **overcast**.
 
 技巧 / Tips：
 Mots-clés：**weather forecast**/**be windy**/**overcast**。
-
 
 答案解析（泰语）
 
@@ -4004,8 +3865,6 @@ Mots-clés：**weather forecast**/**be windy**/**overcast**。
 技巧 / Tips：
 信息来源：**ພະຍາກອນອາກາດ**；现象：**ລົມພັດ**/**ມີເມກ**。
 
-
-
 第44题
 上衣 裤子 裙子
 
@@ -4040,7 +3899,6 @@ Why: context points to **trousers**
 技巧 / Tips：
 服饰：**top/coat**/**skirt**/**trousers** 搭配。
 
-
 答案解析（法语）
 
 [1] CN：这条**裙子**有点短，换一条。 FR：Le contexte concerne **jupe**.
@@ -4054,7 +3912,6 @@ Pourquoi : le contexte renvoie à **pantalon**.
 
 技巧 / Tips：
 Mots-clés：**jupe**/**haut/manteau**/**pantalon**。
-
 
 答案解析（泰语）
 
@@ -4098,8 +3955,6 @@ Mots-clés：**jupe**/**haut/manteau**/**pantalon**。
 技巧 / Tips：
 服饰：**ເສື້ອກັນໜາວ/ເສື້ອຂ້າງນອກ**/**ກະໂປງ**/**ກາງເກງ** 搭配。
 
-
-
 第45题
 衬衫 T恤 上衣
 
@@ -4134,7 +3989,6 @@ Why: context points to **top/coat**
 技巧 / Tips：
 上装细分：**shirt**/**T‑shirt**；统称→**top/coat**。
 
-
 答案解析（法语）
 
 [1] CN：面试穿**衬衫**更正式一些。 FR：Le contexte concerne **shirt**.
@@ -4148,7 +4002,6 @@ Pourquoi : le contexte renvoie à **haut/manteau**.
 
 技巧 / Tips：
 Mots-clés：**shirt**/**T‑shirt**/**haut/manteau**。
-
 
 答案解析（泰语）
 
@@ -4192,8 +4045,6 @@ Mots-clés：**shirt**/**T‑shirt**/**haut/manteau**。
 技巧 / Tips：
 上装细分：**ເສື້ອເຊີດ**/**ເສື້ອຢືດ**；统称→**ເສື້ອກັນໜາວ/ເສື້ອຂ້າງນອກ**。
 
-
-
 第46题
 毛衣 羽绒服 暖和
 
@@ -4228,7 +4079,6 @@ Why: context points to **warm**
 技巧 / Tips：
 保暖：**down jacket**/**sweater**；体感→**warm**。
 
-
 答案解析（法语）
 
 [1] CN：冬天穿**羽绒服**不怕冷，防风效果也好。 FR：Le contexte concerne **down jacket**.
@@ -4242,7 +4092,6 @@ Pourquoi : le contexte renvoie à **warm**.
 
 技巧 / Tips：
 Mots-clés：**down jacket**/**sweater**/**warm**。
-
 
 答案解析（泰语）
 
@@ -4286,8 +4135,6 @@ Mots-clés：**down jacket**/**sweater**/**warm**。
 技巧 / Tips：
 保暖：**ເສື້ອກັນໜາວຂົນນົກ**/**ເສື້ອກັນໜາວຖັກ**；体感→**ອົບອຸ່ນ**。
 
-
-
 第47题
 拿来 拿去 买来
 
@@ -4322,7 +4169,6 @@ Why: context points to **buy and bring**
 技巧 / Tips：
 趋向补语：向此→**拿来/买来**；向彼→**take (there)**。
 
-
 答案解析（法语）
 
 [1] CN：请帮把那本书**拿来**一下，我要用。 FR：Le contexte concerne **bring (here)**.
@@ -4336,7 +4182,6 @@ Pourquoi : le contexte renvoie à **buy and bring**.
 
 技巧 / Tips：
 Mots-clés：**bring (here)**/**take (there)**/**buy and bring**。
-
 
 答案解析（泰语）
 
@@ -4380,8 +4225,6 @@ Mots-clés：**bring (here)**/**take (there)**/**buy and bring**。
 技巧 / Tips：
 趋向补语：向此→**拿来/买来**；向彼→**ນໍາໄປ**。
 
-
-
 第48题
 走来 走去 跑来
 
@@ -4416,7 +4259,6 @@ Why: context points to **run over (here)**
 技巧 / Tips：
 位移方式：**走来/走去/跑来**。
 
-
 答案解析（法语）
 
 [1] CN：小张从大门口朝我**走来**。 FR：Le contexte concerne **walk here**.
@@ -4430,7 +4272,6 @@ Pourquoi : le contexte renvoie à **run over (here)**.
 
 技巧 / Tips：
 Mots-clés：**walk here**/**walk there**/**run over (here)**。
-
 
 答案解析（泰语）
 
@@ -4474,8 +4315,6 @@ Mots-clés：**walk here**/**walk there**/**run over (here)**。
 技巧 / Tips：
 位移方式：**走来/走去/跑来**。
 
-
-
 第49题
 找来 拿去 拿来
 
@@ -4510,7 +4349,6 @@ Why: context points to **find and bring**
 技巧 / Tips：
 带去→**take (there)**；带来→**拿来/找来**。
 
-
 答案解析（法语）
 
 [1] CN：这本书很有趣，你（  ）读吧。 FR：Le contexte concerne **take (there)**.
@@ -4524,7 +4362,6 @@ Pourquoi : le contexte renvoie à **find and bring**.
 
 技巧 / Tips：
 Mots-clés：**take (there)**/**bring (here)**/**find and bring**。
-
 
 答案解析（泰语）
 
@@ -4568,8 +4405,6 @@ Mots-clés：**take (there)**/**bring (here)**/**find and bring**。
 技巧 / Tips：
 带去→**ນໍາໄປ**；带来→**拿来/找来**。
 
-
-
 第50题
 兴趣 爱好 感兴趣
 
@@ -4603,7 +4438,6 @@ Why: context points to **interest**
 
 技巧 / Tips：
 兴趣三件套：**be interested in**/**hobby**/**interest**。
-
 
 答案解析（法语）
 
@@ -4662,7 +4496,6 @@ Mots-clés：**être intéressé par**/**passe-temps**/**intérêt**。
 技巧 / Tips：
 兴趣三件套：**ສົນໃຈ**/**ງານອະດິເລກ**/**ຄວາມສົນໃຈ**。
 
-
 第51题
 书法 太极拳 篮球
 
@@ -4697,7 +4530,6 @@ Why: context points to **basketball**
 技巧 / Tips：
 传统与运动：**calligraphy**/**tai chi**/**basketball**。
 
-
 答案解析（法语）
 
 [1] CN：她每天练**书法**，汉字写得很好。 FR：Le contexte concerne **calligraphy**.
@@ -4711,7 +4543,6 @@ Pourquoi : le contexte renvoie à **basketball**.
 
 技巧 / Tips：
 Mots-clés：**calligraphy**/**tai chi**/**basketball**。
-
 
 答案解析（泰语）
 
@@ -4755,8 +4586,6 @@ Mots-clés：**calligraphy**/**tai chi**/**basketball**。
 技巧 / Tips：
 传统与运动：**ອັກສອນສະໄຕ/ຂຽນອັກສອນງາມ**/**ໄທຈີ້**/**ບາດເກັດບອນ**。
 
-
-
 第52题
 选 还是 报名
 
@@ -4791,7 +4620,6 @@ Why: context points to **sign up**
 技巧 / Tips：
 决策流程：**choose** 或 **or (A or B?)**；行动→**sign up**。
 
-
 答案解析（法语）
 
 [1] CN：你**选**哪门课？快决定。 FR：Le contexte concerne **choose**.
@@ -4805,7 +4633,6 @@ Pourquoi : le contexte renvoie à **sign up**.
 
 技巧 / Tips：
 Mots-clés：**choose**/**or (A or B?)**/**sign up**。
-
 
 答案解析（泰语）
 
@@ -4849,8 +4676,6 @@ Mots-clés：**choose**/**or (A or B?)**/**sign up**。
 技巧 / Tips：
 决策流程：**ເລືອກ** 或 **ຫຼື (A ຫຼື B?)**；行动→**ລົງທະບຽນ**。
 
-
-
 第53题
 音乐 电影 课文
 
@@ -4885,7 +4710,6 @@ Why: context points to **text (lesson)**
 技巧 / Tips：
 文艺三科：**music**/**movie**/**text (lesson)**。
 
-
 答案解析（法语）
 
 [1] CN：我喜欢古典**音乐**，也很喜欢摇滚。 FR：Le contexte concerne **music**.
@@ -4899,7 +4723,6 @@ Pourquoi : le contexte renvoie à **text (lesson)**.
 
 技巧 / Tips：
 Mots-clés：**music**/**movie**/**text (lesson)**。
-
 
 答案解析（泰语）
 
@@ -4943,8 +4766,6 @@ Mots-clés：**music**/**movie**/**text (lesson)**。
 技巧 / Tips：
 文艺三科：**ດົນຕີ**/**ຮູບເງົາ**/**ບົດຮຽນ/ບົດອ່ານ**。
 
-
-
 第54题
 汉字 兴趣 中国画
 
@@ -4979,7 +4800,6 @@ Why: context points to **Chinese painting**
 技巧 / Tips：
 文化学习：**Chinese character**/**Chinese painting**；抽象→**interest**。
 
-
 答案解析（法语）
 
 [1] CN：他的**汉字**写很漂亮，是他多年坚持练习的结果。 FR：Le contexte concerne **Chinese character**.
@@ -4993,7 +4813,6 @@ Pourquoi : le contexte renvoie à **Chinese painting**.
 
 技巧 / Tips：
 Mots-clés：**Chinese character**/**interest**/**Chinese painting**。
-
 
 答案解析（泰语）
 
@@ -5037,8 +4856,6 @@ Mots-clés：**Chinese character**/**interest**/**Chinese painting**。
 技巧 / Tips：
 文化学习：**ຕົວອັກສອນຈີນ**/**ຮູບແຕ້ມຈີນ**；抽象→**ຄວາມສົນໃຈ**。
 
-
-
 第55题
 表演 成功 精彩
 
@@ -5073,7 +4890,6 @@ Why: context points to **successful/success**
 技巧 / Tips：
 舞台：**performance/perform**；效果：**splendid**；结果：**successful/success**。
 
-
 答案解析（法语）
 
 [1] CN：同学们的**表演**很生动，获得很多掌声。 FR：Le contexte concerne **performance/perform**.
@@ -5087,7 +4903,6 @@ Pourquoi : le contexte renvoie à **successful/success**.
 
 技巧 / Tips：
 Mots-clés：**performance/perform**/**splendid**/**successful/success**。
-
 
 答案解析（泰语）
 
@@ -5131,8 +4946,6 @@ Mots-clés：**performance/perform**/**splendid**/**successful/success**。
 技巧 / Tips：
 舞台：**ການແສດງ**；效果：**ສຸດຍອດ/ນ່າຕື່ນຕາ**；结果：**ປະສົບຜົນສໍາເລັດ**。
 
-
-
 第56题
 干净 流利 生动
 
@@ -5167,7 +4980,6 @@ Why: context points to **vivid**
 技巧 / Tips：
 表达：**fluent**；环境：**clean**；叙述：**vivid**。
 
-
 答案解析（法语）
 
 [1] CN：他的普通话说得很**流利**。 FR：Le contexte concerne **fluent**.
@@ -5181,7 +4993,6 @@ Pourquoi : le contexte renvoie à **vivid**.
 
 技巧 / Tips：
 Mots-clés：**fluent**/**clean**/**vivid**。
-
 
 答案解析（泰语）
 
@@ -5225,8 +5036,6 @@ Mots-clés：**fluent**/**clean**/**vivid**。
 技巧 / Tips：
 表达：**ຄ່ອງແຄ່ວ**；环境：**ສະອາດ**；叙述：**ມີຊີວິດຊີວາ**。
 
-
-
 第57题
 选择 其他 熟悉
 
@@ -5261,7 +5070,6 @@ Why: context points to **other**
 技巧 / Tips：
 判断：**choice/choose**；经验：**familiar**；补充：**other**。
 
-
 答案解析（法语）
 
 [1] CN：你可以**选择**这门课，很有意思。 FR：Le contexte concerne **choice/choose**.
@@ -5275,7 +5083,6 @@ Pourquoi : le contexte renvoie à **other**.
 
 技巧 / Tips：
 Mots-clés：**choice/choose**/**familiar**/**other**。
-
 
 答案解析（泰语）
 
@@ -5319,8 +5126,6 @@ Mots-clés：**choice/choose**/**familiar**/**other**。
 技巧 / Tips：
 判断：**ການເລືອກ**；经验：**ຄຸ້ນເຄີຍ**；补充：**ອື່ນໆ**。
 
-
-
 第58题
 交流 到来 离开
 
@@ -5355,7 +5160,6 @@ Why: context points to **arrival**
 技巧 / Tips：
 行动：**leave**；互动：**communicate**；节点：**arrival**。
 
-
 答案解析（法语）
 
 [1] CN：他要**离开**北京了，明早上车。 FR：Le contexte concerne **leave**.
@@ -5369,7 +5173,6 @@ Pourquoi : le contexte renvoie à **arrival**.
 
 技巧 / Tips：
 Mots-clés：**leave**/**communicate**/**arrival**。
-
 
 答案解析（泰语）
 
